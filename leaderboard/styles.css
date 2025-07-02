@@ -397,7 +397,7 @@ h2 {
 }
 
 .about-content strong {
-    color: #333;
+    color: var(--text-color);
 }
 
 @media (max-width: 768px) {
