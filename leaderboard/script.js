@@ -1,6 +1,6 @@
 // Leaderboard data
 const leaderboardData = {
-  "generated_at": "2025-07-02T11:06:00.994840",
+  "generated_at": "2025-07-02T11:33:27.438891",
   "guild_enabled": true,
   "guild_name": "Pyromancers",
   "guild_tag": "PYRO",
@@ -384,6 +384,17 @@ const leaderboardData = {
           },
           {
             "rank": 35,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1855.8957318226278,
+            "glicko_rating": 1718.9748043327736,
+            "games_played": 6,
+            "average_rank_percent": 21.811115809616556,
+            "average_stat_value": 1963.5,
+            "is_guild_member": true
+          },
+          {
+            "rank": 36,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1853.0777250228418,
@@ -394,7 +405,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1851.4349885024208,
@@ -405,7 +416,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "Havocus.3682",
             "profession": "Reaper",
             "composite_score": 1847.1214986226812,
@@ -416,7 +427,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Bother.9415",
             "profession": "Untamed",
             "composite_score": 1845.3333010827102,
@@ -427,7 +438,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1844.474377188091,
@@ -438,7 +449,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "CrimeLordXx.3920",
             "profession": "Reaper",
             "composite_score": 1842.900860839848,
@@ -449,7 +460,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1842.4694833528868,
@@ -460,7 +471,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Jeff.7219",
             "profession": "Berserker",
             "composite_score": 1838.0779483632614,
@@ -469,17 +480,6 @@ const leaderboardData = {
             "average_rank_percent": 1.5625,
             "average_stat_value": 4027.0,
             "is_guild_member": false
-          },
-          {
-            "rank": 43,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1835.8962161808665,
-            "glicko_rating": 1679.5335082205881,
-            "games_played": 21,
-            "average_rank_percent": 25.374956524027734,
-            "average_stat_value": 1399.047619047619,
-            "is_guild_member": true
           },
           {
             "rank": 44,
@@ -626,6 +626,17 @@ const leaderboardData = {
           },
           {
             "rank": 57,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1821.3428827130683,
+            "glicko_rating": 1668.0360693760524,
+            "games_played": 20,
+            "average_rank_percent": 26.25908896561374,
+            "average_stat_value": 1384.4,
+            "is_guild_member": true
+          },
+          {
+            "rank": 58,
             "account_name": "Bricktus.1682",
             "profession": "Holosmith",
             "composite_score": 1820.4434741868213,
@@ -636,7 +647,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Niopek.5123",
             "profession": "Warrior",
             "composite_score": 1814.0309381226614,
@@ -647,7 +658,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "Mellis.8451",
             "profession": "Dragonhunter",
             "composite_score": 1813.6673036562029,
@@ -658,7 +669,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1812.996658112313,
@@ -669,7 +680,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "slfhie.1764",
             "profession": "Vindicator",
             "composite_score": 1811.1161490025888,
@@ -680,7 +691,18 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 62,
+            "rank": 63,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1806.6318580486304,
+            "glicko_rating": 1674.3013996067234,
+            "games_played": 1,
+            "average_rank_percent": 7.6923076923076925,
+            "average_stat_value": 1692.0,
+            "is_guild_member": true
+          },
+          {
+            "rank": 64,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1806.0152680424615,
@@ -691,7 +713,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 65,
             "account_name": "Montana.8032",
             "profession": "Catalyst",
             "composite_score": 1805.379103750382,
@@ -702,7 +724,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 66,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1802.4337984321592,
@@ -713,7 +735,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 65,
+            "rank": 67,
             "account_name": "Mes.1906",
             "profession": "Warrior",
             "composite_score": 1801.2058659943414,
@@ -724,7 +746,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 66,
+            "rank": 68,
             "account_name": "Maul.1360",
             "profession": "Berserker",
             "composite_score": 1799.5659610003077,
@@ -735,7 +757,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 69,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1798.5933513015354,
@@ -746,7 +768,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 68,
+            "rank": 70,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1798.3733895595974,
@@ -757,7 +779,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 71,
             "account_name": "Daasen.3719",
             "profession": "Reaper",
             "composite_score": 1797.9995979622615,
@@ -768,7 +790,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 72,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1792.6558179087947,
@@ -779,7 +801,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 73,
             "account_name": "filipe.2809",
             "profession": "Dragonhunter",
             "composite_score": 1791.1290236078044,
@@ -790,7 +812,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
+            "rank": 74,
             "account_name": "Feed.5309",
             "profession": "Berserker",
             "composite_score": 1789.9839278820614,
@@ -801,7 +823,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 73,
+            "rank": 75,
             "account_name": "AzureInvidiaOnline.6789",
             "profession": "Soulbeast",
             "composite_score": 1789.9839278820614,
@@ -812,7 +834,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 76,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1789.9839278820614,
@@ -823,7 +845,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 77,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1789.0932978731503,
@@ -834,7 +856,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 78,
             "account_name": "Luke.9108",
             "profession": "Reaper",
             "composite_score": 1788.506490314605,
@@ -845,7 +867,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 79,
             "account_name": "SteelSpirit.1695",
             "profession": "Berserker",
             "composite_score": 1787.797836042007,
@@ -856,7 +878,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 78,
+            "rank": 80,
             "account_name": "Eschkevna.6301",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -867,7 +889,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 81,
             "account_name": "nateboyd.5682",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -878,7 +900,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 80,
+            "rank": 82,
             "account_name": "Raykiu.7841",
             "profession": "Willbender",
             "composite_score": 1781.9682578018615,
@@ -889,7 +911,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 83,
             "account_name": "Nictheman.9754",
             "profession": "Condi Firebrand",
             "composite_score": 1780.3240177854104,
@@ -900,7 +922,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 84,
             "account_name": "Bricktus.1682",
             "profession": "Untamed",
             "composite_score": 1773.9525877216615,
@@ -911,7 +933,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 85,
             "account_name": "Chief.7143",
             "profession": "Reaper",
             "composite_score": 1771.6170356712762,
@@ -922,7 +944,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 86,
             "account_name": "Johnny.5478",
             "profession": "Dragonhunter",
             "composite_score": 1768.0744296628484,
@@ -933,7 +955,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 87,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1765.9369176414616,
@@ -944,7 +966,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 88,
             "account_name": "DraGonfly.9317",
             "profession": "Catalyst",
             "composite_score": 1765.3319614089937,
@@ -955,7 +977,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 89,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Spellbreaker",
             "composite_score": 1764.050877622591,
@@ -966,7 +988,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 88,
+            "rank": 90,
             "account_name": "acumen.1980",
             "profession": "Spellbreaker",
             "composite_score": 1763.7994056200748,
@@ -977,7 +999,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 89,
+            "rank": 91,
             "account_name": "Chakkkka.2504",
             "profession": "Tempest",
             "composite_score": 1763.0400645256655,
@@ -988,7 +1010,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 90,
+            "rank": 92,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1762.9827992837374,
@@ -999,7 +1021,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 91,
+            "rank": 93,
             "account_name": "Shaaaads.1856",
             "profession": "Catalyst",
             "composite_score": 1762.3958645911407,
@@ -1010,7 +1032,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 92,
+            "rank": 94,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1761.9430660355897,
@@ -1021,7 +1043,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 95,
             "account_name": "Bertozaur.4578",
             "profession": "Weaver",
             "composite_score": 1761.9290826013616,
@@ -1032,7 +1054,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 96,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1761.9290826013616,
@@ -1043,7 +1065,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 97,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1760.5931375879948,
@@ -1054,7 +1076,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 98,
             "account_name": "CrimeLordXx.3920",
             "profession": "Scourge",
             "composite_score": 1757.127025402538,
@@ -1065,7 +1087,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 99,
             "account_name": "Johnny.5478",
             "profession": "Reaper",
             "composite_score": 1753.5863674500313,
@@ -1076,7 +1098,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 100,
             "account_name": "Lasthope.7943",
             "profession": "Willbender",
             "composite_score": 1752.5324318301466,
@@ -1085,28 +1107,6 @@ const leaderboardData = {
             "average_rank_percent": 26.121794871794872,
             "average_stat_value": 1507.5,
             "is_guild_member": true
-          },
-          {
-            "rank": 99,
-            "account_name": "Dextra.8162",
-            "profession": "Catalyst",
-            "composite_score": 1749.8927027518455,
-            "glicko_rating": 1628.895047973667,
-            "games_played": 9,
-            "average_rank_percent": 32.09941785671514,
-            "average_stat_value": 1294.2222222222222,
-            "is_guild_member": true
-          },
-          {
-            "rank": 100,
-            "account_name": "Travychu.5432",
-            "profession": "Dragonhunter",
-            "composite_score": 1749.2589258751864,
-            "glicko_rating": 1659.123724635159,
-            "games_played": 1,
-            "average_rank_percent": 17.24137931034483,
-            "average_stat_value": 1903.0,
-            "is_guild_member": false
           }
         ],
         "Healing": [
@@ -5564,6 +5564,17 @@ const leaderboardData = {
           },
           {
             "rank": 5,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1979.9465060567975,
+            "glicko_rating": 1823.2751987635454,
+            "games_played": 20,
+            "average_rank_percent": 27.241747440181587,
+            "average_stat_value": 6.305000000000001,
+            "is_guild_member": true
+          },
+          {
+            "rank": 6,
             "account_name": "waschy.6093",
             "profession": "Firebrand",
             "composite_score": 1974.9660597525658,
@@ -5574,7 +5585,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 6,
+            "rank": 7,
             "account_name": "mikefmc.5961",
             "profession": "Firebrand",
             "composite_score": 1957.3748802949133,
@@ -5585,7 +5596,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "modus.7921",
             "profession": "Firebrand",
             "composite_score": 1944.5792106176477,
@@ -5596,7 +5607,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1943.083738153192,
@@ -5607,7 +5618,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "adrielle.2109",
             "profession": "Firebrand",
             "composite_score": 1939.036867044145,
@@ -5618,7 +5629,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "DareDevils.6039",
             "profession": "Firebrand",
             "composite_score": 1932.1246879779083,
@@ -5629,7 +5640,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Muted.8591",
             "profession": "Chronomancer",
             "composite_score": 1927.5754214996523,
@@ -5640,7 +5651,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 13,
             "account_name": "nateboyd.5682",
             "profession": "Firebrand",
             "composite_score": 1922.9412250830537,
@@ -5651,7 +5662,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "Mellis.8451",
             "profession": "Firebrand",
             "composite_score": 1919.8015935357323,
@@ -5662,7 +5673,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "Malek.9417",
             "profession": "Condi Firebrand",
             "composite_score": 1917.4527477263423,
@@ -5673,7 +5684,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Uriah.7082",
             "profession": "Chronomancer",
             "composite_score": 1913.0388319031604,
@@ -5684,7 +5695,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "Mortealug.6043",
             "profession": "Firebrand",
             "composite_score": 1909.741286274572,
@@ -5695,7 +5706,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "King Sylvari.2567",
             "profession": "Firebrand",
             "composite_score": 1907.8738807427858,
@@ -5706,7 +5717,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "Crator of Fire.1796",
             "profession": "Vindicator",
             "composite_score": 1902.00169927878,
@@ -5717,7 +5728,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "composite_score": 1899.7065530025757,
@@ -5728,7 +5739,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "profession": "Chronomancer",
             "composite_score": 1898.1617573490555,
@@ -5739,7 +5750,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1897.5890015595655,
@@ -5750,7 +5761,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Clarrovi.9085",
             "profession": "Firebrand",
             "composite_score": 1889.7629761610617,
@@ -5761,7 +5772,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Mellis.8451",
             "profession": "Chronomancer",
             "composite_score": 1876.9362327249423,
@@ -5769,17 +5780,6 @@ const leaderboardData = {
             "games_played": 3,
             "average_rank_percent": 20.808080808080806,
             "average_stat_value": 6.033333333333334,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1876.5124610564037,
-            "glicko_rating": 1727.5246068526085,
-            "games_played": 26,
-            "average_rank_percent": 31.892611394556756,
-            "average_stat_value": 5.573076923076925,
             "is_guild_member": true
           },
           {
@@ -6743,6 +6743,17 @@ const leaderboardData = {
           },
           {
             "rank": 12,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1903.3716814937632,
+            "glicko_rating": 1754.5157825209865,
+            "games_played": 20,
+            "average_rank_percent": 30.34503240279352,
+            "average_stat_value": 0.6599999999999999,
+            "is_guild_member": true
+          },
+          {
+            "rank": 13,
             "account_name": "mikefmc.5961",
             "profession": "Support Spb",
             "composite_score": 1902.0575033837258,
@@ -6753,7 +6764,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "Uriah.7082",
             "profession": "Chronomancer",
             "composite_score": 1900.476569749823,
@@ -6764,7 +6775,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "synco.8132",
             "profession": "Support Spb",
             "composite_score": 1892.7199260384227,
@@ -6775,7 +6786,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Steampunkengineer.7146",
             "profession": "Chronomancer",
             "composite_score": 1892.1839881224853,
@@ -6786,7 +6797,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "mikefmc.5961",
             "profession": "Firebrand",
             "composite_score": 1888.862539699795,
@@ -6797,7 +6808,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "Clarrovi.9085",
             "profession": "Firebrand",
             "composite_score": 1880.8297024135893,
@@ -6808,7 +6819,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "Hydrason.4612",
             "profession": "Firebrand",
             "composite_score": 1874.929871629455,
@@ -6819,7 +6830,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "composite_score": 1869.5883403370008,
@@ -6830,7 +6841,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Nictheman.9754",
             "profession": "Chronomancer",
             "composite_score": 1867.31790686731,
@@ -6841,7 +6852,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1861.2510222935598,
@@ -6852,7 +6863,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1848.2242721068083,
@@ -6863,7 +6874,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Nictheman.9754",
             "profession": "Firebrand",
             "composite_score": 1833.8792640355375,
@@ -6871,17 +6882,6 @@ const leaderboardData = {
             "games_played": 1,
             "average_rank_percent": 2.380952380952381,
             "average_stat_value": 1.4,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1833.0666402813404,
-            "glicko_rating": 1686.6592617150748,
-            "games_played": 26,
-            "average_rank_percent": 32.53275793295879,
-            "average_stat_value": 0.596153846153846,
             "is_guild_member": true
           },
           {
@@ -9035,6 +9035,17 @@ const leaderboardData = {
           },
           {
             "rank": 20,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1894.4019539797794,
+            "glicko_rating": 1748.9511100046989,
+            "games_played": 6,
+            "average_rank_percent": 18.087786994611566,
+            "average_stat_value": 265.149377201053,
+            "is_guild_member": true
+          },
+          {
+            "rank": 21,
             "account_name": "Soothsayer.9206",
             "profession": "Catalyst",
             "composite_score": 1893.442063554563,
@@ -9045,7 +9056,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "composite_score": 1891.6833091347064,
@@ -9056,7 +9067,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1889.3370845953698,
@@ -9067,7 +9078,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Bother.9415",
             "profession": "Holosmith",
             "composite_score": 1887.9308892747845,
@@ -9075,17 +9086,6 @@ const leaderboardData = {
             "games_played": 3,
             "average_rank_percent": 14.990807934204161,
             "average_stat_value": 260.08804726802686,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1885.5008857936548,
-            "glicko_rating": 1724.2031687706044,
-            "games_played": 20,
-            "average_rank_percent": 23.145373966327803,
-            "average_stat_value": 211.434796446869,
             "is_guild_member": true
           },
           {
@@ -9134,6 +9134,17 @@ const leaderboardData = {
           },
           {
             "rank": 29,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1872.1740612416313,
+            "glicko_rating": 1713.3363625367483,
+            "games_played": 19,
+            "average_rank_percent": 23.756264094110236,
+            "average_stat_value": 203.23623541833823,
+            "is_guild_member": true
+          },
+          {
+            "rank": 30,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Reaper",
             "composite_score": 1870.1089369947215,
@@ -9144,7 +9155,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 30,
+            "rank": 31,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "composite_score": 1868.9696818708826,
@@ -9155,7 +9166,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "Interpretor.3091",
             "profession": "Holosmith",
             "composite_score": 1865.72709468019,
@@ -9166,7 +9177,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 33,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1863.3411871528447,
@@ -9177,7 +9188,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 34,
             "account_name": "Havocus.3682",
             "profession": "Berserker",
             "composite_score": 1861.8656154680243,
@@ -9188,7 +9199,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 34,
+            "rank": 35,
             "account_name": "PelloJello.8241",
             "profession": "Catalyst",
             "composite_score": 1861.3450467874713,
@@ -9199,7 +9210,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 35,
+            "rank": 36,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1858.984476701195,
@@ -9210,7 +9221,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1854.0418428139808,
@@ -9221,7 +9232,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "acumen.1980",
             "profession": "Catalyst",
             "composite_score": 1849.6800362537062,
@@ -9232,7 +9243,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1844.36129841641,
@@ -9243,7 +9254,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Muted.8591",
             "profession": "Reaper",
             "composite_score": 1838.6415942548063,
@@ -9254,7 +9265,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "Caysadia.2548",
             "profession": "Berserker",
             "composite_score": 1838.0779483632614,
@@ -9265,7 +9276,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Feed.5309",
             "profession": "Berserker",
             "composite_score": 1837.9507155048454,
@@ -9276,7 +9287,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Jeff.7219",
             "profession": "Berserker",
             "composite_score": 1837.8193783606741,
@@ -9287,7 +9298,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 43,
+            "rank": 44,
             "account_name": "Daasen.3719",
             "profession": "Catalyst",
             "composite_score": 1835.1786634406358,
@@ -9298,7 +9309,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 44,
+            "rank": 45,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1833.5606192634978,
@@ -9309,7 +9320,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 45,
+            "rank": 46,
             "account_name": "Bricktus.1682",
             "profession": "Holosmith",
             "composite_score": 1832.939698311851,
@@ -9320,7 +9331,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 46,
+            "rank": 47,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "composite_score": 1831.0052982924965,
@@ -9331,7 +9342,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Jeff.7219",
             "profession": "Untamed",
             "composite_score": 1829.5451382778872,
@@ -9342,7 +9353,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1828.703690133875,
@@ -9353,7 +9364,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "Jeff.7219",
             "profession": "Dragonhunter",
             "composite_score": 1827.7720868315755,
@@ -9364,7 +9375,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1824.7184982295946,
@@ -9375,7 +9386,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1823.789145176818,
@@ -9386,7 +9397,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Lasthope.7943",
             "profession": "Guardian",
             "composite_score": 1822.081902065632,
@@ -9397,7 +9408,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "Cavalier.4015",
             "profession": "Warrior",
             "composite_score": 1821.2708981951,
@@ -9408,7 +9419,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1821.2557412752226,
@@ -9419,7 +9430,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Montana.8032",
             "profession": "Catalyst",
             "composite_score": 1820.4434741868213,
@@ -9430,7 +9441,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1820.138980663792,
@@ -9441,7 +9452,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Berserker",
             "composite_score": 1819.7857781802409,
@@ -9452,7 +9463,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Chief.7143",
             "profession": "Reaper",
             "composite_score": 1818.701457562084,
@@ -9463,7 +9474,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "Havocus.3682",
             "profession": "Dragonhunter",
             "composite_score": 1818.4973131804102,
@@ -9474,7 +9485,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1817.5934581583058,
@@ -9485,7 +9496,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Daasen.3719",
             "profession": "Reaper",
             "composite_score": 1814.0309381226614,
@@ -9496,7 +9507,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1813.2939589416656,
@@ -9507,7 +9518,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "Sexykillerz.8572",
             "profession": "Reaper",
             "composite_score": 1809.45055521969,
@@ -9518,7 +9529,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "composite_score": 1808.1033585500388,
@@ -9529,7 +9540,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "Soothsayer.9206",
             "profession": "Renegade",
             "composite_score": 1806.6318580486304,
@@ -9540,7 +9551,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Bricktus.1682",
             "profession": "Untamed",
             "composite_score": 1805.379103750382,
@@ -9551,7 +9562,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Dextra.8162",
             "profession": "Dragonhunter",
             "composite_score": 1804.4987899191806,
@@ -9562,7 +9573,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1802.4337984321592,
@@ -9573,7 +9584,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "nateboyd.5682",
             "profession": "Dragonhunter",
             "composite_score": 1800.0548979828254,
@@ -9584,7 +9595,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1799.8030938673035,
@@ -9595,7 +9606,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Johnny.5478",
             "profession": "Dragonhunter",
             "composite_score": 1798.372419826457,
@@ -9606,7 +9617,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Chakkkka.2504",
             "profession": "Untamed",
             "composite_score": 1797.2362008117661,
@@ -9617,7 +9628,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "slfhie.1764",
             "profession": "Vindicator",
             "composite_score": 1797.2362008117661,
@@ -9628,7 +9639,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1796.4481779467387,
@@ -9639,7 +9650,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1794.6461336895798,
@@ -9650,7 +9661,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Mes.1906",
             "profession": "Warrior",
             "composite_score": 1793.4779379170204,
@@ -9661,7 +9672,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Pieswithattitude.2357",
             "profession": "Spellbreaker",
             "composite_score": 1792.953318820081,
@@ -9672,7 +9683,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1792.0820829959716,
@@ -9683,7 +9694,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Jeff.7219",
             "profession": "Reaper",
             "composite_score": 1788.1739378639518,
@@ -9694,7 +9705,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "DraGonfly.9317",
             "profession": "Catalyst",
             "composite_score": 1788.0178201265408,
@@ -9705,7 +9716,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Elgar.2091",
             "profession": "Reaper",
             "composite_score": 1787.34611109227,
@@ -9716,7 +9727,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1786.9009778512154,
@@ -9727,7 +9738,18 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1786.9009778512154,
+            "glicko_rating": 1674.3013996067234,
+            "games_played": 1,
+            "average_rank_percent": 11.538461538461538,
+            "average_stat_value": 367.2074559889541,
+            "is_guild_member": true
+          },
+          {
+            "rank": 85,
             "account_name": "ParaldaWind.4523",
             "profession": "Catalyst",
             "composite_score": 1784.5332722275255,
@@ -9738,7 +9760,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 86,
             "account_name": "Fantabulous.3406",
             "profession": "Untamed",
             "composite_score": 1781.9682578018615,
@@ -9749,7 +9771,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 85,
+            "rank": 87,
             "account_name": "filipe.2809",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -9760,7 +9782,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 86,
+            "rank": 88,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1781.9682578018615,
@@ -9771,7 +9793,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 87,
+            "rank": 89,
             "account_name": "FavoriteOne.6735",
             "profession": "Reaper",
             "composite_score": 1780.3240177854104,
@@ -9782,7 +9804,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 90,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1776.7689042363265,
@@ -9793,7 +9815,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 91,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1772.8074919959186,
@@ -9804,7 +9826,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 90,
+            "rank": 92,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1770.0931910163802,
@@ -9815,7 +9837,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 93,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1769.1431856735414,
@@ -9826,7 +9848,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 94,
             "account_name": "Astro Bear.6305",
             "profession": "Catalyst",
             "composite_score": 1768.961698803801,
@@ -9837,7 +9859,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 93,
+            "rank": 95,
             "account_name": "Nictheman.9754",
             "profession": "Condi Firebrand",
             "composite_score": 1768.4032776661386,
@@ -9848,7 +9870,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 96,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1767.9408351615116,
@@ -9859,7 +9881,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 97,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1767.0820133672046,
@@ -9870,7 +9892,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 98,
             "account_name": "Luke.9108",
             "profession": "Scourge",
             "composite_score": 1766.6145918915133,
@@ -9881,7 +9903,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 97,
+            "rank": 99,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1766.1187281213427,
@@ -9892,7 +9914,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 100,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1765.9369176414616,
@@ -9901,28 +9923,6 @@ const leaderboardData = {
             "average_rank_percent": 16.666666666666664,
             "average_stat_value": 392.51874062968517,
             "is_guild_member": false
-          },
-          {
-            "rank": 99,
-            "account_name": "Yeek.2976",
-            "profession": "Berserker",
-            "composite_score": 1764.674492300316,
-            "glicko_rating": 1670.6671263171518,
-            "games_played": 1,
-            "average_rank_percent": 15.384615384615385,
-            "average_stat_value": 226.7445403758253,
-            "is_guild_member": false
-          },
-          {
-            "rank": 100,
-            "account_name": "Dextra.8162",
-            "profession": "Catalyst",
-            "composite_score": 1763.367446619542,
-            "glicko_rating": 1639.4268730593594,
-            "games_played": 8,
-            "average_rank_percent": 29.079960532702124,
-            "average_stat_value": 201.2118728984491,
-            "is_guild_member": true
           }
         ],
         "Burst Consistency": [
@@ -9939,6 +9939,17 @@ const leaderboardData = {
           },
           {
             "rank": 2,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1949.540349942706,
+            "glicko_rating": 1815.8866385793544,
+            "games_played": 5,
+            "average_rank_percent": 19.927072927072924,
+            "average_stat_value": 43850.8,
+            "is_guild_member": true
+          },
+          {
+            "rank": 3,
             "account_name": "FlawedDjinn.3217",
             "profession": "Untamed",
             "composite_score": 1933.3156115983659,
@@ -9949,7 +9960,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 3,
+            "rank": 4,
             "account_name": "Soothsayer.9206",
             "profession": "Untamed",
             "composite_score": 1907.0279611964593,
@@ -9960,7 +9971,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 4,
+            "rank": 5,
             "account_name": "Interpretor.3091",
             "profession": "Catalyst",
             "composite_score": 1875.1418680094578,
@@ -9971,7 +9982,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 5,
+            "rank": 6,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1868.8040969888157,
@@ -9982,7 +9993,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 6,
+            "rank": 7,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "composite_score": 1867.2248387932539,
@@ -9993,7 +10004,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1861.9470235889282,
@@ -10004,7 +10015,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1861.115383782258,
@@ -10015,7 +10026,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "souljota.7923",
             "profession": "Vindicator",
             "composite_score": 1852.4482524793677,
@@ -10026,7 +10037,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "Bother.9415",
             "profession": "Untamed",
             "composite_score": 1850.6689964285567,
@@ -10037,7 +10048,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Dextra.8162",
             "profession": "Weaver",
             "composite_score": 1831.1352258265063,
@@ -10048,7 +10059,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 13,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "composite_score": 1825.123421653535,
@@ -10059,7 +10070,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "LightspeedJack.9473",
             "profession": "Holosmith",
             "composite_score": 1819.8384867390853,
@@ -10070,7 +10081,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "Jeff.7219",
             "profession": "Catalyst",
             "composite_score": 1809.45055521969,
@@ -10081,7 +10092,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "composite_score": 1807.1331716006464,
@@ -10092,7 +10103,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "Stash.8401",
             "profession": "Catalyst",
             "composite_score": 1805.7193924830185,
@@ -10103,7 +10114,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "Max Danger.4031",
             "profession": "Catalyst",
             "composite_score": 1805.0533876328375,
@@ -10114,7 +10125,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "waschy.6093",
             "profession": "Dragonhunter",
             "composite_score": 1801.6640908396132,
@@ -10125,7 +10136,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1799.4569925222977,
@@ -10136,7 +10147,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "profession": "Berserker",
             "composite_score": 1797.7571126710113,
@@ -10147,7 +10158,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Daasen.3719",
             "profession": "Catalyst",
             "composite_score": 1797.2362008117661,
@@ -10158,7 +10169,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Havocus.3682",
             "profession": "Reaper",
             "composite_score": 1795.1302720646258,
@@ -10169,7 +10180,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Serebus.7314",
             "profession": "Reaper",
             "composite_score": 1793.0243544642065,
@@ -10180,7 +10191,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 24,
+            "rank": 25,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -10191,7 +10202,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
+            "rank": 26,
             "account_name": "Jeff.7219",
             "profession": "Reaper",
             "composite_score": 1775.3345998044547,
@@ -10202,7 +10213,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 26,
+            "rank": 27,
             "account_name": "BlueFlame.8673",
             "profession": "Catalyst",
             "composite_score": 1772.8074919959186,
@@ -10213,7 +10224,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 27,
+            "rank": 28,
             "account_name": "KaNgUs.1025",
             "profession": "Berserker",
             "composite_score": 1771.1420971988694,
@@ -10224,7 +10235,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 28,
+            "rank": 29,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "composite_score": 1769.1431856735414,
@@ -10235,7 +10246,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 29,
+            "rank": 30,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1768.4032776661386,
@@ -10246,7 +10257,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 30,
+            "rank": 31,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "composite_score": 1766.3667896842353,
@@ -10257,7 +10268,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "amends.3469",
             "profession": "Untamed",
             "composite_score": 1764.8313079752272,
@@ -10266,17 +10277,6 @@ const leaderboardData = {
             "average_rank_percent": 17.24137931034483,
             "average_stat_value": 32714.0,
             "is_guild_member": false
-          },
-          {
-            "rank": 32,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1763.972206145072,
-            "glicko_rating": 1649.7384544945014,
-            "games_played": 8,
-            "average_rank_percent": 37.499875124875125,
-            "average_stat_value": 32160.5,
-            "is_guild_member": true
           },
           {
             "rank": 33,
@@ -10302,6 +10302,17 @@ const leaderboardData = {
           },
           {
             "rank": 35,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1752.829218760428,
+            "glicko_rating": 1664.3668455755876,
+            "games_played": 1,
+            "average_rank_percent": 18.181818181818183,
+            "average_stat_value": 38175.0,
+            "is_guild_member": true
+          },
+          {
+            "rank": 36,
             "account_name": "Hiraldo.7954",
             "profession": "Spellbreaker",
             "composite_score": 1752.1957689325473,
@@ -10312,7 +10323,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "BlueFlame.8673",
             "profession": "Berserker",
             "composite_score": 1749.943525183698,
@@ -10323,7 +10334,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1747.1753903716594,
@@ -10334,7 +10345,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1746.979078088462,
@@ -10345,7 +10356,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "composite_score": 1738.5171722682505,
@@ -10353,17 +10364,6 @@ const leaderboardData = {
             "games_played": 12,
             "average_rank_percent": 35.77942927886706,
             "average_stat_value": 27231.666666666668,
-            "is_guild_member": true
-          },
-          {
-            "rank": 40,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1736.414305633007,
-            "glicko_rating": 1612.933443001185,
-            "games_played": 15,
-            "average_rank_percent": 39.9360665802445,
-            "average_stat_value": 29023.533333333333,
             "is_guild_member": true
           },
           {
@@ -10423,6 +10423,17 @@ const leaderboardData = {
           },
           {
             "rank": 46,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1715.9786295565543,
+            "glicko_rating": 1595.8777147219978,
+            "games_played": 14,
+            "average_rank_percent": 41.48994146584637,
+            "average_stat_value": 28369.85714285714,
+            "is_guild_member": true
+          },
+          {
+            "rank": 47,
             "account_name": "Mellis.7284",
             "profession": "Firebrand",
             "composite_score": 1706.5503807413827,
@@ -10433,7 +10444,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Bricktus.1682",
             "profession": "Catalyst",
             "composite_score": 1705.2906647834675,
@@ -10444,7 +10455,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "emz.3571",
             "profession": "Weaver",
             "composite_score": 1701.897176808945,
@@ -10455,7 +10466,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "Soothsayer.9206",
             "profession": "Renegade",
             "composite_score": 1695.887900184102,
@@ -10466,7 +10477,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1694.1995517261832,
@@ -10477,7 +10488,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Icy Violin.9213",
             "profession": "Holosmith",
             "composite_score": 1693.6535061671957,
@@ -10488,7 +10499,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Spellbreaker",
             "composite_score": 1691.3755976150417,
@@ -10499,7 +10510,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1686.6784590105833,
@@ -10510,7 +10521,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "emz.3571",
             "profession": "Catalyst",
             "composite_score": 1683.118963840781,
@@ -10521,7 +10532,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Havocus.3682",
             "profession": "Vindicator",
             "composite_score": 1671.9690213248423,
@@ -10532,7 +10543,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Interpretor.3091",
             "profession": "Untamed",
             "composite_score": 1665.720975274445,
@@ -10543,7 +10554,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1664.5286791122555,
@@ -10554,7 +10565,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Basic.9204",
             "profession": "Spellbreaker",
             "composite_score": 1653.2928553638988,
@@ -10565,7 +10576,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "FlawedDjinn.3217",
             "profession": "Reaper",
             "composite_score": 1651.9529785116392,
@@ -10576,7 +10587,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1651.9525935142146,
@@ -10587,7 +10598,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1650.164880377594,
@@ -10598,7 +10609,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Johnny.5478",
             "profession": "Reaper",
             "composite_score": 1649.6175938284864,
@@ -10609,7 +10620,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "Elgar.2091",
             "profession": "Spellbreaker",
             "composite_score": 1649.2759355551775,
@@ -10620,7 +10631,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Reaper",
             "composite_score": 1648.3390850895942,
@@ -10631,7 +10642,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "Freelanced.6084",
             "profession": "Holosmith",
             "composite_score": 1647.7726202640551,
@@ -10642,7 +10653,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Sabbaah.2314",
             "profession": "Reaper",
             "composite_score": 1644.45198545392,
@@ -10653,7 +10664,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1642.3490396216885,
@@ -10664,7 +10675,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "Interpretor.3091",
             "profession": "Berserker",
             "composite_score": 1632.541342105787,
@@ -10675,7 +10686,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1631.4525979084833,
@@ -10686,7 +10697,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "killsfun.2436",
             "profession": "Dragonhunter",
             "composite_score": 1624.608868667666,
@@ -10697,7 +10708,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Shaaaads.1856",
             "profession": "Catalyst",
             "composite_score": 1612.1755105961927,
@@ -10708,7 +10719,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1608.728727652941,
@@ -10719,7 +10730,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1606.2272561074155,
@@ -10730,7 +10741,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "Pieswithattitude.2357",
             "profession": "Spellbreaker",
             "composite_score": 1602.5269433788249,
@@ -10741,7 +10752,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "Freelanced.6084",
             "profession": "Dragonhunter",
             "composite_score": 1599.956331148731,
@@ -10752,7 +10763,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Nictheman.9754",
             "profession": "Spellbreaker",
             "composite_score": 1597.488542298322,
@@ -10763,7 +10774,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
             "composite_score": 1597.072316270271,
@@ -10774,7 +10785,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Travychu.5432",
             "profession": "Dragonhunter",
             "composite_score": 1596.239075676634,
@@ -10785,7 +10796,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "composite_score": 1593.683872100078,
@@ -10796,7 +10807,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1589.987399643772,
@@ -10807,7 +10818,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Catalyst",
             "composite_score": 1589.3563741479081,
@@ -10818,7 +10829,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Scourge",
             "composite_score": 1584.1009036919456,
@@ -10829,7 +10840,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
             "account_name": "Bleebt.4108",
             "profession": "Vindicator",
             "composite_score": 1578.3658259601677,
@@ -10840,7 +10851,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 85,
             "account_name": "yhanbruno.5873",
             "profession": "Catalyst",
             "composite_score": 1573.7127523404276,
@@ -10851,7 +10862,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 85,
+            "rank": 86,
             "account_name": "seppukuYUM.5147",
             "profession": "Berserker",
             "composite_score": 1570.9088670543076,
@@ -10862,7 +10873,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 86,
+            "rank": 87,
             "account_name": "Jeff.7219",
             "profession": "Untamed",
             "composite_score": 1570.148459503888,
@@ -10873,7 +10884,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 88,
             "account_name": "DanDizh.8416",
             "profession": "Scourge",
             "composite_score": 1569.2727984976254,
@@ -10884,7 +10895,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 89,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Vindicator",
             "composite_score": 1566.9150391115527,
@@ -10895,7 +10906,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 90,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1565.8018796257027,
@@ -10906,7 +10917,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 90,
+            "rank": 91,
             "account_name": "Interpretor.3091",
             "profession": "Holosmith",
             "composite_score": 1564.7611050952548,
@@ -10917,7 +10928,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 92,
             "account_name": "Steampunkengineer.7146",
             "profession": "Condi Firebrand",
             "composite_score": 1563.1043057445474,
@@ -10928,7 +10939,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 93,
             "account_name": "Zalk.5947",
             "profession": "Dragonhunter",
             "composite_score": 1559.9109194680896,
@@ -10939,7 +10950,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 94,
             "account_name": "Mandar.9813",
             "profession": "Scourge",
             "composite_score": 1556.172706322745,
@@ -10950,7 +10961,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 94,
+            "rank": 95,
             "account_name": "Chakkkka.2504",
             "profession": "Catalyst",
             "composite_score": 1554.6981570586422,
@@ -10961,7 +10972,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 96,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1554.4767734764007,
@@ -10972,7 +10983,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 97,
             "account_name": "Jordan.1860",
             "profession": "Catalyst",
             "composite_score": 1552.7170224674724,
@@ -10983,7 +10994,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 98,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1551.9566251781707,
@@ -10994,7 +11005,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 98,
+            "rank": 99,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1549.0098074060554,
@@ -11005,7 +11016,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 99,
+            "rank": 100,
             "account_name": "General Moo.7930",
             "profession": "Reaper",
             "composite_score": 1544.3282338895078,
@@ -11014,17 +11025,6 @@ const leaderboardData = {
             "average_rank_percent": 50.416666666666664,
             "average_stat_value": 26223.5,
             "is_guild_member": false
-          },
-          {
-            "rank": 100,
-            "account_name": "Muted.8591",
-            "profession": "Reaper",
-            "composite_score": 1544.2572389269544,
-            "glicko_rating": 1466.2810300180952,
-            "games_played": 5,
-            "average_rank_percent": 53.98746081504703,
-            "average_stat_value": 27815.2,
-            "is_guild_member": true
           }
         ]
       },
@@ -14492,6 +14492,17 @@ const leaderboardData = {
         },
         {
           "rank": 56,
+          "account_name": "Huge.5891",
+          "profession": "China DH",
+          "composite_score": 1603.3753169922704,
+          "glicko_rating": 1538.8795820600387,
+          "games_played": 7,
+          "average_rank_percent": 37.13952713952714,
+          "average_stat_value": 5748.393922284136,
+          "is_guild_member": true
+        },
+        {
+          "rank": 57,
           "account_name": "Blinking Router.4305",
           "profession": "Scourge",
           "composite_score": 1603.2479288052418,
@@ -14502,7 +14513,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 57,
+          "rank": 58,
           "account_name": "Argo.2675",
           "profession": "Support Spb",
           "composite_score": 1603.1630989566088,
@@ -14513,7 +14524,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 58,
+          "rank": 59,
           "account_name": "Disenable.1640",
           "profession": "Spellbreaker",
           "composite_score": 1602.9759173432828,
@@ -14524,7 +14535,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 59,
+          "rank": 60,
           "account_name": "steelrage.2904",
           "profession": "Reaper",
           "composite_score": 1602.1689061767368,
@@ -14535,7 +14546,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 60,
+          "rank": 61,
           "account_name": "Pieswithattitude.2357",
           "profession": "Chronomancer",
           "composite_score": 1602.0136128458955,
@@ -14546,7 +14557,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 61,
+          "rank": 62,
           "account_name": "synco.8132",
           "profession": "Support Spb",
           "composite_score": 1601.1774887316883,
@@ -14557,7 +14568,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 62,
+          "rank": 63,
           "account_name": "Johnny.5478",
           "profession": "Specter",
           "composite_score": 1598.5508567553466,
@@ -14568,7 +14579,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 63,
+          "rank": 64,
           "account_name": "Soothsayer.9206",
           "profession": "Catalyst",
           "composite_score": 1598.2139427394466,
@@ -14579,7 +14590,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 64,
+          "rank": 65,
           "account_name": "Serebus.7314",
           "profession": "Reaper",
           "composite_score": 1597.941625946622,
@@ -14590,7 +14601,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 65,
+          "rank": 66,
           "account_name": "Havocus.3682",
           "profession": "Berserker",
           "composite_score": 1597.7502921396172,
@@ -14601,7 +14612,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 66,
+          "rank": 67,
           "account_name": "Igure.2063",
           "profession": "Specter",
           "composite_score": 1597.4028596926073,
@@ -14612,7 +14623,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 67,
+          "rank": 68,
           "account_name": "Daasen.3719",
           "profession": "Necromancer",
           "composite_score": 1597.2905210392587,
@@ -14623,7 +14634,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 68,
+          "rank": 69,
           "account_name": "Muted.8591",
           "profession": "Tempest",
           "composite_score": 1595.1650678553435,
@@ -14634,7 +14645,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 69,
+          "rank": 70,
           "account_name": "Steampunkengineer.7146",
           "profession": "Condi Firebrand",
           "composite_score": 1594.7702843609882,
@@ -14645,7 +14656,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 70,
+          "rank": 71,
           "account_name": "Chakkkka.2504",
           "profession": "Scourge",
           "composite_score": 1594.325675684455,
@@ -14656,7 +14667,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 71,
+          "rank": 72,
           "account_name": "Soothsayer.9206",
           "profession": "Untamed",
           "composite_score": 1593.295169440398,
@@ -14667,7 +14678,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 72,
+          "rank": 73,
           "account_name": "EternalEndless.7695",
           "profession": "Scrapper",
           "composite_score": 1592.5377098963263,
@@ -14678,7 +14689,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 73,
+          "rank": 74,
           "account_name": "Daasen.3719",
           "profession": "Catalyst",
           "composite_score": 1592.1329179957531,
@@ -14689,7 +14700,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 74,
+          "rank": 75,
           "account_name": "Mes.1906",
           "profession": "Specter",
           "composite_score": 1591.4882917529949,
@@ -14700,7 +14711,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 75,
+          "rank": 76,
           "account_name": "CrimeLordXx.3920",
           "profession": "Spellbreaker",
           "composite_score": 1590.894015073586,
@@ -14711,7 +14722,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 76,
+          "rank": 77,
           "account_name": "Dextra.8162",
           "profession": "Weaver",
           "composite_score": 1589.5798379723553,
@@ -14722,7 +14733,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 77,
+          "rank": 78,
           "account_name": "ParaldaWind.4523",
           "profession": "Specter",
           "composite_score": 1589.2087747206906,
@@ -14733,7 +14744,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 78,
+          "rank": 79,
           "account_name": "Mellis.8451",
           "profession": "Chronomancer",
           "composite_score": 1588.0279094118714,
@@ -14744,7 +14755,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 79,
+          "rank": 80,
           "account_name": "DareDevils.6039",
           "profession": "Scourge",
           "composite_score": 1587.6003737330586,
@@ -14755,7 +14766,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 80,
+          "rank": 81,
           "account_name": "Ashtonlightstone.9145",
           "profession": "Scourge",
           "composite_score": 1587.4521810389274,
@@ -14766,7 +14777,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 81,
+          "rank": 82,
           "account_name": "Interpretor.3091",
           "profession": "Untamed",
           "composite_score": 1586.9371499675735,
@@ -14777,7 +14788,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 82,
+          "rank": 83,
           "account_name": "Havocus.3682",
           "profession": "Chronomancer",
           "composite_score": 1586.9321685636544,
@@ -14788,7 +14799,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 83,
+          "rank": 84,
           "account_name": "Uriah.7082",
           "profession": "Warrior",
           "composite_score": 1586.8990323239427,
@@ -14799,7 +14810,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 84,
+          "rank": 85,
           "account_name": "pinguinox.9528",
           "profession": "Spellbreaker",
           "composite_score": 1586.7449533019305,
@@ -14810,7 +14821,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 85,
+          "rank": 86,
           "account_name": "Knightmare.6849",
           "profession": "Scrapper",
           "composite_score": 1586.5917734101022,
@@ -14821,7 +14832,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 86,
+          "rank": 87,
           "account_name": "Vasnia.3189",
           "profession": "Spellbreaker",
           "composite_score": 1586.5412797237457,
@@ -14832,7 +14843,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 87,
+          "rank": 88,
           "account_name": "Freelanced.6084",
           "profession": "Reaper",
           "composite_score": 1586.455596301624,
@@ -14843,7 +14854,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 88,
+          "rank": 89,
           "account_name": "General Moo.7930",
           "profession": "Reaper",
           "composite_score": 1586.2646265417334,
@@ -14854,7 +14865,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 89,
+          "rank": 90,
           "account_name": "Nennius.9627",
           "profession": "Condi Firebrand",
           "composite_score": 1586.0425973041845,
@@ -14865,7 +14876,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 90,
+          "rank": 91,
           "account_name": "FlawedDjinn.3217",
           "profession": "Chronomancer",
           "composite_score": 1585.8715365496164,
@@ -14876,7 +14887,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 91,
+          "rank": 92,
           "account_name": "mikefmc.5961",
           "profession": "Support Spb",
           "composite_score": 1584.7080102974369,
@@ -14887,7 +14898,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 92,
+          "rank": 93,
           "account_name": "Malek.9417",
           "profession": "Firebrand",
           "composite_score": 1584.5773342321693,
@@ -14898,7 +14909,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 93,
+          "rank": 94,
           "account_name": "Dave.1706",
           "profession": "Scrapper",
           "composite_score": 1583.9775291034748,
@@ -14909,7 +14920,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 94,
+          "rank": 95,
           "account_name": "Guars.6409",
           "profession": "Druid",
           "composite_score": 1583.974025518548,
@@ -14920,7 +14931,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 95,
+          "rank": 96,
           "account_name": "Millian.9730",
           "profession": "Chronomancer",
           "composite_score": 1583.8635247731002,
@@ -14931,7 +14942,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 96,
+          "rank": 97,
           "account_name": "Syde.1863",
           "profession": "Reaper",
           "composite_score": 1583.4763912411452,
@@ -14942,7 +14953,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 97,
+          "rank": 98,
           "account_name": "mikerock.6187",
           "profession": "Firebrand",
           "composite_score": 1583.2727570414002,
@@ -14953,7 +14964,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 98,
+          "rank": 99,
           "account_name": "Luke.9108",
           "profession": "Untamed",
           "composite_score": 1582.8406049707157,
@@ -14964,7 +14975,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 99,
+          "rank": 100,
           "account_name": "DirtyRat.3941",
           "profession": "Chronomancer",
           "composite_score": 1582.3367634742413,
@@ -14973,17 +14984,6 @@ const leaderboardData = {
           "average_rank_percent": 41.54860159786268,
           "average_stat_value": 35.91277118953935,
           "is_guild_member": false
-        },
-        {
-          "rank": 100,
-          "account_name": "emz.3571",
-          "profession": "Reaper",
-          "composite_score": 1582.3136043259863,
-          "glicko_rating": 1516.5816459755385,
-          "games_played": 57,
-          "average_rank_percent": 54.38421077228582,
-          "average_stat_value": 4212.982760046333,
-          "is_guild_member": true
         }
       ],
       "high_scores": {
@@ -15343,7 +15343,7 @@ const leaderboardData = {
           {
             "rank": 45,
             "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
+            "profession": "China DH",
             "burst_damage": 69044,
             "timestamp": "202504242313",
             "is_guild_member": true
@@ -19421,6 +19421,17 @@ const leaderboardData = {
           },
           {
             "rank": 30,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1794.5631294535747,
+            "glicko_rating": 1681.9191458674877,
+            "games_played": 3,
+            "average_rank_percent": 23.48547948248098,
+            "average_stat_value": 2075.0,
+            "is_guild_member": true
+          },
+          {
+            "rank": 31,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1792.6558179087947,
@@ -19431,7 +19442,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1789.0932978731503,
@@ -19442,7 +19453,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 33,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1787.9776543937605,
@@ -19453,7 +19464,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 34,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1781.9682578018615,
@@ -19464,7 +19475,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 34,
+            "rank": 35,
             "account_name": "Soothsayer.9206",
             "profession": "Untamed",
             "composite_score": 1779.8996977811648,
@@ -19475,7 +19486,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 35,
+            "rank": 36,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "composite_score": 1779.180198643531,
@@ -19486,7 +19497,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "Huge.5891",
             "profession": "Dragonhunter",
             "composite_score": 1778.583343051294,
@@ -19497,7 +19508,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "Interpretor.3091",
             "profession": "Untamed",
             "composite_score": 1778.2213355584383,
@@ -19508,7 +19519,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1772.9642385472416,
@@ -19519,7 +19530,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1765.9369176414616,
@@ -19530,7 +19541,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1762.9827992837374,
@@ -19541,7 +19552,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1761.9430660355897,
@@ -19552,7 +19563,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Bertozaur.4578",
             "profession": "Weaver",
             "composite_score": 1761.9290826013616,
@@ -19563,7 +19574,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 43,
+            "rank": 44,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1761.9290826013616,
@@ -19574,7 +19585,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 44,
+            "rank": 45,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1760.5931375879948,
@@ -19585,7 +19596,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 45,
+            "rank": 46,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1756.178710587305,
@@ -19596,7 +19607,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 46,
+            "rank": 47,
             "account_name": "Lasthope.7943",
             "profession": "Willbender",
             "composite_score": 1752.5324318301466,
@@ -19607,7 +19618,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Travychu.5432",
             "profession": "Dragonhunter",
             "composite_score": 1749.2589258751864,
@@ -19618,7 +19629,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "Steampunkengineer.7146",
             "profession": "Condi Firebrand",
             "composite_score": 1740.5029292148813,
@@ -19629,7 +19640,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "BlueFlame.8673",
             "profession": "Catalyst",
             "composite_score": 1733.9054018808424,
@@ -19640,7 +19651,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1733.3149865709552,
@@ -19651,7 +19662,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1729.5842265257857,
@@ -19662,7 +19673,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1729.1159788376735,
@@ -19673,7 +19684,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1721.1046354436144,
@@ -19684,7 +19695,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "Bleebt.4108",
             "profession": "Vindicator",
             "composite_score": 1713.227768202301,
@@ -19695,7 +19706,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "composite_score": 1705.429925670952,
@@ -19706,7 +19717,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Zalk.5947",
             "profession": "Dragonhunter",
             "composite_score": 1703.3803705545395,
@@ -19717,7 +19728,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "PelloJello.8241",
             "profession": "Catalyst",
             "composite_score": 1692.506899481448,
@@ -19728,7 +19739,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Nictheman.9754",
             "profession": "Warrior",
             "composite_score": 1688.8465895748404,
@@ -19739,7 +19750,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "emz.3571",
             "profession": "Catalyst",
             "composite_score": 1676.7696498682226,
@@ -19750,7 +19761,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Ysoserious.9135",
             "profession": "Dragonhunter",
             "composite_score": 1673.741763507824,
@@ -19761,7 +19772,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "ParaldaWind.4523",
             "profession": "Catalyst",
             "composite_score": 1671.9777324591275,
@@ -19772,7 +19783,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Cruelty.9730",
             "profession": "Reaper",
             "composite_score": 1670.8287042450374,
@@ -19783,7 +19794,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "yhanbruno.5873",
             "profession": "Catalyst",
             "composite_score": 1668.5775683976658,
@@ -19794,7 +19805,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "FlawedDjinn.3217",
             "profession": "Scourge",
             "composite_score": 1667.8387855395022,
@@ -19805,7 +19816,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "Freelanced.6084",
             "profession": "Holosmith",
             "composite_score": 1665.848186039597,
@@ -19816,7 +19827,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Pieswithattitude.2357",
             "profession": "Scrapper",
             "composite_score": 1663.345329543899,
@@ -19827,7 +19838,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "acumen.1980",
             "profession": "Catalyst",
             "composite_score": 1661.0395386613811,
@@ -19838,7 +19849,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "synco.8132",
             "profession": "Scourge",
             "composite_score": 1660.9092863667195,
@@ -19849,7 +19860,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "Luke.9108",
             "profession": "Condi Firebrand",
             "composite_score": 1660.775625137009,
@@ -19860,7 +19871,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "Huge.5891",
             "profession": "Willbender",
             "composite_score": 1659.0499912579617,
@@ -19871,7 +19882,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Ayemes.5892",
             "profession": "Holosmith",
             "composite_score": 1658.8697684067206,
@@ -19882,7 +19893,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Malek.9417",
             "profession": "Condi Firebrand",
             "composite_score": 1658.523663769854,
@@ -19893,7 +19904,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "Bother.9415",
             "profession": "Scourge",
             "composite_score": 1657.1874439245382,
@@ -19904,7 +19915,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "Interpretor.3091",
             "profession": "Scourge",
             "composite_score": 1652.4320409373772,
@@ -19915,7 +19926,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1647.0723521694779,
@@ -19926,7 +19937,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Jordan.1860",
             "profession": "Catalyst",
             "composite_score": 1645.8885825335806,
@@ -19937,7 +19948,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Nictheman.9754",
             "profession": "Support Spb",
             "composite_score": 1645.5473336654882,
@@ -19948,7 +19959,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1642.4340264810419,
@@ -19959,7 +19970,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Mellis.8451",
             "profession": "Scourge",
             "composite_score": 1641.5591105231763,
@@ -19970,7 +19981,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1636.880482228113,
@@ -19981,7 +19992,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Luke.9108",
             "profession": "Scourge",
             "composite_score": 1635.2646130701578,
@@ -19992,7 +20003,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "Nictheman.9754",
             "profession": "Catalyst",
             "composite_score": 1634.530905945118,
@@ -20003,7 +20014,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 83,
+            "rank": 84,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Vindicator",
             "composite_score": 1634.374149854895,
@@ -20014,7 +20025,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 85,
             "account_name": "Uriah.7082",
             "profession": "Scourge",
             "composite_score": 1630.7338987911103,
@@ -20025,7 +20036,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 86,
             "account_name": "General Moo.7930",
             "profession": "Reaper",
             "composite_score": 1629.724360929379,
@@ -20036,7 +20047,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 86,
+            "rank": 87,
             "account_name": "DanDizh.8416",
             "profession": "Scourge",
             "composite_score": 1622.804812350838,
@@ -20047,7 +20058,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 88,
             "account_name": "dobbeh.7382",
             "profession": "Berserker",
             "composite_score": 1618.6314871556938,
@@ -20058,7 +20069,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 88,
+            "rank": 89,
             "account_name": "Mellis.8451",
             "profession": "Condi Firebrand",
             "composite_score": 1617.8213418273863,
@@ -20069,7 +20080,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 90,
             "account_name": "Syde.1863",
             "profession": "Reaper",
             "composite_score": 1616.807455923895,
@@ -20080,7 +20091,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 90,
+            "rank": 91,
             "account_name": "Cruelty.9730",
             "profession": "Scourge",
             "composite_score": 1615.1853148380712,
@@ -20091,7 +20102,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 91,
+            "rank": 92,
             "account_name": "Stash.8401",
             "profession": "Catalyst",
             "composite_score": 1615.1530381007872,
@@ -20102,7 +20113,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 92,
+            "rank": 93,
             "account_name": "Nero.6195",
             "profession": "Scourge",
             "composite_score": 1610.368847531606,
@@ -20113,7 +20124,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 93,
+            "rank": 94,
             "account_name": "Mes.1906",
             "profession": "Scourge",
             "composite_score": 1606.2387706809973,
@@ -20124,7 +20135,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 94,
+            "rank": 95,
             "account_name": "Malek.9417",
             "profession": "Dragonhunter",
             "composite_score": 1605.4474440614606,
@@ -20135,7 +20146,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 95,
+            "rank": 96,
             "account_name": "Uriah.7082",
             "profession": "Berserker",
             "composite_score": 1605.1617357329828,
@@ -20146,7 +20157,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 96,
+            "rank": 97,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1605.0883140934232,
@@ -20157,7 +20168,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 98,
             "account_name": "Havocus.3682",
             "profession": "Scourge",
             "composite_score": 1602.3120072480522,
@@ -20168,7 +20179,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 99,
             "account_name": "Hiraldo.7954",
             "profession": "Spellbreaker",
             "composite_score": 1593.2897301652156,
@@ -20179,7 +20190,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 99,
+            "rank": 100,
             "account_name": "killsfun.2436",
             "profession": "Reaper",
             "composite_score": 1592.737084587907,
@@ -20187,17 +20198,6 @@ const leaderboardData = {
             "games_played": 1,
             "average_rank_percent": 48.0,
             "average_stat_value": 1497.0,
-            "is_guild_member": false
-          },
-          {
-            "rank": 100,
-            "account_name": "Kiwi.2176",
-            "profession": "Weaver",
-            "composite_score": 1589.2356091862355,
-            "glicko_rating": 1536.3050611496853,
-            "games_played": 1,
-            "average_rank_percent": 34.92063492063492,
-            "average_stat_value": 914.0,
             "is_guild_member": false
           }
         ],
@@ -21007,6 +21007,17 @@ const leaderboardData = {
           },
           {
             "rank": 74,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1445.1811711356304,
+            "glicko_rating": 1359.0162909664073,
+            "games_played": 9,
+            "average_rank_percent": 51.271442495126706,
+            "average_stat_value": 353.89444444444445,
+            "is_guild_member": true
+          },
+          {
+            "rank": 75,
             "account_name": "Uriah.7082",
             "profession": "Reaper",
             "composite_score": 1444.2572570586265,
@@ -21017,7 +21028,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "Xhil.9316",
             "profession": "Condi Firebrand",
             "composite_score": 1441.3782380254165,
@@ -21028,7 +21039,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "ItalianMagik.2698",
             "profession": "Scourge",
             "composite_score": 1439.8344466636884,
@@ -21039,7 +21050,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "synco.8132",
             "profession": "Vindicator",
             "composite_score": 1436.6352361217355,
@@ -21050,7 +21061,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "ParaldaWind.4523",
             "profession": "Catalyst",
             "composite_score": 1436.447281887994,
@@ -21061,7 +21072,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Ronin.4501",
             "profession": "Firebrand",
             "composite_score": 1433.091800654812,
@@ -21072,7 +21083,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "Solomon Darkfury.3729",
             "profession": "Support Spb",
             "composite_score": 1431.9599797198018,
@@ -21083,7 +21094,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Igure.2063",
             "profession": "Chronomancer",
             "composite_score": 1422.8989188099022,
@@ -21094,7 +21105,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "mikefmc.5961",
             "profession": "Support Spb",
             "composite_score": 1421.714309948043,
@@ -21102,17 +21113,6 @@ const leaderboardData = {
             "games_played": 1,
             "average_rank_percent": 66.66666666666666,
             "average_stat_value": 83.06,
-            "is_guild_member": true
-          },
-          {
-            "rank": 83,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1420.2118276462547,
-            "glicko_rating": 1332.7775650026267,
-            "games_played": 12,
-            "average_rank_percent": 52.967470760233915,
-            "average_stat_value": 299.67833333333334,
             "is_guild_member": true
           },
           {
@@ -24656,6 +24656,17 @@ const leaderboardData = {
           },
           {
             "rank": 5,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1913.8679848662853,
+            "glicko_rating": 1776.0302282381133,
+            "games_played": 9,
+            "average_rank_percent": 25.869219102191234,
+            "average_stat_value": 6.522222222222222,
+            "is_guild_member": true
+          },
+          {
+            "rank": 6,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1913.7858745314322,
@@ -24666,7 +24677,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 6,
+            "rank": 7,
             "account_name": "Astro Bear.6305",
             "profession": "Firebrand",
             "composite_score": 1903.9814105765238,
@@ -24677,7 +24688,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "Mellis.8451",
             "profession": "Firebrand",
             "composite_score": 1877.1942719521107,
@@ -24688,7 +24699,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "adrielle.2109",
             "profession": "Condi Firebrand",
             "composite_score": 1855.0943584080394,
@@ -24699,7 +24710,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "Muted.8591",
             "profession": "Chronomancer",
             "composite_score": 1855.0343490720425,
@@ -24710,7 +24721,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "Jordan.1860",
             "profession": "Chronomancer",
             "composite_score": 1830.0622782830612,
@@ -24721,7 +24732,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1829.609639446122,
@@ -24732,7 +24743,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 13,
             "account_name": "Uriah.7082",
             "profession": "Chronomancer",
             "composite_score": 1828.7390060681737,
@@ -24740,17 +24751,6 @@ const leaderboardData = {
             "games_played": 4,
             "average_rank_percent": 36.547049441786285,
             "average_stat_value": 6.125,
-            "is_guild_member": true
-          },
-          {
-            "rank": 13,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1826.6539154929749,
-            "glicko_rating": 1691.3401481001165,
-            "games_played": 12,
-            "average_rank_percent": 30.733759564738666,
-            "average_stat_value": 5.583333333333333,
             "is_guild_member": true
           },
           {
@@ -25404,6 +25404,17 @@ const leaderboardData = {
           },
           {
             "rank": 73,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1538.5323736882137,
+            "glicko_rating": 1466.6707595289377,
+            "games_played": 3,
+            "average_rank_percent": 45.327380952380956,
+            "average_stat_value": 2.766666666666667,
+            "is_guild_member": true
+          },
+          {
+            "rank": 74,
             "account_name": "Graven.4325",
             "profession": "Chronomancer",
             "composite_score": 1536.5820072772362,
@@ -25414,7 +25425,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "Coileddarknight.9528",
             "profession": "Support Spb",
             "composite_score": 1524.6379180920214,
@@ -25425,7 +25436,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "KamiKaZe.8173",
             "profession": "Herald",
             "composite_score": 1521.7751851919684,
@@ -25436,7 +25447,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Havocus.3682",
             "profession": "Support Spb",
             "composite_score": 1521.0547403695955,
@@ -25447,7 +25458,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Hydrason.4612",
             "profession": "Chronomancer",
             "composite_score": 1520.1617096138007,
@@ -25458,7 +25469,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Coileddarknight.9528",
             "profession": "Berserker",
             "composite_score": 1513.1107845046904,
@@ -25469,7 +25480,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Argo.2675",
             "profession": "Support Spb",
             "composite_score": 1499.3570462323512,
@@ -25480,7 +25491,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "OdinNevon.7305",
             "profession": "Spellbreaker",
             "composite_score": 1482.0511728452925,
@@ -25491,7 +25502,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "OPness.3215",
             "profession": "Support Spb",
             "composite_score": 1479.9394528478597,
@@ -25502,7 +25513,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "TehWolfman.1794",
             "profession": "Support Spb",
             "composite_score": 1462.3018114013485,
@@ -25513,7 +25524,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
             "account_name": "Nictheman.9754",
             "profession": "Support Spb",
             "composite_score": 1455.8922599470216,
@@ -25524,7 +25535,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 85,
             "account_name": "Johnny.5478",
             "profession": "Specter",
             "composite_score": 1454.111517239574,
@@ -25535,7 +25546,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 86,
             "account_name": "Malek.9417",
             "profession": "Dragonhunter",
             "composite_score": 1453.3691790112384,
@@ -25546,7 +25557,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 87,
             "account_name": "Death by Omen.1734",
             "profession": "Spellbreaker",
             "composite_score": 1434.0507241848684,
@@ -25557,7 +25568,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 88,
             "account_name": "bielzin.5084",
             "profession": "Herald",
             "composite_score": 1433.5978869550245,
@@ -25568,7 +25579,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 89,
             "account_name": "Ysoserious.9135",
             "profession": "Dragonhunter",
             "composite_score": 1433.2384227868017,
@@ -25579,7 +25590,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 89,
+            "rank": 90,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1425.6433816476422,
@@ -25590,7 +25601,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 90,
+            "rank": 91,
             "account_name": "Babadook.5842",
             "profession": "Scourge",
             "composite_score": 1425.2465765703462,
@@ -25601,7 +25612,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 91,
+            "rank": 92,
             "account_name": "DareDevils.6039",
             "profession": "Scourge",
             "composite_score": 1417.4362591429667,
@@ -25612,7 +25623,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 92,
+            "rank": 93,
             "account_name": "DanDizh.8416",
             "profession": "Scourge",
             "composite_score": 1414.9526286080568,
@@ -25623,7 +25634,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 94,
             "account_name": "SHIPZZ.4503",
             "profession": "Specter",
             "composite_score": 1411.4117758592765,
@@ -25634,7 +25645,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 94,
+            "rank": 95,
             "account_name": "Ronin.4501",
             "profession": "Firebrand",
             "composite_score": 1407.4028195337987,
@@ -25645,7 +25656,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 95,
+            "rank": 96,
             "account_name": "Elgar.2091",
             "profession": "Chronomancer",
             "composite_score": 1406.3763586234375,
@@ -25656,7 +25667,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 96,
+            "rank": 97,
             "account_name": "Cruelty.9730",
             "profession": "Scourge",
             "composite_score": 1403.2616798542783,
@@ -25667,7 +25678,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 98,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "composite_score": 1401.3060534543818,
@@ -25678,7 +25689,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 99,
             "account_name": "waschy.6093",
             "profession": "Dragonhunter",
             "composite_score": 1400.2333039613723,
@@ -25689,7 +25700,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 99,
+            "rank": 100,
             "account_name": "Uriah.7082",
             "profession": "Berserker",
             "composite_score": 1388.4809813260617,
@@ -25698,17 +25709,6 @@ const leaderboardData = {
             "average_rank_percent": 73.33333333333333,
             "average_stat_value": 1.0,
             "is_guild_member": true
-          },
-          {
-            "rank": 100,
-            "account_name": "Batoosai.4358",
-            "profession": "Specter",
-            "composite_score": 1384.5696204071567,
-            "glicko_rating": 1374.8660963209277,
-            "games_played": 1,
-            "average_rank_percent": 71.875,
-            "average_stat_value": 1.3,
-            "is_guild_member": false
           }
         ],
         "Resistance": [
@@ -25769,6 +25769,17 @@ const leaderboardData = {
           },
           {
             "rank": 6,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1891.8142314399058,
+            "glicko_rating": 1756.7169686454984,
+            "games_played": 9,
+            "average_rank_percent": 27.221066877929623,
+            "average_stat_value": 0.6555555555555554,
+            "is_guild_member": true
+          },
+          {
+            "rank": 7,
             "account_name": "Coileddarknight.9528",
             "profession": "Support Spb",
             "composite_score": 1886.4399709506492,
@@ -25779,7 +25790,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1880.5046401554757,
@@ -25790,7 +25801,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "Nictheman.9754",
             "profession": "Chronomancer",
             "composite_score": 1872.3243489003282,
@@ -25801,7 +25812,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "aznsleeper.5896",
             "profession": "Firebrand",
             "composite_score": 1852.2792108363885,
@@ -25812,7 +25823,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "Steampunkengineer.7146",
             "profession": "Chronomancer",
             "composite_score": 1848.3805923025984,
@@ -25823,7 +25834,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1845.7637159758099,
@@ -25831,17 +25842,6 @@ const leaderboardData = {
             "games_played": 2,
             "average_rank_percent": 20.77922077922078,
             "average_stat_value": 0.5,
-            "is_guild_member": true
-          },
-          {
-            "rank": 12,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1845.1432493462144,
-            "glicko_rating": 1704.0814033954393,
-            "games_played": 12,
-            "average_rank_percent": 27.970363650510706,
-            "average_stat_value": 0.5833333333333333,
             "is_guild_member": true
           },
           {
@@ -26209,6 +26209,17 @@ const leaderboardData = {
           },
           {
             "rank": 46,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1625.1951048745211,
+            "glicko_rating": 1532.0311916988617,
+            "games_played": 3,
+            "average_rank_percent": 30.218253968253965,
+            "average_stat_value": 0.3666666666666667,
+            "is_guild_member": true
+          },
+          {
+            "rank": 47,
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "composite_score": 1616.7750071666292,
@@ -26219,7 +26230,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "TehWolfman.1794",
             "profession": "Support Spb",
             "composite_score": 1612.4044852498737,
@@ -26230,7 +26241,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "Mellis.8451",
             "profession": "Chronomancer",
             "composite_score": 1608.8020978544057,
@@ -26241,7 +26252,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "bernadettesurprise.3297",
             "profession": "Chronomancer",
             "composite_score": 1605.9919491857138,
@@ -26252,7 +26263,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1602.1620273851959,
@@ -26263,7 +26274,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Johnny.5478",
             "profession": "Specter",
             "composite_score": 1599.2033806268305,
@@ -26274,7 +26285,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "OPness.3215",
             "profession": "Spellbreaker",
             "composite_score": 1582.9532068538938,
@@ -26285,7 +26296,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "Huge.5891",
             "profession": "Willbender",
             "composite_score": 1579.5543815371254,
@@ -26296,7 +26307,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "Death by Omen.1734",
             "profession": "Spellbreaker",
             "composite_score": 1579.2073514240922,
@@ -26307,7 +26318,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Asterisk.9730",
             "profession": "Herald",
             "composite_score": 1571.5437467460642,
@@ -26318,7 +26329,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Eliare.4069",
             "profession": "Chronomancer",
             "composite_score": 1571.325965812699,
@@ -26329,7 +26340,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "SHIPZZ.4503",
             "profession": "Specter",
             "composite_score": 1567.2670113739327,
@@ -26340,7 +26351,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Muted.8591",
             "profession": "Chronomancer",
             "composite_score": 1564.2282876550307,
@@ -26351,7 +26362,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "Basic.9204",
             "profession": "Chronomancer",
             "composite_score": 1555.0872543079438,
@@ -26362,7 +26373,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Lozen.7623",
             "profession": "Firebrand",
             "composite_score": 1551.1930960435266,
@@ -26373,7 +26384,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Batoosai.4358",
             "profession": "Specter",
             "composite_score": 1545.457045322788,
@@ -26384,7 +26395,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Mellis.8451",
             "profession": "Condi Firebrand",
             "composite_score": 1544.6978594416144,
@@ -26395,7 +26406,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "ParaldaWind.4523",
             "profession": "Condi Firebrand",
             "composite_score": 1518.4180889495992,
@@ -26406,7 +26417,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "Malek.9417",
             "profession": "Condi Firebrand",
             "composite_score": 1506.2841878411393,
@@ -26417,7 +26428,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "IClappBuns.2587",
             "profession": "Chronomancer",
             "composite_score": 1500.5688507545005,
@@ -26428,7 +26439,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1492.8707144281145,
@@ -26439,7 +26450,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Ysoserious.9135",
             "profession": "Dragonhunter",
             "composite_score": 1488.8863759612493,
@@ -26450,7 +26461,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "lcuocikny.3814",
             "profession": "Firebrand",
             "composite_score": 1487.40165540467,
@@ -26461,7 +26472,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "pariah.6937",
             "profession": "Chronomancer",
             "composite_score": 1482.4717526403049,
@@ -26472,7 +26483,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "Coileddarknight.9528",
             "profession": "Berserker",
             "composite_score": 1477.1820781267486,
@@ -26483,7 +26494,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "adrielle.2109",
             "profession": "Firebrand",
             "composite_score": 1477.0667327850872,
@@ -26494,7 +26505,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "composite_score": 1469.0992272898766,
@@ -26505,7 +26516,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "OdinNevon.7305",
             "profession": "Spellbreaker",
             "composite_score": 1458.8239034516391,
@@ -26516,7 +26527,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "Jeff.7219",
             "profession": "Druid",
             "composite_score": 1454.4997016467473,
@@ -26527,7 +26538,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "Xhil.9316",
             "profession": "Druid",
             "composite_score": 1447.3870314352632,
@@ -26538,7 +26549,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Kenlos.2354",
             "profession": "Druid",
             "composite_score": 1447.360411495316,
@@ -26549,7 +26560,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "composite_score": 1445.8962307462925,
@@ -26560,7 +26571,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Graven.4325",
             "profession": "Chronomancer",
             "composite_score": 1440.5511536412394,
@@ -26571,7 +26582,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Malek.9417",
             "profession": "Dragonhunter",
             "composite_score": 1438.494011630604,
@@ -26582,7 +26593,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
             "composite_score": 1432.9601961988544,
@@ -26593,7 +26604,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1432.1550820373786,
@@ -26604,7 +26615,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "IronOre.7826",
             "profession": "Druid",
             "composite_score": 1429.3462654865525,
@@ -26615,7 +26626,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1426.120135260886,
@@ -26626,7 +26637,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 85,
             "account_name": "Hydrason.4612",
             "profession": "Chronomancer",
             "composite_score": 1425.8648848129812,
@@ -26637,7 +26648,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 86,
             "account_name": "Bother.9415",
             "profession": "Druid",
             "composite_score": 1425.331927412856,
@@ -26648,7 +26659,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 87,
             "account_name": "FrozenDelicious.3690",
             "profession": "Druid",
             "composite_score": 1425.2007846011636,
@@ -26659,7 +26670,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 88,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1422.0405408886395,
@@ -26670,7 +26681,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 89,
             "account_name": "J WreckX.7648",
             "profession": "Druid",
             "composite_score": 1420.8219065218052,
@@ -26681,7 +26692,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 89,
+            "rank": 90,
             "account_name": "Mandar.9813",
             "profession": "Druid",
             "composite_score": 1419.0520075915545,
@@ -26692,7 +26703,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 90,
+            "rank": 91,
             "account_name": "Mini.1786",
             "profession": "Druid",
             "composite_score": 1417.9609465163928,
@@ -26703,7 +26714,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 91,
+            "rank": 92,
             "account_name": "Huge.5891",
             "profession": "Dragonhunter",
             "composite_score": 1415.8862666963305,
@@ -26714,7 +26725,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 93,
             "account_name": "amends.3469",
             "profession": "Druid",
             "composite_score": 1413.8579035181624,
@@ -26725,7 +26736,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 94,
             "account_name": "Nictheman.9754",
             "profession": "Spellbreaker",
             "composite_score": 1413.6494526196043,
@@ -26736,7 +26747,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 95,
             "account_name": "ParaldaWind.4523",
             "profession": "Druid",
             "composite_score": 1412.154242430866,
@@ -26747,7 +26758,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 95,
+            "rank": 96,
             "account_name": "waschy.6093",
             "profession": "Dragonhunter",
             "composite_score": 1409.477002989579,
@@ -26758,7 +26769,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 96,
+            "rank": 97,
             "account_name": "Pieswithattitude.2357",
             "profession": "Spellbreaker",
             "composite_score": 1406.2269354632344,
@@ -26769,7 +26780,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 97,
+            "rank": 98,
             "account_name": "TTRF.8473",
             "profession": "Firebrand",
             "composite_score": 1405.324254633564,
@@ -26780,7 +26791,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 98,
+            "rank": 99,
             "account_name": "Johnny.5478",
             "profession": "Druid",
             "composite_score": 1405.2215520839734,
@@ -26791,7 +26802,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 99,
+            "rank": 100,
             "account_name": "waschy.6093",
             "profession": "Condi Firebrand",
             "composite_score": 1403.1703434112294,
@@ -26800,17 +26811,6 @@ const leaderboardData = {
             "average_rank_percent": 77.77777777777779,
             "average_stat_value": 0.2,
             "is_guild_member": true
-          },
-          {
-            "rank": 100,
-            "account_name": "Zalk.5947",
-            "profession": "Dragonhunter",
-            "composite_score": 1402.9934766249232,
-            "glicko_rating": 1391.9859166304298,
-            "games_played": 1,
-            "average_rank_percent": 71.42857142857143,
-            "average_stat_value": 0.3,
-            "is_guild_member": false
           }
         ],
         "Might": [
@@ -28039,6 +28039,17 @@ const leaderboardData = {
           },
           {
             "rank": 12,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1872.5535538845998,
+            "glicko_rating": 1740.1904982793053,
+            "games_played": 3,
+            "average_rank_percent": 14.516716509470134,
+            "average_stat_value": 309.2464266633475,
+            "is_guild_member": true
+          },
+          {
+            "rank": 13,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "composite_score": 1868.9696818708826,
@@ -28049,7 +28060,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "composite_score": 1862.6667141160663,
@@ -28060,7 +28071,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1854.0418428139808,
@@ -28071,7 +28082,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Daasen.3719",
             "profession": "Catalyst",
             "composite_score": 1835.1786634406358,
@@ -28082,7 +28093,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "composite_score": 1831.0052982924965,
@@ -28093,7 +28104,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1830.1125131181166,
@@ -28104,7 +28115,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1824.7184982295946,
@@ -28115,7 +28126,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "Interpretor.3091",
             "profession": "Berserker",
             "composite_score": 1824.2637084378102,
@@ -28126,7 +28137,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1823.789145176818,
@@ -28137,7 +28148,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Lasthope.7943",
             "profession": "Guardian",
             "composite_score": 1822.081902065632,
@@ -28148,7 +28159,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Montana.8032",
             "profession": "Catalyst",
             "composite_score": 1820.4434741868213,
@@ -28159,7 +28170,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1817.5934581583058,
@@ -28170,7 +28181,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 24,
+            "rank": 25,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1814.0309381226614,
@@ -28181,7 +28192,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
+            "rank": 26,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1807.936644460277,
@@ -28192,7 +28203,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 26,
+            "rank": 27,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1799.8030938673035,
@@ -28203,7 +28214,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 27,
+            "rank": 28,
             "account_name": "Chakkkka.2504",
             "profession": "Catalyst",
             "composite_score": 1797.9995979622615,
@@ -28214,7 +28225,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 28,
+            "rank": 29,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1792.0820829959716,
@@ -28225,7 +28236,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 29,
+            "rank": 30,
             "account_name": "Interpretor.3091",
             "profession": "Warrior",
             "composite_score": 1791.5188434293336,
@@ -28236,7 +28247,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 30,
+            "rank": 31,
             "account_name": "ParaldaWind.4523",
             "profession": "Condi Firebrand",
             "composite_score": 1789.0932978731503,
@@ -28247,7 +28258,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "Muted.8591",
             "profession": "Reaper",
             "composite_score": 1786.7884049775578,
@@ -28258,7 +28269,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 33,
             "account_name": "Huge.5891",
             "profession": "Dragonhunter",
             "composite_score": 1786.2258713123213,
@@ -28269,7 +28280,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 34,
             "account_name": "ParaldaWind.4523",
             "profession": "Catalyst",
             "composite_score": 1784.5332722275255,
@@ -28280,7 +28291,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 34,
+            "rank": 35,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1783.399130926637,
@@ -28291,7 +28302,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 35,
+            "rank": 36,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1781.9682578018615,
@@ -28302,7 +28313,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1781.9682578018615,
@@ -28313,7 +28324,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "Soothsayer.9206",
             "profession": "Untamed",
             "composite_score": 1779.8996977811648,
@@ -28324,7 +28335,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "composite_score": 1779.180198643531,
@@ -28335,7 +28346,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1776.7689042363265,
@@ -28346,7 +28357,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1775.4817392067077,
@@ -28357,7 +28368,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1772.8074919959186,
@@ -28368,7 +28379,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1770.0931910163802,
@@ -28379,7 +28390,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 43,
+            "rank": 44,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1769.1431856735414,
@@ -28390,7 +28401,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 44,
+            "rank": 45,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1767.9408351615116,
@@ -28401,7 +28412,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 45,
+            "rank": 46,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1767.0820133672046,
@@ -28412,7 +28423,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 46,
+            "rank": 47,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1765.9369176414616,
@@ -28423,7 +28434,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1756.178710587305,
@@ -28434,7 +28445,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "Zalk.5947",
             "profession": "Dragonhunter",
             "composite_score": 1743.084827578536,
@@ -28445,7 +28456,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "Bleebt.4108",
             "profession": "Vindicator",
             "composite_score": 1732.563122674765,
@@ -28456,7 +28467,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Stash.8401",
             "profession": "Catalyst",
             "composite_score": 1731.3246839504302,
@@ -28467,7 +28478,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "BlueFlame.8673",
             "profession": "Catalyst",
             "composite_score": 1729.2909247432394,
@@ -28478,7 +28489,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Travychu.5432",
             "profession": "Dragonhunter",
             "composite_score": 1725.2852639576788,
@@ -28489,7 +28500,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "killsfun.2436",
             "profession": "Reaper",
             "composite_score": 1725.012128938356,
@@ -28500,7 +28511,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "composite_score": 1706.8283057388137,
@@ -28511,7 +28522,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Vindicator",
             "composite_score": 1706.5335461185741,
@@ -28522,7 +28533,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Interpretor.3091",
             "profession": "Scourge",
             "composite_score": 1705.131750640839,
@@ -28533,7 +28544,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1701.989006348093,
@@ -28544,7 +28555,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Cruelty.9730",
             "profession": "Scourge",
             "composite_score": 1701.171126906722,
@@ -28555,7 +28566,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "acumen.1980",
             "profession": "Catalyst",
             "composite_score": 1697.9486648777822,
@@ -28566,7 +28577,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Steampunkengineer.7146",
             "profession": "Condi Firebrand",
             "composite_score": 1697.9349395371064,
@@ -28577,7 +28588,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Nictheman.9754",
             "profession": "Warrior",
             "composite_score": 1697.3428730811615,
@@ -28588,7 +28599,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Syde.1863",
             "profession": "Reaper",
             "composite_score": 1694.0390462484272,
@@ -28599,7 +28610,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "dobbeh.7382",
             "profession": "Berserker",
             "composite_score": 1692.056771944079,
@@ -28610,7 +28621,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "Luke.9108",
             "profession": "Scourge",
             "composite_score": 1689.697204078061,
@@ -28621,7 +28632,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1685.5208076254587,
@@ -28632,7 +28643,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Uriah.7082",
             "profession": "Scourge",
             "composite_score": 1684.9523865016727,
@@ -28643,7 +28654,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "composite_score": 1684.579506189162,
@@ -28654,7 +28665,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "emz.3571",
             "profession": "Catalyst",
             "composite_score": 1676.5591492476697,
@@ -28665,7 +28676,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "Lasthope.7943",
             "profession": "Willbender",
             "composite_score": 1675.9605870852888,
@@ -28676,7 +28687,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "Freelanced.6084",
             "profession": "Holosmith",
             "composite_score": 1666.8955181547167,
@@ -28687,7 +28698,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Mellis.8451",
             "profession": "Scourge",
             "composite_score": 1665.9392175667344,
@@ -28698,7 +28709,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Malek.9417",
             "profession": "Condi Firebrand",
             "composite_score": 1662.0472138461405,
@@ -28709,7 +28720,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "emz.3571",
             "profession": "Weaver",
             "composite_score": 1653.1370287485329,
@@ -28720,7 +28731,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "Death by Omen.1734",
             "profession": "Spellbreaker",
             "composite_score": 1653.0574070791292,
@@ -28731,7 +28742,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "Mellis.8451",
             "profession": "Reaper",
             "composite_score": 1649.58726064797,
@@ -28742,7 +28753,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "synco.8132",
             "profession": "Scourge",
             "composite_score": 1647.9954610209693,
@@ -28753,7 +28764,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Mes.1906",
             "profession": "Scourge",
             "composite_score": 1647.3212522379015,
@@ -28764,7 +28775,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Nero.6195",
             "profession": "Scourge",
             "composite_score": 1645.8675341015196,
@@ -28775,7 +28786,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Bother.9415",
             "profession": "Scourge",
             "composite_score": 1645.4939110830917,
@@ -28786,7 +28797,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "Pieswithattitude.2357",
             "profession": "Scrapper",
             "composite_score": 1640.9323199728992,
@@ -28797,7 +28808,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "PelloJello.8241",
             "profession": "Catalyst",
             "composite_score": 1636.7565657434986,
@@ -28808,7 +28819,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "Nictheman.9754",
             "profession": "Support Spb",
             "composite_score": 1636.1738963482192,
@@ -28819,7 +28830,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 83,
+            "rank": 84,
             "account_name": "DanDizh.8416",
             "profession": "Scourge",
             "composite_score": 1634.862495493262,
@@ -28830,7 +28841,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 85,
             "account_name": "Huge.5891",
             "profession": "Willbender",
             "composite_score": 1633.031224578762,
@@ -28841,7 +28852,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 86,
             "account_name": "Luke.9108",
             "profession": "Condi Firebrand",
             "composite_score": 1630.8284553819863,
@@ -28852,7 +28863,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 87,
             "account_name": "Ysoserious.9135",
             "profession": "Dragonhunter",
             "composite_score": 1622.078257754473,
@@ -28863,7 +28874,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 88,
             "account_name": "Malek.9417",
             "profession": "Dragonhunter",
             "composite_score": 1622.0058724811051,
@@ -28874,7 +28885,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 88,
+            "rank": 89,
             "account_name": "Havocus.3682",
             "profession": "Scourge",
             "composite_score": 1618.9887225068865,
@@ -28885,7 +28896,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 90,
             "account_name": "Freelanced.6084",
             "profession": "Scourge",
             "composite_score": 1618.1601193959377,
@@ -28896,7 +28907,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 90,
+            "rank": 91,
             "account_name": "Basic.9204",
             "profession": "Spellbreaker",
             "composite_score": 1615.0021637662353,
@@ -28907,7 +28918,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 92,
             "account_name": "FlawedDjinn.3217",
             "profession": "Scourge",
             "composite_score": 1613.3766461707696,
@@ -28918,7 +28929,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 93,
             "account_name": "Cruelty.9730",
             "profession": "Reaper",
             "composite_score": 1609.1253775298737,
@@ -28929,7 +28940,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 94,
             "account_name": "Ayemes.5892",
             "profession": "Holosmith",
             "composite_score": 1608.2950391279433,
@@ -28940,7 +28951,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 94,
+            "rank": 95,
             "account_name": "General Moo.7930",
             "profession": "Reaper",
             "composite_score": 1608.1777545917366,
@@ -28951,7 +28962,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 96,
             "account_name": "Mellis.8451",
             "profession": "Condi Firebrand",
             "composite_score": 1603.9292758637944,
@@ -28962,7 +28973,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 96,
+            "rank": 97,
             "account_name": "Coileddarknight.9528",
             "profession": "Berserker",
             "composite_score": 1587.8845916251921,
@@ -28973,7 +28984,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 97,
+            "rank": 98,
             "account_name": "Nictheman.9754",
             "profession": "Tempest",
             "composite_score": 1586.7585437392372,
@@ -28984,7 +28995,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 99,
             "account_name": "Nennius.9627",
             "profession": "Condi Firebrand",
             "composite_score": 1586.5644912155412,
@@ -28995,7 +29006,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 99,
+            "rank": 100,
             "account_name": "FlawedDjinn.3217",
             "profession": "Condi Firebrand",
             "composite_score": 1583.840215982226,
@@ -29004,17 +29015,6 @@ const leaderboardData = {
             "average_rank_percent": 38.23529411764706,
             "average_stat_value": 187.30707619445604,
             "is_guild_member": true
-          },
-          {
-            "rank": 100,
-            "account_name": "yhanbruno.5873",
-            "profession": "Catalyst",
-            "composite_score": 1576.7428844639796,
-            "glicko_rating": 1511.674217411876,
-            "games_played": 2,
-            "average_rank_percent": 41.22340425531915,
-            "average_stat_value": 206.5623303892128,
-            "is_guild_member": false
           }
         ],
         "Burst Consistency": [
@@ -30725,6 +30725,378 @@ const leaderboardData = {
             }
           ]
         },
+        "Druid": {
+          "metrics": [
+            "Healing",
+            "Cleanses"
+          ],
+          "weights": [
+            0.6,
+            0.4
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "modus.7921",
+              "composite_score": 1998.411553211414,
+              "glicko_rating": 1887.6874875364285,
+              "games_played": 7,
+              "average_rank_percent": 39.65986394557823,
+              "key_stats": "Heal:2471.8 Clea:1.5",
+              "is_guild_member": true
+            },
+            {
+              "rank": 2,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1902.722890910579,
+              "glicko_rating": 1818.0403287709373,
+              "games_played": 4,
+              "average_rank_percent": 50.47619047619048,
+              "key_stats": "Heal:1110.1 Clea:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 3,
+              "account_name": "Astro Bear.6305",
+              "composite_score": 1900.893728672216,
+              "glicko_rating": 1813.4304309773556,
+              "games_played": 4,
+              "average_rank_percent": 47.38095238095238,
+              "key_stats": "Heal:2300.6 Clea:1.3",
+              "is_guild_member": true
+            },
+            {
+              "rank": 4,
+              "account_name": "Uriah.7082",
+              "composite_score": 1879.8407729254639,
+              "glicko_rating": 1792.6199819154085,
+              "games_played": 3,
+              "average_rank_percent": 37.93650793650793,
+              "key_stats": "Heal:1639.6 Clea:0.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 5,
+              "account_name": "Hiraldo.7954",
+              "composite_score": 1862.2411521174906,
+              "glicko_rating": 1797.4981268910099,
+              "games_played": 6,
+              "average_rank_percent": 74.68253968253968,
+              "key_stats": "Heal:2307.2 Clea:1.1",
+              "is_guild_member": true
+            },
+            {
+              "rank": 6,
+              "account_name": "synco.8132",
+              "composite_score": 1854.729942607607,
+              "glicko_rating": 1811.2596723884437,
+              "games_played": 4,
+              "average_rank_percent": 79.76190476190476,
+              "key_stats": "Heal:1499.5 Clea:1.3",
+              "is_guild_member": true
+            },
+            {
+              "rank": 7,
+              "account_name": "Pieswithattitude.2357",
+              "composite_score": 1846.5369359808094,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 23.809523809523807,
+              "key_stats": "Clea:1.4",
+              "is_guild_member": true
+            },
+            {
+              "rank": 8,
+              "account_name": "Johnny.5478",
+              "composite_score": 1840.057075820505,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 27.142857142857142,
+              "key_stats": "Heal:1868.6 Clea:0.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 9,
+              "account_name": "Foodels.7358",
+              "composite_score": 1836.1228750088915,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 29.166666666666664,
+              "key_stats": "Heal:1846.3 Clea:1.2",
+              "is_guild_member": false
+            },
+            {
+              "rank": 10,
+              "account_name": "Malek.9417",
+              "composite_score": 1826.7139975833554,
+              "glicko_rating": 1776.0191182436533,
+              "games_played": 3,
+              "average_rank_percent": 71.66666666666667,
+              "key_stats": "Heal:951.4 Clea:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 11,
+              "account_name": "J WreckX.7648",
+              "composite_score": 1816.9505116183984,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 44.04761904761905,
+              "key_stats": "Clea:1.5",
+              "is_guild_member": false
+            },
+            {
+              "rank": 12,
+              "account_name": "Raven Paradox.1860",
+              "composite_score": 1809.3240247744898,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 52.857142857142854,
+              "key_stats": "Clea:1.3",
+              "is_guild_member": false
+            },
+            {
+              "rank": 13,
+              "account_name": "Jax Blake.7250",
+              "composite_score": 1800.4608103342714,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 63.0952380952381,
+              "key_stats": "Heal:1118.3 Clea:0.8",
+              "is_guild_member": false
+            },
+            {
+              "rank": 14,
+              "account_name": "amends.3469",
+              "composite_score": 1759.5243815773015,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 20.0,
+              "key_stats": "Heal:1611.1 Clea:1.2",
+              "is_guild_member": false
+            },
+            {
+              "rank": 15,
+              "account_name": "ParaldaWind.4523",
+              "composite_score": 1759.5243815773015,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 20.0,
+              "key_stats": "Heal:1634.3 Clea:1.5",
+              "is_guild_member": true
+            },
+            {
+              "rank": 16,
+              "account_name": "Soothsayer.9206",
+              "composite_score": 1754.6820458241393,
+              "glicko_rating": 1690.526119398885,
+              "games_played": 2,
+              "average_rank_percent": 50.0,
+              "key_stats": "Heal:2051.5 Clea:1.2",
+              "is_guild_member": true
+            },
+            {
+              "rank": 17,
+              "account_name": "Mandar.9813",
+              "composite_score": 1743.0350031266046,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 28.57142857142857,
+              "key_stats": "Heal:2231.9 Clea:1.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 18,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1743.0350031266046,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 28.57142857142857,
+              "key_stats": "Heal:1497.1 Clea:0.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 19,
+              "account_name": "Jeff.7219",
+              "composite_score": 1733.8742373206617,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 33.33333333333333,
+              "key_stats": "Heal:2048.8 Clea:0.8",
+              "is_guild_member": false
+            },
+            {
+              "rank": 20,
+              "account_name": "ThiagoW.4810",
+              "composite_score": 1726.3843951977228,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 40.0,
+              "key_stats": "Heal:1591.8 Clea:1.4",
+              "is_guild_member": false
+            },
+            {
+              "rank": 21,
+              "account_name": "SilverBlade Hero.8974",
+              "composite_score": 1723.936638574375,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 42.857142857142854,
+              "key_stats": "Heal:1459.9 Clea:1.1",
+              "is_guild_member": false
+            },
+            {
+              "rank": 22,
+              "account_name": "FrozenDelicious.3690",
+              "composite_score": 1717.817247016005,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 50.0,
+              "key_stats": "Heal:1121.7 Clea:0.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 23,
+              "account_name": "Xhil.9316",
+              "composite_score": 1711.6978554576351,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 57.14285714285714,
+              "key_stats": "Heal:1492.9 Clea:0.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 24,
+              "account_name": "IronOre.7826",
+              "composite_score": 1711.6978554576351,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 57.14285714285714,
+              "key_stats": "Heal:2162.2 Clea:1.6",
+              "is_guild_member": false
+            },
+            {
+              "rank": 25,
+              "account_name": "Mini.1786",
+              "composite_score": 1709.2500988342874,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 60.0,
+              "key_stats": "Heal:1469.9 Clea:1.4",
+              "is_guild_member": false
+            },
+            {
+              "rank": 26,
+              "account_name": "Bother.9415",
+              "composite_score": 1701.8115569998618,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 66.66666666666666,
+              "key_stats": "Heal:1793.3 Clea:0.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 27,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1700.0311659502788,
+              "glicko_rating": 1695.3287913738814,
+              "games_played": 3,
+              "average_rank_percent": 88.88888888888887,
+              "key_stats": "Heal:1873.8 Clea:1.3",
+              "is_guild_member": true
+            },
+            {
+              "rank": 28,
+              "account_name": "Stan.9684",
+              "composite_score": 1692.6507911939188,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 71.42857142857143,
+              "key_stats": "Heal:1823.8 Clea:1.7",
+              "is_guild_member": false
+            },
+            {
+              "rank": 29,
+              "account_name": "pariah.6937",
+              "composite_score": 1676.161412743222,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 80.0,
+              "key_stats": "Heal:2548.1 Clea:1.7",
+              "is_guild_member": true
+            },
+            {
+              "rank": 30,
+              "account_name": "Lozen.7623",
+              "composite_score": 1656.9742587917237,
+              "glicko_rating": 1626.6822124764933,
+              "games_played": 2,
+              "average_rank_percent": 75.0,
+              "key_stats": "Heal:1335.0 Clea:0.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 31,
+              "account_name": "TIOdoSUCO.9764",
+              "composite_score": 1646.7996040242012,
+              "glicko_rating": 1645.6838132636954,
+              "games_played": 1,
+              "average_rank_percent": 80.0,
+              "key_stats": "Clea:0.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 32,
+              "account_name": "TigerSpirit.2194",
+              "composite_score": 1631.1030613244943,
+              "glicko_rating": 1639.5724413666878,
+              "games_played": 6,
+              "average_rank_percent": 94.44444444444444,
+              "key_stats": "Heal:921.7 Clea:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 33,
+              "account_name": "Hideus.3259",
+              "composite_score": 1620.698328262487,
+              "glicko_rating": 1633.190544985312,
+              "games_played": 1,
+              "average_rank_percent": 85.71428571428571,
+              "key_stats": "Clea:0.6",
+              "is_guild_member": false
+            },
+            {
+              "rank": 34,
+              "account_name": "Igure.2063",
+              "composite_score": 1589.5921758770623,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Heal:1009.6 Clea:0.7",
+              "is_guild_member": false
+            },
+            {
+              "rank": 35,
+              "account_name": "HuMbErTerA.4253",
+              "composite_score": 1482.599880474786,
+              "glicko_rating": 1570.020996413104,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Heal:774.5 Clea:0.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 36,
+              "account_name": "Kenlos.2354",
+              "composite_score": 1420.972750892259,
+              "glicko_rating": 1509.9559057786003,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Clea:0.3",
+              "is_guild_member": true
+            }
+          ]
+        },
         "Chronomancer": {
           "metrics": [
             "Stability",
@@ -31213,378 +31585,6 @@ const leaderboardData = {
               "games_played": 1,
               "average_rank_percent": 100.0,
               "key_stats": "Stab:4.4 Clea:0.2 DPS:504.0",
-              "is_guild_member": true
-            }
-          ]
-        },
-        "Druid": {
-          "metrics": [
-            "Healing",
-            "Cleanses"
-          ],
-          "weights": [
-            0.6,
-            0.4
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "modus.7921",
-              "composite_score": 1998.411553211414,
-              "glicko_rating": 1887.6874875364285,
-              "games_played": 7,
-              "average_rank_percent": 39.65986394557823,
-              "key_stats": "Heal:2471.8 Clea:1.5",
-              "is_guild_member": true
-            },
-            {
-              "rank": 2,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1902.722890910579,
-              "glicko_rating": 1818.0403287709373,
-              "games_played": 4,
-              "average_rank_percent": 50.47619047619048,
-              "key_stats": "Heal:1110.1 Clea:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 3,
-              "account_name": "Astro Bear.6305",
-              "composite_score": 1900.893728672216,
-              "glicko_rating": 1813.4304309773556,
-              "games_played": 4,
-              "average_rank_percent": 47.38095238095238,
-              "key_stats": "Heal:2300.6 Clea:1.3",
-              "is_guild_member": true
-            },
-            {
-              "rank": 4,
-              "account_name": "Uriah.7082",
-              "composite_score": 1879.8407729254639,
-              "glicko_rating": 1792.6199819154085,
-              "games_played": 3,
-              "average_rank_percent": 37.93650793650793,
-              "key_stats": "Heal:1639.6 Clea:0.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 5,
-              "account_name": "Hiraldo.7954",
-              "composite_score": 1862.2411521174906,
-              "glicko_rating": 1797.4981268910099,
-              "games_played": 6,
-              "average_rank_percent": 74.68253968253968,
-              "key_stats": "Heal:2307.2 Clea:1.1",
-              "is_guild_member": true
-            },
-            {
-              "rank": 6,
-              "account_name": "synco.8132",
-              "composite_score": 1854.729942607607,
-              "glicko_rating": 1811.2596723884437,
-              "games_played": 4,
-              "average_rank_percent": 79.76190476190476,
-              "key_stats": "Heal:1499.5 Clea:1.3",
-              "is_guild_member": true
-            },
-            {
-              "rank": 7,
-              "account_name": "Pieswithattitude.2357",
-              "composite_score": 1846.5369359808094,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 23.809523809523807,
-              "key_stats": "Clea:1.4",
-              "is_guild_member": true
-            },
-            {
-              "rank": 8,
-              "account_name": "Johnny.5478",
-              "composite_score": 1840.057075820505,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 27.142857142857142,
-              "key_stats": "Heal:1868.6 Clea:0.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 9,
-              "account_name": "Foodels.7358",
-              "composite_score": 1836.1228750088915,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 29.166666666666664,
-              "key_stats": "Heal:1846.3 Clea:1.2",
-              "is_guild_member": false
-            },
-            {
-              "rank": 10,
-              "account_name": "Malek.9417",
-              "composite_score": 1826.7139975833554,
-              "glicko_rating": 1776.0191182436533,
-              "games_played": 3,
-              "average_rank_percent": 71.66666666666667,
-              "key_stats": "Heal:951.4 Clea:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 11,
-              "account_name": "J WreckX.7648",
-              "composite_score": 1816.9505116183984,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 44.04761904761905,
-              "key_stats": "Clea:1.5",
-              "is_guild_member": false
-            },
-            {
-              "rank": 12,
-              "account_name": "Raven Paradox.1860",
-              "composite_score": 1809.3240247744898,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 52.857142857142854,
-              "key_stats": "Clea:1.3",
-              "is_guild_member": false
-            },
-            {
-              "rank": 13,
-              "account_name": "Jax Blake.7250",
-              "composite_score": 1800.4608103342714,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 63.0952380952381,
-              "key_stats": "Heal:1118.3 Clea:0.8",
-              "is_guild_member": false
-            },
-            {
-              "rank": 14,
-              "account_name": "amends.3469",
-              "composite_score": 1759.5243815773015,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 20.0,
-              "key_stats": "Heal:1611.1 Clea:1.2",
-              "is_guild_member": false
-            },
-            {
-              "rank": 15,
-              "account_name": "ParaldaWind.4523",
-              "composite_score": 1759.5243815773015,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 20.0,
-              "key_stats": "Heal:1634.3 Clea:1.5",
-              "is_guild_member": true
-            },
-            {
-              "rank": 16,
-              "account_name": "Soothsayer.9206",
-              "composite_score": 1754.6820458241393,
-              "glicko_rating": 1690.526119398885,
-              "games_played": 2,
-              "average_rank_percent": 50.0,
-              "key_stats": "Heal:2051.5 Clea:1.2",
-              "is_guild_member": true
-            },
-            {
-              "rank": 17,
-              "account_name": "Mandar.9813",
-              "composite_score": 1743.0350031266046,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 28.57142857142857,
-              "key_stats": "Heal:2231.9 Clea:1.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 18,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1743.0350031266046,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 28.57142857142857,
-              "key_stats": "Heal:1497.1 Clea:0.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 19,
-              "account_name": "Jeff.7219",
-              "composite_score": 1733.8742373206617,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 33.33333333333333,
-              "key_stats": "Heal:2048.8 Clea:0.8",
-              "is_guild_member": false
-            },
-            {
-              "rank": 20,
-              "account_name": "ThiagoW.4810",
-              "composite_score": 1726.3843951977228,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 40.0,
-              "key_stats": "Heal:1591.8 Clea:1.4",
-              "is_guild_member": false
-            },
-            {
-              "rank": 21,
-              "account_name": "SilverBlade Hero.8974",
-              "composite_score": 1723.936638574375,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 42.857142857142854,
-              "key_stats": "Heal:1459.9 Clea:1.1",
-              "is_guild_member": false
-            },
-            {
-              "rank": 22,
-              "account_name": "FrozenDelicious.3690",
-              "composite_score": 1717.817247016005,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 50.0,
-              "key_stats": "Heal:1121.7 Clea:0.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 23,
-              "account_name": "Xhil.9316",
-              "composite_score": 1711.6978554576351,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 57.14285714285714,
-              "key_stats": "Heal:1492.9 Clea:0.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 24,
-              "account_name": "IronOre.7826",
-              "composite_score": 1711.6978554576351,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 57.14285714285714,
-              "key_stats": "Heal:2162.2 Clea:1.6",
-              "is_guild_member": false
-            },
-            {
-              "rank": 25,
-              "account_name": "Mini.1786",
-              "composite_score": 1709.2500988342874,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 60.0,
-              "key_stats": "Heal:1469.9 Clea:1.4",
-              "is_guild_member": false
-            },
-            {
-              "rank": 26,
-              "account_name": "Bother.9415",
-              "composite_score": 1701.8115569998618,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 66.66666666666666,
-              "key_stats": "Heal:1793.3 Clea:0.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 27,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1700.0311659502788,
-              "glicko_rating": 1695.3287913738814,
-              "games_played": 3,
-              "average_rank_percent": 88.88888888888887,
-              "key_stats": "Heal:1873.8 Clea:1.3",
-              "is_guild_member": true
-            },
-            {
-              "rank": 28,
-              "account_name": "Stan.9684",
-              "composite_score": 1692.6507911939188,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 71.42857142857143,
-              "key_stats": "Heal:1823.8 Clea:1.7",
-              "is_guild_member": false
-            },
-            {
-              "rank": 29,
-              "account_name": "pariah.6937",
-              "composite_score": 1676.161412743222,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 80.0,
-              "key_stats": "Heal:2548.1 Clea:1.7",
-              "is_guild_member": true
-            },
-            {
-              "rank": 30,
-              "account_name": "Lozen.7623",
-              "composite_score": 1656.9742587917237,
-              "glicko_rating": 1626.6822124764933,
-              "games_played": 2,
-              "average_rank_percent": 75.0,
-              "key_stats": "Heal:1335.0 Clea:0.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 31,
-              "account_name": "TIOdoSUCO.9764",
-              "composite_score": 1646.7996040242012,
-              "glicko_rating": 1645.6838132636954,
-              "games_played": 1,
-              "average_rank_percent": 80.0,
-              "key_stats": "Clea:0.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 32,
-              "account_name": "TigerSpirit.2194",
-              "composite_score": 1631.1030613244943,
-              "glicko_rating": 1639.5724413666878,
-              "games_played": 6,
-              "average_rank_percent": 94.44444444444444,
-              "key_stats": "Heal:921.7 Clea:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 33,
-              "account_name": "Hideus.3259",
-              "composite_score": 1620.698328262487,
-              "glicko_rating": 1633.190544985312,
-              "games_played": 1,
-              "average_rank_percent": 85.71428571428571,
-              "key_stats": "Clea:0.6",
-              "is_guild_member": false
-            },
-            {
-              "rank": 34,
-              "account_name": "Igure.2063",
-              "composite_score": 1589.5921758770623,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Heal:1009.6 Clea:0.7",
-              "is_guild_member": false
-            },
-            {
-              "rank": 35,
-              "account_name": "HuMbErTerA.4253",
-              "composite_score": 1482.599880474786,
-              "glicko_rating": 1570.020996413104,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Heal:774.5 Clea:0.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 36,
-              "account_name": "Kenlos.2354",
-              "composite_score": 1420.972750892259,
-              "glicko_rating": 1509.9559057786003,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Clea:0.3",
               "is_guild_member": true
             }
           ]
@@ -32469,6 +32469,17 @@ const leaderboardData = {
         },
         {
           "rank": 71,
+          "account_name": "ParaldaWind.4523",
+          "profession": "Dragonhunter",
+          "composite_score": 1558.1228205938432,
+          "glicko_rating": 1491.9579249141864,
+          "games_played": 26,
+          "average_rank_percent": 47.7333174727186,
+          "average_stat_value": 4608.943677036668,
+          "is_guild_member": true
+        },
+        {
+          "rank": 72,
           "account_name": "Pieswithattitude.2357",
           "profession": "Holosmith",
           "composite_score": 1557.741820987163,
@@ -32479,7 +32490,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 72,
+          "rank": 73,
           "account_name": "Pieswithattitude.2357",
           "profession": "Catalyst",
           "composite_score": 1556.6804369139709,
@@ -32490,7 +32501,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 73,
+          "rank": 74,
           "account_name": "acumen.1980",
           "profession": "Catalyst",
           "composite_score": 1556.5405276847125,
@@ -32501,7 +32512,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 74,
+          "rank": 75,
           "account_name": "Jax Blake.7250",
           "profession": "Druid",
           "composite_score": 1556.4644656035216,
@@ -32512,7 +32523,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 75,
+          "rank": 76,
           "account_name": "emz.3571",
           "profession": "Reaper",
           "composite_score": 1556.4584691239118,
@@ -32523,7 +32534,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 76,
+          "rank": 77,
           "account_name": "Stan.9684",
           "profession": "Druid",
           "composite_score": 1555.8472865929086,
@@ -32534,7 +32545,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 77,
+          "rank": 78,
           "account_name": "FlawedDjinn.3217",
           "profession": "Condi Firebrand",
           "composite_score": 1552.6090221316956,
@@ -32545,7 +32556,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 78,
+          "rank": 79,
           "account_name": "Mandar.9813",
           "profession": "Druid",
           "composite_score": 1551.529871295067,
@@ -32556,7 +32567,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 79,
+          "rank": 80,
           "account_name": "Argo.2675",
           "profession": "Chronomancer",
           "composite_score": 1549.550091424661,
@@ -32567,7 +32578,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 80,
+          "rank": 81,
           "account_name": "Interpretor.3091",
           "profession": "Scourge",
           "composite_score": 1547.4967029228235,
@@ -32578,7 +32589,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 81,
+          "rank": 82,
           "account_name": "waschy.6093",
           "profession": "Firebrand",
           "composite_score": 1546.9045033579412,
@@ -32589,7 +32600,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 82,
+          "rank": 83,
           "account_name": "Interpretor.3091",
           "profession": "Berserker",
           "composite_score": 1546.7775044714926,
@@ -32600,7 +32611,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 83,
+          "rank": 84,
           "account_name": "BlueFlame.8673",
           "profession": "Catalyst",
           "composite_score": 1545.7088566645914,
@@ -32611,7 +32622,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 84,
+          "rank": 85,
           "account_name": "Bother.9415",
           "profession": "Druid",
           "composite_score": 1545.4533413164988,
@@ -32622,7 +32633,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 85,
+          "rank": 86,
           "account_name": "DanDizh.8416",
           "profession": "Scourge",
           "composite_score": 1545.1063092660377,
@@ -32633,7 +32644,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 86,
+          "rank": 87,
           "account_name": "aznsleeper.5896",
           "profession": "Firebrand",
           "composite_score": 1544.5523954111643,
@@ -32644,7 +32655,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 87,
+          "rank": 88,
           "account_name": "ParaldaWind.4523",
           "profession": "Druid",
           "composite_score": 1542.9534681184725,
@@ -32655,7 +32666,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 88,
+          "rank": 89,
           "account_name": "modus.7921",
           "profession": "Druid",
           "composite_score": 1542.442585440635,
@@ -32663,17 +32674,6 @@ const leaderboardData = {
           "games_played": 52,
           "average_rank_percent": 57.66138918910003,
           "average_stat_value": 276.4059329220255,
-          "is_guild_member": true
-        },
-        {
-          "rank": 89,
-          "account_name": "ParaldaWind.4523",
-          "profession": "Dragonhunter",
-          "composite_score": 1542.1054196194627,
-          "glicko_rating": 1445.5299006094288,
-          "games_played": 98,
-          "average_rank_percent": 47.903780372115854,
-          "average_stat_value": 4457.810830403617,
           "is_guild_member": true
         },
         {
@@ -32884,20 +32884,12 @@ const leaderboardData = {
             "rank": 11,
             "account_name": "synco.8132",
             "profession": "Catalyst",
-            "burst_damage": 107721,
-            "timestamp": "202505280122",
-            "is_guild_member": true
-          },
-          {
-            "rank": 12,
-            "account_name": "synco.8132",
-            "profession": "Catalyst",
             "burst_damage": 106699,
             "timestamp": "202506190151",
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 12,
             "account_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
             "burst_damage": 103082,
@@ -32905,7 +32897,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 13,
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
             "burst_damage": 99100,
@@ -32913,23 +32905,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
-            "account_name": "synco.8132",
-            "profession": "Catalyst",
-            "burst_damage": 98496,
-            "timestamp": "202505272244",
-            "is_guild_member": true
-          },
-          {
-            "rank": 16,
-            "account_name": "Havocus.3682",
-            "profession": "Catalyst",
-            "burst_damage": 98488,
-            "timestamp": "202505280122",
-            "is_guild_member": true
-          },
-          {
-            "rank": 17,
+            "rank": 14,
             "account_name": "Interpretor.3091",
             "profession": "Catalyst",
             "burst_damage": 98337,
@@ -32937,7 +32913,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 18,
+            "rank": 15,
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
             "burst_damage": 95095,
@@ -32945,23 +32921,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "burst_damage": 94476,
-            "timestamp": "202505280122",
-            "is_guild_member": true
-          },
-          {
-            "rank": 20,
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "burst_damage": 93850,
-            "timestamp": "202505280122",
-            "is_guild_member": true
-          },
-          {
-            "rank": 21,
+            "rank": 16,
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
             "burst_damage": 92071,
@@ -32969,7 +32929,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 17,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "burst_damage": 90289,
@@ -32977,7 +32937,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 18,
             "account_name": "ParaldaWind.4523",
             "profession": "Catalyst",
             "burst_damage": 89628,
@@ -32985,7 +32945,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 24,
+            "rank": 19,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "burst_damage": 87572,
@@ -32993,15 +32953,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
-            "account_name": "Dextra.8162",
-            "profession": "Catalyst",
-            "burst_damage": 85971,
-            "timestamp": "202505280122",
-            "is_guild_member": true
-          },
-          {
-            "rank": 26,
+            "rank": 20,
             "account_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
             "burst_damage": 85760,
@@ -33009,7 +32961,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 27,
+            "rank": 21,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "burst_damage": 83507,
@@ -33017,7 +32969,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 28,
+            "rank": 22,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "burst_damage": 83023,
@@ -33025,7 +32977,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 29,
+            "rank": 23,
             "account_name": "Soothsayer.9206",
             "profession": "Catalyst",
             "burst_damage": 82634,
@@ -33033,15 +32985,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 30,
-            "account_name": "Interpretor.3091",
-            "profession": "Warrior",
-            "burst_damage": 81560,
-            "timestamp": "202504282345",
-            "is_guild_member": true
-          },
-          {
-            "rank": 31,
+            "rank": 24,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "burst_damage": 80804,
@@ -33049,7 +32993,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 25,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "burst_damage": 78800,
@@ -33057,23 +33001,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
-            "account_name": "Interpretor.3091",
-            "profession": "Catalyst",
-            "burst_damage": 77095,
-            "timestamp": "202505272244",
-            "is_guild_member": true
-          },
-          {
-            "rank": 34,
-            "account_name": "Dextra.8162",
-            "profession": "Weaver",
-            "burst_damage": 76060,
-            "timestamp": "202505082314",
-            "is_guild_member": true
-          },
-          {
-            "rank": 35,
+            "rank": 26,
             "account_name": "acumen.1980",
             "profession": "Catalyst",
             "burst_damage": 75920,
@@ -33081,23 +33009,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 36,
-            "account_name": "FlawedDjinn.3217",
-            "profession": "Untamed",
-            "burst_damage": 75379,
-            "timestamp": "202505280122",
-            "is_guild_member": true
-          },
-          {
-            "rank": 37,
-            "account_name": "Jeff.7219",
-            "profession": "Catalyst",
-            "burst_damage": 74652,
-            "timestamp": "202505292229",
-            "is_guild_member": false
-          },
-          {
-            "rank": 38,
+            "rank": 27,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "burst_damage": 74501,
@@ -33105,15 +33017,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
-            "account_name": "montjusk.9671",
-            "profession": "Warrior",
-            "burst_damage": 72213,
-            "timestamp": "202504212313",
-            "is_guild_member": false
-          },
-          {
-            "rank": 40,
+            "rank": 28,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "burst_damage": 72114,
@@ -33121,7 +33025,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 41,
+            "rank": 29,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "burst_damage": 71343,
@@ -33129,7 +33033,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 42,
+            "rank": 30,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "burst_damage": 70954,
@@ -33137,7 +33041,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 43,
+            "rank": 31,
             "account_name": "Interpretor.3091",
             "profession": "Catalyst",
             "burst_damage": 70549,
@@ -33145,7 +33049,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 44,
+            "rank": 32,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "burst_damage": 69579,
@@ -33153,15 +33057,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 45,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "burst_damage": 69044,
-            "timestamp": "202504242313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 46,
+            "rank": 33,
             "account_name": "BlueFlame.8673",
             "profession": "Catalyst",
             "burst_damage": 68722,
@@ -33169,15 +33065,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 47,
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "burst_damage": 67975,
-            "timestamp": "202504212313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 48,
+            "rank": 34,
             "account_name": "Stash.8401",
             "profession": "Catalyst",
             "burst_damage": 67666,
@@ -33185,15 +33073,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 49,
-            "account_name": "Bricktus.1682",
-            "profession": "Catalyst",
-            "burst_damage": 67299,
-            "timestamp": "202505272244",
-            "is_guild_member": false
-          },
-          {
-            "rank": 50,
+            "rank": 35,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "burst_damage": 66927,
@@ -33201,7 +33081,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 36,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "burst_damage": 65790,
@@ -33209,63 +33089,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
-            "account_name": "Dextra.8162",
-            "profession": "Weaver",
-            "burst_damage": 65705,
-            "timestamp": "202504242313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 53,
-            "account_name": "Interpretor.3091",
-            "profession": "Warrior",
-            "burst_damage": 64407,
-            "timestamp": "202504212313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 54,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "burst_damage": 64337,
-            "timestamp": "202504212313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 55,
-            "account_name": "Interpretor.3091",
-            "profession": "Warrior",
-            "burst_damage": 64036,
-            "timestamp": "202505052313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 56,
-            "account_name": "KaNgUs.1025",
-            "profession": "Berserker",
-            "burst_damage": 63670,
-            "timestamp": "202504242313",
-            "is_guild_member": false
-          },
-          {
-            "rank": 57,
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "burst_damage": 63339,
-            "timestamp": "202505292229",
-            "is_guild_member": true
-          },
-          {
-            "rank": 58,
-            "account_name": "Jeff.7219",
-            "profession": "Dragonhunter",
-            "burst_damage": 62708,
-            "timestamp": "202505272244",
-            "is_guild_member": false
-          },
-          {
-            "rank": 59,
+            "rank": 37,
             "account_name": "Chakkkka.2504",
             "profession": "Catalyst",
             "burst_damage": 62697,
@@ -33273,7 +33097,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 60,
+            "rank": 38,
             "account_name": "Dextra.8162",
             "profession": "Weaver",
             "burst_damage": 62164,
@@ -33281,7 +33105,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 39,
             "account_name": "ParaldaWind.4523",
             "profession": "Dragonhunter",
             "burst_damage": 61689,
@@ -33289,7 +33113,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 40,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "burst_damage": 61685,
@@ -33297,15 +33121,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
-            "account_name": "Interpretor.3091",
-            "profession": "Warrior",
-            "burst_damage": 61621,
-            "timestamp": "202505192236",
-            "is_guild_member": true
-          },
-          {
-            "rank": 64,
+            "rank": 41,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "burst_damage": 61420,
@@ -33313,15 +33129,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
-            "account_name": "Johnny.5478",
-            "profession": "Dragonhunter",
-            "burst_damage": 61010,
-            "timestamp": "202505082314",
-            "is_guild_member": true
-          },
-          {
-            "rank": 66,
+            "rank": 42,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "burst_damage": 60929,
@@ -33329,23 +33137,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 67,
-            "account_name": "Soothsayer.9206",
-            "profession": "Untamed",
-            "burst_damage": 60817,
-            "timestamp": "202505082314",
-            "is_guild_member": true
-          },
-          {
-            "rank": 68,
-            "account_name": "Stash.8401",
-            "profession": "Catalyst",
-            "burst_damage": 60562,
-            "timestamp": "202505292229",
-            "is_guild_member": false
-          },
-          {
-            "rank": 69,
+            "rank": 43,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "burst_damage": 60506,
@@ -33353,15 +33145,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 70,
-            "account_name": "Bother.9415",
-            "profession": "Catalyst",
-            "burst_damage": 60355,
-            "timestamp": "202505272244",
-            "is_guild_member": true
-          },
-          {
-            "rank": 71,
+            "rank": 44,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "burst_damage": 59698,
@@ -33369,15 +33153,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
-            "account_name": "LightspeedJack.9473",
-            "profession": "Berserker",
-            "burst_damage": 59310,
-            "timestamp": "202504242313",
-            "is_guild_member": false
-          },
-          {
-            "rank": 73,
+            "rank": 45,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "burst_damage": 58906,
@@ -33385,15 +33161,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
-            "account_name": "Interpretor.3091",
-            "profession": "Warrior",
-            "burst_damage": 58624,
-            "timestamp": "202505082314",
-            "is_guild_member": true
-          },
-          {
-            "rank": 75,
+            "rank": 46,
             "account_name": "Muted.8591",
             "profession": "Reaper",
             "burst_damage": 58376,
@@ -33401,7 +33169,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 47,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "burst_damage": 57510,
@@ -33409,7 +33177,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 48,
             "account_name": "ParaldaWind.4523",
             "profession": "Dragonhunter",
             "burst_damage": 57474,
@@ -33417,7 +33185,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 49,
             "account_name": "FlawedDjinn.3217",
             "profession": "Untamed",
             "burst_damage": 57060,
@@ -33425,7 +33193,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
+            "rank": 50,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "burst_damage": 57049,
@@ -33433,31 +33201,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
-            "account_name": "Soothsayer.9206",
-            "profession": "Untamed",
-            "burst_damage": 56722,
-            "timestamp": "202504242313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 81,
-            "account_name": "Interpretor.3091",
-            "profession": "Spellbreaker",
-            "burst_damage": 56313,
-            "timestamp": "202504212313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 82,
-            "account_name": "Soothsayer.9206",
-            "profession": "Untamed",
-            "burst_damage": 55837,
-            "timestamp": "202504282345",
-            "is_guild_member": true
-          },
-          {
-            "rank": 83,
+            "rank": 51,
             "account_name": "Dextra.8162",
             "profession": "Weaver",
             "burst_damage": 55483,
@@ -33465,15 +33209,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Spellbreaker",
-            "burst_damage": 54765,
-            "timestamp": "202505280122",
-            "is_guild_member": true
-          },
-          {
-            "rank": 85,
+            "rank": 52,
             "account_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
             "burst_damage": 54740,
@@ -33481,7 +33217,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 53,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "burst_damage": 54440,
@@ -33489,7 +33225,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 87,
+            "rank": 54,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "burst_damage": 54323,
@@ -33497,23 +33233,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 88,
-            "account_name": "BlueFlame.8673",
-            "profession": "Berserker",
-            "burst_damage": 53613,
-            "timestamp": "202504212313",
-            "is_guild_member": false
-          },
-          {
-            "rank": 89,
-            "account_name": "Ashtonlightstone.9145",
-            "profession": "Dragonhunter",
-            "burst_damage": 53591,
-            "timestamp": "202505120016",
-            "is_guild_member": true
-          },
-          {
-            "rank": 90,
+            "rank": 55,
             "account_name": "Huge.5891",
             "profession": "Dragonhunter",
             "burst_damage": 53401,
@@ -33521,15 +33241,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
-            "account_name": "KaNgUs.1025",
-            "profession": "Berserker",
-            "burst_damage": 53296,
-            "timestamp": "202504212313",
-            "is_guild_member": false
-          },
-          {
-            "rank": 92,
+            "rank": 56,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "burst_damage": 53247,
@@ -33537,39 +33249,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 93,
-            "account_name": "Max Danger.4031",
-            "profession": "Catalyst",
-            "burst_damage": 53149,
-            "timestamp": "202504242313",
-            "is_guild_member": false
-          },
-          {
-            "rank": 94,
-            "account_name": "Havocus.3682",
-            "profession": "Reaper",
-            "burst_damage": 53052,
-            "timestamp": "202505040253",
-            "is_guild_member": true
-          },
-          {
-            "rank": 95,
-            "account_name": "Johnny.5478",
-            "profession": "Reaper",
-            "burst_damage": 53041,
-            "timestamp": "202504242313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 96,
-            "account_name": "Soothsayer.9206",
-            "profession": "Untamed",
-            "burst_damage": 52999,
-            "timestamp": "202505052313",
-            "is_guild_member": true
-          },
-          {
-            "rank": 97,
+            "rank": 57,
             "account_name": "ParaldaWind.4523",
             "profession": "Dragonhunter",
             "burst_damage": 52791,
@@ -33577,15 +33257,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
-            "account_name": "PelloJello.8241",
-            "profession": "Catalyst",
-            "burst_damage": 52679,
-            "timestamp": "202505280122",
-            "is_guild_member": false
-          },
-          {
-            "rank": 99,
+            "rank": 58,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "burst_damage": 52660,
@@ -33593,11 +33265,339 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 100,
+            "rank": 59,
+            "account_name": "Filipe.8492",
+            "profession": "Dragonhunter",
+            "burst_damage": 52172,
+            "timestamp": "202506252106",
+            "is_guild_member": false
+          },
+          {
+            "rank": 60,
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "burst_damage": 51443,
+            "timestamp": "202506200210",
+            "is_guild_member": true
+          },
+          {
+            "rank": 61,
+            "account_name": "Interpretor.3091",
+            "profession": "Catalyst",
+            "burst_damage": 51294,
+            "timestamp": "202506092225",
+            "is_guild_member": true
+          },
+          {
+            "rank": 62,
+            "account_name": "Havocus.3682",
+            "profession": "Catalyst",
+            "burst_damage": 50808,
+            "timestamp": "202506302308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 63,
+            "account_name": "Bother.9415",
+            "profession": "Untamed",
+            "burst_damage": 50551,
+            "timestamp": "202506022317",
+            "is_guild_member": true
+          },
+          {
+            "rank": 64,
             "account_name": "Huge.5891",
             "profession": "Dragonhunter",
-            "burst_damage": 52250,
-            "timestamp": "202504212313",
+            "burst_damage": 49690,
+            "timestamp": "202506192306",
+            "is_guild_member": true
+          },
+          {
+            "rank": 65,
+            "account_name": "Interpretor.3091",
+            "profession": "Untamed",
+            "burst_damage": 48843,
+            "timestamp": "202506192306",
+            "is_guild_member": true
+          },
+          {
+            "rank": 66,
+            "account_name": "Nictheman.9754",
+            "profession": "Warrior",
+            "burst_damage": 48643,
+            "timestamp": "202506232308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 67,
+            "account_name": "FlawedDjinn.3217",
+            "profession": "Untamed",
+            "burst_damage": 48443,
+            "timestamp": "202506120247",
+            "is_guild_member": true
+          },
+          {
+            "rank": 68,
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Catalyst",
+            "burst_damage": 48414,
+            "timestamp": "202506120247",
+            "is_guild_member": true
+          },
+          {
+            "rank": 69,
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "burst_damage": 48375,
+            "timestamp": "202506122301",
+            "is_guild_member": true
+          },
+          {
+            "rank": 70,
+            "account_name": "Interpretor.3091",
+            "profession": "Warrior",
+            "burst_damage": 47996,
+            "timestamp": "202506190151",
+            "is_guild_member": true
+          },
+          {
+            "rank": 71,
+            "account_name": "Beneko.8475",
+            "profession": "Holosmith",
+            "burst_damage": 47992,
+            "timestamp": "202506252106",
+            "is_guild_member": false
+          },
+          {
+            "rank": 72,
+            "account_name": "Interpretor.3091",
+            "profession": "Untamed",
+            "burst_damage": 47686,
+            "timestamp": "202506022317",
+            "is_guild_member": true
+          },
+          {
+            "rank": 73,
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "burst_damage": 47472,
+            "timestamp": "202506192306",
+            "is_guild_member": true
+          },
+          {
+            "rank": 74,
+            "account_name": "waschy.6093",
+            "profession": "Dragonhunter",
+            "burst_damage": 47238,
+            "timestamp": "202506120247",
+            "is_guild_member": true
+          },
+          {
+            "rank": 75,
+            "account_name": "Freelanced.6084",
+            "profession": "Catalyst",
+            "burst_damage": 47205,
+            "timestamp": "202506190151",
+            "is_guild_member": true
+          },
+          {
+            "rank": 76,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "burst_damage": 47194,
+            "timestamp": "202506190151",
+            "is_guild_member": true
+          },
+          {
+            "rank": 77,
+            "account_name": "Soothsayer.9206",
+            "profession": "Catalyst",
+            "burst_damage": 47075,
+            "timestamp": "202506190151",
+            "is_guild_member": true
+          },
+          {
+            "rank": 78,
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "burst_damage": 46552,
+            "timestamp": "202506122301",
+            "is_guild_member": true
+          },
+          {
+            "rank": 79,
+            "account_name": "emz.3571",
+            "profession": "Reaper",
+            "burst_damage": 46517,
+            "timestamp": "202506232308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 80,
+            "account_name": "yhanbruno.5873",
+            "profession": "Catalyst",
+            "burst_damage": 46497,
+            "timestamp": "202506252106",
+            "is_guild_member": false
+          },
+          {
+            "rank": 81,
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "burst_damage": 45940,
+            "timestamp": "202506302308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 82,
+            "account_name": "Dextra.8162",
+            "profession": "Catalyst",
+            "burst_damage": 45458,
+            "timestamp": "202506120247",
+            "is_guild_member": true
+          },
+          {
+            "rank": 83,
+            "account_name": "Bailyen Arturius.4263",
+            "profession": "Vindicator",
+            "burst_damage": 45340,
+            "timestamp": "202506122301",
+            "is_guild_member": true
+          },
+          {
+            "rank": 84,
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "burst_damage": 45065,
+            "timestamp": "202506190151",
+            "is_guild_member": true
+          },
+          {
+            "rank": 85,
+            "account_name": "Noe.4360",
+            "profession": "Holosmith",
+            "burst_damage": 44665,
+            "timestamp": "202506192306",
+            "is_guild_member": false
+          },
+          {
+            "rank": 86,
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "burst_damage": 44632,
+            "timestamp": "202506052234",
+            "is_guild_member": true
+          },
+          {
+            "rank": 87,
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Scrapper",
+            "burst_damage": 44261,
+            "timestamp": "202506232308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 88,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "burst_damage": 43594,
+            "timestamp": "202506232308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 89,
+            "account_name": "Dextra.8162",
+            "profession": "Catalyst",
+            "burst_damage": 43528,
+            "timestamp": "202506052234",
+            "is_guild_member": true
+          },
+          {
+            "rank": 90,
+            "account_name": "waschy.6093",
+            "profession": "Dragonhunter",
+            "burst_damage": 43478,
+            "timestamp": "202506122301",
+            "is_guild_member": true
+          },
+          {
+            "rank": 91,
+            "account_name": "freecarl.9214",
+            "profession": "Holosmith",
+            "burst_damage": 42934,
+            "timestamp": "202506302308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 92,
+            "account_name": "Soothsayer.9206",
+            "profession": "Untamed",
+            "burst_damage": 42835,
+            "timestamp": "202506092225",
+            "is_guild_member": true
+          },
+          {
+            "rank": 93,
+            "account_name": "Interpretor.3091",
+            "profession": "Spellbreaker",
+            "burst_damage": 42523,
+            "timestamp": "202506122301",
+            "is_guild_member": true
+          },
+          {
+            "rank": 94,
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "burst_damage": 42421,
+            "timestamp": "202506200210",
+            "is_guild_member": true
+          },
+          {
+            "rank": 95,
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "burst_damage": 42305,
+            "timestamp": "202506262310",
+            "is_guild_member": true
+          },
+          {
+            "rank": 96,
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "burst_damage": 42247,
+            "timestamp": "202506200210",
+            "is_guild_member": true
+          },
+          {
+            "rank": 97,
+            "account_name": "Basic.9204",
+            "profession": "Spellbreaker",
+            "burst_damage": 41678,
+            "timestamp": "202506190151",
+            "is_guild_member": true
+          },
+          {
+            "rank": 98,
+            "account_name": "Luke.9108",
+            "profession": "Untamed",
+            "burst_damage": 41639,
+            "timestamp": "202506262310",
+            "is_guild_member": true
+          },
+          {
+            "rank": 99,
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "burst_damage": 41482,
+            "timestamp": "202506262310",
+            "is_guild_member": true
+          },
+          {
+            "rank": 100,
+            "account_name": "Hiraldo.7954",
+            "profession": "Spellbreaker",
+            "burst_damage": 41422,
+            "timestamp": "202506232308",
             "is_guild_member": true
           }
         ],
@@ -37288,6 +37288,17 @@ const leaderboardData = {
           },
           {
             "rank": 35,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1855.8957318226278,
+            "glicko_rating": 1718.9748043327736,
+            "games_played": 6,
+            "average_rank_percent": 21.811115809616556,
+            "average_stat_value": 1963.5,
+            "is_guild_member": true
+          },
+          {
+            "rank": 36,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1853.0777250228418,
@@ -37298,7 +37309,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1851.4349885024208,
@@ -37309,7 +37320,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "Havocus.3682",
             "profession": "Reaper",
             "composite_score": 1847.1214986226812,
@@ -37320,7 +37331,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Bother.9415",
             "profession": "Untamed",
             "composite_score": 1845.3333010827102,
@@ -37331,7 +37342,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1844.474377188091,
@@ -37342,7 +37353,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "CrimeLordXx.3920",
             "profession": "Reaper",
             "composite_score": 1842.900860839848,
@@ -37353,7 +37364,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1842.4694833528868,
@@ -37364,7 +37375,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Jeff.7219",
             "profession": "Berserker",
             "composite_score": 1838.0779483632614,
@@ -37373,17 +37384,6 @@ const leaderboardData = {
             "average_rank_percent": 1.5625,
             "average_stat_value": 4027.0,
             "is_guild_member": false
-          },
-          {
-            "rank": 43,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1835.8962161808665,
-            "glicko_rating": 1679.5335082205881,
-            "games_played": 21,
-            "average_rank_percent": 25.374956524027734,
-            "average_stat_value": 1399.047619047619,
-            "is_guild_member": true
           },
           {
             "rank": 44,
@@ -37530,6 +37530,17 @@ const leaderboardData = {
           },
           {
             "rank": 57,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1821.3428827130683,
+            "glicko_rating": 1668.0360693760524,
+            "games_played": 20,
+            "average_rank_percent": 26.25908896561374,
+            "average_stat_value": 1384.4,
+            "is_guild_member": true
+          },
+          {
+            "rank": 58,
             "account_name": "Bricktus.1682",
             "profession": "Holosmith",
             "composite_score": 1820.4434741868213,
@@ -37540,7 +37551,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Niopek.5123",
             "profession": "Warrior",
             "composite_score": 1814.0309381226614,
@@ -37551,7 +37562,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "Mellis.8451",
             "profession": "Dragonhunter",
             "composite_score": 1813.6673036562029,
@@ -37562,7 +37573,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1812.996658112313,
@@ -37573,7 +37584,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "slfhie.1764",
             "profession": "Vindicator",
             "composite_score": 1811.1161490025888,
@@ -37584,7 +37595,18 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 62,
+            "rank": 63,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1806.6318580486304,
+            "glicko_rating": 1674.3013996067234,
+            "games_played": 1,
+            "average_rank_percent": 7.6923076923076925,
+            "average_stat_value": 1692.0,
+            "is_guild_member": true
+          },
+          {
+            "rank": 64,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1806.0152680424615,
@@ -37595,7 +37617,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 65,
             "account_name": "Montana.8032",
             "profession": "Catalyst",
             "composite_score": 1805.379103750382,
@@ -37606,7 +37628,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 66,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1802.4337984321592,
@@ -37617,7 +37639,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 65,
+            "rank": 67,
             "account_name": "Mes.1906",
             "profession": "Warrior",
             "composite_score": 1801.2058659943414,
@@ -37628,7 +37650,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 66,
+            "rank": 68,
             "account_name": "Maul.1360",
             "profession": "Berserker",
             "composite_score": 1799.5659610003077,
@@ -37639,7 +37661,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 69,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1798.5933513015354,
@@ -37650,7 +37672,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 68,
+            "rank": 70,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1798.3733895595974,
@@ -37661,7 +37683,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 71,
             "account_name": "Daasen.3719",
             "profession": "Reaper",
             "composite_score": 1797.9995979622615,
@@ -37672,7 +37694,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 72,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1792.6558179087947,
@@ -37683,7 +37705,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 73,
             "account_name": "filipe.2809",
             "profession": "Dragonhunter",
             "composite_score": 1791.1290236078044,
@@ -37694,7 +37716,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
+            "rank": 74,
             "account_name": "Feed.5309",
             "profession": "Berserker",
             "composite_score": 1789.9839278820614,
@@ -37705,7 +37727,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 73,
+            "rank": 75,
             "account_name": "AzureInvidiaOnline.6789",
             "profession": "Soulbeast",
             "composite_score": 1789.9839278820614,
@@ -37716,7 +37738,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 76,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1789.9839278820614,
@@ -37727,7 +37749,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 77,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1789.0932978731503,
@@ -37738,7 +37760,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 78,
             "account_name": "Luke.9108",
             "profession": "Reaper",
             "composite_score": 1788.506490314605,
@@ -37749,7 +37771,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 79,
             "account_name": "SteelSpirit.1695",
             "profession": "Berserker",
             "composite_score": 1787.797836042007,
@@ -37760,7 +37782,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 78,
+            "rank": 80,
             "account_name": "Eschkevna.6301",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -37771,7 +37793,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 81,
             "account_name": "nateboyd.5682",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -37782,7 +37804,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 80,
+            "rank": 82,
             "account_name": "Raykiu.7841",
             "profession": "Willbender",
             "composite_score": 1781.9682578018615,
@@ -37793,7 +37815,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 83,
             "account_name": "Nictheman.9754",
             "profession": "Condi Firebrand",
             "composite_score": 1780.3240177854104,
@@ -37804,7 +37826,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 84,
             "account_name": "Bricktus.1682",
             "profession": "Untamed",
             "composite_score": 1773.9525877216615,
@@ -37815,7 +37837,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 85,
             "account_name": "Chief.7143",
             "profession": "Reaper",
             "composite_score": 1771.6170356712762,
@@ -37826,7 +37848,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 86,
             "account_name": "Johnny.5478",
             "profession": "Dragonhunter",
             "composite_score": 1768.0744296628484,
@@ -37837,7 +37859,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 87,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1765.9369176414616,
@@ -37848,7 +37870,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 88,
             "account_name": "DraGonfly.9317",
             "profession": "Catalyst",
             "composite_score": 1765.3319614089937,
@@ -37859,7 +37881,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 89,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Spellbreaker",
             "composite_score": 1764.050877622591,
@@ -37870,7 +37892,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 88,
+            "rank": 90,
             "account_name": "acumen.1980",
             "profession": "Spellbreaker",
             "composite_score": 1763.7994056200748,
@@ -37881,7 +37903,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 89,
+            "rank": 91,
             "account_name": "Chakkkka.2504",
             "profession": "Tempest",
             "composite_score": 1763.0400645256655,
@@ -37892,7 +37914,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 90,
+            "rank": 92,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1762.9827992837374,
@@ -37903,7 +37925,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 91,
+            "rank": 93,
             "account_name": "Shaaaads.1856",
             "profession": "Catalyst",
             "composite_score": 1762.3958645911407,
@@ -37914,7 +37936,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 92,
+            "rank": 94,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1761.9430660355897,
@@ -37925,7 +37947,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 95,
             "account_name": "Bertozaur.4578",
             "profession": "Weaver",
             "composite_score": 1761.9290826013616,
@@ -37936,7 +37958,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 96,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1761.9290826013616,
@@ -37947,7 +37969,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 97,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1760.5931375879948,
@@ -37958,7 +37980,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 98,
             "account_name": "CrimeLordXx.3920",
             "profession": "Scourge",
             "composite_score": 1757.127025402538,
@@ -37969,7 +37991,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 99,
             "account_name": "Johnny.5478",
             "profession": "Reaper",
             "composite_score": 1753.5863674500313,
@@ -37980,7 +38002,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 100,
             "account_name": "Lasthope.7943",
             "profession": "Willbender",
             "composite_score": 1752.5324318301466,
@@ -37989,28 +38011,6 @@ const leaderboardData = {
             "average_rank_percent": 26.121794871794872,
             "average_stat_value": 1507.5,
             "is_guild_member": true
-          },
-          {
-            "rank": 99,
-            "account_name": "Dextra.8162",
-            "profession": "Catalyst",
-            "composite_score": 1749.8927027518455,
-            "glicko_rating": 1628.895047973667,
-            "games_played": 9,
-            "average_rank_percent": 32.09941785671514,
-            "average_stat_value": 1294.2222222222222,
-            "is_guild_member": true
-          },
-          {
-            "rank": 100,
-            "account_name": "Travychu.5432",
-            "profession": "Dragonhunter",
-            "composite_score": 1749.2589258751864,
-            "glicko_rating": 1659.123724635159,
-            "games_played": 1,
-            "average_rank_percent": 17.24137931034483,
-            "average_stat_value": 1903.0,
-            "is_guild_member": false
           }
         ],
         "Healing": [
@@ -42468,6 +42468,17 @@ const leaderboardData = {
           },
           {
             "rank": 5,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1979.9465060567975,
+            "glicko_rating": 1823.2751987635454,
+            "games_played": 20,
+            "average_rank_percent": 27.241747440181587,
+            "average_stat_value": 6.305000000000001,
+            "is_guild_member": true
+          },
+          {
+            "rank": 6,
             "account_name": "waschy.6093",
             "profession": "Firebrand",
             "composite_score": 1974.9660597525658,
@@ -42478,7 +42489,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 6,
+            "rank": 7,
             "account_name": "mikefmc.5961",
             "profession": "Firebrand",
             "composite_score": 1957.3748802949133,
@@ -42489,7 +42500,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "modus.7921",
             "profession": "Firebrand",
             "composite_score": 1944.5792106176477,
@@ -42500,7 +42511,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1943.083738153192,
@@ -42511,7 +42522,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "adrielle.2109",
             "profession": "Firebrand",
             "composite_score": 1939.036867044145,
@@ -42522,7 +42533,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "DareDevils.6039",
             "profession": "Firebrand",
             "composite_score": 1932.1246879779083,
@@ -42533,7 +42544,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Muted.8591",
             "profession": "Chronomancer",
             "composite_score": 1927.5754214996523,
@@ -42544,7 +42555,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 13,
             "account_name": "nateboyd.5682",
             "profession": "Firebrand",
             "composite_score": 1922.9412250830537,
@@ -42555,7 +42566,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "Mellis.8451",
             "profession": "Firebrand",
             "composite_score": 1919.8015935357323,
@@ -42566,7 +42577,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "Malek.9417",
             "profession": "Condi Firebrand",
             "composite_score": 1917.4527477263423,
@@ -42577,7 +42588,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Uriah.7082",
             "profession": "Chronomancer",
             "composite_score": 1913.0388319031604,
@@ -42588,7 +42599,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "Mortealug.6043",
             "profession": "Firebrand",
             "composite_score": 1909.741286274572,
@@ -42599,7 +42610,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "King Sylvari.2567",
             "profession": "Firebrand",
             "composite_score": 1907.8738807427858,
@@ -42610,7 +42621,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "Crator of Fire.1796",
             "profession": "Vindicator",
             "composite_score": 1902.00169927878,
@@ -42621,7 +42632,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "composite_score": 1899.7065530025757,
@@ -42632,7 +42643,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "profession": "Chronomancer",
             "composite_score": 1898.1617573490555,
@@ -42643,7 +42654,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1897.5890015595655,
@@ -42654,7 +42665,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Clarrovi.9085",
             "profession": "Firebrand",
             "composite_score": 1889.7629761610617,
@@ -42665,7 +42676,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Mellis.8451",
             "profession": "Chronomancer",
             "composite_score": 1876.9362327249423,
@@ -42673,17 +42684,6 @@ const leaderboardData = {
             "games_played": 3,
             "average_rank_percent": 20.808080808080806,
             "average_stat_value": 6.033333333333334,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1876.5124610564037,
-            "glicko_rating": 1727.5246068526085,
-            "games_played": 26,
-            "average_rank_percent": 31.892611394556756,
-            "average_stat_value": 5.573076923076925,
             "is_guild_member": true
           },
           {
@@ -43647,6 +43647,17 @@ const leaderboardData = {
           },
           {
             "rank": 12,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1903.3716814937632,
+            "glicko_rating": 1754.5157825209865,
+            "games_played": 20,
+            "average_rank_percent": 30.34503240279352,
+            "average_stat_value": 0.6599999999999999,
+            "is_guild_member": true
+          },
+          {
+            "rank": 13,
             "account_name": "mikefmc.5961",
             "profession": "Support Spb",
             "composite_score": 1902.0575033837258,
@@ -43657,7 +43668,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "Uriah.7082",
             "profession": "Chronomancer",
             "composite_score": 1900.476569749823,
@@ -43668,7 +43679,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "synco.8132",
             "profession": "Support Spb",
             "composite_score": 1892.7199260384227,
@@ -43679,7 +43690,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Steampunkengineer.7146",
             "profession": "Chronomancer",
             "composite_score": 1892.1839881224853,
@@ -43690,7 +43701,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "mikefmc.5961",
             "profession": "Firebrand",
             "composite_score": 1888.862539699795,
@@ -43701,7 +43712,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "Clarrovi.9085",
             "profession": "Firebrand",
             "composite_score": 1880.8297024135893,
@@ -43712,7 +43723,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "Hydrason.4612",
             "profession": "Firebrand",
             "composite_score": 1874.929871629455,
@@ -43723,7 +43734,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "composite_score": 1869.5883403370008,
@@ -43734,7 +43745,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Nictheman.9754",
             "profession": "Chronomancer",
             "composite_score": 1867.31790686731,
@@ -43745,7 +43756,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1861.2510222935598,
@@ -43756,7 +43767,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1848.2242721068083,
@@ -43767,7 +43778,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Nictheman.9754",
             "profession": "Firebrand",
             "composite_score": 1833.8792640355375,
@@ -43775,17 +43786,6 @@ const leaderboardData = {
             "games_played": 1,
             "average_rank_percent": 2.380952380952381,
             "average_stat_value": 1.4,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1833.0666402813404,
-            "glicko_rating": 1686.6592617150748,
-            "games_played": 26,
-            "average_rank_percent": 32.53275793295879,
-            "average_stat_value": 0.596153846153846,
             "is_guild_member": true
           },
           {
@@ -45939,6 +45939,17 @@ const leaderboardData = {
           },
           {
             "rank": 20,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1894.4019539797794,
+            "glicko_rating": 1748.9511100046989,
+            "games_played": 6,
+            "average_rank_percent": 18.087786994611566,
+            "average_stat_value": 265.149377201053,
+            "is_guild_member": true
+          },
+          {
+            "rank": 21,
             "account_name": "Soothsayer.9206",
             "profession": "Catalyst",
             "composite_score": 1893.442063554563,
@@ -45949,7 +45960,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "composite_score": 1891.6833091347064,
@@ -45960,7 +45971,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1889.3370845953698,
@@ -45971,7 +45982,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Bother.9415",
             "profession": "Holosmith",
             "composite_score": 1887.9308892747845,
@@ -45979,17 +45990,6 @@ const leaderboardData = {
             "games_played": 3,
             "average_rank_percent": 14.990807934204161,
             "average_stat_value": 260.08804726802686,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1885.5008857936548,
-            "glicko_rating": 1724.2031687706044,
-            "games_played": 20,
-            "average_rank_percent": 23.145373966327803,
-            "average_stat_value": 211.434796446869,
             "is_guild_member": true
           },
           {
@@ -46038,6 +46038,17 @@ const leaderboardData = {
           },
           {
             "rank": 29,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1872.1740612416313,
+            "glicko_rating": 1713.3363625367483,
+            "games_played": 19,
+            "average_rank_percent": 23.756264094110236,
+            "average_stat_value": 203.23623541833823,
+            "is_guild_member": true
+          },
+          {
+            "rank": 30,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Reaper",
             "composite_score": 1870.1089369947215,
@@ -46048,7 +46059,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 30,
+            "rank": 31,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "composite_score": 1868.9696818708826,
@@ -46059,7 +46070,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "Interpretor.3091",
             "profession": "Holosmith",
             "composite_score": 1865.72709468019,
@@ -46070,7 +46081,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 33,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1863.3411871528447,
@@ -46081,7 +46092,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 34,
             "account_name": "Havocus.3682",
             "profession": "Berserker",
             "composite_score": 1861.8656154680243,
@@ -46092,7 +46103,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 34,
+            "rank": 35,
             "account_name": "PelloJello.8241",
             "profession": "Catalyst",
             "composite_score": 1861.3450467874713,
@@ -46103,7 +46114,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 35,
+            "rank": 36,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1858.984476701195,
@@ -46114,7 +46125,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1854.0418428139808,
@@ -46125,7 +46136,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "acumen.1980",
             "profession": "Catalyst",
             "composite_score": 1849.6800362537062,
@@ -46136,7 +46147,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1844.36129841641,
@@ -46147,7 +46158,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Muted.8591",
             "profession": "Reaper",
             "composite_score": 1838.6415942548063,
@@ -46158,7 +46169,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "Caysadia.2548",
             "profession": "Berserker",
             "composite_score": 1838.0779483632614,
@@ -46169,7 +46180,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Feed.5309",
             "profession": "Berserker",
             "composite_score": 1837.9507155048454,
@@ -46180,7 +46191,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Jeff.7219",
             "profession": "Berserker",
             "composite_score": 1837.8193783606741,
@@ -46191,7 +46202,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 43,
+            "rank": 44,
             "account_name": "Daasen.3719",
             "profession": "Catalyst",
             "composite_score": 1835.1786634406358,
@@ -46202,7 +46213,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 44,
+            "rank": 45,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1833.5606192634978,
@@ -46213,7 +46224,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 45,
+            "rank": 46,
             "account_name": "Bricktus.1682",
             "profession": "Holosmith",
             "composite_score": 1832.939698311851,
@@ -46224,7 +46235,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 46,
+            "rank": 47,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "composite_score": 1831.0052982924965,
@@ -46235,7 +46246,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Jeff.7219",
             "profession": "Untamed",
             "composite_score": 1829.5451382778872,
@@ -46246,7 +46257,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1828.703690133875,
@@ -46257,7 +46268,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "Jeff.7219",
             "profession": "Dragonhunter",
             "composite_score": 1827.7720868315755,
@@ -46268,7 +46279,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1824.7184982295946,
@@ -46279,7 +46290,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1823.789145176818,
@@ -46290,7 +46301,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Lasthope.7943",
             "profession": "Guardian",
             "composite_score": 1822.081902065632,
@@ -46301,7 +46312,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "Cavalier.4015",
             "profession": "Warrior",
             "composite_score": 1821.2708981951,
@@ -46312,7 +46323,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1821.2557412752226,
@@ -46323,7 +46334,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Montana.8032",
             "profession": "Catalyst",
             "composite_score": 1820.4434741868213,
@@ -46334,7 +46345,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1820.138980663792,
@@ -46345,7 +46356,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Berserker",
             "composite_score": 1819.7857781802409,
@@ -46356,7 +46367,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Chief.7143",
             "profession": "Reaper",
             "composite_score": 1818.701457562084,
@@ -46367,7 +46378,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "Havocus.3682",
             "profession": "Dragonhunter",
             "composite_score": 1818.4973131804102,
@@ -46378,7 +46389,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1817.5934581583058,
@@ -46389,7 +46400,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Daasen.3719",
             "profession": "Reaper",
             "composite_score": 1814.0309381226614,
@@ -46400,7 +46411,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1813.2939589416656,
@@ -46411,7 +46422,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "Sexykillerz.8572",
             "profession": "Reaper",
             "composite_score": 1809.45055521969,
@@ -46422,7 +46433,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "composite_score": 1808.1033585500388,
@@ -46433,7 +46444,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "Soothsayer.9206",
             "profession": "Renegade",
             "composite_score": 1806.6318580486304,
@@ -46444,7 +46455,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Bricktus.1682",
             "profession": "Untamed",
             "composite_score": 1805.379103750382,
@@ -46455,7 +46466,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Dextra.8162",
             "profession": "Dragonhunter",
             "composite_score": 1804.4987899191806,
@@ -46466,7 +46477,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1802.4337984321592,
@@ -46477,7 +46488,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "nateboyd.5682",
             "profession": "Dragonhunter",
             "composite_score": 1800.0548979828254,
@@ -46488,7 +46499,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1799.8030938673035,
@@ -46499,7 +46510,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Johnny.5478",
             "profession": "Dragonhunter",
             "composite_score": 1798.372419826457,
@@ -46510,7 +46521,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Chakkkka.2504",
             "profession": "Untamed",
             "composite_score": 1797.2362008117661,
@@ -46521,7 +46532,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "slfhie.1764",
             "profession": "Vindicator",
             "composite_score": 1797.2362008117661,
@@ -46532,7 +46543,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1796.4481779467387,
@@ -46543,7 +46554,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1794.6461336895798,
@@ -46554,7 +46565,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Mes.1906",
             "profession": "Warrior",
             "composite_score": 1793.4779379170204,
@@ -46565,7 +46576,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Pieswithattitude.2357",
             "profession": "Spellbreaker",
             "composite_score": 1792.953318820081,
@@ -46576,7 +46587,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1792.0820829959716,
@@ -46587,7 +46598,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Jeff.7219",
             "profession": "Reaper",
             "composite_score": 1788.1739378639518,
@@ -46598,7 +46609,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "DraGonfly.9317",
             "profession": "Catalyst",
             "composite_score": 1788.0178201265408,
@@ -46609,7 +46620,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Elgar.2091",
             "profession": "Reaper",
             "composite_score": 1787.34611109227,
@@ -46620,7 +46631,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1786.9009778512154,
@@ -46631,7 +46642,18 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1786.9009778512154,
+            "glicko_rating": 1674.3013996067234,
+            "games_played": 1,
+            "average_rank_percent": 11.538461538461538,
+            "average_stat_value": 367.2074559889541,
+            "is_guild_member": true
+          },
+          {
+            "rank": 85,
             "account_name": "ParaldaWind.4523",
             "profession": "Catalyst",
             "composite_score": 1784.5332722275255,
@@ -46642,7 +46664,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 86,
             "account_name": "Fantabulous.3406",
             "profession": "Untamed",
             "composite_score": 1781.9682578018615,
@@ -46653,7 +46675,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 85,
+            "rank": 87,
             "account_name": "filipe.2809",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -46664,7 +46686,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 86,
+            "rank": 88,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1781.9682578018615,
@@ -46675,7 +46697,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 87,
+            "rank": 89,
             "account_name": "FavoriteOne.6735",
             "profession": "Reaper",
             "composite_score": 1780.3240177854104,
@@ -46686,7 +46708,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 90,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1776.7689042363265,
@@ -46697,7 +46719,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 91,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1772.8074919959186,
@@ -46708,7 +46730,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 90,
+            "rank": 92,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1770.0931910163802,
@@ -46719,7 +46741,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 93,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1769.1431856735414,
@@ -46730,7 +46752,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 94,
             "account_name": "Astro Bear.6305",
             "profession": "Catalyst",
             "composite_score": 1768.961698803801,
@@ -46741,7 +46763,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 93,
+            "rank": 95,
             "account_name": "Nictheman.9754",
             "profession": "Condi Firebrand",
             "composite_score": 1768.4032776661386,
@@ -46752,7 +46774,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 96,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1767.9408351615116,
@@ -46763,7 +46785,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 97,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1767.0820133672046,
@@ -46774,7 +46796,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 98,
             "account_name": "Luke.9108",
             "profession": "Scourge",
             "composite_score": 1766.6145918915133,
@@ -46785,7 +46807,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 97,
+            "rank": 99,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1766.1187281213427,
@@ -46796,7 +46818,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 100,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1765.9369176414616,
@@ -46805,28 +46827,6 @@ const leaderboardData = {
             "average_rank_percent": 16.666666666666664,
             "average_stat_value": 392.51874062968517,
             "is_guild_member": false
-          },
-          {
-            "rank": 99,
-            "account_name": "Yeek.2976",
-            "profession": "Berserker",
-            "composite_score": 1764.674492300316,
-            "glicko_rating": 1670.6671263171518,
-            "games_played": 1,
-            "average_rank_percent": 15.384615384615385,
-            "average_stat_value": 226.7445403758253,
-            "is_guild_member": false
-          },
-          {
-            "rank": 100,
-            "account_name": "Dextra.8162",
-            "profession": "Catalyst",
-            "composite_score": 1763.367446619542,
-            "glicko_rating": 1639.4268730593594,
-            "games_played": 8,
-            "average_rank_percent": 29.079960532702124,
-            "average_stat_value": 201.2118728984491,
-            "is_guild_member": true
           }
         ],
         "Burst Consistency": [
@@ -46843,6 +46843,17 @@ const leaderboardData = {
           },
           {
             "rank": 2,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1949.540349942706,
+            "glicko_rating": 1815.8866385793544,
+            "games_played": 5,
+            "average_rank_percent": 19.927072927072924,
+            "average_stat_value": 43850.8,
+            "is_guild_member": true
+          },
+          {
+            "rank": 3,
             "account_name": "FlawedDjinn.3217",
             "profession": "Untamed",
             "composite_score": 1933.3156115983659,
@@ -46853,7 +46864,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 3,
+            "rank": 4,
             "account_name": "Soothsayer.9206",
             "profession": "Untamed",
             "composite_score": 1907.0279611964593,
@@ -46864,7 +46875,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 4,
+            "rank": 5,
             "account_name": "Interpretor.3091",
             "profession": "Catalyst",
             "composite_score": 1875.1418680094578,
@@ -46875,7 +46886,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 5,
+            "rank": 6,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1868.8040969888157,
@@ -46886,7 +46897,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 6,
+            "rank": 7,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "composite_score": 1867.2248387932539,
@@ -46897,7 +46908,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1861.9470235889282,
@@ -46908,7 +46919,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1861.115383782258,
@@ -46919,7 +46930,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "souljota.7923",
             "profession": "Vindicator",
             "composite_score": 1852.4482524793677,
@@ -46930,7 +46941,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "Bother.9415",
             "profession": "Untamed",
             "composite_score": 1850.6689964285567,
@@ -46941,7 +46952,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Dextra.8162",
             "profession": "Weaver",
             "composite_score": 1831.1352258265063,
@@ -46952,7 +46963,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 13,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "composite_score": 1825.123421653535,
@@ -46963,7 +46974,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "LightspeedJack.9473",
             "profession": "Holosmith",
             "composite_score": 1819.8384867390853,
@@ -46974,7 +46985,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "Jeff.7219",
             "profession": "Catalyst",
             "composite_score": 1809.45055521969,
@@ -46985,7 +46996,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "composite_score": 1807.1331716006464,
@@ -46996,7 +47007,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "Stash.8401",
             "profession": "Catalyst",
             "composite_score": 1805.7193924830185,
@@ -47007,7 +47018,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "Max Danger.4031",
             "profession": "Catalyst",
             "composite_score": 1805.0533876328375,
@@ -47018,7 +47029,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "waschy.6093",
             "profession": "Dragonhunter",
             "composite_score": 1801.6640908396132,
@@ -47029,7 +47040,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1799.4569925222977,
@@ -47040,7 +47051,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "profession": "Berserker",
             "composite_score": 1797.7571126710113,
@@ -47051,7 +47062,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Daasen.3719",
             "profession": "Catalyst",
             "composite_score": 1797.2362008117661,
@@ -47062,7 +47073,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Havocus.3682",
             "profession": "Reaper",
             "composite_score": 1795.1302720646258,
@@ -47073,7 +47084,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Serebus.7314",
             "profession": "Reaper",
             "composite_score": 1793.0243544642065,
@@ -47084,7 +47095,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 24,
+            "rank": 25,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -47095,7 +47106,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
+            "rank": 26,
             "account_name": "Jeff.7219",
             "profession": "Reaper",
             "composite_score": 1775.3345998044547,
@@ -47106,7 +47117,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 26,
+            "rank": 27,
             "account_name": "BlueFlame.8673",
             "profession": "Catalyst",
             "composite_score": 1772.8074919959186,
@@ -47117,7 +47128,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 27,
+            "rank": 28,
             "account_name": "KaNgUs.1025",
             "profession": "Berserker",
             "composite_score": 1771.1420971988694,
@@ -47128,7 +47139,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 28,
+            "rank": 29,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "composite_score": 1769.1431856735414,
@@ -47139,7 +47150,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 29,
+            "rank": 30,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1768.4032776661386,
@@ -47150,7 +47161,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 30,
+            "rank": 31,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "composite_score": 1766.3667896842353,
@@ -47161,7 +47172,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "amends.3469",
             "profession": "Untamed",
             "composite_score": 1764.8313079752272,
@@ -47170,17 +47181,6 @@ const leaderboardData = {
             "average_rank_percent": 17.24137931034483,
             "average_stat_value": 32714.0,
             "is_guild_member": false
-          },
-          {
-            "rank": 32,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1763.972206145072,
-            "glicko_rating": 1649.7384544945014,
-            "games_played": 8,
-            "average_rank_percent": 37.499875124875125,
-            "average_stat_value": 32160.5,
-            "is_guild_member": true
           },
           {
             "rank": 33,
@@ -47206,6 +47206,17 @@ const leaderboardData = {
           },
           {
             "rank": 35,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1752.829218760428,
+            "glicko_rating": 1664.3668455755876,
+            "games_played": 1,
+            "average_rank_percent": 18.181818181818183,
+            "average_stat_value": 38175.0,
+            "is_guild_member": true
+          },
+          {
+            "rank": 36,
             "account_name": "Hiraldo.7954",
             "profession": "Spellbreaker",
             "composite_score": 1752.1957689325473,
@@ -47216,7 +47227,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "BlueFlame.8673",
             "profession": "Berserker",
             "composite_score": 1749.943525183698,
@@ -47227,7 +47238,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1747.1753903716594,
@@ -47238,7 +47249,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1746.979078088462,
@@ -47249,7 +47260,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "composite_score": 1738.5171722682505,
@@ -47257,17 +47268,6 @@ const leaderboardData = {
             "games_played": 12,
             "average_rank_percent": 35.77942927886706,
             "average_stat_value": 27231.666666666668,
-            "is_guild_member": true
-          },
-          {
-            "rank": 40,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1736.414305633007,
-            "glicko_rating": 1612.933443001185,
-            "games_played": 15,
-            "average_rank_percent": 39.9360665802445,
-            "average_stat_value": 29023.533333333333,
             "is_guild_member": true
           },
           {
@@ -47327,6 +47327,17 @@ const leaderboardData = {
           },
           {
             "rank": 46,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1715.9786295565543,
+            "glicko_rating": 1595.8777147219978,
+            "games_played": 14,
+            "average_rank_percent": 41.48994146584637,
+            "average_stat_value": 28369.85714285714,
+            "is_guild_member": true
+          },
+          {
+            "rank": 47,
             "account_name": "Mellis.7284",
             "profession": "Firebrand",
             "composite_score": 1706.5503807413827,
@@ -47337,7 +47348,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Bricktus.1682",
             "profession": "Catalyst",
             "composite_score": 1705.2906647834675,
@@ -47348,7 +47359,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "emz.3571",
             "profession": "Weaver",
             "composite_score": 1701.897176808945,
@@ -47359,7 +47370,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "Soothsayer.9206",
             "profession": "Renegade",
             "composite_score": 1695.887900184102,
@@ -47370,7 +47381,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1694.1995517261832,
@@ -47381,7 +47392,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Icy Violin.9213",
             "profession": "Holosmith",
             "composite_score": 1693.6535061671957,
@@ -47392,7 +47403,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Spellbreaker",
             "composite_score": 1691.3755976150417,
@@ -47403,7 +47414,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1686.6784590105833,
@@ -47414,7 +47425,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "emz.3571",
             "profession": "Catalyst",
             "composite_score": 1683.118963840781,
@@ -47425,7 +47436,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Havocus.3682",
             "profession": "Vindicator",
             "composite_score": 1671.9690213248423,
@@ -47436,7 +47447,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Interpretor.3091",
             "profession": "Untamed",
             "composite_score": 1665.720975274445,
@@ -47447,7 +47458,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1664.5286791122555,
@@ -47458,7 +47469,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Basic.9204",
             "profession": "Spellbreaker",
             "composite_score": 1653.2928553638988,
@@ -47469,7 +47480,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "FlawedDjinn.3217",
             "profession": "Reaper",
             "composite_score": 1651.9529785116392,
@@ -47480,7 +47491,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1651.9525935142146,
@@ -47491,7 +47502,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1650.164880377594,
@@ -47502,7 +47513,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Johnny.5478",
             "profession": "Reaper",
             "composite_score": 1649.6175938284864,
@@ -47513,7 +47524,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "Elgar.2091",
             "profession": "Spellbreaker",
             "composite_score": 1649.2759355551775,
@@ -47524,7 +47535,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Reaper",
             "composite_score": 1648.3390850895942,
@@ -47535,7 +47546,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "Freelanced.6084",
             "profession": "Holosmith",
             "composite_score": 1647.7726202640551,
@@ -47546,7 +47557,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Sabbaah.2314",
             "profession": "Reaper",
             "composite_score": 1644.45198545392,
@@ -47557,7 +47568,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1642.3490396216885,
@@ -47568,7 +47579,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "Interpretor.3091",
             "profession": "Berserker",
             "composite_score": 1632.541342105787,
@@ -47579,7 +47590,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1631.4525979084833,
@@ -47590,7 +47601,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "killsfun.2436",
             "profession": "Dragonhunter",
             "composite_score": 1624.608868667666,
@@ -47601,7 +47612,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Shaaaads.1856",
             "profession": "Catalyst",
             "composite_score": 1612.1755105961927,
@@ -47612,7 +47623,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1608.728727652941,
@@ -47623,7 +47634,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1606.2272561074155,
@@ -47634,7 +47645,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "Pieswithattitude.2357",
             "profession": "Spellbreaker",
             "composite_score": 1602.5269433788249,
@@ -47645,7 +47656,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "Freelanced.6084",
             "profession": "Dragonhunter",
             "composite_score": 1599.956331148731,
@@ -47656,7 +47667,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Nictheman.9754",
             "profession": "Spellbreaker",
             "composite_score": 1597.488542298322,
@@ -47667,7 +47678,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
             "composite_score": 1597.072316270271,
@@ -47678,7 +47689,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Travychu.5432",
             "profession": "Dragonhunter",
             "composite_score": 1596.239075676634,
@@ -47689,7 +47700,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "composite_score": 1593.683872100078,
@@ -47700,7 +47711,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1589.987399643772,
@@ -47711,7 +47722,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Catalyst",
             "composite_score": 1589.3563741479081,
@@ -47722,7 +47733,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Scourge",
             "composite_score": 1584.1009036919456,
@@ -47733,7 +47744,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
             "account_name": "Bleebt.4108",
             "profession": "Vindicator",
             "composite_score": 1578.3658259601677,
@@ -47744,7 +47755,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 85,
             "account_name": "yhanbruno.5873",
             "profession": "Catalyst",
             "composite_score": 1573.7127523404276,
@@ -47755,7 +47766,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 85,
+            "rank": 86,
             "account_name": "seppukuYUM.5147",
             "profession": "Berserker",
             "composite_score": 1570.9088670543076,
@@ -47766,7 +47777,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 86,
+            "rank": 87,
             "account_name": "Jeff.7219",
             "profession": "Untamed",
             "composite_score": 1570.148459503888,
@@ -47777,7 +47788,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 88,
             "account_name": "DanDizh.8416",
             "profession": "Scourge",
             "composite_score": 1569.2727984976254,
@@ -47788,7 +47799,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 89,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Vindicator",
             "composite_score": 1566.9150391115527,
@@ -47799,7 +47810,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 90,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1565.8018796257027,
@@ -47810,7 +47821,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 90,
+            "rank": 91,
             "account_name": "Interpretor.3091",
             "profession": "Holosmith",
             "composite_score": 1564.7611050952548,
@@ -47821,7 +47832,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 92,
             "account_name": "Steampunkengineer.7146",
             "profession": "Condi Firebrand",
             "composite_score": 1563.1043057445474,
@@ -47832,7 +47843,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 93,
             "account_name": "Zalk.5947",
             "profession": "Dragonhunter",
             "composite_score": 1559.9109194680896,
@@ -47843,7 +47854,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 94,
             "account_name": "Mandar.9813",
             "profession": "Scourge",
             "composite_score": 1556.172706322745,
@@ -47854,7 +47865,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 94,
+            "rank": 95,
             "account_name": "Chakkkka.2504",
             "profession": "Catalyst",
             "composite_score": 1554.6981570586422,
@@ -47865,7 +47876,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 96,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1554.4767734764007,
@@ -47876,7 +47887,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 97,
             "account_name": "Jordan.1860",
             "profession": "Catalyst",
             "composite_score": 1552.7170224674724,
@@ -47887,7 +47898,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 98,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1551.9566251781707,
@@ -47898,7 +47909,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 98,
+            "rank": 99,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1549.0098074060554,
@@ -47909,7 +47920,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 99,
+            "rank": 100,
             "account_name": "General Moo.7930",
             "profession": "Reaper",
             "composite_score": 1544.3282338895078,
@@ -47918,653 +47929,10 @@ const leaderboardData = {
             "average_rank_percent": 50.416666666666664,
             "average_stat_value": 26223.5,
             "is_guild_member": false
-          },
-          {
-            "rank": 100,
-            "account_name": "Muted.8591",
-            "profession": "Reaper",
-            "composite_score": 1544.2572389269544,
-            "glicko_rating": 1466.2810300180952,
-            "games_played": 5,
-            "average_rank_percent": 53.98746081504703,
-            "average_stat_value": 27815.2,
-            "is_guild_member": true
           }
         ]
       },
       "profession_leaderboards": {
-        "Firebrand": {
-          "metrics": [
-            "Stability",
-            "Resistance"
-          ],
-          "weights": [
-            0.6,
-            0.4
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "aznsleeper.5896",
-              "composite_score": 1972.6005074513232,
-              "glicko_rating": 1871.2354650071377,
-              "games_played": 11,
-              "average_rank_percent": 61.24458874458874,
-              "key_stats": "Stab:6.5 Resi:0.7",
-              "is_guild_member": true
-            },
-            {
-              "rank": 2,
-              "account_name": "Astro Bear.6305",
-              "composite_score": 1951.0512474973755,
-              "glicko_rating": 1824.9079426117892,
-              "games_played": 4,
-              "average_rank_percent": 20.93253968253968,
-              "key_stats": "Stab:7.6 Resi:1.1",
-              "is_guild_member": true
-            },
-            {
-              "rank": 3,
-              "account_name": "Malek.9417",
-              "composite_score": 1949.4492974043292,
-              "glicko_rating": 1849.9760819496682,
-              "games_played": 5,
-              "average_rank_percent": 41.492063492063494,
-              "key_stats": "Stab:7.4 Resi:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 4,
-              "account_name": "mikefmc.5961",
-              "composite_score": 1899.5211298505062,
-              "glicko_rating": 1796.5101776598242,
-              "games_played": 6,
-              "average_rank_percent": 45.8531746031746,
-              "key_stats": "Stab:7.8 Resi:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 5,
-              "account_name": "modus.7921",
-              "composite_score": 1899.2980315840937,
-              "glicko_rating": 1824.9079426117892,
-              "games_played": 4,
-              "average_rank_percent": 62.61904761904762,
-              "key_stats": "Stab:7.1 Resi:0.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 6,
-              "account_name": "Mellis.8451",
-              "composite_score": 1887.076209106162,
-              "glicko_rating": 1786.4633580969087,
-              "games_played": 7,
-              "average_rank_percent": 54.285714285714285,
-              "key_stats": "Stab:8.5 Resi:0.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 7,
-              "account_name": "nateboyd.5682",
-              "composite_score": 1878.4733896280238,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 12.142857142857142,
-              "key_stats": "Stab:11.5 Resi:1.2",
-              "is_guild_member": false
-            },
-            {
-              "rank": 8,
-              "account_name": "ParaldaWind.4523",
-              "composite_score": 1838.4923193527723,
-              "glicko_rating": 1757.755130269381,
-              "games_played": 3,
-              "average_rank_percent": 45.833333333333336,
-              "key_stats": "Stab:6.6 Resi:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 9,
-              "account_name": "BattleGalaticNinja.4508",
-              "composite_score": 1832.0729624087012,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 31.25,
-              "key_stats": "Stab:6.8 Resi:1.0",
-              "is_guild_member": false
-            },
-            {
-              "rank": 10,
-              "account_name": "adrielle.2109",
-              "composite_score": 1825.9070203536273,
-              "glicko_rating": 1740.6499612808993,
-              "games_played": 10,
-              "average_rank_percent": 67.97619047619047,
-              "key_stats": "Stab:7.3 Resi:1.0",
-              "is_guild_member": true
-            },
-            {
-              "rank": 11,
-              "account_name": "Nero.6195",
-              "composite_score": 1824.1971204570532,
-              "glicko_rating": 1738.5164207550379,
-              "games_played": 10,
-              "average_rank_percent": 69.12698412698413,
-              "key_stats": "Stab:7.3 Resi:0.6",
-              "is_guild_member": true
-            },
-            {
-              "rank": 12,
-              "account_name": "King Sylvari.2567",
-              "composite_score": 1822.352801722025,
-              "glicko_rating": 1758.4605010761425,
-              "games_played": 3,
-              "average_rank_percent": 64.28571428571429,
-              "key_stats": "Stab:5.2 Resi:0.4",
-              "is_guild_member": false
-            },
-            {
-              "rank": 13,
-              "account_name": "Clarrovi.9085",
-              "composite_score": 1816.1260265541923,
-              "glicko_rating": 1747.5525653575937,
-              "games_played": 2,
-              "average_rank_percent": 45.0,
-              "key_stats": "Stab:8.7 Resi:0.7",
-              "is_guild_member": true
-            },
-            {
-              "rank": 14,
-              "account_name": "Carnibaal.2140",
-              "composite_score": 1794.7933299301815,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 10.0,
-              "key_stats": "Stab:7.2 Resi:1.0",
-              "is_guild_member": false
-            },
-            {
-              "rank": 15,
-              "account_name": "Bother.9415",
-              "composite_score": 1765.9369176414616,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 16.666666666666664,
-              "key_stats": "Stab:9.3 Resi:1.1",
-              "is_guild_member": true
-            },
-            {
-              "rank": 16,
-              "account_name": "Hydrason.4612",
-              "composite_score": 1764.2891056384053,
-              "glicko_rating": 1732.005656456468,
-              "games_played": 2,
-              "average_rank_percent": 74.60317460317461,
-              "key_stats": "Stab:5.1 Resi:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 17,
-              "account_name": "Mortealug.6043",
-              "composite_score": 1763.491731033098,
-              "glicko_rating": 1692.8131934621401,
-              "games_played": 2,
-              "average_rank_percent": 42.5,
-              "key_stats": "Stab:6.4",
-              "is_guild_member": false
-            },
-            {
-              "rank": 18,
-              "account_name": "mikerock.6187",
-              "composite_score": 1759.5243815773015,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 20.0,
-              "key_stats": "Stab:7.6 Resi:0.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 19,
-              "account_name": "Nictheman.9754",
-              "composite_score": 1759.5243815773015,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 20.0,
-              "key_stats": "Stab:6.0 Resi:1.4",
-              "is_guild_member": true
-            },
-            {
-              "rank": 20,
-              "account_name": "Uriah.7082",
-              "composite_score": 1759.5243815773015,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 20.0,
-              "key_stats": "Stab:8.4 Resi:1.0",
-              "is_guild_member": true
-            },
-            {
-              "rank": 21,
-              "account_name": "Johnny.5478",
-              "composite_score": 1755.2493575345284,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 22.22222222222222,
-              "key_stats": "Stab:7.1 Resi:1.0",
-              "is_guild_member": true
-            },
-            {
-              "rank": 22,
-              "account_name": "The Original Barcode.7985",
-              "composite_score": 1749.9055774810615,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 25.0,
-              "key_stats": "Stab:9.1 Resi:0.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 23,
-              "account_name": "Sabbaah.2314",
-              "composite_score": 1749.9055774810615,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 25.0,
-              "key_stats": "Stab:9.7 Resi:0.7",
-              "is_guild_member": false
-            },
-            {
-              "rank": 24,
-              "account_name": "cmkmrr.1705",
-              "composite_score": 1743.0350031266046,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 28.57142857142857,
-              "key_stats": "Stab:7.0 Resi:0.8",
-              "is_guild_member": false
-            },
-            {
-              "rank": 25,
-              "account_name": "dirtydaaku.1948",
-              "composite_score": 1740.2867733848216,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 30.0,
-              "key_stats": "Stab:6.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 26,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1735.6072818535379,
-              "glicko_rating": 1676.120690948403,
-              "games_played": 2,
-              "average_rank_percent": 53.57142857142857,
-              "key_stats": "Stab:4.9",
-              "is_guild_member": true
-            },
-            {
-              "rank": 27,
-              "account_name": "IIRII.2413",
-              "composite_score": 1723.936638574375,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 42.857142857142854,
-              "key_stats": "Stab:10.0 Resi:0.2",
-              "is_guild_member": false
-            },
-            {
-              "rank": 28,
-              "account_name": "Mylovis.6390",
-              "composite_score": 1722.5767737836263,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 44.44444444444444,
-              "key_stats": "Stab:7.1 Resi:0.8",
-              "is_guild_member": false
-            },
-            {
-              "rank": 29,
-              "account_name": "Havocus.3682",
-              "composite_score": 1722.1013157931657,
-              "glicko_rating": 1671.475694334376,
-              "games_played": 2,
-              "average_rank_percent": 62.5,
-              "key_stats": "Stab:5.2 Resi:0.6",
-              "is_guild_member": true
-            },
-            {
-              "rank": 30,
-              "account_name": "PublicDisplayName.4986",
-              "composite_score": 1711.6978554576351,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 57.14285714285714,
-              "key_stats": "Stab:7.6 Resi:0.5",
-              "is_guild_member": true
-            },
-            {
-              "rank": 31,
-              "account_name": "paizin.2154",
-              "composite_score": 1708.068361710009,
-              "glicko_rating": 1664.7996155149317,
-              "games_played": 1,
-              "average_rank_percent": 50.0,
-              "key_stats": "Stab:7.7 Resi:0.8",
-              "is_guild_member": false
-            },
-            {
-              "rank": 32,
-              "account_name": "waschy.6093",
-              "composite_score": 1702.8502480376872,
-              "glicko_rating": 1665.4306530718309,
-              "games_played": 3,
-              "average_rank_percent": 76.66666666666667,
-              "key_stats": "Stab:8.5 Resi:0.3",
-              "is_guild_member": true
-            },
-            {
-              "rank": 33,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1686.899086711892,
-              "glicko_rating": 1671.642291546896,
-              "games_played": 2,
-              "average_rank_percent": 83.33333333333333,
-              "key_stats": "Stab:10.2 Resi:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 34,
-              "account_name": "Bronkes.1865",
-              "composite_score": 1676.161412743222,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 80.0,
-              "key_stats": "Stab:9.4 Resi:0.5",
-              "is_guild_member": false
-            },
-            {
-              "rank": 35,
-              "account_name": "Full Course Meal.9540",
-              "composite_score": 1671.7175983832558,
-              "glicko_rating": 1637.7202208855592,
-              "games_played": 1,
-              "average_rank_percent": 60.0,
-              "key_stats": "Stab:4.6 Resi:0.7",
-              "is_guild_member": false
-            },
-            {
-              "rank": 36,
-              "account_name": "Krine.4690",
-              "composite_score": 1651.5207288760103,
-              "glicko_rating": 1609.6852735952361,
-              "games_played": 1,
-              "average_rank_percent": 50.0,
-              "key_stats": "Stab:5.1",
-              "is_guild_member": false
-            },
-            {
-              "rank": 37,
-              "account_name": "mattb.1263",
-              "composite_score": 1640.892464390342,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 90.0,
-              "key_stats": "Stab:8.3 Resi:0.6",
-              "is_guild_member": false
-            },
-            {
-              "rank": 38,
-              "account_name": "Ronin.4501",
-              "composite_score": 1638.6262257842297,
-              "glicko_rating": 1612.7176024714738,
-              "games_played": 1,
-              "average_rank_percent": 66.66666666666666,
-              "key_stats": "Stab:8.4 Resi:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 39,
-              "account_name": "Freelanced.6084",
-              "composite_score": 1634.3571556837173,
-              "glicko_rating": 1588.2456433357565,
-              "games_played": 2,
-              "average_rank_percent": 65.0,
-              "key_stats": "Stab:2.5",
-              "is_guild_member": true
-            },
-            {
-              "rank": 40,
-              "account_name": "DareDevils.6039",
-              "composite_score": 1633.163123956969,
-              "glicko_rating": 1639.12296441848,
-              "games_played": 4,
-              "average_rank_percent": 91.66666666666666,
-              "key_stats": "Stab:7.8 Resi:0.2",
-              "is_guild_member": false
-            },
-            {
-              "rank": 41,
-              "account_name": "BlueViolet.8263",
-              "composite_score": 1629.2906025921288,
-              "glicko_rating": 1603.618605699083,
-              "games_played": 1,
-              "average_rank_percent": 66.66666666666666,
-              "key_stats": "Stab:6.3 Resi:0.7",
-              "is_guild_member": true
-            },
-            {
-              "rank": 42,
-              "account_name": "Feed.5309",
-              "composite_score": 1615.045689105076,
-              "glicko_rating": 1627.681181079934,
-              "games_played": 1,
-              "average_rank_percent": 85.71428571428571,
-              "key_stats": "Stab:5.9 Resi:0.7",
-              "is_guild_member": false
-            },
-            {
-              "rank": 43,
-              "account_name": "Mellis.7284",
-              "composite_score": 1589.5921758770623,
-              "glicko_rating": 1674.3013996067234,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:5.3 Resi:0.8",
-              "is_guild_member": true
-            },
-            {
-              "rank": 44,
-              "account_name": "inneedoflife.5092",
-              "composite_score": 1581.5768466872287,
-              "glicko_rating": 1572.739231856674,
-              "games_played": 1,
-              "average_rank_percent": 75.0,
-              "key_stats": "Stab:6.9 Resi:0.1",
-              "is_guild_member": false
-            },
-            {
-              "rank": 45,
-              "account_name": "wildsilent.6257",
-              "composite_score": 1580.6380237312746,
-              "glicko_rating": 1597.7814490709586,
-              "games_played": 2,
-              "average_rank_percent": 90.0,
-              "key_stats": "Stab:4.3",
-              "is_guild_member": false
-            },
-            {
-              "rank": 46,
-              "account_name": "Bayushi.7914",
-              "composite_score": 1578.52922284152,
-              "glicko_rating": 1569.7688549503923,
-              "games_played": 1,
-              "average_rank_percent": 75.0,
-              "key_stats": "Stab:6.5 Resi:0.6",
-              "is_guild_member": false
-            },
-            {
-              "rank": 47,
-              "account_name": "AurebeshX.8792",
-              "composite_score": 1577.9690575626705,
-              "glicko_rating": 1591.544316535003,
-              "games_played": 1,
-              "average_rank_percent": 85.71428571428571,
-              "key_stats": "Stab:6.6 Resi:0.3",
-              "is_guild_member": false
-            },
-            {
-              "rank": 48,
-              "account_name": "Gir Rowl.7065",
-              "composite_score": 1570.3812263084506,
-              "glicko_rating": 1530.6023825247933,
-              "games_played": 1,
-              "average_rank_percent": 50.0,
-              "key_stats": "Stab:5.2 Resi:0.1",
-              "is_guild_member": false
-            },
-            {
-              "rank": 49,
-              "account_name": "Adrokos.1729",
-              "composite_score": 1561.9864643117512,
-              "glicko_rating": 1553.6453993040498,
-              "games_played": 1,
-              "average_rank_percent": 75.0,
-              "key_stats": "Stab:4.3",
-              "is_guild_member": true
-            },
-            {
-              "rank": 50,
-              "account_name": "Xhil.9316",
-              "composite_score": 1558.5975198440908,
-              "glicko_rating": 1644.092353097221,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:6.3 Resi:0.5",
-              "is_guild_member": false
-            },
-            {
-              "rank": 51,
-              "account_name": "Stash.8401",
-              "composite_score": 1538.3821906195778,
-              "glicko_rating": 1624.3894139809233,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:5.4 Resi:0.6",
-              "is_guild_member": false
-            },
-            {
-              "rank": 52,
-              "account_name": "Arpeggio.9730",
-              "composite_score": 1509.7934565523612,
-              "glicko_rating": 1546.52530746638,
-              "games_played": 1,
-              "average_rank_percent": 90.0,
-              "key_stats": "Stab:4.3 Resi:0.4",
-              "is_guild_member": false
-            },
-            {
-              "rank": 53,
-              "account_name": "Lozen.7623",
-              "composite_score": 1460.9199295490785,
-              "glicko_rating": 1548.8905587937375,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:5.4 Resi:0.4",
-              "is_guild_member": true
-            },
-            {
-              "rank": 54,
-              "account_name": "lcuocikny.3814",
-              "composite_score": 1456.5057419243024,
-              "glicko_rating": 1544.5882558703986,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:5.1 Resi:0.3",
-              "is_guild_member": false
-            },
-            {
-              "rank": 55,
-              "account_name": "red armadillo.4593",
-              "composite_score": 1427.693469264166,
-              "glicko_rating": 1516.5062767089385,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:3.9",
-              "is_guild_member": false
-            },
-            {
-              "rank": 56,
-              "account_name": "Azelroth.6801",
-              "composite_score": 1425.5347198096208,
-              "glicko_rating": 1514.4022442394266,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:4.1 Resi:0.1",
-              "is_guild_member": false
-            },
-            {
-              "rank": 57,
-              "account_name": "SunJian.8029",
-              "composite_score": 1362.4748504459403,
-              "glicko_rating": 1452.9407289232345,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:3.9 Resi:0.2",
-              "is_guild_member": false
-            },
-            {
-              "rank": 58,
-              "account_name": "Grizzly.1826",
-              "composite_score": 1336.4472244215992,
-              "glicko_rating": 1427.572815039472,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:3.3 Resi:0.1",
-              "is_guild_member": false
-            },
-            {
-              "rank": 59,
-              "account_name": "pinguinox.9528",
-              "composite_score": 1250.3128607321296,
-              "glicko_rating": 1343.6216656544423,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:1.0 Resi:0.1",
-              "is_guild_member": false
-            },
-            {
-              "rank": 60,
-              "account_name": "TTRF.8473",
-              "composite_score": 1243.1887048169078,
-              "glicko_rating": 1336.678082955704,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:0.2 Resi:0.2",
-              "is_guild_member": false
-            },
-            {
-              "rank": 61,
-              "account_name": "tehdusterer.5689",
-              "composite_score": 1236.4160654823393,
-              "glicko_rating": 1330.0771070832043,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:0.5",
-              "is_guild_member": false
-            },
-            {
-              "rank": 62,
-              "account_name": "Ray Bell.2135",
-              "composite_score": 1231.923692353327,
-              "glicko_rating": 1325.6986003932766,
-              "games_played": 1,
-              "average_rank_percent": 100.0,
-              "key_stats": "Stab:1.3 Resi:0.1",
-              "is_guild_member": false
-            }
-          ]
-        },
         "Scourge": {
           "metrics": [
             "Strips",
@@ -49233,6 +48601,638 @@ const leaderboardData = {
               "games_played": 1,
               "average_rank_percent": 100.0,
               "key_stats": "Stri:0.0 DPS:342.0",
+              "is_guild_member": false
+            }
+          ]
+        },
+        "Firebrand": {
+          "metrics": [
+            "Stability",
+            "Resistance"
+          ],
+          "weights": [
+            0.6,
+            0.4
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "aznsleeper.5896",
+              "composite_score": 1972.6005074513232,
+              "glicko_rating": 1871.2354650071377,
+              "games_played": 11,
+              "average_rank_percent": 61.24458874458874,
+              "key_stats": "Stab:6.5 Resi:0.7",
+              "is_guild_member": true
+            },
+            {
+              "rank": 2,
+              "account_name": "Astro Bear.6305",
+              "composite_score": 1951.0512474973755,
+              "glicko_rating": 1824.9079426117892,
+              "games_played": 4,
+              "average_rank_percent": 20.93253968253968,
+              "key_stats": "Stab:7.6 Resi:1.1",
+              "is_guild_member": true
+            },
+            {
+              "rank": 3,
+              "account_name": "Malek.9417",
+              "composite_score": 1949.4492974043292,
+              "glicko_rating": 1849.9760819496682,
+              "games_played": 5,
+              "average_rank_percent": 41.492063492063494,
+              "key_stats": "Stab:7.4 Resi:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 4,
+              "account_name": "mikefmc.5961",
+              "composite_score": 1899.5211298505062,
+              "glicko_rating": 1796.5101776598242,
+              "games_played": 6,
+              "average_rank_percent": 45.8531746031746,
+              "key_stats": "Stab:7.8 Resi:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 5,
+              "account_name": "modus.7921",
+              "composite_score": 1899.2980315840937,
+              "glicko_rating": 1824.9079426117892,
+              "games_played": 4,
+              "average_rank_percent": 62.61904761904762,
+              "key_stats": "Stab:7.1 Resi:0.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 6,
+              "account_name": "Mellis.8451",
+              "composite_score": 1887.076209106162,
+              "glicko_rating": 1786.4633580969087,
+              "games_played": 7,
+              "average_rank_percent": 54.285714285714285,
+              "key_stats": "Stab:8.5 Resi:0.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 7,
+              "account_name": "nateboyd.5682",
+              "composite_score": 1878.4733896280238,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 12.142857142857142,
+              "key_stats": "Stab:11.5 Resi:1.2",
+              "is_guild_member": false
+            },
+            {
+              "rank": 8,
+              "account_name": "ParaldaWind.4523",
+              "composite_score": 1838.4923193527723,
+              "glicko_rating": 1757.755130269381,
+              "games_played": 3,
+              "average_rank_percent": 45.833333333333336,
+              "key_stats": "Stab:6.6 Resi:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 9,
+              "account_name": "BattleGalaticNinja.4508",
+              "composite_score": 1832.0729624087012,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 31.25,
+              "key_stats": "Stab:6.8 Resi:1.0",
+              "is_guild_member": false
+            },
+            {
+              "rank": 10,
+              "account_name": "adrielle.2109",
+              "composite_score": 1825.9070203536273,
+              "glicko_rating": 1740.6499612808993,
+              "games_played": 10,
+              "average_rank_percent": 67.97619047619047,
+              "key_stats": "Stab:7.3 Resi:1.0",
+              "is_guild_member": true
+            },
+            {
+              "rank": 11,
+              "account_name": "Nero.6195",
+              "composite_score": 1824.1971204570532,
+              "glicko_rating": 1738.5164207550379,
+              "games_played": 10,
+              "average_rank_percent": 69.12698412698413,
+              "key_stats": "Stab:7.3 Resi:0.6",
+              "is_guild_member": true
+            },
+            {
+              "rank": 12,
+              "account_name": "King Sylvari.2567",
+              "composite_score": 1822.352801722025,
+              "glicko_rating": 1758.4605010761425,
+              "games_played": 3,
+              "average_rank_percent": 64.28571428571429,
+              "key_stats": "Stab:5.2 Resi:0.4",
+              "is_guild_member": false
+            },
+            {
+              "rank": 13,
+              "account_name": "Clarrovi.9085",
+              "composite_score": 1816.1260265541923,
+              "glicko_rating": 1747.5525653575937,
+              "games_played": 2,
+              "average_rank_percent": 45.0,
+              "key_stats": "Stab:8.7 Resi:0.7",
+              "is_guild_member": true
+            },
+            {
+              "rank": 14,
+              "account_name": "Carnibaal.2140",
+              "composite_score": 1794.7933299301815,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 10.0,
+              "key_stats": "Stab:7.2 Resi:1.0",
+              "is_guild_member": false
+            },
+            {
+              "rank": 15,
+              "account_name": "Bother.9415",
+              "composite_score": 1765.9369176414616,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 16.666666666666664,
+              "key_stats": "Stab:9.3 Resi:1.1",
+              "is_guild_member": true
+            },
+            {
+              "rank": 16,
+              "account_name": "Hydrason.4612",
+              "composite_score": 1764.2891056384053,
+              "glicko_rating": 1732.005656456468,
+              "games_played": 2,
+              "average_rank_percent": 74.60317460317461,
+              "key_stats": "Stab:5.1 Resi:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 17,
+              "account_name": "Mortealug.6043",
+              "composite_score": 1763.491731033098,
+              "glicko_rating": 1692.8131934621401,
+              "games_played": 2,
+              "average_rank_percent": 42.5,
+              "key_stats": "Stab:6.4",
+              "is_guild_member": false
+            },
+            {
+              "rank": 18,
+              "account_name": "mikerock.6187",
+              "composite_score": 1759.5243815773015,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 20.0,
+              "key_stats": "Stab:7.6 Resi:0.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 19,
+              "account_name": "Nictheman.9754",
+              "composite_score": 1759.5243815773015,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 20.0,
+              "key_stats": "Stab:6.0 Resi:1.4",
+              "is_guild_member": true
+            },
+            {
+              "rank": 20,
+              "account_name": "Uriah.7082",
+              "composite_score": 1759.5243815773015,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 20.0,
+              "key_stats": "Stab:8.4 Resi:1.0",
+              "is_guild_member": true
+            },
+            {
+              "rank": 21,
+              "account_name": "Johnny.5478",
+              "composite_score": 1755.2493575345284,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 22.22222222222222,
+              "key_stats": "Stab:7.1 Resi:1.0",
+              "is_guild_member": true
+            },
+            {
+              "rank": 22,
+              "account_name": "The Original Barcode.7985",
+              "composite_score": 1749.9055774810615,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 25.0,
+              "key_stats": "Stab:9.1 Resi:0.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 23,
+              "account_name": "Sabbaah.2314",
+              "composite_score": 1749.9055774810615,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 25.0,
+              "key_stats": "Stab:9.7 Resi:0.7",
+              "is_guild_member": false
+            },
+            {
+              "rank": 24,
+              "account_name": "cmkmrr.1705",
+              "composite_score": 1743.0350031266046,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 28.57142857142857,
+              "key_stats": "Stab:7.0 Resi:0.8",
+              "is_guild_member": false
+            },
+            {
+              "rank": 25,
+              "account_name": "dirtydaaku.1948",
+              "composite_score": 1740.2867733848216,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 30.0,
+              "key_stats": "Stab:6.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 26,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1735.6072818535379,
+              "glicko_rating": 1676.120690948403,
+              "games_played": 2,
+              "average_rank_percent": 53.57142857142857,
+              "key_stats": "Stab:4.9",
+              "is_guild_member": true
+            },
+            {
+              "rank": 27,
+              "account_name": "IIRII.2413",
+              "composite_score": 1723.936638574375,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 42.857142857142854,
+              "key_stats": "Stab:10.0 Resi:0.2",
+              "is_guild_member": false
+            },
+            {
+              "rank": 28,
+              "account_name": "Mylovis.6390",
+              "composite_score": 1722.5767737836263,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 44.44444444444444,
+              "key_stats": "Stab:7.1 Resi:0.8",
+              "is_guild_member": false
+            },
+            {
+              "rank": 29,
+              "account_name": "Havocus.3682",
+              "composite_score": 1722.1013157931657,
+              "glicko_rating": 1671.475694334376,
+              "games_played": 2,
+              "average_rank_percent": 62.5,
+              "key_stats": "Stab:5.2 Resi:0.6",
+              "is_guild_member": true
+            },
+            {
+              "rank": 30,
+              "account_name": "PublicDisplayName.4986",
+              "composite_score": 1711.6978554576351,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 57.14285714285714,
+              "key_stats": "Stab:7.6 Resi:0.5",
+              "is_guild_member": true
+            },
+            {
+              "rank": 31,
+              "account_name": "paizin.2154",
+              "composite_score": 1708.068361710009,
+              "glicko_rating": 1664.7996155149317,
+              "games_played": 1,
+              "average_rank_percent": 50.0,
+              "key_stats": "Stab:7.7 Resi:0.8",
+              "is_guild_member": false
+            },
+            {
+              "rank": 32,
+              "account_name": "waschy.6093",
+              "composite_score": 1702.8502480376872,
+              "glicko_rating": 1665.4306530718309,
+              "games_played": 3,
+              "average_rank_percent": 76.66666666666667,
+              "key_stats": "Stab:8.5 Resi:0.3",
+              "is_guild_member": true
+            },
+            {
+              "rank": 33,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1686.899086711892,
+              "glicko_rating": 1671.642291546896,
+              "games_played": 2,
+              "average_rank_percent": 83.33333333333333,
+              "key_stats": "Stab:10.2 Resi:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 34,
+              "account_name": "Bronkes.1865",
+              "composite_score": 1676.161412743222,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 80.0,
+              "key_stats": "Stab:9.4 Resi:0.5",
+              "is_guild_member": false
+            },
+            {
+              "rank": 35,
+              "account_name": "Full Course Meal.9540",
+              "composite_score": 1671.7175983832558,
+              "glicko_rating": 1637.7202208855592,
+              "games_played": 1,
+              "average_rank_percent": 60.0,
+              "key_stats": "Stab:4.6 Resi:0.7",
+              "is_guild_member": false
+            },
+            {
+              "rank": 36,
+              "account_name": "Krine.4690",
+              "composite_score": 1651.5207288760103,
+              "glicko_rating": 1609.6852735952361,
+              "games_played": 1,
+              "average_rank_percent": 50.0,
+              "key_stats": "Stab:5.1",
+              "is_guild_member": false
+            },
+            {
+              "rank": 37,
+              "account_name": "mattb.1263",
+              "composite_score": 1640.892464390342,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 90.0,
+              "key_stats": "Stab:8.3 Resi:0.6",
+              "is_guild_member": false
+            },
+            {
+              "rank": 38,
+              "account_name": "Ronin.4501",
+              "composite_score": 1638.6262257842297,
+              "glicko_rating": 1612.7176024714738,
+              "games_played": 1,
+              "average_rank_percent": 66.66666666666666,
+              "key_stats": "Stab:8.4 Resi:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 39,
+              "account_name": "Freelanced.6084",
+              "composite_score": 1634.3571556837173,
+              "glicko_rating": 1588.2456433357565,
+              "games_played": 2,
+              "average_rank_percent": 65.0,
+              "key_stats": "Stab:2.5",
+              "is_guild_member": true
+            },
+            {
+              "rank": 40,
+              "account_name": "DareDevils.6039",
+              "composite_score": 1633.163123956969,
+              "glicko_rating": 1639.12296441848,
+              "games_played": 4,
+              "average_rank_percent": 91.66666666666666,
+              "key_stats": "Stab:7.8 Resi:0.2",
+              "is_guild_member": false
+            },
+            {
+              "rank": 41,
+              "account_name": "BlueViolet.8263",
+              "composite_score": 1629.2906025921288,
+              "glicko_rating": 1603.618605699083,
+              "games_played": 1,
+              "average_rank_percent": 66.66666666666666,
+              "key_stats": "Stab:6.3 Resi:0.7",
+              "is_guild_member": true
+            },
+            {
+              "rank": 42,
+              "account_name": "Feed.5309",
+              "composite_score": 1615.045689105076,
+              "glicko_rating": 1627.681181079934,
+              "games_played": 1,
+              "average_rank_percent": 85.71428571428571,
+              "key_stats": "Stab:5.9 Resi:0.7",
+              "is_guild_member": false
+            },
+            {
+              "rank": 43,
+              "account_name": "Mellis.7284",
+              "composite_score": 1589.5921758770623,
+              "glicko_rating": 1674.3013996067234,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:5.3 Resi:0.8",
+              "is_guild_member": true
+            },
+            {
+              "rank": 44,
+              "account_name": "inneedoflife.5092",
+              "composite_score": 1581.5768466872287,
+              "glicko_rating": 1572.739231856674,
+              "games_played": 1,
+              "average_rank_percent": 75.0,
+              "key_stats": "Stab:6.9 Resi:0.1",
+              "is_guild_member": false
+            },
+            {
+              "rank": 45,
+              "account_name": "wildsilent.6257",
+              "composite_score": 1580.6380237312746,
+              "glicko_rating": 1597.7814490709586,
+              "games_played": 2,
+              "average_rank_percent": 90.0,
+              "key_stats": "Stab:4.3",
+              "is_guild_member": false
+            },
+            {
+              "rank": 46,
+              "account_name": "Bayushi.7914",
+              "composite_score": 1578.52922284152,
+              "glicko_rating": 1569.7688549503923,
+              "games_played": 1,
+              "average_rank_percent": 75.0,
+              "key_stats": "Stab:6.5 Resi:0.6",
+              "is_guild_member": false
+            },
+            {
+              "rank": 47,
+              "account_name": "AurebeshX.8792",
+              "composite_score": 1577.9690575626705,
+              "glicko_rating": 1591.544316535003,
+              "games_played": 1,
+              "average_rank_percent": 85.71428571428571,
+              "key_stats": "Stab:6.6 Resi:0.3",
+              "is_guild_member": false
+            },
+            {
+              "rank": 48,
+              "account_name": "Gir Rowl.7065",
+              "composite_score": 1570.3812263084506,
+              "glicko_rating": 1530.6023825247933,
+              "games_played": 1,
+              "average_rank_percent": 50.0,
+              "key_stats": "Stab:5.2 Resi:0.1",
+              "is_guild_member": false
+            },
+            {
+              "rank": 49,
+              "account_name": "Adrokos.1729",
+              "composite_score": 1561.9864643117512,
+              "glicko_rating": 1553.6453993040498,
+              "games_played": 1,
+              "average_rank_percent": 75.0,
+              "key_stats": "Stab:4.3",
+              "is_guild_member": true
+            },
+            {
+              "rank": 50,
+              "account_name": "Xhil.9316",
+              "composite_score": 1558.5975198440908,
+              "glicko_rating": 1644.092353097221,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:6.3 Resi:0.5",
+              "is_guild_member": false
+            },
+            {
+              "rank": 51,
+              "account_name": "Stash.8401",
+              "composite_score": 1538.3821906195778,
+              "glicko_rating": 1624.3894139809233,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:5.4 Resi:0.6",
+              "is_guild_member": false
+            },
+            {
+              "rank": 52,
+              "account_name": "Arpeggio.9730",
+              "composite_score": 1509.7934565523612,
+              "glicko_rating": 1546.52530746638,
+              "games_played": 1,
+              "average_rank_percent": 90.0,
+              "key_stats": "Stab:4.3 Resi:0.4",
+              "is_guild_member": false
+            },
+            {
+              "rank": 53,
+              "account_name": "Lozen.7623",
+              "composite_score": 1460.9199295490785,
+              "glicko_rating": 1548.8905587937375,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:5.4 Resi:0.4",
+              "is_guild_member": true
+            },
+            {
+              "rank": 54,
+              "account_name": "lcuocikny.3814",
+              "composite_score": 1456.5057419243024,
+              "glicko_rating": 1544.5882558703986,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:5.1 Resi:0.3",
+              "is_guild_member": false
+            },
+            {
+              "rank": 55,
+              "account_name": "red armadillo.4593",
+              "composite_score": 1427.693469264166,
+              "glicko_rating": 1516.5062767089385,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:3.9",
+              "is_guild_member": false
+            },
+            {
+              "rank": 56,
+              "account_name": "Azelroth.6801",
+              "composite_score": 1425.5347198096208,
+              "glicko_rating": 1514.4022442394266,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:4.1 Resi:0.1",
+              "is_guild_member": false
+            },
+            {
+              "rank": 57,
+              "account_name": "SunJian.8029",
+              "composite_score": 1362.4748504459403,
+              "glicko_rating": 1452.9407289232345,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:3.9 Resi:0.2",
+              "is_guild_member": false
+            },
+            {
+              "rank": 58,
+              "account_name": "Grizzly.1826",
+              "composite_score": 1336.4472244215992,
+              "glicko_rating": 1427.572815039472,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:3.3 Resi:0.1",
+              "is_guild_member": false
+            },
+            {
+              "rank": 59,
+              "account_name": "pinguinox.9528",
+              "composite_score": 1250.3128607321296,
+              "glicko_rating": 1343.6216656544423,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:1.0 Resi:0.1",
+              "is_guild_member": false
+            },
+            {
+              "rank": 60,
+              "account_name": "TTRF.8473",
+              "composite_score": 1243.1887048169078,
+              "glicko_rating": 1336.678082955704,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:0.2 Resi:0.2",
+              "is_guild_member": false
+            },
+            {
+              "rank": 61,
+              "account_name": "tehdusterer.5689",
+              "composite_score": 1236.4160654823393,
+              "glicko_rating": 1330.0771070832043,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:0.5",
+              "is_guild_member": false
+            },
+            {
+              "rank": 62,
+              "account_name": "Ray Bell.2135",
+              "composite_score": 1231.923692353327,
+              "glicko_rating": 1325.6986003932766,
+              "games_played": 1,
+              "average_rank_percent": 100.0,
+              "key_stats": "Stab:1.3 Resi:0.1",
               "is_guild_member": false
             }
           ]
@@ -51396,6 +51396,17 @@ const leaderboardData = {
         },
         {
           "rank": 56,
+          "account_name": "Huge.5891",
+          "profession": "China DH",
+          "composite_score": 1603.3753169922704,
+          "glicko_rating": 1538.8795820600387,
+          "games_played": 7,
+          "average_rank_percent": 37.13952713952714,
+          "average_stat_value": 5748.393922284136,
+          "is_guild_member": true
+        },
+        {
+          "rank": 57,
           "account_name": "Blinking Router.4305",
           "profession": "Scourge",
           "composite_score": 1603.2479288052418,
@@ -51406,7 +51417,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 57,
+          "rank": 58,
           "account_name": "Argo.2675",
           "profession": "Support Spb",
           "composite_score": 1603.1630989566088,
@@ -51417,7 +51428,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 58,
+          "rank": 59,
           "account_name": "Disenable.1640",
           "profession": "Spellbreaker",
           "composite_score": 1602.9759173432828,
@@ -51428,7 +51439,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 59,
+          "rank": 60,
           "account_name": "steelrage.2904",
           "profession": "Reaper",
           "composite_score": 1602.1689061767368,
@@ -51439,7 +51450,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 60,
+          "rank": 61,
           "account_name": "Pieswithattitude.2357",
           "profession": "Chronomancer",
           "composite_score": 1602.0136128458955,
@@ -51450,7 +51461,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 61,
+          "rank": 62,
           "account_name": "synco.8132",
           "profession": "Support Spb",
           "composite_score": 1601.1774887316883,
@@ -51461,7 +51472,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 62,
+          "rank": 63,
           "account_name": "Johnny.5478",
           "profession": "Specter",
           "composite_score": 1598.5508567553466,
@@ -51472,7 +51483,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 63,
+          "rank": 64,
           "account_name": "Soothsayer.9206",
           "profession": "Catalyst",
           "composite_score": 1598.2139427394466,
@@ -51483,7 +51494,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 64,
+          "rank": 65,
           "account_name": "Serebus.7314",
           "profession": "Reaper",
           "composite_score": 1597.941625946622,
@@ -51494,7 +51505,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 65,
+          "rank": 66,
           "account_name": "Havocus.3682",
           "profession": "Berserker",
           "composite_score": 1597.7502921396172,
@@ -51505,7 +51516,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 66,
+          "rank": 67,
           "account_name": "Igure.2063",
           "profession": "Specter",
           "composite_score": 1597.4028596926073,
@@ -51516,7 +51527,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 67,
+          "rank": 68,
           "account_name": "Daasen.3719",
           "profession": "Necromancer",
           "composite_score": 1597.2905210392587,
@@ -51527,7 +51538,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 68,
+          "rank": 69,
           "account_name": "Muted.8591",
           "profession": "Tempest",
           "composite_score": 1595.1650678553435,
@@ -51538,7 +51549,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 69,
+          "rank": 70,
           "account_name": "Steampunkengineer.7146",
           "profession": "Condi Firebrand",
           "composite_score": 1594.7702843609882,
@@ -51549,7 +51560,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 70,
+          "rank": 71,
           "account_name": "Chakkkka.2504",
           "profession": "Scourge",
           "composite_score": 1594.325675684455,
@@ -51560,7 +51571,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 71,
+          "rank": 72,
           "account_name": "Soothsayer.9206",
           "profession": "Untamed",
           "composite_score": 1593.295169440398,
@@ -51571,7 +51582,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 72,
+          "rank": 73,
           "account_name": "EternalEndless.7695",
           "profession": "Scrapper",
           "composite_score": 1592.5377098963263,
@@ -51582,7 +51593,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 73,
+          "rank": 74,
           "account_name": "Daasen.3719",
           "profession": "Catalyst",
           "composite_score": 1592.1329179957531,
@@ -51593,7 +51604,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 74,
+          "rank": 75,
           "account_name": "Mes.1906",
           "profession": "Specter",
           "composite_score": 1591.4882917529949,
@@ -51604,7 +51615,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 75,
+          "rank": 76,
           "account_name": "CrimeLordXx.3920",
           "profession": "Spellbreaker",
           "composite_score": 1590.894015073586,
@@ -51615,7 +51626,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 76,
+          "rank": 77,
           "account_name": "Dextra.8162",
           "profession": "Weaver",
           "composite_score": 1589.5798379723553,
@@ -51626,7 +51637,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 77,
+          "rank": 78,
           "account_name": "ParaldaWind.4523",
           "profession": "Specter",
           "composite_score": 1589.2087747206906,
@@ -51637,7 +51648,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 78,
+          "rank": 79,
           "account_name": "Mellis.8451",
           "profession": "Chronomancer",
           "composite_score": 1588.0279094118714,
@@ -51648,7 +51659,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 79,
+          "rank": 80,
           "account_name": "DareDevils.6039",
           "profession": "Scourge",
           "composite_score": 1587.6003737330586,
@@ -51659,7 +51670,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 80,
+          "rank": 81,
           "account_name": "Ashtonlightstone.9145",
           "profession": "Scourge",
           "composite_score": 1587.4521810389274,
@@ -51670,7 +51681,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 81,
+          "rank": 82,
           "account_name": "Interpretor.3091",
           "profession": "Untamed",
           "composite_score": 1586.9371499675735,
@@ -51681,7 +51692,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 82,
+          "rank": 83,
           "account_name": "Havocus.3682",
           "profession": "Chronomancer",
           "composite_score": 1586.9321685636544,
@@ -51692,7 +51703,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 83,
+          "rank": 84,
           "account_name": "Uriah.7082",
           "profession": "Warrior",
           "composite_score": 1586.8990323239427,
@@ -51703,7 +51714,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 84,
+          "rank": 85,
           "account_name": "pinguinox.9528",
           "profession": "Spellbreaker",
           "composite_score": 1586.7449533019305,
@@ -51714,7 +51725,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 85,
+          "rank": 86,
           "account_name": "Knightmare.6849",
           "profession": "Scrapper",
           "composite_score": 1586.5917734101022,
@@ -51725,7 +51736,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 86,
+          "rank": 87,
           "account_name": "Vasnia.3189",
           "profession": "Spellbreaker",
           "composite_score": 1586.5412797237457,
@@ -51736,7 +51747,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 87,
+          "rank": 88,
           "account_name": "Freelanced.6084",
           "profession": "Reaper",
           "composite_score": 1586.455596301624,
@@ -51747,7 +51758,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 88,
+          "rank": 89,
           "account_name": "General Moo.7930",
           "profession": "Reaper",
           "composite_score": 1586.2646265417334,
@@ -51758,7 +51769,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 89,
+          "rank": 90,
           "account_name": "Nennius.9627",
           "profession": "Condi Firebrand",
           "composite_score": 1586.0425973041845,
@@ -51769,7 +51780,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 90,
+          "rank": 91,
           "account_name": "FlawedDjinn.3217",
           "profession": "Chronomancer",
           "composite_score": 1585.8715365496164,
@@ -51780,7 +51791,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 91,
+          "rank": 92,
           "account_name": "mikefmc.5961",
           "profession": "Support Spb",
           "composite_score": 1584.7080102974369,
@@ -51791,7 +51802,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 92,
+          "rank": 93,
           "account_name": "Malek.9417",
           "profession": "Firebrand",
           "composite_score": 1584.5773342321693,
@@ -51802,7 +51813,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 93,
+          "rank": 94,
           "account_name": "Dave.1706",
           "profession": "Scrapper",
           "composite_score": 1583.9775291034748,
@@ -51813,7 +51824,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 94,
+          "rank": 95,
           "account_name": "Guars.6409",
           "profession": "Druid",
           "composite_score": 1583.974025518548,
@@ -51824,7 +51835,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 95,
+          "rank": 96,
           "account_name": "Millian.9730",
           "profession": "Chronomancer",
           "composite_score": 1583.8635247731002,
@@ -51835,7 +51846,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 96,
+          "rank": 97,
           "account_name": "Syde.1863",
           "profession": "Reaper",
           "composite_score": 1583.4763912411452,
@@ -51846,7 +51857,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 97,
+          "rank": 98,
           "account_name": "mikerock.6187",
           "profession": "Firebrand",
           "composite_score": 1583.2727570414002,
@@ -51857,7 +51868,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 98,
+          "rank": 99,
           "account_name": "Luke.9108",
           "profession": "Untamed",
           "composite_score": 1582.8406049707157,
@@ -51868,7 +51879,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 99,
+          "rank": 100,
           "account_name": "DirtyRat.3941",
           "profession": "Chronomancer",
           "composite_score": 1582.3367634742413,
@@ -51877,17 +51888,6 @@ const leaderboardData = {
           "average_rank_percent": 41.54860159786268,
           "average_stat_value": 35.91277118953935,
           "is_guild_member": false
-        },
-        {
-          "rank": 100,
-          "account_name": "emz.3571",
-          "profession": "Reaper",
-          "composite_score": 1582.3136043259863,
-          "glicko_rating": 1516.5816459755385,
-          "games_played": 57,
-          "average_rank_percent": 54.38421077228582,
-          "average_stat_value": 4212.982760046333,
-          "is_guild_member": true
         }
       ],
       "high_scores": {
@@ -52247,7 +52247,7 @@ const leaderboardData = {
           {
             "rank": 45,
             "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
+            "profession": "China DH",
             "burst_damage": 69044,
             "timestamp": "202504242313",
             "is_guild_member": true
@@ -56380,6 +56380,17 @@ const leaderboardData = {
           },
           {
             "rank": 35,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1855.8957318226278,
+            "glicko_rating": 1718.9748043327736,
+            "games_played": 6,
+            "average_rank_percent": 21.811115809616556,
+            "average_stat_value": 1963.5,
+            "is_guild_member": true
+          },
+          {
+            "rank": 36,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1853.0777250228418,
@@ -56390,7 +56401,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1851.4349885024208,
@@ -56401,7 +56412,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "Havocus.3682",
             "profession": "Reaper",
             "composite_score": 1847.1214986226812,
@@ -56412,7 +56423,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Bother.9415",
             "profession": "Untamed",
             "composite_score": 1845.3333010827102,
@@ -56423,7 +56434,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1844.474377188091,
@@ -56434,7 +56445,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "CrimeLordXx.3920",
             "profession": "Reaper",
             "composite_score": 1842.900860839848,
@@ -56445,7 +56456,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1842.4694833528868,
@@ -56456,7 +56467,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Jeff.7219",
             "profession": "Berserker",
             "composite_score": 1838.0779483632614,
@@ -56465,17 +56476,6 @@ const leaderboardData = {
             "average_rank_percent": 1.5625,
             "average_stat_value": 4027.0,
             "is_guild_member": false
-          },
-          {
-            "rank": 43,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1835.8962161808665,
-            "glicko_rating": 1679.5335082205881,
-            "games_played": 21,
-            "average_rank_percent": 25.374956524027734,
-            "average_stat_value": 1399.047619047619,
-            "is_guild_member": true
           },
           {
             "rank": 44,
@@ -56622,6 +56622,17 @@ const leaderboardData = {
           },
           {
             "rank": 57,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1821.3428827130683,
+            "glicko_rating": 1668.0360693760524,
+            "games_played": 20,
+            "average_rank_percent": 26.25908896561374,
+            "average_stat_value": 1384.4,
+            "is_guild_member": true
+          },
+          {
+            "rank": 58,
             "account_name": "Bricktus.1682",
             "profession": "Holosmith",
             "composite_score": 1820.4434741868213,
@@ -56632,7 +56643,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Niopek.5123",
             "profession": "Warrior",
             "composite_score": 1814.0309381226614,
@@ -56643,7 +56654,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "Mellis.8451",
             "profession": "Dragonhunter",
             "composite_score": 1813.6673036562029,
@@ -56654,7 +56665,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1812.996658112313,
@@ -56665,7 +56676,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "slfhie.1764",
             "profession": "Vindicator",
             "composite_score": 1811.1161490025888,
@@ -56676,7 +56687,18 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 62,
+            "rank": 63,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1806.6318580486304,
+            "glicko_rating": 1674.3013996067234,
+            "games_played": 1,
+            "average_rank_percent": 7.6923076923076925,
+            "average_stat_value": 1692.0,
+            "is_guild_member": true
+          },
+          {
+            "rank": 64,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1806.0152680424615,
@@ -56687,7 +56709,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 65,
             "account_name": "Montana.8032",
             "profession": "Catalyst",
             "composite_score": 1805.379103750382,
@@ -56698,7 +56720,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 66,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1802.4337984321592,
@@ -56709,7 +56731,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 65,
+            "rank": 67,
             "account_name": "Mes.1906",
             "profession": "Warrior",
             "composite_score": 1801.2058659943414,
@@ -56720,7 +56742,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 66,
+            "rank": 68,
             "account_name": "Maul.1360",
             "profession": "Berserker",
             "composite_score": 1799.5659610003077,
@@ -56731,7 +56753,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 69,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1798.5933513015354,
@@ -56742,7 +56764,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 68,
+            "rank": 70,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1798.3733895595974,
@@ -56753,7 +56775,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 71,
             "account_name": "Daasen.3719",
             "profession": "Reaper",
             "composite_score": 1797.9995979622615,
@@ -56764,7 +56786,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 72,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1792.6558179087947,
@@ -56775,7 +56797,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 73,
             "account_name": "filipe.2809",
             "profession": "Dragonhunter",
             "composite_score": 1791.1290236078044,
@@ -56786,7 +56808,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
+            "rank": 74,
             "account_name": "Feed.5309",
             "profession": "Berserker",
             "composite_score": 1789.9839278820614,
@@ -56797,7 +56819,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 73,
+            "rank": 75,
             "account_name": "AzureInvidiaOnline.6789",
             "profession": "Soulbeast",
             "composite_score": 1789.9839278820614,
@@ -56808,7 +56830,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 76,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1789.9839278820614,
@@ -56819,7 +56841,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 77,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1789.0932978731503,
@@ -56830,7 +56852,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 78,
             "account_name": "Luke.9108",
             "profession": "Reaper",
             "composite_score": 1788.506490314605,
@@ -56841,7 +56863,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 79,
             "account_name": "SteelSpirit.1695",
             "profession": "Berserker",
             "composite_score": 1787.797836042007,
@@ -56852,7 +56874,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 78,
+            "rank": 80,
             "account_name": "Eschkevna.6301",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -56863,7 +56885,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 81,
             "account_name": "nateboyd.5682",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -56874,7 +56896,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 80,
+            "rank": 82,
             "account_name": "Raykiu.7841",
             "profession": "Willbender",
             "composite_score": 1781.9682578018615,
@@ -56885,7 +56907,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 83,
             "account_name": "Nictheman.9754",
             "profession": "Condi Firebrand",
             "composite_score": 1780.3240177854104,
@@ -56896,7 +56918,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 84,
             "account_name": "Bricktus.1682",
             "profession": "Untamed",
             "composite_score": 1773.9525877216615,
@@ -56907,7 +56929,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 85,
             "account_name": "Chief.7143",
             "profession": "Reaper",
             "composite_score": 1771.6170356712762,
@@ -56918,7 +56940,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 86,
             "account_name": "Johnny.5478",
             "profession": "Dragonhunter",
             "composite_score": 1768.0744296628484,
@@ -56929,7 +56951,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 87,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1765.9369176414616,
@@ -56940,7 +56962,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 88,
             "account_name": "DraGonfly.9317",
             "profession": "Catalyst",
             "composite_score": 1765.3319614089937,
@@ -56951,7 +56973,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 89,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Spellbreaker",
             "composite_score": 1764.050877622591,
@@ -56962,7 +56984,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 88,
+            "rank": 90,
             "account_name": "acumen.1980",
             "profession": "Spellbreaker",
             "composite_score": 1763.7994056200748,
@@ -56973,7 +56995,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 89,
+            "rank": 91,
             "account_name": "Chakkkka.2504",
             "profession": "Tempest",
             "composite_score": 1763.0400645256655,
@@ -56984,7 +57006,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 90,
+            "rank": 92,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1762.9827992837374,
@@ -56995,7 +57017,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 91,
+            "rank": 93,
             "account_name": "Shaaaads.1856",
             "profession": "Catalyst",
             "composite_score": 1762.3958645911407,
@@ -57006,7 +57028,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 92,
+            "rank": 94,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1761.9430660355897,
@@ -57017,7 +57039,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 95,
             "account_name": "Bertozaur.4578",
             "profession": "Weaver",
             "composite_score": 1761.9290826013616,
@@ -57028,7 +57050,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 96,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1761.9290826013616,
@@ -57039,7 +57061,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 97,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1760.5931375879948,
@@ -57050,7 +57072,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 98,
             "account_name": "CrimeLordXx.3920",
             "profession": "Scourge",
             "composite_score": 1757.127025402538,
@@ -57061,7 +57083,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 99,
             "account_name": "Johnny.5478",
             "profession": "Reaper",
             "composite_score": 1753.5863674500313,
@@ -57072,7 +57094,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 100,
             "account_name": "Lasthope.7943",
             "profession": "Willbender",
             "composite_score": 1752.5324318301466,
@@ -57081,28 +57103,6 @@ const leaderboardData = {
             "average_rank_percent": 26.121794871794872,
             "average_stat_value": 1507.5,
             "is_guild_member": true
-          },
-          {
-            "rank": 99,
-            "account_name": "Dextra.8162",
-            "profession": "Catalyst",
-            "composite_score": 1749.8927027518455,
-            "glicko_rating": 1628.895047973667,
-            "games_played": 9,
-            "average_rank_percent": 32.09941785671514,
-            "average_stat_value": 1294.2222222222222,
-            "is_guild_member": true
-          },
-          {
-            "rank": 100,
-            "account_name": "Travychu.5432",
-            "profession": "Dragonhunter",
-            "composite_score": 1749.2589258751864,
-            "glicko_rating": 1659.123724635159,
-            "games_played": 1,
-            "average_rank_percent": 17.24137931034483,
-            "average_stat_value": 1903.0,
-            "is_guild_member": false
           }
         ],
         "Healing": [
@@ -61560,6 +61560,17 @@ const leaderboardData = {
           },
           {
             "rank": 5,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1979.9465060567975,
+            "glicko_rating": 1823.2751987635454,
+            "games_played": 20,
+            "average_rank_percent": 27.241747440181587,
+            "average_stat_value": 6.305000000000001,
+            "is_guild_member": true
+          },
+          {
+            "rank": 6,
             "account_name": "waschy.6093",
             "profession": "Firebrand",
             "composite_score": 1974.9660597525658,
@@ -61570,7 +61581,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 6,
+            "rank": 7,
             "account_name": "mikefmc.5961",
             "profession": "Firebrand",
             "composite_score": 1957.3748802949133,
@@ -61581,7 +61592,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "modus.7921",
             "profession": "Firebrand",
             "composite_score": 1944.5792106176477,
@@ -61592,7 +61603,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1943.083738153192,
@@ -61603,7 +61614,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "adrielle.2109",
             "profession": "Firebrand",
             "composite_score": 1939.036867044145,
@@ -61614,7 +61625,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "DareDevils.6039",
             "profession": "Firebrand",
             "composite_score": 1932.1246879779083,
@@ -61625,7 +61636,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Muted.8591",
             "profession": "Chronomancer",
             "composite_score": 1927.5754214996523,
@@ -61636,7 +61647,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 13,
             "account_name": "nateboyd.5682",
             "profession": "Firebrand",
             "composite_score": 1922.9412250830537,
@@ -61647,7 +61658,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "Mellis.8451",
             "profession": "Firebrand",
             "composite_score": 1919.8015935357323,
@@ -61658,7 +61669,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "Malek.9417",
             "profession": "Condi Firebrand",
             "composite_score": 1917.4527477263423,
@@ -61669,7 +61680,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Uriah.7082",
             "profession": "Chronomancer",
             "composite_score": 1913.0388319031604,
@@ -61680,7 +61691,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "Mortealug.6043",
             "profession": "Firebrand",
             "composite_score": 1909.741286274572,
@@ -61691,7 +61702,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "King Sylvari.2567",
             "profession": "Firebrand",
             "composite_score": 1907.8738807427858,
@@ -61702,7 +61713,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "Crator of Fire.1796",
             "profession": "Vindicator",
             "composite_score": 1902.00169927878,
@@ -61713,7 +61724,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "composite_score": 1899.7065530025757,
@@ -61724,7 +61735,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "profession": "Chronomancer",
             "composite_score": 1898.1617573490555,
@@ -61735,7 +61746,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1897.5890015595655,
@@ -61746,7 +61757,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Clarrovi.9085",
             "profession": "Firebrand",
             "composite_score": 1889.7629761610617,
@@ -61757,7 +61768,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Mellis.8451",
             "profession": "Chronomancer",
             "composite_score": 1876.9362327249423,
@@ -61765,17 +61776,6 @@ const leaderboardData = {
             "games_played": 3,
             "average_rank_percent": 20.808080808080806,
             "average_stat_value": 6.033333333333334,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1876.5124610564037,
-            "glicko_rating": 1727.5246068526085,
-            "games_played": 26,
-            "average_rank_percent": 31.892611394556756,
-            "average_stat_value": 5.573076923076925,
             "is_guild_member": true
           },
           {
@@ -62739,6 +62739,17 @@ const leaderboardData = {
           },
           {
             "rank": 12,
+            "account_name": "ParaldaWind.4523",
+            "profession": "China DH",
+            "composite_score": 1903.3716814937632,
+            "glicko_rating": 1754.5157825209865,
+            "games_played": 20,
+            "average_rank_percent": 30.34503240279352,
+            "average_stat_value": 0.6599999999999999,
+            "is_guild_member": true
+          },
+          {
+            "rank": 13,
             "account_name": "mikefmc.5961",
             "profession": "Support Spb",
             "composite_score": 1902.0575033837258,
@@ -62749,7 +62760,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "Uriah.7082",
             "profession": "Chronomancer",
             "composite_score": 1900.476569749823,
@@ -62760,7 +62771,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "synco.8132",
             "profession": "Support Spb",
             "composite_score": 1892.7199260384227,
@@ -62771,7 +62782,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Steampunkengineer.7146",
             "profession": "Chronomancer",
             "composite_score": 1892.1839881224853,
@@ -62782,7 +62793,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "mikefmc.5961",
             "profession": "Firebrand",
             "composite_score": 1888.862539699795,
@@ -62793,7 +62804,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "Clarrovi.9085",
             "profession": "Firebrand",
             "composite_score": 1880.8297024135893,
@@ -62804,7 +62815,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "Hydrason.4612",
             "profession": "Firebrand",
             "composite_score": 1874.929871629455,
@@ -62815,7 +62826,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "composite_score": 1869.5883403370008,
@@ -62826,7 +62837,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Nictheman.9754",
             "profession": "Chronomancer",
             "composite_score": 1867.31790686731,
@@ -62837,7 +62848,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
             "composite_score": 1861.2510222935598,
@@ -62848,7 +62859,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Argo.2675",
             "profession": "Chronomancer",
             "composite_score": 1848.2242721068083,
@@ -62859,7 +62870,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Nictheman.9754",
             "profession": "Firebrand",
             "composite_score": 1833.8792640355375,
@@ -62867,17 +62878,6 @@ const leaderboardData = {
             "games_played": 1,
             "average_rank_percent": 2.380952380952381,
             "average_stat_value": 1.4,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1833.0666402813404,
-            "glicko_rating": 1686.6592617150748,
-            "games_played": 26,
-            "average_rank_percent": 32.53275793295879,
-            "average_stat_value": 0.596153846153846,
             "is_guild_member": true
           },
           {
@@ -65031,6 +65031,17 @@ const leaderboardData = {
           },
           {
             "rank": 20,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1894.4019539797794,
+            "glicko_rating": 1748.9511100046989,
+            "games_played": 6,
+            "average_rank_percent": 18.087786994611566,
+            "average_stat_value": 265.149377201053,
+            "is_guild_member": true
+          },
+          {
+            "rank": 21,
             "account_name": "Soothsayer.9206",
             "profession": "Catalyst",
             "composite_score": 1893.442063554563,
@@ -65041,7 +65052,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "composite_score": 1891.6833091347064,
@@ -65052,7 +65063,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Soothsayer.9206",
             "profession": "Scourge",
             "composite_score": 1889.3370845953698,
@@ -65063,7 +65074,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Bother.9415",
             "profession": "Holosmith",
             "composite_score": 1887.9308892747845,
@@ -65071,17 +65082,6 @@ const leaderboardData = {
             "games_played": 3,
             "average_rank_percent": 14.990807934204161,
             "average_stat_value": 260.08804726802686,
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1885.5008857936548,
-            "glicko_rating": 1724.2031687706044,
-            "games_played": 20,
-            "average_rank_percent": 23.145373966327803,
-            "average_stat_value": 211.434796446869,
             "is_guild_member": true
           },
           {
@@ -65130,6 +65130,17 @@ const leaderboardData = {
           },
           {
             "rank": 29,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1872.1740612416313,
+            "glicko_rating": 1713.3363625367483,
+            "games_played": 19,
+            "average_rank_percent": 23.756264094110236,
+            "average_stat_value": 203.23623541833823,
+            "is_guild_member": true
+          },
+          {
+            "rank": 30,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Reaper",
             "composite_score": 1870.1089369947215,
@@ -65140,7 +65151,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 30,
+            "rank": 31,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "composite_score": 1868.9696818708826,
@@ -65151,7 +65162,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "Interpretor.3091",
             "profession": "Holosmith",
             "composite_score": 1865.72709468019,
@@ -65162,7 +65173,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 33,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1863.3411871528447,
@@ -65173,7 +65184,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 34,
             "account_name": "Havocus.3682",
             "profession": "Berserker",
             "composite_score": 1861.8656154680243,
@@ -65184,7 +65195,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 34,
+            "rank": 35,
             "account_name": "PelloJello.8241",
             "profession": "Catalyst",
             "composite_score": 1861.3450467874713,
@@ -65195,7 +65206,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 35,
+            "rank": 36,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1858.984476701195,
@@ -65206,7 +65217,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1854.0418428139808,
@@ -65217,7 +65228,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "acumen.1980",
             "profession": "Catalyst",
             "composite_score": 1849.6800362537062,
@@ -65228,7 +65239,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1844.36129841641,
@@ -65239,7 +65250,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Muted.8591",
             "profession": "Reaper",
             "composite_score": 1838.6415942548063,
@@ -65250,7 +65261,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 41,
             "account_name": "Caysadia.2548",
             "profession": "Berserker",
             "composite_score": 1838.0779483632614,
@@ -65261,7 +65272,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 41,
+            "rank": 42,
             "account_name": "Feed.5309",
             "profession": "Berserker",
             "composite_score": 1837.9507155048454,
@@ -65272,7 +65283,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 43,
             "account_name": "Jeff.7219",
             "profession": "Berserker",
             "composite_score": 1837.8193783606741,
@@ -65283,7 +65294,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 43,
+            "rank": 44,
             "account_name": "Daasen.3719",
             "profession": "Catalyst",
             "composite_score": 1835.1786634406358,
@@ -65294,7 +65305,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 44,
+            "rank": 45,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1833.5606192634978,
@@ -65305,7 +65316,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 45,
+            "rank": 46,
             "account_name": "Bricktus.1682",
             "profession": "Holosmith",
             "composite_score": 1832.939698311851,
@@ -65316,7 +65327,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 46,
+            "rank": 47,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "composite_score": 1831.0052982924965,
@@ -65327,7 +65338,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Jeff.7219",
             "profession": "Untamed",
             "composite_score": 1829.5451382778872,
@@ -65338,7 +65349,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1828.703690133875,
@@ -65349,7 +65360,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "Jeff.7219",
             "profession": "Dragonhunter",
             "composite_score": 1827.7720868315755,
@@ -65360,7 +65371,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Herald",
             "composite_score": 1824.7184982295946,
@@ -65371,7 +65382,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1823.789145176818,
@@ -65382,7 +65393,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Lasthope.7943",
             "profession": "Guardian",
             "composite_score": 1822.081902065632,
@@ -65393,7 +65404,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "Cavalier.4015",
             "profession": "Warrior",
             "composite_score": 1821.2708981951,
@@ -65404,7 +65415,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1821.2557412752226,
@@ -65415,7 +65426,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Montana.8032",
             "profession": "Catalyst",
             "composite_score": 1820.4434741868213,
@@ -65426,7 +65437,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1820.138980663792,
@@ -65437,7 +65448,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Berserker",
             "composite_score": 1819.7857781802409,
@@ -65448,7 +65459,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Chief.7143",
             "profession": "Reaper",
             "composite_score": 1818.701457562084,
@@ -65459,7 +65470,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "Havocus.3682",
             "profession": "Dragonhunter",
             "composite_score": 1818.4973131804102,
@@ -65470,7 +65481,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Pieswithattitude.2357",
             "profession": "Reaper",
             "composite_score": 1817.5934581583058,
@@ -65481,7 +65492,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Daasen.3719",
             "profession": "Reaper",
             "composite_score": 1814.0309381226614,
@@ -65492,7 +65503,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1813.2939589416656,
@@ -65503,7 +65514,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "Sexykillerz.8572",
             "profession": "Reaper",
             "composite_score": 1809.45055521969,
@@ -65514,7 +65525,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "composite_score": 1808.1033585500388,
@@ -65525,7 +65536,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "Soothsayer.9206",
             "profession": "Renegade",
             "composite_score": 1806.6318580486304,
@@ -65536,7 +65547,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Bricktus.1682",
             "profession": "Untamed",
             "composite_score": 1805.379103750382,
@@ -65547,7 +65558,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Dextra.8162",
             "profession": "Dragonhunter",
             "composite_score": 1804.4987899191806,
@@ -65558,7 +65569,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1802.4337984321592,
@@ -65569,7 +65580,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "nateboyd.5682",
             "profession": "Dragonhunter",
             "composite_score": 1800.0548979828254,
@@ -65580,7 +65591,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1799.8030938673035,
@@ -65591,7 +65602,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Johnny.5478",
             "profession": "Dragonhunter",
             "composite_score": 1798.372419826457,
@@ -65602,7 +65613,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Chakkkka.2504",
             "profession": "Untamed",
             "composite_score": 1797.2362008117661,
@@ -65613,7 +65624,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "slfhie.1764",
             "profession": "Vindicator",
             "composite_score": 1797.2362008117661,
@@ -65624,7 +65635,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1796.4481779467387,
@@ -65635,7 +65646,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1794.6461336895798,
@@ -65646,7 +65657,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Mes.1906",
             "profession": "Warrior",
             "composite_score": 1793.4779379170204,
@@ -65657,7 +65668,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Pieswithattitude.2357",
             "profession": "Spellbreaker",
             "composite_score": 1792.953318820081,
@@ -65668,7 +65679,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1792.0820829959716,
@@ -65679,7 +65690,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Jeff.7219",
             "profession": "Reaper",
             "composite_score": 1788.1739378639518,
@@ -65690,7 +65701,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "DraGonfly.9317",
             "profession": "Catalyst",
             "composite_score": 1788.0178201265408,
@@ -65701,7 +65712,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Elgar.2091",
             "profession": "Reaper",
             "composite_score": 1787.34611109227,
@@ -65712,7 +65723,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1786.9009778512154,
@@ -65723,7 +65734,18 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1786.9009778512154,
+            "glicko_rating": 1674.3013996067234,
+            "games_played": 1,
+            "average_rank_percent": 11.538461538461538,
+            "average_stat_value": 367.2074559889541,
+            "is_guild_member": true
+          },
+          {
+            "rank": 85,
             "account_name": "ParaldaWind.4523",
             "profession": "Catalyst",
             "composite_score": 1784.5332722275255,
@@ -65734,7 +65756,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 86,
             "account_name": "Fantabulous.3406",
             "profession": "Untamed",
             "composite_score": 1781.9682578018615,
@@ -65745,7 +65767,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 85,
+            "rank": 87,
             "account_name": "filipe.2809",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -65756,7 +65778,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 86,
+            "rank": 88,
             "account_name": "Interpretor.3091",
             "profession": "Reaper",
             "composite_score": 1781.9682578018615,
@@ -65767,7 +65789,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 87,
+            "rank": 89,
             "account_name": "FavoriteOne.6735",
             "profession": "Reaper",
             "composite_score": 1780.3240177854104,
@@ -65778,7 +65800,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 90,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1776.7689042363265,
@@ -65789,7 +65811,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 91,
             "account_name": "Hostile Pudding.5617",
             "profession": "Reaper",
             "composite_score": 1772.8074919959186,
@@ -65800,7 +65822,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 90,
+            "rank": 92,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1770.0931910163802,
@@ -65811,7 +65833,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 93,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1769.1431856735414,
@@ -65822,7 +65844,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 94,
             "account_name": "Astro Bear.6305",
             "profession": "Catalyst",
             "composite_score": 1768.961698803801,
@@ -65833,7 +65855,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 93,
+            "rank": 95,
             "account_name": "Nictheman.9754",
             "profession": "Condi Firebrand",
             "composite_score": 1768.4032776661386,
@@ -65844,7 +65866,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 96,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1767.9408351615116,
@@ -65855,7 +65877,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 97,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1767.0820133672046,
@@ -65866,7 +65888,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 98,
             "account_name": "Luke.9108",
             "profession": "Scourge",
             "composite_score": 1766.6145918915133,
@@ -65877,7 +65899,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 97,
+            "rank": 99,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1766.1187281213427,
@@ -65888,7 +65910,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 100,
             "account_name": "Naomi.5372",
             "profession": "Chronomancer",
             "composite_score": 1765.9369176414616,
@@ -65897,28 +65919,6 @@ const leaderboardData = {
             "average_rank_percent": 16.666666666666664,
             "average_stat_value": 392.51874062968517,
             "is_guild_member": false
-          },
-          {
-            "rank": 99,
-            "account_name": "Yeek.2976",
-            "profession": "Berserker",
-            "composite_score": 1764.674492300316,
-            "glicko_rating": 1670.6671263171518,
-            "games_played": 1,
-            "average_rank_percent": 15.384615384615385,
-            "average_stat_value": 226.7445403758253,
-            "is_guild_member": false
-          },
-          {
-            "rank": 100,
-            "account_name": "Dextra.8162",
-            "profession": "Catalyst",
-            "composite_score": 1763.367446619542,
-            "glicko_rating": 1639.4268730593594,
-            "games_played": 8,
-            "average_rank_percent": 29.079960532702124,
-            "average_stat_value": 201.2118728984491,
-            "is_guild_member": true
           }
         ],
         "Burst Consistency": [
@@ -65935,6 +65935,17 @@ const leaderboardData = {
           },
           {
             "rank": 2,
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "composite_score": 1949.540349942706,
+            "glicko_rating": 1815.8866385793544,
+            "games_played": 5,
+            "average_rank_percent": 19.927072927072924,
+            "average_stat_value": 43850.8,
+            "is_guild_member": true
+          },
+          {
+            "rank": 3,
             "account_name": "FlawedDjinn.3217",
             "profession": "Untamed",
             "composite_score": 1933.3156115983659,
@@ -65945,7 +65956,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 3,
+            "rank": 4,
             "account_name": "Soothsayer.9206",
             "profession": "Untamed",
             "composite_score": 1907.0279611964593,
@@ -65956,7 +65967,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 4,
+            "rank": 5,
             "account_name": "Interpretor.3091",
             "profession": "Catalyst",
             "composite_score": 1875.1418680094578,
@@ -65967,7 +65978,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 5,
+            "rank": 6,
             "account_name": "Freelanced.6084",
             "profession": "Catalyst",
             "composite_score": 1868.8040969888157,
@@ -65978,7 +65989,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 6,
+            "rank": 7,
             "account_name": "Aein.1483",
             "profession": "Vindicator",
             "composite_score": 1867.2248387932539,
@@ -65989,7 +66000,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 7,
+            "rank": 8,
             "account_name": "Noe.4360",
             "profession": "Holosmith",
             "composite_score": 1861.9470235889282,
@@ -66000,7 +66011,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 8,
+            "rank": 9,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Dragonhunter",
             "composite_score": 1861.115383782258,
@@ -66011,7 +66022,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 10,
             "account_name": "souljota.7923",
             "profession": "Vindicator",
             "composite_score": 1852.4482524793677,
@@ -66022,7 +66033,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 10,
+            "rank": 11,
             "account_name": "Bother.9415",
             "profession": "Untamed",
             "composite_score": 1850.6689964285567,
@@ -66033,7 +66044,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 11,
+            "rank": 12,
             "account_name": "Dextra.8162",
             "profession": "Weaver",
             "composite_score": 1831.1352258265063,
@@ -66044,7 +66055,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 13,
             "account_name": "synco.8132",
             "profession": "Catalyst",
             "composite_score": 1825.123421653535,
@@ -66055,7 +66066,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 14,
             "account_name": "LightspeedJack.9473",
             "profession": "Holosmith",
             "composite_score": 1819.8384867390853,
@@ -66066,7 +66077,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 14,
+            "rank": 15,
             "account_name": "Jeff.7219",
             "profession": "Catalyst",
             "composite_score": 1809.45055521969,
@@ -66077,7 +66088,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 15,
+            "rank": 16,
             "account_name": "Dextra.8162",
             "profession": "Catalyst",
             "composite_score": 1807.1331716006464,
@@ -66088,7 +66099,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 17,
             "account_name": "Stash.8401",
             "profession": "Catalyst",
             "composite_score": 1805.7193924830185,
@@ -66099,7 +66110,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 17,
+            "rank": 18,
             "account_name": "Max Danger.4031",
             "profession": "Catalyst",
             "composite_score": 1805.0533876328375,
@@ -66110,7 +66121,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 18,
+            "rank": 19,
             "account_name": "waschy.6093",
             "profession": "Dragonhunter",
             "composite_score": 1801.6640908396132,
@@ -66121,7 +66132,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 20,
             "account_name": "ABC.9386",
             "profession": "Holosmith",
             "composite_score": 1799.4569925222977,
@@ -66132,7 +66143,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 20,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "profession": "Berserker",
             "composite_score": 1797.7571126710113,
@@ -66143,7 +66154,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 22,
             "account_name": "Daasen.3719",
             "profession": "Catalyst",
             "composite_score": 1797.2362008117661,
@@ -66154,7 +66165,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 22,
+            "rank": 23,
             "account_name": "Havocus.3682",
             "profession": "Reaper",
             "composite_score": 1795.1302720646258,
@@ -66165,7 +66176,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 24,
             "account_name": "Serebus.7314",
             "profession": "Reaper",
             "composite_score": 1793.0243544642065,
@@ -66176,7 +66187,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 24,
+            "rank": 25,
             "account_name": "Pieswithattitude.2357",
             "profession": "Dragonhunter",
             "composite_score": 1781.9682578018615,
@@ -66187,7 +66198,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
+            "rank": 26,
             "account_name": "Jeff.7219",
             "profession": "Reaper",
             "composite_score": 1775.3345998044547,
@@ -66198,7 +66209,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 26,
+            "rank": 27,
             "account_name": "BlueFlame.8673",
             "profession": "Catalyst",
             "composite_score": 1772.8074919959186,
@@ -66209,7 +66220,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 27,
+            "rank": 28,
             "account_name": "KaNgUs.1025",
             "profession": "Berserker",
             "composite_score": 1771.1420971988694,
@@ -66220,7 +66231,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 28,
+            "rank": 29,
             "account_name": "Soothsayer.9206",
             "profession": "Warrior",
             "composite_score": 1769.1431856735414,
@@ -66231,7 +66242,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 29,
+            "rank": 30,
             "account_name": "Interpretor.3091",
             "profession": "Vindicator",
             "composite_score": 1768.4032776661386,
@@ -66242,7 +66253,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 30,
+            "rank": 31,
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
             "composite_score": 1766.3667896842353,
@@ -66253,7 +66264,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 32,
             "account_name": "amends.3469",
             "profession": "Untamed",
             "composite_score": 1764.8313079752272,
@@ -66262,17 +66273,6 @@ const leaderboardData = {
             "average_rank_percent": 17.24137931034483,
             "average_stat_value": 32714.0,
             "is_guild_member": false
-          },
-          {
-            "rank": 32,
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "composite_score": 1763.972206145072,
-            "glicko_rating": 1649.7384544945014,
-            "games_played": 8,
-            "average_rank_percent": 37.499875124875125,
-            "average_stat_value": 32160.5,
-            "is_guild_member": true
           },
           {
             "rank": 33,
@@ -66298,6 +66298,17 @@ const leaderboardData = {
           },
           {
             "rank": 35,
+            "account_name": "Huge.5891",
+            "profession": "China DH",
+            "composite_score": 1752.829218760428,
+            "glicko_rating": 1664.3668455755876,
+            "games_played": 1,
+            "average_rank_percent": 18.181818181818183,
+            "average_stat_value": 38175.0,
+            "is_guild_member": true
+          },
+          {
+            "rank": 36,
             "account_name": "Hiraldo.7954",
             "profession": "Spellbreaker",
             "composite_score": 1752.1957689325473,
@@ -66308,7 +66319,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 37,
             "account_name": "BlueFlame.8673",
             "profession": "Berserker",
             "composite_score": 1749.943525183698,
@@ -66319,7 +66330,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 37,
+            "rank": 38,
             "account_name": "freecarl.9214",
             "profession": "Holosmith",
             "composite_score": 1747.1753903716594,
@@ -66330,7 +66341,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 39,
             "account_name": "Crowley.2740",
             "profession": "Berserker",
             "composite_score": 1746.979078088462,
@@ -66341,7 +66352,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 39,
+            "rank": 40,
             "account_name": "Interpretor.3091",
             "profession": "Spellbreaker",
             "composite_score": 1738.5171722682505,
@@ -66349,17 +66360,6 @@ const leaderboardData = {
             "games_played": 12,
             "average_rank_percent": 35.77942927886706,
             "average_stat_value": 27231.666666666668,
-            "is_guild_member": true
-          },
-          {
-            "rank": 40,
-            "account_name": "Huge.5891",
-            "profession": "Dragonhunter",
-            "composite_score": 1736.414305633007,
-            "glicko_rating": 1612.933443001185,
-            "games_played": 15,
-            "average_rank_percent": 39.9360665802445,
-            "average_stat_value": 29023.533333333333,
             "is_guild_member": true
           },
           {
@@ -66419,6 +66419,17 @@ const leaderboardData = {
           },
           {
             "rank": 46,
+            "account_name": "Huge.5891",
+            "profession": "Dragonhunter",
+            "composite_score": 1715.9786295565543,
+            "glicko_rating": 1595.8777147219978,
+            "games_played": 14,
+            "average_rank_percent": 41.48994146584637,
+            "average_stat_value": 28369.85714285714,
+            "is_guild_member": true
+          },
+          {
+            "rank": 47,
             "account_name": "Mellis.7284",
             "profession": "Firebrand",
             "composite_score": 1706.5503807413827,
@@ -66429,7 +66440,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 48,
             "account_name": "Bricktus.1682",
             "profession": "Catalyst",
             "composite_score": 1705.2906647834675,
@@ -66440,7 +66451,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 49,
             "account_name": "emz.3571",
             "profession": "Weaver",
             "composite_score": 1701.897176808945,
@@ -66451,7 +66462,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 50,
             "account_name": "Soothsayer.9206",
             "profession": "Renegade",
             "composite_score": 1695.887900184102,
@@ -66462,7 +66473,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 50,
+            "rank": 51,
             "account_name": "Bricktus.1682",
             "profession": "Tempest",
             "composite_score": 1694.1995517261832,
@@ -66473,7 +66484,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 51,
+            "rank": 52,
             "account_name": "Icy Violin.9213",
             "profession": "Holosmith",
             "composite_score": 1693.6535061671957,
@@ -66484,7 +66495,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 52,
+            "rank": 53,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Spellbreaker",
             "composite_score": 1691.3755976150417,
@@ -66495,7 +66506,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 54,
             "account_name": "emz.3571",
             "profession": "Reaper",
             "composite_score": 1686.6784590105833,
@@ -66506,7 +66517,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 54,
+            "rank": 55,
             "account_name": "emz.3571",
             "profession": "Catalyst",
             "composite_score": 1683.118963840781,
@@ -66517,7 +66528,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 56,
             "account_name": "Havocus.3682",
             "profession": "Vindicator",
             "composite_score": 1671.9690213248423,
@@ -66528,7 +66539,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 57,
             "account_name": "Interpretor.3091",
             "profession": "Untamed",
             "composite_score": 1665.720975274445,
@@ -66539,7 +66550,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 58,
             "account_name": "Dextra.8162",
             "profession": "Soulbeast",
             "composite_score": 1664.5286791122555,
@@ -66550,7 +66561,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 59,
             "account_name": "Basic.9204",
             "profession": "Spellbreaker",
             "composite_score": 1653.2928553638988,
@@ -66561,7 +66572,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 60,
             "account_name": "FlawedDjinn.3217",
             "profession": "Reaper",
             "composite_score": 1651.9529785116392,
@@ -66572,7 +66583,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 61,
             "account_name": "Beneko.8475",
             "profession": "Holosmith",
             "composite_score": 1651.9525935142146,
@@ -66583,7 +66594,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 61,
+            "rank": 62,
             "account_name": "Freelanced.6084",
             "profession": "Reaper",
             "composite_score": 1650.164880377594,
@@ -66594,7 +66605,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 63,
             "account_name": "Johnny.5478",
             "profession": "Reaper",
             "composite_score": 1649.6175938284864,
@@ -66605,7 +66616,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 64,
             "account_name": "Elgar.2091",
             "profession": "Spellbreaker",
             "composite_score": 1649.2759355551775,
@@ -66616,7 +66627,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 65,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Reaper",
             "composite_score": 1648.3390850895942,
@@ -66627,7 +66638,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 65,
+            "rank": 66,
             "account_name": "Freelanced.6084",
             "profession": "Holosmith",
             "composite_score": 1647.7726202640551,
@@ -66638,7 +66649,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 67,
             "account_name": "Sabbaah.2314",
             "profession": "Reaper",
             "composite_score": 1644.45198545392,
@@ -66649,7 +66660,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 67,
+            "rank": 68,
             "account_name": "Pieswithattitude.2357",
             "profession": "Holosmith",
             "composite_score": 1642.3490396216885,
@@ -66660,7 +66671,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 69,
             "account_name": "Interpretor.3091",
             "profession": "Berserker",
             "composite_score": 1632.541342105787,
@@ -66671,7 +66682,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 70,
             "account_name": "Jordan.1860",
             "profession": "Untamed",
             "composite_score": 1631.4525979084833,
@@ -66682,7 +66693,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 70,
+            "rank": 71,
             "account_name": "killsfun.2436",
             "profession": "Dragonhunter",
             "composite_score": 1624.608868667666,
@@ -66693,7 +66704,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 71,
+            "rank": 72,
             "account_name": "Shaaaads.1856",
             "profession": "Catalyst",
             "composite_score": 1612.1755105961927,
@@ -66704,7 +66715,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 72,
+            "rank": 73,
             "account_name": "Soothsayer.9206",
             "profession": "Spellbreaker",
             "composite_score": 1608.728727652941,
@@ -66715,7 +66726,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 74,
             "account_name": "Bother.9415",
             "profession": "Catalyst",
             "composite_score": 1606.2272561074155,
@@ -66726,7 +66737,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 75,
             "account_name": "Pieswithattitude.2357",
             "profession": "Spellbreaker",
             "composite_score": 1602.5269433788249,
@@ -66737,7 +66748,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 76,
             "account_name": "Freelanced.6084",
             "profession": "Dragonhunter",
             "composite_score": 1599.956331148731,
@@ -66748,7 +66759,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 77,
             "account_name": "Nictheman.9754",
             "profession": "Spellbreaker",
             "composite_score": 1597.488542298322,
@@ -66759,7 +66770,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 78,
             "account_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
             "composite_score": 1597.072316270271,
@@ -66770,7 +66781,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 79,
             "account_name": "Travychu.5432",
             "profession": "Dragonhunter",
             "composite_score": 1596.239075676634,
@@ -66781,7 +66792,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 79,
+            "rank": 80,
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "composite_score": 1593.683872100078,
@@ -66792,7 +66803,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 81,
             "account_name": "Avvie.9406",
             "profession": "Dragonhunter",
             "composite_score": 1589.987399643772,
@@ -66803,7 +66814,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 82,
             "account_name": "Ashtonlightstone.9145",
             "profession": "Catalyst",
             "composite_score": 1589.3563741479081,
@@ -66814,7 +66825,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 83,
             "account_name": "SilverBlade Hero.8974",
             "profession": "Scourge",
             "composite_score": 1584.1009036919456,
@@ -66825,7 +66836,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 84,
             "account_name": "Bleebt.4108",
             "profession": "Vindicator",
             "composite_score": 1578.3658259601677,
@@ -66836,7 +66847,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 85,
             "account_name": "yhanbruno.5873",
             "profession": "Catalyst",
             "composite_score": 1573.7127523404276,
@@ -66847,7 +66858,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 85,
+            "rank": 86,
             "account_name": "seppukuYUM.5147",
             "profession": "Berserker",
             "composite_score": 1570.9088670543076,
@@ -66858,7 +66869,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 86,
+            "rank": 87,
             "account_name": "Jeff.7219",
             "profession": "Untamed",
             "composite_score": 1570.148459503888,
@@ -66869,7 +66880,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 87,
+            "rank": 88,
             "account_name": "DanDizh.8416",
             "profession": "Scourge",
             "composite_score": 1569.2727984976254,
@@ -66880,7 +66891,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 89,
             "account_name": "Bailyen Arturius.4263",
             "profession": "Vindicator",
             "composite_score": 1566.9150391115527,
@@ -66891,7 +66902,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 90,
             "account_name": "Uriah.7082",
             "profession": "Spellbreaker",
             "composite_score": 1565.8018796257027,
@@ -66902,7 +66913,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 90,
+            "rank": 91,
             "account_name": "Interpretor.3091",
             "profession": "Holosmith",
             "composite_score": 1564.7611050952548,
@@ -66913,7 +66924,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 92,
             "account_name": "Steampunkengineer.7146",
             "profession": "Condi Firebrand",
             "composite_score": 1563.1043057445474,
@@ -66924,7 +66935,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 93,
             "account_name": "Zalk.5947",
             "profession": "Dragonhunter",
             "composite_score": 1559.9109194680896,
@@ -66935,7 +66946,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 94,
             "account_name": "Mandar.9813",
             "profession": "Scourge",
             "composite_score": 1556.172706322745,
@@ -66946,7 +66957,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 94,
+            "rank": 95,
             "account_name": "Chakkkka.2504",
             "profession": "Catalyst",
             "composite_score": 1554.6981570586422,
@@ -66957,7 +66968,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 96,
             "account_name": "Filipe.8492",
             "profession": "Dragonhunter",
             "composite_score": 1554.4767734764007,
@@ -66968,7 +66979,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 96,
+            "rank": 97,
             "account_name": "Jordan.1860",
             "profession": "Catalyst",
             "composite_score": 1552.7170224674724,
@@ -66979,7 +66990,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 97,
+            "rank": 98,
             "account_name": "willsi.7035",
             "profession": "Scrapper",
             "composite_score": 1551.9566251781707,
@@ -66990,7 +67001,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 98,
+            "rank": 99,
             "account_name": "Crator of Fire.1796",
             "profession": "Reaper",
             "composite_score": 1549.0098074060554,
@@ -67001,7 +67012,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 99,
+            "rank": 100,
             "account_name": "General Moo.7930",
             "profession": "Reaper",
             "composite_score": 1544.3282338895078,
@@ -67010,17 +67021,6 @@ const leaderboardData = {
             "average_rank_percent": 50.416666666666664,
             "average_stat_value": 26223.5,
             "is_guild_member": false
-          },
-          {
-            "rank": 100,
-            "account_name": "Muted.8591",
-            "profession": "Reaper",
-            "composite_score": 1544.2572389269544,
-            "glicko_rating": 1466.2810300180952,
-            "games_played": 5,
-            "average_rank_percent": 53.98746081504703,
-            "average_stat_value": 27815.2,
-            "is_guild_member": true
           }
         ]
       },
@@ -70488,6 +70488,17 @@ const leaderboardData = {
         },
         {
           "rank": 56,
+          "account_name": "Huge.5891",
+          "profession": "China DH",
+          "composite_score": 1603.3753169922704,
+          "glicko_rating": 1538.8795820600387,
+          "games_played": 7,
+          "average_rank_percent": 37.13952713952714,
+          "average_stat_value": 5748.393922284136,
+          "is_guild_member": true
+        },
+        {
+          "rank": 57,
           "account_name": "Blinking Router.4305",
           "profession": "Scourge",
           "composite_score": 1603.2479288052418,
@@ -70498,7 +70509,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 57,
+          "rank": 58,
           "account_name": "Argo.2675",
           "profession": "Support Spb",
           "composite_score": 1603.1630989566088,
@@ -70509,7 +70520,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 58,
+          "rank": 59,
           "account_name": "Disenable.1640",
           "profession": "Spellbreaker",
           "composite_score": 1602.9759173432828,
@@ -70520,7 +70531,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 59,
+          "rank": 60,
           "account_name": "steelrage.2904",
           "profession": "Reaper",
           "composite_score": 1602.1689061767368,
@@ -70531,7 +70542,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 60,
+          "rank": 61,
           "account_name": "Pieswithattitude.2357",
           "profession": "Chronomancer",
           "composite_score": 1602.0136128458955,
@@ -70542,7 +70553,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 61,
+          "rank": 62,
           "account_name": "synco.8132",
           "profession": "Support Spb",
           "composite_score": 1601.1774887316883,
@@ -70553,7 +70564,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 62,
+          "rank": 63,
           "account_name": "Johnny.5478",
           "profession": "Specter",
           "composite_score": 1598.5508567553466,
@@ -70564,7 +70575,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 63,
+          "rank": 64,
           "account_name": "Soothsayer.9206",
           "profession": "Catalyst",
           "composite_score": 1598.2139427394466,
@@ -70575,7 +70586,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 64,
+          "rank": 65,
           "account_name": "Serebus.7314",
           "profession": "Reaper",
           "composite_score": 1597.941625946622,
@@ -70586,7 +70597,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 65,
+          "rank": 66,
           "account_name": "Havocus.3682",
           "profession": "Berserker",
           "composite_score": 1597.7502921396172,
@@ -70597,7 +70608,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 66,
+          "rank": 67,
           "account_name": "Igure.2063",
           "profession": "Specter",
           "composite_score": 1597.4028596926073,
@@ -70608,7 +70619,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 67,
+          "rank": 68,
           "account_name": "Daasen.3719",
           "profession": "Necromancer",
           "composite_score": 1597.2905210392587,
@@ -70619,7 +70630,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 68,
+          "rank": 69,
           "account_name": "Muted.8591",
           "profession": "Tempest",
           "composite_score": 1595.1650678553435,
@@ -70630,7 +70641,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 69,
+          "rank": 70,
           "account_name": "Steampunkengineer.7146",
           "profession": "Condi Firebrand",
           "composite_score": 1594.7702843609882,
@@ -70641,7 +70652,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 70,
+          "rank": 71,
           "account_name": "Chakkkka.2504",
           "profession": "Scourge",
           "composite_score": 1594.325675684455,
@@ -70652,7 +70663,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 71,
+          "rank": 72,
           "account_name": "Soothsayer.9206",
           "profession": "Untamed",
           "composite_score": 1593.295169440398,
@@ -70663,7 +70674,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 72,
+          "rank": 73,
           "account_name": "EternalEndless.7695",
           "profession": "Scrapper",
           "composite_score": 1592.5377098963263,
@@ -70674,7 +70685,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 73,
+          "rank": 74,
           "account_name": "Daasen.3719",
           "profession": "Catalyst",
           "composite_score": 1592.1329179957531,
@@ -70685,7 +70696,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 74,
+          "rank": 75,
           "account_name": "Mes.1906",
           "profession": "Specter",
           "composite_score": 1591.4882917529949,
@@ -70696,7 +70707,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 75,
+          "rank": 76,
           "account_name": "CrimeLordXx.3920",
           "profession": "Spellbreaker",
           "composite_score": 1590.894015073586,
@@ -70707,7 +70718,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 76,
+          "rank": 77,
           "account_name": "Dextra.8162",
           "profession": "Weaver",
           "composite_score": 1589.5798379723553,
@@ -70718,7 +70729,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 77,
+          "rank": 78,
           "account_name": "ParaldaWind.4523",
           "profession": "Specter",
           "composite_score": 1589.2087747206906,
@@ -70729,7 +70740,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 78,
+          "rank": 79,
           "account_name": "Mellis.8451",
           "profession": "Chronomancer",
           "composite_score": 1588.0279094118714,
@@ -70740,7 +70751,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 79,
+          "rank": 80,
           "account_name": "DareDevils.6039",
           "profession": "Scourge",
           "composite_score": 1587.6003737330586,
@@ -70751,7 +70762,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 80,
+          "rank": 81,
           "account_name": "Ashtonlightstone.9145",
           "profession": "Scourge",
           "composite_score": 1587.4521810389274,
@@ -70762,7 +70773,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 81,
+          "rank": 82,
           "account_name": "Interpretor.3091",
           "profession": "Untamed",
           "composite_score": 1586.9371499675735,
@@ -70773,7 +70784,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 82,
+          "rank": 83,
           "account_name": "Havocus.3682",
           "profession": "Chronomancer",
           "composite_score": 1586.9321685636544,
@@ -70784,7 +70795,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 83,
+          "rank": 84,
           "account_name": "Uriah.7082",
           "profession": "Warrior",
           "composite_score": 1586.8990323239427,
@@ -70795,7 +70806,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 84,
+          "rank": 85,
           "account_name": "pinguinox.9528",
           "profession": "Spellbreaker",
           "composite_score": 1586.7449533019305,
@@ -70806,7 +70817,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 85,
+          "rank": 86,
           "account_name": "Knightmare.6849",
           "profession": "Scrapper",
           "composite_score": 1586.5917734101022,
@@ -70817,7 +70828,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 86,
+          "rank": 87,
           "account_name": "Vasnia.3189",
           "profession": "Spellbreaker",
           "composite_score": 1586.5412797237457,
@@ -70828,7 +70839,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 87,
+          "rank": 88,
           "account_name": "Freelanced.6084",
           "profession": "Reaper",
           "composite_score": 1586.455596301624,
@@ -70839,7 +70850,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 88,
+          "rank": 89,
           "account_name": "General Moo.7930",
           "profession": "Reaper",
           "composite_score": 1586.2646265417334,
@@ -70850,7 +70861,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 89,
+          "rank": 90,
           "account_name": "Nennius.9627",
           "profession": "Condi Firebrand",
           "composite_score": 1586.0425973041845,
@@ -70861,7 +70872,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 90,
+          "rank": 91,
           "account_name": "FlawedDjinn.3217",
           "profession": "Chronomancer",
           "composite_score": 1585.8715365496164,
@@ -70872,7 +70883,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 91,
+          "rank": 92,
           "account_name": "mikefmc.5961",
           "profession": "Support Spb",
           "composite_score": 1584.7080102974369,
@@ -70883,7 +70894,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 92,
+          "rank": 93,
           "account_name": "Malek.9417",
           "profession": "Firebrand",
           "composite_score": 1584.5773342321693,
@@ -70894,7 +70905,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 93,
+          "rank": 94,
           "account_name": "Dave.1706",
           "profession": "Scrapper",
           "composite_score": 1583.9775291034748,
@@ -70905,7 +70916,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 94,
+          "rank": 95,
           "account_name": "Guars.6409",
           "profession": "Druid",
           "composite_score": 1583.974025518548,
@@ -70916,7 +70927,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 95,
+          "rank": 96,
           "account_name": "Millian.9730",
           "profession": "Chronomancer",
           "composite_score": 1583.8635247731002,
@@ -70927,7 +70938,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 96,
+          "rank": 97,
           "account_name": "Syde.1863",
           "profession": "Reaper",
           "composite_score": 1583.4763912411452,
@@ -70938,7 +70949,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 97,
+          "rank": 98,
           "account_name": "mikerock.6187",
           "profession": "Firebrand",
           "composite_score": 1583.2727570414002,
@@ -70949,7 +70960,7 @@ const leaderboardData = {
           "is_guild_member": false
         },
         {
-          "rank": 98,
+          "rank": 99,
           "account_name": "Luke.9108",
           "profession": "Untamed",
           "composite_score": 1582.8406049707157,
@@ -70960,7 +70971,7 @@ const leaderboardData = {
           "is_guild_member": true
         },
         {
-          "rank": 99,
+          "rank": 100,
           "account_name": "DirtyRat.3941",
           "profession": "Chronomancer",
           "composite_score": 1582.3367634742413,
@@ -70969,17 +70980,6 @@ const leaderboardData = {
           "average_rank_percent": 41.54860159786268,
           "average_stat_value": 35.91277118953935,
           "is_guild_member": false
-        },
-        {
-          "rank": 100,
-          "account_name": "emz.3571",
-          "profession": "Reaper",
-          "composite_score": 1582.3136043259863,
-          "glicko_rating": 1516.5816459755385,
-          "games_played": 57,
-          "average_rank_percent": 54.38421077228582,
-          "average_stat_value": 4212.982760046333,
-          "is_guild_member": true
         }
       ],
       "high_scores": {
@@ -71339,7 +71339,7 @@ const leaderboardData = {
           {
             "rank": 45,
             "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
+            "profession": "China DH",
             "burst_damage": 69044,
             "timestamp": "202504242313",
             "is_guild_member": true
@@ -75108,6 +75108,7 @@ let currentGuildFilter = 'all_players';
 const professionIcons = {
     'Guardian': 'https://wiki.guildwars2.com/images/c/c7/Guardian_icon_small.png',
     'Dragonhunter': 'https://wiki.guildwars2.com/images/5/5d/Dragonhunter_icon_small.png',
+    'China DH': 'https://wiki.guildwars2.com/images/5/5d/Dragonhunter_icon_small.png',
     'Firebrand': 'https://wiki.guildwars2.com/images/0/0e/Firebrand_icon_small.png',
     'Willbender': 'https://wiki.guildwars2.com/images/c/c7/Guardian_icon_small.png', // Fallback to Guardian
     'Warrior': 'https://wiki.guildwars2.com/images/4/45/Warrior_icon_small.png',
@@ -75556,6 +75557,7 @@ function getProfessionColor(profession) {
         'Tempest': '#1abc9c',
         'Holosmith': '#34495e',
         'Dragonhunter': '#f1c40f',
+        'China DH': '#f39c12',
         'Reaper': '#8e44ad',
         'Soulbeast': '#16a085',
         'Untamed': '#c0392b',
