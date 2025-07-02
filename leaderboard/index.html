@@ -16,6 +16,7 @@
 
         <nav class="nav-tabs">
             <button class="tab-button active" data-tab="individual">Individual Metrics</button>
+            <button class="tab-button" data-tab="high-scores">High Scores</button>
             <button class="tab-button" data-tab="professions">Professions</button>
             <button class="tab-button" data-tab="about">About</button>
         </nav>
@@ -50,9 +51,22 @@
                     <button class="metric-button" data-metric="Resistance">Resistance</button>
                     <button class="metric-button" data-metric="Might">Might</button>
                     <button class="metric-button" data-metric="Downs">DownCont</button>
+                    <button class="metric-button" data-metric="Burst Consistency">Burst Consistency</button>
                 </div>
                 
                 <div id="individual-leaderboard" class="leaderboard-container"></div>
+            </div>
+
+            <!-- High Scores -->
+            <div id="high-scores" class="tab-content">
+                <h2>High Scores</h2>
+                <p class="description">Top single-instance burst damage records (non-Glicko based).</p>
+                
+                <div class="metric-selector">
+                    <button class="metric-button active" data-metric="Highest 1 Sec Burst">Highest 1 Sec Burst</button>
+                </div>
+                
+                <div id="high-scores-leaderboard" class="leaderboard-container"></div>
             </div>
 
             <!-- Profession Leaderboards -->
