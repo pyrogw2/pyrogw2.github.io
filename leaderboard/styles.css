@@ -51,17 +51,21 @@ header h1 {
     backdrop-filter: blur(10px);
 }
 
-.date-filters {
+.date-filters, .guild-filters {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     background: rgba(255,255,255,0.1);
     border-radius: 10px;
     padding: 15px;
     backdrop-filter: blur(10px);
     flex-wrap: wrap;
     gap: 10px;
+}
+
+.guild-filters {
+    margin-bottom: 30px;
 }
 
 .filter-label {
@@ -71,7 +75,7 @@ header h1 {
     font-size: 1rem;
 }
 
-.date-filter-button {
+.date-filter-button, .guild-filter-button {
     background: rgba(255,255,255,0.2);
     border: 2px solid rgba(255,255,255,0.3);
     padding: 8px 16px;
@@ -82,12 +86,12 @@ header h1 {
     transition: all 0.3s ease;
 }
 
-.date-filter-button:hover {
+.date-filter-button:hover, .guild-filter-button:hover {
     background: rgba(255,255,255,0.3);
     border-color: rgba(255,255,255,0.5);
 }
 
-.date-filter-button.active {
+.date-filter-button.active, .guild-filter-button.active {
     background: rgba(255,255,255,0.4);
     border-color: rgba(255,255,255,0.6);
     font-weight: bold;
@@ -270,6 +274,16 @@ h2 {
     font-weight: bold;
     padding: 2px 6px;
     border-radius: 3px;
+}
+
+.guild-yes {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.guild-no {
+    color: #6c757d;
+    font-weight: normal;
 }
 
 .about-content {
