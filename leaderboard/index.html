@@ -9,9 +9,16 @@
 <body>
     <div class="container">
         <header>
-            <h1>🏆 GW2 WvW Leaderboards</h1>
-            <p class="subtitle">Glicko-based rating system for World vs World performance</p>
-            <p class="last-updated">Last updated: <span id="lastUpdated"></span></p>
+            <div class="header-content">
+                <div class="header-text">
+                    <h1>🏆 GW2 WvW Leaderboards</h1>
+                    <p class="subtitle">Glicko-based rating system for World vs World performance</p>
+                    <p class="last-updated">Last updated: <span id="lastUpdated"></span></p>
+                </div>
+                <button class="dark-mode-toggle" id="darkModeToggle" aria-label="Toggle dark mode">
+                    <span class="toggle-icon">🌙</span>
+                </button>
+            </div>
         </header>
 
         <nav class="nav-tabs">
@@ -104,24 +111,6 @@
                         <li><strong>Z-Score Calculation:</strong> Player performance is normalized using z-scores: <code>(player_value - session_mean) / session_std</code></li>
                         <li><strong>Glicko-2 Rating:</strong> Dynamic rating system starting at 1500 that increases/decreases based on performance outcomes converted from z-scores</li>
                         <li><strong>Rating Deviation (RD):</strong> Measures uncertainty in a player's rating (starts at 350, decreases with more games)</li>
-                        <li><strong>Composite Scoring:</strong> Combines multiple factors to create the final ranking score</li>
-                    </ul>
-                    
-                    <h3>🧮 Composite Score Formula</h3>
-                    <p>The final ranking uses a sophisticated formula that balances skill and consistency:</p>
-                    <ul>
-                        <li><strong>Base Formula:</strong> <code>50% Glicko Rating + 50% (Glicko + Rank Bonus)</code></li>
-                        <li><strong>Rank Bonus:</strong> Performance modifier based on average rank percentile:
-                            <ul>
-                                <li>Excellent (0-15%): +150 to +250 points</li>
-                                <li>Good (15-35%): +50 to +150 points</li>
-                                <li>Average (35-65%): 0 to +50 points</li>
-                                <li>Below Average (65-85%): 0 to -50 points</li>
-                                <li>Poor (85-100%): -100 to -250 points</li>
-                            </ul>
-                        </li>
-                        <li><strong>Participation Multiplier:</strong> <code>1.0 + max(0, (350 - RD) / 350 * 0.10)</code>
-                            <br>Rewards consistent participation with up to 10% bonus for experienced players (low RD)</li>
                     </ul>
                     
                     <h3>🏅 Leaderboard Types</h3>
@@ -150,6 +139,38 @@
                 </div>
             </div>
         </main>
+
+        <!-- Player Detail Modal -->
+        <div id="player-modal" class="modal" style="display: none;">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 id="player-modal-title">Player Details</h2>
+                    <button class="modal-close" aria-label="Close modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="player-summary-content">
+                        <div class="player-overview">
+                            <div class="player-info-card">
+                                <h3>Overview</h3>
+                                <div id="player-overview-content"></div>
+                            </div>
+                            <div class="player-activity-card">
+                                <h3>Activity</h3>
+                                <div id="player-activity-content"></div>
+                            </div>
+                        </div>
+                        
+                        <div class="player-metrics">
+                            <h3>Performance Metrics</h3>
+                            <div class="profession-filter" id="profession-filter" style="margin-bottom: 15px;">
+                            </div>
+                            <div id="player-metrics-content"></div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>

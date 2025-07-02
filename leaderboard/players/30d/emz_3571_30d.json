@@ -1,0 +1,489 @@
+{
+  "profile": {
+    "account_name": "emz.3571",
+    "character_names": [
+      "Kyra Orpheus",
+      "Aki Yuya"
+    ],
+    "professions_played": [
+      "Reaper",
+      "Catalyst",
+      "Weaver"
+    ],
+    "is_guild_member": true,
+    "guild_rank": "Officer",
+    "total_sessions": 8,
+    "first_session": "202506022317",
+    "last_session": "202506302308",
+    "activity_days": 29
+  },
+  "overall_stats": {
+    "activity_score": 80.0,
+    "consistency_score": 75.0,
+    "improvement_rate": 5.2
+  },
+  "metric_summaries": [
+    {
+      "metric_name": "DPS",
+      "glicko_rating": 1592.902837375727,
+      "rating_deviation": 190.58980465785586,
+      "games_played": 3,
+      "average_value": 1383.7777777777778,
+      "best_value": 2493,
+      "worst_value": 454,
+      "percentile_rank": 82.24852071005917,
+      "overall_rank": 31,
+      "total_players": 169
+    },
+    {
+      "metric_name": "Cleanses",
+      "glicko_rating": 1361.5012775609944,
+      "rating_deviation": 190.6015310723165,
+      "games_played": 3,
+      "average_value": 0.017142857142857144,
+      "best_value": 0.03,
+      "worst_value": 0.01,
+      "percentile_rank": 5.88235294117647,
+      "overall_rank": 145,
+      "total_players": 153
+    },
+    {
+      "metric_name": "Strips",
+      "glicko_rating": 1404.5407797951452,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0.4114285714285714,
+      "best_value": 0.94,
+      "worst_value": 0.01,
+      "percentile_rank": 84.12698412698413,
+      "overall_rank": 21,
+      "total_players": 126
+    },
+    {
+      "metric_name": "Might",
+      "glicko_rating": 1338.6337612794139,
+      "rating_deviation": 192.03978408333782,
+      "games_played": 3,
+      "average_value": 0.375,
+      "best_value": 1.0,
+      "worst_value": 0.1,
+      "percentile_rank": 1.948051948051948,
+      "overall_rank": 152,
+      "total_players": 154
+    },
+    {
+      "metric_name": "Downs",
+      "glicko_rating": 1539.556850843951,
+      "rating_deviation": 187.88943437944928,
+      "games_played": 3,
+      "average_value": 181.50243768213292,
+      "best_value": 304.00161030595814,
+      "worst_value": 61.80473641230379,
+      "percentile_rank": 80.72289156626506,
+      "overall_rank": 33,
+      "total_players": 166
+    },
+    {
+      "metric_name": "Burst Consistency",
+      "glicko_rating": 1572.8593497119366,
+      "rating_deviation": 216.28837636814035,
+      "games_played": 2,
+      "average_value": 27146.5,
+      "best_value": 33344,
+      "worst_value": 12464,
+      "percentile_rank": 73.33333333333333,
+      "overall_rank": 25,
+      "total_players": 90
+    }
+  ],
+  "profession_summaries": [
+    {
+      "profession": "Reaper",
+      "sessions_played": 6,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202506022317",
+        "dps": 1933,
+        "damage": 6913989
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1592.902837375727,
+          "rating_deviation": 190.58980465785586,
+          "games_played": 3,
+          "average_value": 1383.7777777777778,
+          "best_value": 2493,
+          "worst_value": 454,
+          "percentile_rank": 82.24852071005917,
+          "overall_rank": 31,
+          "total_players": 169
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1361.5012775609944,
+          "rating_deviation": 190.6015310723165,
+          "games_played": 3,
+          "average_value": 0.017142857142857144,
+          "best_value": 0.03,
+          "worst_value": 0.01,
+          "percentile_rank": 5.88235294117647,
+          "overall_rank": 145,
+          "total_players": 153
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1404.5407797951452,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.4114285714285714,
+          "best_value": 0.94,
+          "worst_value": 0.01,
+          "percentile_rank": 84.12698412698413,
+          "overall_rank": 21,
+          "total_players": 126
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1338.6337612794139,
+          "rating_deviation": 192.03978408333782,
+          "games_played": 3,
+          "average_value": 0.375,
+          "best_value": 1.0,
+          "worst_value": 0.1,
+          "percentile_rank": 1.948051948051948,
+          "overall_rank": 152,
+          "total_players": 154
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1539.556850843951,
+          "rating_deviation": 187.88943437944928,
+          "games_played": 3,
+          "average_value": 181.50243768213292,
+          "best_value": 304.00161030595814,
+          "worst_value": 61.80473641230379,
+          "percentile_rank": 80.72289156626506,
+          "overall_rank": 33,
+          "total_players": 166
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1572.8593497119366,
+          "rating_deviation": 216.28837636814035,
+          "games_played": 2,
+          "average_value": 27146.5,
+          "best_value": 33344,
+          "worst_value": 12464,
+          "percentile_rank": 73.33333333333333,
+          "overall_rank": 25,
+          "total_players": 90
+        }
+      ]
+    },
+    {
+      "profession": "Catalyst",
+      "sessions_played": 1,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202506262310",
+        "dps": 1729,
+        "damage": 1667787
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1592.902837375727,
+          "rating_deviation": 190.58980465785586,
+          "games_played": 3,
+          "average_value": 1383.7777777777778,
+          "best_value": 2493,
+          "worst_value": 454,
+          "percentile_rank": 82.24852071005917,
+          "overall_rank": 31,
+          "total_players": 169
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1361.5012775609944,
+          "rating_deviation": 190.6015310723165,
+          "games_played": 3,
+          "average_value": 0.017142857142857144,
+          "best_value": 0.03,
+          "worst_value": 0.01,
+          "percentile_rank": 5.88235294117647,
+          "overall_rank": 145,
+          "total_players": 153
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1404.5407797951452,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.4114285714285714,
+          "best_value": 0.94,
+          "worst_value": 0.01,
+          "percentile_rank": 84.12698412698413,
+          "overall_rank": 21,
+          "total_players": 126
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1338.6337612794139,
+          "rating_deviation": 192.03978408333782,
+          "games_played": 3,
+          "average_value": 0.375,
+          "best_value": 1.0,
+          "worst_value": 0.1,
+          "percentile_rank": 1.948051948051948,
+          "overall_rank": 152,
+          "total_players": 154
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1539.556850843951,
+          "rating_deviation": 187.88943437944928,
+          "games_played": 3,
+          "average_value": 181.50243768213292,
+          "best_value": 304.00161030595814,
+          "worst_value": 61.80473641230379,
+          "percentile_rank": 80.72289156626506,
+          "overall_rank": 33,
+          "total_players": 166
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1572.8593497119366,
+          "rating_deviation": 216.28837636814035,
+          "games_played": 2,
+          "average_value": 27146.5,
+          "best_value": 33344,
+          "worst_value": 12464,
+          "percentile_rank": 73.33333333333333,
+          "overall_rank": 25,
+          "total_players": 90
+        }
+      ]
+    },
+    {
+      "profession": "Weaver",
+      "sessions_played": 2,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202506302308",
+        "dps": 2493,
+        "damage": 9906622
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1592.902837375727,
+          "rating_deviation": 190.58980465785586,
+          "games_played": 3,
+          "average_value": 1383.7777777777778,
+          "best_value": 2493,
+          "worst_value": 454,
+          "percentile_rank": 82.24852071005917,
+          "overall_rank": 31,
+          "total_players": 169
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1361.5012775609944,
+          "rating_deviation": 190.6015310723165,
+          "games_played": 3,
+          "average_value": 0.017142857142857144,
+          "best_value": 0.03,
+          "worst_value": 0.01,
+          "percentile_rank": 5.88235294117647,
+          "overall_rank": 145,
+          "total_players": 153
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1404.5407797951452,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.4114285714285714,
+          "best_value": 0.94,
+          "worst_value": 0.01,
+          "percentile_rank": 84.12698412698413,
+          "overall_rank": 21,
+          "total_players": 126
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1338.6337612794139,
+          "rating_deviation": 192.03978408333782,
+          "games_played": 3,
+          "average_value": 0.375,
+          "best_value": 1.0,
+          "worst_value": 0.1,
+          "percentile_rank": 1.948051948051948,
+          "overall_rank": 152,
+          "total_players": 154
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1539.556850843951,
+          "rating_deviation": 187.88943437944928,
+          "games_played": 3,
+          "average_value": 181.50243768213292,
+          "best_value": 304.00161030595814,
+          "worst_value": 61.80473641230379,
+          "percentile_rank": 80.72289156626506,
+          "overall_rank": 33,
+          "total_players": 166
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1572.8593497119366,
+          "rating_deviation": 216.28837636814035,
+          "games_played": 2,
+          "average_value": 27146.5,
+          "best_value": 33344,
+          "worst_value": 12464,
+          "percentile_rank": 73.33333333333333,
+          "overall_rank": 25,
+          "total_players": 90
+        }
+      ]
+    }
+  ],
+  "recent_sessions": [
+    {
+      "timestamp": "202506302308",
+      "profession": "Weaver",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 2493,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506262310",
+      "profession": "Weaver",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1903,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506262310",
+      "profession": "Catalyst",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1729,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506232308",
+      "profession": "Reaper",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 946,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506190151",
+      "profession": "Reaper",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 454,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506162254",
+      "profession": "Reaper",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1096,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506092225",
+      "profession": "Reaper",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1110,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506052234",
+      "profession": "Reaper",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 790,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506022317",
+      "profession": "Reaper",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1933,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    }
+  ],
+  "trends": {
+    "overall_trend": "improving",
+    "best_metric": "DPS",
+    "improvement_rate": 5.2,
+    "consistency_score": 0.75
+  },
+  "rankings": {
+    "overall_dps_rank": 31,
+    "guild_rank": null,
+    "profession_ranks": {}
+  }
+}

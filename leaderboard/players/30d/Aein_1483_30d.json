@@ -1,0 +1,525 @@
+{
+  "profile": {
+    "account_name": "Aein.1483",
+    "character_names": [
+      "Bounciness"
+    ],
+    "professions_played": [
+      "Vindicator",
+      "Boon Vindi"
+    ],
+    "is_guild_member": true,
+    "guild_rank": "Member",
+    "total_sessions": 11,
+    "first_session": "202506022317",
+    "last_session": "202506262310",
+    "activity_days": 25
+  },
+  "overall_stats": {
+    "activity_score": 100,
+    "consistency_score": 75.0,
+    "improvement_rate": 5.2
+  },
+  "metric_summaries": [
+    {
+      "metric_name": "DPS",
+      "glicko_rating": 1491.5909741170688,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 2555.6363636363635,
+      "best_value": 4049,
+      "worst_value": 1017,
+      "percentile_rank": 96.44970414201184,
+      "overall_rank": 7,
+      "total_players": 169
+    },
+    {
+      "metric_name": "Cleanses",
+      "glicko_rating": 1479.6634709024877,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0.053000000000000005,
+      "best_value": 0.26,
+      "worst_value": 0.01,
+      "percentile_rank": 22.875816993464053,
+      "overall_rank": 119,
+      "total_players": 153
+    },
+    {
+      "metric_name": "Strips",
+      "glicko_rating": 1404.8123025150742,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0.01,
+      "best_value": 0.01,
+      "worst_value": 0.01,
+      "percentile_rank": 30.952380952380953,
+      "overall_rank": 88,
+      "total_players": 126
+    },
+    {
+      "metric_name": "Stability",
+      "glicko_rating": 1586.094002614794,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 2.2399999999999998,
+      "best_value": 6.8,
+      "worst_value": 0.4,
+      "percentile_rank": 40.35087719298245,
+      "overall_rank": 69,
+      "total_players": 114
+    },
+    {
+      "metric_name": "Resistance",
+      "glicko_rating": 1450.3297385918052,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0.3,
+      "best_value": 0.3,
+      "worst_value": 0.3,
+      "percentile_rank": 57.14285714285714,
+      "overall_rank": 43,
+      "total_players": 98
+    },
+    {
+      "metric_name": "Might",
+      "glicko_rating": 1669.2306450019546,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 3.3200000000000003,
+      "best_value": 22.1,
+      "worst_value": 0.5,
+      "percentile_rank": 31.16883116883117,
+      "overall_rank": 107,
+      "total_players": 154
+    },
+    {
+      "metric_name": "Protection",
+      "glicko_rating": 1646.5573516696406,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 1.6,
+      "best_value": 1.6,
+      "worst_value": 1.6,
+      "percentile_rank": 94.91525423728814,
+      "overall_rank": 7,
+      "total_players": 118
+    },
+    {
+      "metric_name": "Downs",
+      "glicko_rating": 1494.5270502888523,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 357.18647743238114,
+      "best_value": 514.4744723828097,
+      "worst_value": 180.15166619196808,
+      "percentile_rank": 95.18072289156626,
+      "overall_rank": 9,
+      "total_players": 166
+    },
+    {
+      "metric_name": "Burst Consistency",
+      "glicko_rating": 1590.3435853803448,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 35253.63636363636,
+      "best_value": 45160,
+      "worst_value": 24619,
+      "percentile_rank": 90.0,
+      "overall_rank": 10,
+      "total_players": 90
+    }
+  ],
+  "profession_summaries": [
+    {
+      "profession": "Vindicator",
+      "sessions_played": 10,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202506120247",
+        "dps": 4049,
+        "damage": 9165085
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1491.5909741170688,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 2555.6363636363635,
+          "best_value": 4049,
+          "worst_value": 1017,
+          "percentile_rank": 96.44970414201184,
+          "overall_rank": 7,
+          "total_players": 169
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1479.6634709024877,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.053000000000000005,
+          "best_value": 0.26,
+          "worst_value": 0.01,
+          "percentile_rank": 22.875816993464053,
+          "overall_rank": 119,
+          "total_players": 153
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1404.8123025150742,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.01,
+          "best_value": 0.01,
+          "worst_value": 0.01,
+          "percentile_rank": 30.952380952380953,
+          "overall_rank": 88,
+          "total_players": 126
+        },
+        {
+          "metric_name": "Stability",
+          "glicko_rating": 1586.094002614794,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 2.2399999999999998,
+          "best_value": 6.8,
+          "worst_value": 0.4,
+          "percentile_rank": 40.35087719298245,
+          "overall_rank": 69,
+          "total_players": 114
+        },
+        {
+          "metric_name": "Resistance",
+          "glicko_rating": 1450.3297385918052,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.3,
+          "best_value": 0.3,
+          "worst_value": 0.3,
+          "percentile_rank": 57.14285714285714,
+          "overall_rank": 43,
+          "total_players": 98
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1669.2306450019546,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 3.3200000000000003,
+          "best_value": 22.1,
+          "worst_value": 0.5,
+          "percentile_rank": 31.16883116883117,
+          "overall_rank": 107,
+          "total_players": 154
+        },
+        {
+          "metric_name": "Protection",
+          "glicko_rating": 1646.5573516696406,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 1.6,
+          "best_value": 1.6,
+          "worst_value": 1.6,
+          "percentile_rank": 94.91525423728814,
+          "overall_rank": 7,
+          "total_players": 118
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1494.5270502888523,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 357.18647743238114,
+          "best_value": 514.4744723828097,
+          "worst_value": 180.15166619196808,
+          "percentile_rank": 95.18072289156626,
+          "overall_rank": 9,
+          "total_players": 166
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1590.3435853803448,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 35253.63636363636,
+          "best_value": 45160,
+          "worst_value": 24619,
+          "percentile_rank": 90.0,
+          "overall_rank": 10,
+          "total_players": 90
+        }
+      ]
+    },
+    {
+      "profession": "Boon Vindi",
+      "sessions_played": 1,
+      "primary_metrics": {
+        "Protection": 1.6,
+        "DPS": 1017.0
+      },
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202506262310",
+        "dps": 1017,
+        "damage": 4716164
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1491.5909741170688,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 2555.6363636363635,
+          "best_value": 4049,
+          "worst_value": 1017,
+          "percentile_rank": 96.44970414201184,
+          "overall_rank": 7,
+          "total_players": 169
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1479.6634709024877,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.053000000000000005,
+          "best_value": 0.26,
+          "worst_value": 0.01,
+          "percentile_rank": 22.875816993464053,
+          "overall_rank": 119,
+          "total_players": 153
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1404.8123025150742,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.01,
+          "best_value": 0.01,
+          "worst_value": 0.01,
+          "percentile_rank": 30.952380952380953,
+          "overall_rank": 88,
+          "total_players": 126
+        },
+        {
+          "metric_name": "Stability",
+          "glicko_rating": 1586.094002614794,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 2.2399999999999998,
+          "best_value": 6.8,
+          "worst_value": 0.4,
+          "percentile_rank": 40.35087719298245,
+          "overall_rank": 69,
+          "total_players": 114
+        },
+        {
+          "metric_name": "Resistance",
+          "glicko_rating": 1450.3297385918052,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.3,
+          "best_value": 0.3,
+          "worst_value": 0.3,
+          "percentile_rank": 57.14285714285714,
+          "overall_rank": 43,
+          "total_players": 98
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1669.2306450019546,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 3.3200000000000003,
+          "best_value": 22.1,
+          "worst_value": 0.5,
+          "percentile_rank": 31.16883116883117,
+          "overall_rank": 107,
+          "total_players": 154
+        },
+        {
+          "metric_name": "Protection",
+          "glicko_rating": 1646.5573516696406,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 1.6,
+          "best_value": 1.6,
+          "worst_value": 1.6,
+          "percentile_rank": 94.91525423728814,
+          "overall_rank": 7,
+          "total_players": 118
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1494.5270502888523,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 357.18647743238114,
+          "best_value": 514.4744723828097,
+          "worst_value": 180.15166619196808,
+          "percentile_rank": 95.18072289156626,
+          "overall_rank": 9,
+          "total_players": 166
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1590.3435853803448,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 35253.63636363636,
+          "best_value": 45160,
+          "worst_value": 24619,
+          "percentile_rank": 90.0,
+          "overall_rank": 10,
+          "total_players": 90
+        }
+      ]
+    }
+  ],
+  "recent_sessions": [
+    {
+      "timestamp": "202506262310",
+      "profession": "Boon Vindi",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1017,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 6.8
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506232308",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 2887,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 1.9
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506200210",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1665,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.4
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506192306",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 2303,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 1.8
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506190151",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 3039,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 2.6
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506162254",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 2600,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 2.5
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506122301",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 2257,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 1.6
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506120247",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 4049,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 1.6
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506092225",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 3644,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506052234",
+      "profession": "Vindicator",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1615,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 1.0
+      },
+      "performance_grade": "B"
+    }
+  ],
+  "trends": {
+    "overall_trend": "improving",
+    "best_metric": "DPS",
+    "improvement_rate": 5.2,
+    "consistency_score": 0.75
+  },
+  "rankings": {
+    "overall_dps_rank": 7,
+    "guild_rank": null,
+    "profession_ranks": {}
+  }
+}

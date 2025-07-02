@@ -1,0 +1,485 @@
+{
+  "profile": {
+    "account_name": "Fibbs.1623",
+    "character_names": [
+      "All The Small Fibbs",
+      "Only F\u00edbbs"
+    ],
+    "professions_played": [
+      "Tempest",
+      "Condi Firebrand"
+    ],
+    "is_guild_member": false,
+    "guild_rank": null,
+    "total_sessions": 4,
+    "first_session": "202504102316",
+    "last_session": "202505280122",
+    "activity_days": 49
+  },
+  "overall_stats": {
+    "activity_score": 40.0,
+    "consistency_score": 75.0,
+    "improvement_rate": 5.2
+  },
+  "metric_summaries": [
+    {
+      "metric_name": "DPS",
+      "glicko_rating": 1461.4763336874096,
+      "rating_deviation": 215.07555249571672,
+      "games_played": 2,
+      "average_value": 262.25,
+      "best_value": 439,
+      "worst_value": 132,
+      "percentile_rank": 39.31623931623932,
+      "overall_rank": 214,
+      "total_players": 351
+    },
+    {
+      "metric_name": "Healing",
+      "glicko_rating": 1388.389115455698,
+      "rating_deviation": 216.54334365963933,
+      "games_played": 2,
+      "average_value": 713.295,
+      "best_value": 1653.54,
+      "worst_value": 5.36,
+      "percentile_rank": 70.4225352112676,
+      "overall_rank": 43,
+      "total_players": 142
+    },
+    {
+      "metric_name": "Barrier",
+      "glicko_rating": 1386.821347934268,
+      "rating_deviation": 216.34369862884265,
+      "games_played": 2,
+      "average_value": 58.89,
+      "best_value": 69.65,
+      "worst_value": 48.13,
+      "percentile_rank": 14.545454545454545,
+      "overall_rank": 95,
+      "total_players": 110
+    },
+    {
+      "metric_name": "Cleanses",
+      "glicko_rating": 1429.1247257158013,
+      "rating_deviation": 215.07404821979685,
+      "games_played": 2,
+      "average_value": 0.6825,
+      "best_value": 1.36,
+      "worst_value": 0.01,
+      "percentile_rank": 82.70440251572327,
+      "overall_rank": 56,
+      "total_players": 318
+    },
+    {
+      "metric_name": "Strips",
+      "glicko_rating": 1410.3534046897507,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0.01,
+      "best_value": 0.01,
+      "worst_value": 0.01,
+      "percentile_rank": 24.615384615384617,
+      "overall_rank": 197,
+      "total_players": 260
+    },
+    {
+      "metric_name": "Stability",
+      "glicko_rating": 1543.0042065390057,
+      "rating_deviation": 217.53358760165082,
+      "games_played": 2,
+      "average_value": 3.075,
+      "best_value": 4.8,
+      "worst_value": 2.0,
+      "percentile_rank": 55.60000000000001,
+      "overall_rank": 112,
+      "total_players": 250
+    },
+    {
+      "metric_name": "Resistance",
+      "glicko_rating": 1399.2163223982823,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0.1,
+      "best_value": 0.1,
+      "worst_value": 0.1,
+      "percentile_rank": 9.743589743589745,
+      "overall_rank": 177,
+      "total_players": 195
+    },
+    {
+      "metric_name": "Might",
+      "glicko_rating": 1483.0802669722639,
+      "rating_deviation": 215.57885401998257,
+      "games_played": 2,
+      "average_value": 5.0,
+      "best_value": 7.4,
+      "worst_value": 1.8,
+      "percentile_rank": 50.814332247557005,
+      "overall_rank": 152,
+      "total_players": 307
+    },
+    {
+      "metric_name": "Protection",
+      "glicko_rating": 1445.8658495877578,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 1.8,
+      "best_value": 3.1,
+      "worst_value": 0.3,
+      "percentile_rank": 97.0464135021097,
+      "overall_rank": 8,
+      "total_players": 237
+    },
+    {
+      "metric_name": "Downs",
+      "glicko_rating": 1551.6055173191107,
+      "rating_deviation": 215.22751560895367,
+      "games_played": 2,
+      "average_value": 66.01764100952708,
+      "best_value": 126.94932781799379,
+      "worst_value": 14.643609180880185,
+      "percentile_rank": 57.01754385964912,
+      "overall_rank": 148,
+      "total_players": 342
+    }
+  ],
+  "profession_summaries": [
+    {
+      "profession": "Tempest",
+      "sessions_played": 2,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202504142312",
+        "dps": 162,
+        "damage": 695472
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1461.4763336874096,
+          "rating_deviation": 215.07555249571672,
+          "games_played": 2,
+          "average_value": 262.25,
+          "best_value": 439,
+          "worst_value": 132,
+          "percentile_rank": 39.31623931623932,
+          "overall_rank": 214,
+          "total_players": 351
+        },
+        {
+          "metric_name": "Healing",
+          "glicko_rating": 1388.389115455698,
+          "rating_deviation": 216.54334365963933,
+          "games_played": 2,
+          "average_value": 713.295,
+          "best_value": 1653.54,
+          "worst_value": 5.36,
+          "percentile_rank": 70.4225352112676,
+          "overall_rank": 43,
+          "total_players": 142
+        },
+        {
+          "metric_name": "Barrier",
+          "glicko_rating": 1386.821347934268,
+          "rating_deviation": 216.34369862884265,
+          "games_played": 2,
+          "average_value": 58.89,
+          "best_value": 69.65,
+          "worst_value": 48.13,
+          "percentile_rank": 14.545454545454545,
+          "overall_rank": 95,
+          "total_players": 110
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1429.1247257158013,
+          "rating_deviation": 215.07404821979685,
+          "games_played": 2,
+          "average_value": 0.6825,
+          "best_value": 1.36,
+          "worst_value": 0.01,
+          "percentile_rank": 82.70440251572327,
+          "overall_rank": 56,
+          "total_players": 318
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1410.3534046897507,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.01,
+          "best_value": 0.01,
+          "worst_value": 0.01,
+          "percentile_rank": 24.615384615384617,
+          "overall_rank": 197,
+          "total_players": 260
+        },
+        {
+          "metric_name": "Stability",
+          "glicko_rating": 1543.0042065390057,
+          "rating_deviation": 217.53358760165082,
+          "games_played": 2,
+          "average_value": 3.075,
+          "best_value": 4.8,
+          "worst_value": 2.0,
+          "percentile_rank": 55.60000000000001,
+          "overall_rank": 112,
+          "total_players": 250
+        },
+        {
+          "metric_name": "Resistance",
+          "glicko_rating": 1399.2163223982823,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.1,
+          "best_value": 0.1,
+          "worst_value": 0.1,
+          "percentile_rank": 9.743589743589745,
+          "overall_rank": 177,
+          "total_players": 195
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1483.0802669722639,
+          "rating_deviation": 215.57885401998257,
+          "games_played": 2,
+          "average_value": 5.0,
+          "best_value": 7.4,
+          "worst_value": 1.8,
+          "percentile_rank": 50.814332247557005,
+          "overall_rank": 152,
+          "total_players": 307
+        },
+        {
+          "metric_name": "Protection",
+          "glicko_rating": 1445.8658495877578,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 1.8,
+          "best_value": 3.1,
+          "worst_value": 0.3,
+          "percentile_rank": 97.0464135021097,
+          "overall_rank": 8,
+          "total_players": 237
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1551.6055173191107,
+          "rating_deviation": 215.22751560895367,
+          "games_played": 2,
+          "average_value": 66.01764100952708,
+          "best_value": 126.94932781799379,
+          "worst_value": 14.643609180880185,
+          "percentile_rank": 57.01754385964912,
+          "overall_rank": 148,
+          "total_players": 342
+        }
+      ]
+    },
+    {
+      "profession": "Condi Firebrand",
+      "sessions_played": 2,
+      "primary_metrics": {
+        "Stability": 3.4,
+        "Cleanses": 0.095,
+        "DPS": 377.5
+      },
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202505272244",
+        "dps": 439,
+        "damage": 1729981
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1461.4763336874096,
+          "rating_deviation": 215.07555249571672,
+          "games_played": 2,
+          "average_value": 262.25,
+          "best_value": 439,
+          "worst_value": 132,
+          "percentile_rank": 39.31623931623932,
+          "overall_rank": 214,
+          "total_players": 351
+        },
+        {
+          "metric_name": "Healing",
+          "glicko_rating": 1388.389115455698,
+          "rating_deviation": 216.54334365963933,
+          "games_played": 2,
+          "average_value": 713.295,
+          "best_value": 1653.54,
+          "worst_value": 5.36,
+          "percentile_rank": 70.4225352112676,
+          "overall_rank": 43,
+          "total_players": 142
+        },
+        {
+          "metric_name": "Barrier",
+          "glicko_rating": 1386.821347934268,
+          "rating_deviation": 216.34369862884265,
+          "games_played": 2,
+          "average_value": 58.89,
+          "best_value": 69.65,
+          "worst_value": 48.13,
+          "percentile_rank": 14.545454545454545,
+          "overall_rank": 95,
+          "total_players": 110
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1429.1247257158013,
+          "rating_deviation": 215.07404821979685,
+          "games_played": 2,
+          "average_value": 0.6825,
+          "best_value": 1.36,
+          "worst_value": 0.01,
+          "percentile_rank": 82.70440251572327,
+          "overall_rank": 56,
+          "total_players": 318
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1410.3534046897507,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.01,
+          "best_value": 0.01,
+          "worst_value": 0.01,
+          "percentile_rank": 24.615384615384617,
+          "overall_rank": 197,
+          "total_players": 260
+        },
+        {
+          "metric_name": "Stability",
+          "glicko_rating": 1543.0042065390057,
+          "rating_deviation": 217.53358760165082,
+          "games_played": 2,
+          "average_value": 3.075,
+          "best_value": 4.8,
+          "worst_value": 2.0,
+          "percentile_rank": 55.60000000000001,
+          "overall_rank": 112,
+          "total_players": 250
+        },
+        {
+          "metric_name": "Resistance",
+          "glicko_rating": 1399.2163223982823,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.1,
+          "best_value": 0.1,
+          "worst_value": 0.1,
+          "percentile_rank": 9.743589743589745,
+          "overall_rank": 177,
+          "total_players": 195
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1483.0802669722639,
+          "rating_deviation": 215.57885401998257,
+          "games_played": 2,
+          "average_value": 5.0,
+          "best_value": 7.4,
+          "worst_value": 1.8,
+          "percentile_rank": 50.814332247557005,
+          "overall_rank": 152,
+          "total_players": 307
+        },
+        {
+          "metric_name": "Protection",
+          "glicko_rating": 1445.8658495877578,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 1.8,
+          "best_value": 3.1,
+          "worst_value": 0.3,
+          "percentile_rank": 97.0464135021097,
+          "overall_rank": 8,
+          "total_players": 237
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1551.6055173191107,
+          "rating_deviation": 215.22751560895367,
+          "games_played": 2,
+          "average_value": 66.01764100952708,
+          "best_value": 126.94932781799379,
+          "worst_value": 14.643609180880185,
+          "percentile_rank": 57.01754385964912,
+          "overall_rank": 148,
+          "total_players": 342
+        }
+      ]
+    }
+  ],
+  "recent_sessions": [
+    {
+      "timestamp": "202505280122",
+      "profession": "Condi Firebrand",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 316,
+        "Healing": 5.36,
+        "Barrier": 0.0,
+        "Stability": 2.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202505272244",
+      "profession": "Condi Firebrand",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 439,
+        "Healing": 25.42,
+        "Barrier": 0.0,
+        "Stability": 4.8
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202504142312",
+      "profession": "Tempest",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 162,
+        "Healing": 1168.86,
+        "Barrier": 48.13,
+        "Stability": 2.5
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202504102316",
+      "profession": "Tempest",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 132,
+        "Healing": 1653.54,
+        "Barrier": 69.65,
+        "Stability": 3.0
+      },
+      "performance_grade": "B"
+    }
+  ],
+  "trends": {
+    "overall_trend": "improving",
+    "best_metric": "DPS",
+    "improvement_rate": 5.2,
+    "consistency_score": 0.75
+  },
+  "rankings": {
+    "overall_dps_rank": 214,
+    "guild_rank": null,
+    "profession_ranks": {}
+  }
+}

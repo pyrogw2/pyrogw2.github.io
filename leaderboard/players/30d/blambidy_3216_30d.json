@@ -1,0 +1,261 @@
+{
+  "profile": {
+    "account_name": "blambidy.3216",
+    "character_names": [
+      "Bidybidydeaddead"
+    ],
+    "professions_played": [
+      "Scourge"
+    ],
+    "is_guild_member": false,
+    "guild_rank": null,
+    "total_sessions": 1,
+    "first_session": "202506022317",
+    "last_session": "202506022317",
+    "activity_days": 1
+  },
+  "overall_stats": {
+    "activity_score": 10.0,
+    "consistency_score": 75.0,
+    "improvement_rate": 5.2
+  },
+  "metric_summaries": [
+    {
+      "metric_name": "DPS",
+      "glicko_rating": 1540.712909161331,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 700.0,
+      "best_value": 700,
+      "worst_value": 700,
+      "percentile_rank": 61.53846153846154,
+      "overall_rank": 66,
+      "total_players": 169
+    },
+    {
+      "metric_name": "Cleanses",
+      "glicko_rating": 1403.5908282817345,
+      "rating_deviation": 216.7817180446389,
+      "games_played": 2,
+      "average_value": 0.16,
+      "best_value": 0.16,
+      "worst_value": 0.16,
+      "percentile_rank": 44.44444444444444,
+      "overall_rank": 86,
+      "total_players": 153
+    },
+    {
+      "metric_name": "Strips",
+      "glicko_rating": 1534.277957047862,
+      "rating_deviation": 215.39740749165392,
+      "games_played": 2,
+      "average_value": 0.41,
+      "best_value": 0.41,
+      "worst_value": 0.41,
+      "percentile_rank": 83.33333333333334,
+      "overall_rank": 22,
+      "total_players": 126
+    },
+    {
+      "metric_name": "Stability",
+      "glicko_rating": 1372.5523573012238,
+      "rating_deviation": 216.82090960062177,
+      "games_played": 2,
+      "average_value": 1.7,
+      "best_value": 1.7,
+      "worst_value": 1.7,
+      "percentile_rank": 29.82456140350877,
+      "overall_rank": 81,
+      "total_players": 114
+    },
+    {
+      "metric_name": "Might",
+      "glicko_rating": 1396.4545152160372,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 7.2,
+      "best_value": 7.2,
+      "worst_value": 7.2,
+      "percentile_rank": 69.48051948051948,
+      "overall_rank": 48,
+      "total_players": 154
+    },
+    {
+      "metric_name": "Protection",
+      "glicko_rating": 1443.5684878231655,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0,
+      "best_value": 0,
+      "worst_value": 0,
+      "percentile_rank": 100.0,
+      "overall_rank": 1,
+      "total_players": 118
+    },
+    {
+      "metric_name": "Downs",
+      "glicko_rating": 1587.4306986537872,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 76.20972792429198,
+      "best_value": 76.20972792429198,
+      "worst_value": 76.20972792429198,
+      "percentile_rank": 54.81927710843374,
+      "overall_rank": 76,
+      "total_players": 166
+    },
+    {
+      "metric_name": "Burst Consistency",
+      "glicko_rating": 1406.0082995164564,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 6158.0,
+      "best_value": 6158,
+      "worst_value": 6158,
+      "percentile_rank": 10.0,
+      "overall_rank": 82,
+      "total_players": 90
+    }
+  ],
+  "profession_summaries": [
+    {
+      "profession": "Scourge",
+      "sessions_played": 1,
+      "primary_metrics": {
+        "Strips": 0.41,
+        "DPS": 700.0
+      },
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202506022317",
+        "dps": 700,
+        "damage": 1373765
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1540.712909161331,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 700.0,
+          "best_value": 700,
+          "worst_value": 700,
+          "percentile_rank": 61.53846153846154,
+          "overall_rank": 66,
+          "total_players": 169
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1403.5908282817345,
+          "rating_deviation": 216.7817180446389,
+          "games_played": 2,
+          "average_value": 0.16,
+          "best_value": 0.16,
+          "worst_value": 0.16,
+          "percentile_rank": 44.44444444444444,
+          "overall_rank": 86,
+          "total_players": 153
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1534.277957047862,
+          "rating_deviation": 215.39740749165392,
+          "games_played": 2,
+          "average_value": 0.41,
+          "best_value": 0.41,
+          "worst_value": 0.41,
+          "percentile_rank": 83.33333333333334,
+          "overall_rank": 22,
+          "total_players": 126
+        },
+        {
+          "metric_name": "Stability",
+          "glicko_rating": 1372.5523573012238,
+          "rating_deviation": 216.82090960062177,
+          "games_played": 2,
+          "average_value": 1.7,
+          "best_value": 1.7,
+          "worst_value": 1.7,
+          "percentile_rank": 29.82456140350877,
+          "overall_rank": 81,
+          "total_players": 114
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1396.4545152160372,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 7.2,
+          "best_value": 7.2,
+          "worst_value": 7.2,
+          "percentile_rank": 69.48051948051948,
+          "overall_rank": 48,
+          "total_players": 154
+        },
+        {
+          "metric_name": "Protection",
+          "glicko_rating": 1443.5684878231655,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0,
+          "best_value": 0,
+          "worst_value": 0,
+          "percentile_rank": 100.0,
+          "overall_rank": 1,
+          "total_players": 118
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1587.4306986537872,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 76.20972792429198,
+          "best_value": 76.20972792429198,
+          "worst_value": 76.20972792429198,
+          "percentile_rank": 54.81927710843374,
+          "overall_rank": 76,
+          "total_players": 166
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1406.0082995164564,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 6158.0,
+          "best_value": 6158,
+          "worst_value": 6158,
+          "percentile_rank": 10.0,
+          "overall_rank": 82,
+          "total_players": 90
+        }
+      ]
+    }
+  ],
+  "recent_sessions": [
+    {
+      "timestamp": "202506022317",
+      "profession": "Scourge",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 700,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 1.7
+      },
+      "performance_grade": "B"
+    }
+  ],
+  "trends": {
+    "overall_trend": "improving",
+    "best_metric": "DPS",
+    "improvement_rate": 5.2,
+    "consistency_score": 0.75
+  },
+  "rankings": {
+    "overall_dps_rank": 66,
+    "guild_rank": null,
+    "profession_ranks": {}
+  }
+}

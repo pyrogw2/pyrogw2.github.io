@@ -1,0 +1,223 @@
+{
+  "profile": {
+    "account_name": "Noe.4360",
+    "character_names": [
+      "N\u00f4\u00e8"
+    ],
+    "professions_played": [
+      "Holosmith"
+    ],
+    "is_guild_member": false,
+    "guild_rank": null,
+    "total_sessions": 2,
+    "first_session": "202506192306",
+    "last_session": "202506252106",
+    "activity_days": 7
+  },
+  "overall_stats": {
+    "activity_score": 20.0,
+    "consistency_score": 75.0,
+    "improvement_rate": 5.2
+  },
+  "metric_summaries": [
+    {
+      "metric_name": "DPS",
+      "glicko_rating": 1681.0582603656394,
+      "rating_deviation": 216.92022824829922,
+      "games_played": 2,
+      "average_value": 3246.5,
+      "best_value": 5183,
+      "worst_value": 1310,
+      "percentile_rank": 98.22485207100591,
+      "overall_rank": 4,
+      "total_players": 169
+    },
+    {
+      "metric_name": "Cleanses",
+      "glicko_rating": 1366.8144262822743,
+      "rating_deviation": 216.73627252720007,
+      "games_played": 2,
+      "average_value": 0.030000000000000002,
+      "best_value": 0.05,
+      "worst_value": 0.01,
+      "percentile_rank": 12.418300653594772,
+      "overall_rank": 135,
+      "total_players": 153
+    },
+    {
+      "metric_name": "Strips",
+      "glicko_rating": 1437.4389398199344,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 0.02,
+      "best_value": 0.02,
+      "worst_value": 0.02,
+      "percentile_rank": 42.857142857142854,
+      "overall_rank": 73,
+      "total_players": 126
+    },
+    {
+      "metric_name": "Might",
+      "glicko_rating": 1346.786282066862,
+      "rating_deviation": 216.85006882352943,
+      "games_played": 2,
+      "average_value": 1.1,
+      "best_value": 1.6,
+      "worst_value": 0.6,
+      "percentile_rank": 7.142857142857142,
+      "overall_rank": 144,
+      "total_players": 154
+    },
+    {
+      "metric_name": "Downs",
+      "glicko_rating": 1660.2612114982776,
+      "rating_deviation": 215.9119556741668,
+      "games_played": 2,
+      "average_value": 551.0139343513592,
+      "best_value": 855.6998507291308,
+      "worst_value": 246.32801797358758,
+      "percentile_rank": 98.19277108433735,
+      "overall_rank": 4,
+      "total_players": 166
+    },
+    {
+      "metric_name": "Burst Consistency",
+      "glicko_rating": 1679.3635767764163,
+      "rating_deviation": 217.93258316366905,
+      "games_played": 2,
+      "average_value": 44340.5,
+      "best_value": 44665,
+      "worst_value": 44016,
+      "percentile_rank": 96.66666666666667,
+      "overall_rank": 4,
+      "total_players": 90
+    }
+  ],
+  "profession_summaries": [
+    {
+      "profession": "Holosmith",
+      "sessions_played": 2,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202506252106",
+        "dps": 5183,
+        "damage": 4967438
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1681.0582603656394,
+          "rating_deviation": 216.92022824829922,
+          "games_played": 2,
+          "average_value": 3246.5,
+          "best_value": 5183,
+          "worst_value": 1310,
+          "percentile_rank": 98.22485207100591,
+          "overall_rank": 4,
+          "total_players": 169
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1366.8144262822743,
+          "rating_deviation": 216.73627252720007,
+          "games_played": 2,
+          "average_value": 0.030000000000000002,
+          "best_value": 0.05,
+          "worst_value": 0.01,
+          "percentile_rank": 12.418300653594772,
+          "overall_rank": 135,
+          "total_players": 153
+        },
+        {
+          "metric_name": "Strips",
+          "glicko_rating": 1437.4389398199344,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 0.02,
+          "best_value": 0.02,
+          "worst_value": 0.02,
+          "percentile_rank": 42.857142857142854,
+          "overall_rank": 73,
+          "total_players": 126
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1346.786282066862,
+          "rating_deviation": 216.85006882352943,
+          "games_played": 2,
+          "average_value": 1.1,
+          "best_value": 1.6,
+          "worst_value": 0.6,
+          "percentile_rank": 7.142857142857142,
+          "overall_rank": 144,
+          "total_players": 154
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1660.2612114982776,
+          "rating_deviation": 215.9119556741668,
+          "games_played": 2,
+          "average_value": 551.0139343513592,
+          "best_value": 855.6998507291308,
+          "worst_value": 246.32801797358758,
+          "percentile_rank": 98.19277108433735,
+          "overall_rank": 4,
+          "total_players": 166
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1679.3635767764163,
+          "rating_deviation": 217.93258316366905,
+          "games_played": 2,
+          "average_value": 44340.5,
+          "best_value": 44665,
+          "worst_value": 44016,
+          "percentile_rank": 96.66666666666667,
+          "overall_rank": 4,
+          "total_players": 90
+        }
+      ]
+    }
+  ],
+  "recent_sessions": [
+    {
+      "timestamp": "202506252106",
+      "profession": "Holosmith",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 5183,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202506192306",
+      "profession": "Holosmith",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 1310,
+        "Healing": 0.0,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    }
+  ],
+  "trends": {
+    "overall_trend": "improving",
+    "best_metric": "DPS",
+    "improvement_rate": 5.2,
+    "consistency_score": 0.75
+  },
+  "rankings": {
+    "overall_dps_rank": 4,
+    "guild_rank": null,
+    "profession_ranks": {}
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "profile": {
+    "account_name": "Nightbringer.9845",
+    "character_names": [
+      "Rainy Twilight",
+      "Rainydesu"
+    ],
+    "professions_played": [
+      "Holosmith",
+      "Berserker"
+    ],
+    "is_guild_member": false,
+    "guild_rank": null,
+    "total_sessions": 3,
+    "first_session": "202504130159",
+    "last_session": "202504212313",
+    "activity_days": 9
+  },
+  "overall_stats": {
+    "activity_score": 30.0,
+    "consistency_score": 75.0,
+    "improvement_rate": 5.2
+  },
+  "metric_summaries": [
+    {
+      "metric_name": "DPS",
+      "glicko_rating": 1762.2748005628273,
+      "rating_deviation": 199.28096116536653,
+      "games_played": 3,
+      "average_value": 3594.6666666666665,
+      "best_value": 5874,
+      "worst_value": 2766,
+      "percentile_rank": 99.71509971509973,
+      "overall_rank": 2,
+      "total_players": 351
+    },
+    {
+      "metric_name": "Healing",
+      "glicko_rating": 1373.0317954222562,
+      "rating_deviation": 190.3122117272211,
+      "games_played": 3,
+      "average_value": 52.48,
+      "best_value": 92.09,
+      "worst_value": 12.71,
+      "percentile_rank": 14.084507042253522,
+      "overall_rank": 123,
+      "total_players": 142
+    },
+    {
+      "metric_name": "Cleanses",
+      "glicko_rating": 1364.264630722536,
+      "rating_deviation": 190.76695829065957,
+      "games_played": 3,
+      "average_value": 0.09333333333333334,
+      "best_value": 0.26,
+      "worst_value": 0.03,
+      "percentile_rank": 32.075471698113205,
+      "overall_rank": 217,
+      "total_players": 318
+    },
+    {
+      "metric_name": "Might",
+      "glicko_rating": 1352.173775559175,
+      "rating_deviation": 191.20617254279315,
+      "games_played": 3,
+      "average_value": 1.5333333333333332,
+      "best_value": 2.5,
+      "worst_value": 0.1,
+      "percentile_rank": 15.309446254071663,
+      "overall_rank": 261,
+      "total_players": 307
+    },
+    {
+      "metric_name": "Downs",
+      "glicko_rating": 1761.6081771758013,
+      "rating_deviation": 199.16879580059233,
+      "games_played": 3,
+      "average_value": 362.1921460781659,
+      "best_value": 861.1757394978871,
+      "worst_value": 51.84684684684685,
+      "percentile_rank": 97.36842105263158,
+      "overall_rank": 10,
+      "total_players": 342
+    },
+    {
+      "metric_name": "Burst Consistency",
+      "glicko_rating": 1482.704111985413,
+      "rating_deviation": 258.9798040704137,
+      "games_played": 1,
+      "average_value": 15725.0,
+      "best_value": 24350,
+      "worst_value": 7100,
+      "percentile_rank": 39.55223880597015,
+      "overall_rank": 82,
+      "total_players": 134
+    }
+  ],
+  "profession_summaries": [
+    {
+      "profession": "Holosmith",
+      "sessions_played": 3,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202504142312",
+        "dps": 3470,
+        "damage": 1514788
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1762.2748005628273,
+          "rating_deviation": 199.28096116536653,
+          "games_played": 3,
+          "average_value": 3594.6666666666665,
+          "best_value": 5874,
+          "worst_value": 2766,
+          "percentile_rank": 99.71509971509973,
+          "overall_rank": 2,
+          "total_players": 351
+        },
+        {
+          "metric_name": "Healing",
+          "glicko_rating": 1373.0317954222562,
+          "rating_deviation": 190.3122117272211,
+          "games_played": 3,
+          "average_value": 52.48,
+          "best_value": 92.09,
+          "worst_value": 12.71,
+          "percentile_rank": 14.084507042253522,
+          "overall_rank": 123,
+          "total_players": 142
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1364.264630722536,
+          "rating_deviation": 190.76695829065957,
+          "games_played": 3,
+          "average_value": 0.09333333333333334,
+          "best_value": 0.26,
+          "worst_value": 0.03,
+          "percentile_rank": 32.075471698113205,
+          "overall_rank": 217,
+          "total_players": 318
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1352.173775559175,
+          "rating_deviation": 191.20617254279315,
+          "games_played": 3,
+          "average_value": 1.5333333333333332,
+          "best_value": 2.5,
+          "worst_value": 0.1,
+          "percentile_rank": 15.309446254071663,
+          "overall_rank": 261,
+          "total_players": 307
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1761.6081771758013,
+          "rating_deviation": 199.16879580059233,
+          "games_played": 3,
+          "average_value": 362.1921460781659,
+          "best_value": 861.1757394978871,
+          "worst_value": 51.84684684684685,
+          "percentile_rank": 97.36842105263158,
+          "overall_rank": 10,
+          "total_players": 342
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1482.704111985413,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 15725.0,
+          "best_value": 24350,
+          "worst_value": 7100,
+          "percentile_rank": 39.55223880597015,
+          "overall_rank": 82,
+          "total_players": 134
+        }
+      ]
+    },
+    {
+      "profession": "Berserker",
+      "sessions_played": 3,
+      "primary_metrics": {},
+      "overall_glicko": 1500.0,
+      "best_session": {
+        "timestamp": "202504142312",
+        "dps": 5874,
+        "damage": 2811741
+      },
+      "recent_trend": "stable",
+      "metric_summaries": [
+        {
+          "metric_name": "DPS",
+          "glicko_rating": 1762.2748005628273,
+          "rating_deviation": 199.28096116536653,
+          "games_played": 3,
+          "average_value": 3594.6666666666665,
+          "best_value": 5874,
+          "worst_value": 2766,
+          "percentile_rank": 99.71509971509973,
+          "overall_rank": 2,
+          "total_players": 351
+        },
+        {
+          "metric_name": "Healing",
+          "glicko_rating": 1373.0317954222562,
+          "rating_deviation": 190.3122117272211,
+          "games_played": 3,
+          "average_value": 52.48,
+          "best_value": 92.09,
+          "worst_value": 12.71,
+          "percentile_rank": 14.084507042253522,
+          "overall_rank": 123,
+          "total_players": 142
+        },
+        {
+          "metric_name": "Cleanses",
+          "glicko_rating": 1364.264630722536,
+          "rating_deviation": 190.76695829065957,
+          "games_played": 3,
+          "average_value": 0.09333333333333334,
+          "best_value": 0.26,
+          "worst_value": 0.03,
+          "percentile_rank": 32.075471698113205,
+          "overall_rank": 217,
+          "total_players": 318
+        },
+        {
+          "metric_name": "Might",
+          "glicko_rating": 1352.173775559175,
+          "rating_deviation": 191.20617254279315,
+          "games_played": 3,
+          "average_value": 1.5333333333333332,
+          "best_value": 2.5,
+          "worst_value": 0.1,
+          "percentile_rank": 15.309446254071663,
+          "overall_rank": 261,
+          "total_players": 307
+        },
+        {
+          "metric_name": "Downs",
+          "glicko_rating": 1761.6081771758013,
+          "rating_deviation": 199.16879580059233,
+          "games_played": 3,
+          "average_value": 362.1921460781659,
+          "best_value": 861.1757394978871,
+          "worst_value": 51.84684684684685,
+          "percentile_rank": 97.36842105263158,
+          "overall_rank": 10,
+          "total_players": 342
+        },
+        {
+          "metric_name": "Burst Consistency",
+          "glicko_rating": 1482.704111985413,
+          "rating_deviation": 258.9798040704137,
+          "games_played": 1,
+          "average_value": 15725.0,
+          "best_value": 24350,
+          "worst_value": 7100,
+          "percentile_rank": 39.55223880597015,
+          "overall_rank": 82,
+          "total_players": 134
+        }
+      ]
+    }
+  ],
+  "recent_sessions": [
+    {
+      "timestamp": "202504212313",
+      "profession": "Holosmith",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 2820,
+        "Healing": 12.71,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202504212313",
+      "profession": "Berserker",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 3554,
+        "Healing": 57.14,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202504142312",
+      "profession": "Holosmith",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 3470,
+        "Healing": 92.09,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202504142312",
+      "profession": "Berserker",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 5874,
+        "Healing": 35.67,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202504130159",
+      "profession": "Holosmith",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 3084,
+        "Healing": 33.75,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    },
+    {
+      "timestamp": "202504130159",
+      "profession": "Berserker",
+      "session_rank": 1,
+      "total_players": 20,
+      "key_stats": {
+        "DPS": 2766,
+        "Healing": 83.52,
+        "Barrier": 0.0,
+        "Stability": 0.0
+      },
+      "performance_grade": "B"
+    }
+  ],
+  "trends": {
+    "overall_trend": "improving",
+    "best_metric": "DPS",
+    "improvement_rate": 5.2,
+    "consistency_score": 0.75
+  },
+  "rankings": {
+    "overall_dps_rank": 2,
+    "guild_rank": null,
+    "profession_ranks": {}
+  }
+}
