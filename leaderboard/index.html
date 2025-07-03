@@ -25,6 +25,7 @@
             <button class="tab-button active" data-tab="individual">Individual Metrics</button>
             <button class="tab-button" data-tab="high-scores">High Scores</button>
             <button class="tab-button" data-tab="professions">Professions</button>
+            <button class="tab-button" data-tab="player-stats">Player Stats</button>
             <button class="tab-button" data-tab="about">About</button>
         </nav>
 
@@ -62,6 +63,10 @@
                     <button class="metric-button" data-metric="Burst Consistency">Burst Consistency</button>
                 </div>
                 
+                <div class="search-container">
+                    <input type="text" id="individual-search" class="search-input" placeholder="Search players, professions, or accounts...">
+                    <button class="search-clear" onclick="clearSearch('individual')">&times;</button>
+                </div>
                 <div id="individual-leaderboard" class="leaderboard-container"></div>
             </div>
 
@@ -77,6 +82,10 @@
                     <button class="metric-button" data-metric="Highest Single Fight DPS">Highest Single Fight DPS</button>
                 </div>
                 
+                <div class="search-container">
+                    <input type="text" id="high-scores-search" class="search-input" placeholder="Search players, professions, or accounts...">
+                    <button class="search-clear" onclick="clearSearch('high-scores')">&times;</button>
+                </div>
                 <div id="high-scores-leaderboard" class="leaderboard-container"></div>
             </div>
 
@@ -95,7 +104,27 @@
                 </div>
                 
                 <div id="profession-info" class="profession-info"></div>
+                <div class="search-container">
+                    <input type="text" id="profession-search" class="search-input" placeholder="Search players or accounts...">
+                    <button class="search-clear" onclick="clearSearch('profession')">&times;</button>
+                </div>
                 <div id="profession-leaderboard" class="leaderboard-container"></div>
+            </div>
+
+            <!-- Player Stats -->
+            <div id="player-stats" class="tab-content">
+                <h2>Player Stats</h2>
+                <p class="description">Player activity and profession usage statistics (non-Glicko based).</p>
+                
+                <div class="metric-selector">
+                    <button class="metric-button active" data-metric="Most Played Professions">Most Played Professions</button>
+                </div>
+                
+                <div class="search-container">
+                    <input type="text" id="player-stats-search" class="search-input" placeholder="Search players, professions, or accounts...">
+                    <button class="search-clear" onclick="clearSearch('player-stats')">&times;</button>
+                </div>
+                <div id="player-stats-leaderboard" class="leaderboard-container"></div>
             </div>
 
             <!-- About -->
