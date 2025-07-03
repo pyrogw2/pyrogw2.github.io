@@ -61,6 +61,7 @@
                     <button class="metric-button" data-metric="Protection">Protection</button>
                     <button class="metric-button" data-metric="Downs">DownCont</button>
                     <button class="metric-button" data-metric="Burst Consistency">Burst Consistency</button>
+                    <button class="metric-button" data-metric="Distance to Tag">Distance to Tag</button>
                 </div>
                 
                 <div class="search-container">
@@ -145,7 +146,7 @@
                     
                     <h3>🏅 Leaderboard Types</h3>
                     <ul>
-                        <li><strong>Individual Metrics:</strong> Rankings for specific performance areas (DPS, Healing, Barrier, Cleanses, Strips, Stability, Resistance, Might, Protection, Down Contribution, Burst Consistency)</li>
+                        <li><strong>Individual Metrics:</strong> Rankings for specific performance areas (DPS, Healing, Barrier, Cleanses, Strips, Stability, Resistance, Might, Protection, Down Contribution, Burst Consistency, Distance to Tag)</li>
                         <li><strong>High Scores:</strong> Record-breaking single performance instances (highest burst damage, skill damage, single-fight DPS)</li>
                         <li><strong>Profession-Specific:</strong> Role-based rankings using weighted combinations of relevant metrics for each profession</li>
                         <li><strong>Time Filters:</strong> All-time, 30-day, 90-day, and 180-day rankings to show recent vs historical performance</li>
@@ -165,6 +166,7 @@
                     <ul>
                         <li><strong>Context-Aware:</strong> Performance evaluated relative to session participants, not absolute values</li>
                         <li><strong>Battle-Type Neutral:</strong> Works equally well for GvG fights, zerg battles, and keep sieges</li>
+                        <li><strong>Fight Time Filtering:</strong> Players with ≥5 minutes participation are always included; ultra-short outliers (profession swaps, disconnects) are filtered to maintain data quality</li>
                         <li><strong>Experience Scaling:</strong> New players get reduced impact from extreme performances (1-2 games: 50%, 3-4 games: 75%, 5-8 games: 90%, 9+ games: full impact)</li>
                         <li><strong>Participation Rewards:</strong> 0-10% bonus for consistent participation encourages regular play without overwhelming skill</li>
                         <li><strong>Dynamic Filtering:</strong> Support metrics exclude low-outlier performances (25th percentile threshold) for meaningful comparisons</li>
