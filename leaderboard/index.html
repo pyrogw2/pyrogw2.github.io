@@ -37,10 +37,10 @@
                 <label for="time-all">All</label>
                 <input type="radio" name="time-filter" id="time-30" value="30d">
                 <label for="time-30">30d</label>
+                <input type="radio" name="time-filter" id="time-60" value="60d">
+                <label for="time-60">60d</label>
                 <input type="radio" name="time-filter" id="time-90" value="90d">
                 <label for="time-90">90d</label>
-                <input type="radio" name="time-filter" id="time-180" value="180d">
-                <label for="time-180">180d</label>
             </div>
 
             <!-- Guild Filter Chips -->
@@ -156,7 +156,7 @@
                         <li><strong>Session-Based Evaluation:</strong> Each combat session is analyzed independently to calculate player rankings within that specific battle</li>
                         <li><strong>Z-Score Calculation:</strong> Player performance is normalized using z-scores: <code>(player_value - session_mean) / session_std</code></li>
                         <li><strong>Glicko-2 Rating:</strong> Dynamic rating system starting at 1500 that increases/decreases based on performance outcomes converted from z-scores</li>
-                        <li><strong>Composite Rating:</strong> Final displayed rating combining Glicko (50%) + rank performance (50%) + participation bonus (0-10%) + experience scaling</li>
+                        <li><strong>Glicko Rating:</strong> Pure skill-based rating system that adapts based on wins/losses against other players (1200-1800+ typical range)</li>
                         <li><strong>Rating Deviation (RD):</strong> Measures uncertainty in a player's rating (starts at 350, decreases with more games)</li>
                     </ul>
                     
@@ -171,7 +171,7 @@
                     
                     <h3>📈 Key Metrics Explained</h3>
                     <ul>
-                        <li><strong>Rating:</strong> Composite score around 1500-2200 (higher = better overall performance, used for ranking)</li>
+                        <li><strong>Rating:</strong> Glicko rating typically 1200-1800+ (higher = better skill level, used for ranking)</li>
                         <li><strong>Raids:</strong> Number of combat sessions analyzed (more sessions = lower uncertainty and participation bonus)</li>
                         <li><strong>Avg Rank:</strong> Average percentile rank in sessions (lower percentage = consistently better performance)</li>
                         <li><strong>Avg Stat:</strong> Average raw statistical value for the specific metric being ranked</li>
