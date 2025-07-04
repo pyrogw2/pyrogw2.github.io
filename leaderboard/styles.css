@@ -123,21 +123,152 @@ header h1 {
     backdrop-filter: blur(10px);
 }
 
-.date-filters, .guild-filters {
+/* Modern Filters Layout */
+.modern-filters {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
     margin-bottom: 20px;
     background: var(--button-bg);
-    border-radius: 10px;
-    padding: 15px;
+    border-radius: 15px;
+    padding: 12px 20px;
     backdrop-filter: blur(10px);
-    flex-wrap: wrap;
+}
+
+/* iOS-style Segmented Control */
+.segmented-control {
+    display: flex;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 3px;
+    position: relative;
+}
+
+.segmented-control input[type="radio"] {
+    display: none;
+}
+
+.segmented-control label {
+    padding: 6px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--text-color-light);
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    min-width: 40px;
+}
+
+.segmented-control input[type="radio"]:checked + label {
+    background: var(--primary-color);
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Modern Filter Chips */
+.filter-chips {
+    display: flex;
+    gap: 8px;
+}
+
+.chip {
+    padding: 6px 12px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-color-light);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 14px;
+    font-weight: 500;
+    border: 1px solid transparent;
+}
+
+.chip:hover {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.chip.active {
+    background: var(--accent-color);
+    color: white;
+    border-color: var(--accent-color);
+}
+
+/* Modern Toggle Switch */
+.delta-toggle {
+    display: flex;
+    align-items: center;
     gap: 10px;
 }
 
-.guild-filters {
-    margin-bottom: 30px;
+.toggle-label {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-color-light);
+}
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 44px;
+    height: 24px;
+}
+
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.toggle-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.2);
+    transition: 0.3s;
+    border-radius: 24px;
+}
+
+.toggle-slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 3px;
+    bottom: 3px;
+    background: white;
+    transition: 0.3s;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.toggle-switch input:checked + .toggle-slider {
+    background: var(--accent-color);
+}
+
+.toggle-switch input:checked + .toggle-slider:before {
+    transform: translateX(20px);
+}
+
+.delta-checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-color-light);
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.delta-checkbox {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
 }
 
 .filter-label {
@@ -466,6 +597,21 @@ h2 {
 }
 
 .guild-no {
+    color: #6c757d;
+    font-weight: normal;
+}
+
+.delta-positive {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.delta-negative {
+    color: #dc3545;
+    font-weight: bold;
+}
+
+.delta-neutral {
     color: #6c757d;
     font-weight: normal;
 }
