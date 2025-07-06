@@ -1,6 +1,6 @@
 // Leaderboard data
 const leaderboardData = {
-  "generated_at": "2025-07-06T00:31:17.455308",
+  "generated_at": "2025-07-06T01:44:06.646657",
   "guild_enabled": true,
   "guild_name": "Pyromancers",
   "guild_tag": "PYRO",
@@ -47272,7 +47272,8 @@ const leaderboardData = {
               "average_rank_percent": 1.375,
               "key_stats": "Stab:8.2 Resi:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.5/48.2"
             },
             {
               "rank": 2,
@@ -47283,7 +47284,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Stab:7.6 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/53.2"
             },
             {
               "rank": 3,
@@ -47294,7 +47296,8 @@ const leaderboardData = {
               "average_rank_percent": 5.625,
               "key_stats": "Stab:7.1 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.5/48.8"
             },
             {
               "rank": 4,
@@ -47305,7 +47308,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Stab:6.4 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.7/42.5"
             },
             {
               "rank": 5,
@@ -47316,7 +47320,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.8 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/24.5"
             },
             {
               "rank": 6,
@@ -47327,7 +47332,8 @@ const leaderboardData = {
               "average_rank_percent": 5.117647058823529,
               "key_stats": "Stab:6.3 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.9/27.3"
             },
             {
               "rank": 7,
@@ -47338,7 +47344,8 @@ const leaderboardData = {
               "average_rank_percent": 4.25,
               "key_stats": "Stab:7.2 Resi:1.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.5/50.5"
             },
             {
               "rank": 8,
@@ -47349,7 +47356,8 @@ const leaderboardData = {
               "average_rank_percent": 5.583333333333333,
               "key_stats": "Stab:6.5 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.3/32.5"
             },
             {
               "rank": 9,
@@ -47360,7 +47368,8 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "key_stats": "Stab:8.5 Resi:1.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "48.0/43.0"
             },
             {
               "rank": 10,
@@ -47371,7 +47380,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Stab:7.2 Resi:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/43.0"
             },
             {
               "rank": 11,
@@ -47382,7 +47392,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Stab:7.6 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/28.0"
             },
             {
               "rank": 12,
@@ -47393,7 +47404,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Stab:9.3 Resi:1.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/46.0"
             },
             {
               "rank": 13,
@@ -47404,7 +47416,8 @@ const leaderboardData = {
               "average_rank_percent": 5.8076923076923075,
               "key_stats": "Stab:6.9 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.0/41.5"
             },
             {
               "rank": 14,
@@ -47415,7 +47428,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Stab:7.0 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/47.0"
             },
             {
               "rank": 15,
@@ -47426,7 +47440,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.6 Resi:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/22.0"
             },
             {
               "rank": 16,
@@ -47437,7 +47452,8 @@ const leaderboardData = {
               "average_rank_percent": 6.444444444444445,
               "key_stats": "Stab:6.9 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.8/40.2"
             },
             {
               "rank": 17,
@@ -47448,7 +47464,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:9.1 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.0/67.0"
             },
             {
               "rank": 18,
@@ -47459,7 +47476,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.1 Resi:1.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "72.0/59.0"
             },
             {
               "rank": 19,
@@ -47470,7 +47488,8 @@ const leaderboardData = {
               "average_rank_percent": 5.666666666666667,
               "key_stats": "Stab:6.1 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "28.3/24.3"
             },
             {
               "rank": 20,
@@ -47481,7 +47500,8 @@ const leaderboardData = {
               "average_rank_percent": 8.5,
               "key_stats": "Stab:6.0 Resi:1.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/46.0"
             },
             {
               "rank": 21,
@@ -47492,7 +47512,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:8.4 Resi:1.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/39.0"
             },
             {
               "rank": 22,
@@ -47503,7 +47524,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stab:9.7 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/41.0"
             },
             {
               "rank": 23,
@@ -47514,7 +47536,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stab:5.3 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/42.0"
             },
             {
               "rank": 24,
@@ -47525,7 +47548,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stab:5.5 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.5/42.5"
             },
             {
               "rank": 25,
@@ -47536,7 +47560,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stab:8.5 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.8/45.2"
             },
             {
               "rank": 26,
@@ -47547,7 +47572,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.1 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.0/66.0"
             },
             {
               "rank": 27,
@@ -47558,7 +47584,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stab:8.3 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.0/48.0"
             },
             {
               "rank": 28,
@@ -47569,7 +47596,8 @@ const leaderboardData = {
               "average_rank_percent": 8.5,
               "key_stats": "Stab:9.4 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/48.0"
             },
             {
               "rank": 29,
@@ -47580,7 +47608,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.7 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/28.0"
             },
             {
               "rank": 30,
@@ -47591,7 +47620,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.3 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
             },
             {
               "rank": 31,
@@ -47602,7 +47632,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stab:4.6 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/36.0"
             },
             {
               "rank": 32,
@@ -47613,7 +47644,8 @@ const leaderboardData = {
               "average_rank_percent": 8.333333333333334,
               "key_stats": "Stab:5.3 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/45.5"
             },
             {
               "rank": 33,
@@ -47624,7 +47656,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:8.0 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "65.5/54.0"
             },
             {
               "rank": 34,
@@ -47635,7 +47668,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Stab:6.3 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/36.0"
             },
             {
               "rank": 35,
@@ -47646,7 +47680,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Stab:7.6 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/45.0"
             },
             {
               "rank": 36,
@@ -47657,7 +47692,8 @@ const leaderboardData = {
               "average_rank_percent": 5.0,
               "key_stats": "Stab:7.1 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/31.5"
             },
             {
               "rank": 37,
@@ -47668,7 +47704,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:5.4 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/47.0"
             },
             {
               "rank": 38,
@@ -47679,7 +47716,8 @@ const leaderboardData = {
               "average_rank_percent": 5.0,
               "key_stats": "Stab:3.9 Resi:1.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/35.0"
             },
             {
               "rank": 39,
@@ -47690,7 +47728,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.1 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "15.0/15.0"
             },
             {
               "rank": 40,
@@ -47701,7 +47740,8 @@ const leaderboardData = {
               "average_rank_percent": 7.666666666666667,
               "key_stats": "Stab:4.2 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.5/29.0"
             },
             {
               "rank": 41,
@@ -47712,7 +47752,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stab:4.5 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/33.0"
             },
             {
               "rank": 42,
@@ -47723,7 +47764,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:6.5 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "62.0/51.0"
             },
             {
               "rank": 43,
@@ -47734,7 +47776,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stab:4.3 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/33.0"
             },
             {
               "rank": 44,
@@ -47745,7 +47788,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.4 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/40.0"
             }
           ]
         },
@@ -47774,7 +47818,8 @@ const leaderboardData = {
               "average_rank_percent": 5.3,
               "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.4/28.5"
             },
             {
               "rank": 2,
@@ -47785,7 +47830,8 @@ const leaderboardData = {
               "average_rank_percent": 4.478260869565218,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/26.6"
             },
             {
               "rank": 3,
@@ -47796,7 +47842,8 @@ const leaderboardData = {
               "average_rank_percent": 7.072727272727272,
               "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.8/31.7"
             },
             {
               "rank": 4,
@@ -47807,7 +47854,8 @@ const leaderboardData = {
               "average_rank_percent": 5.222222222222222,
               "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/37.0"
             },
             {
               "rank": 5,
@@ -47818,7 +47866,8 @@ const leaderboardData = {
               "average_rank_percent": 6.260869565217392,
               "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/34.2"
             },
             {
               "rank": 6,
@@ -47829,7 +47878,8 @@ const leaderboardData = {
               "average_rank_percent": 6.6,
               "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 7,
@@ -47840,7 +47890,8 @@ const leaderboardData = {
               "average_rank_percent": 10.0,
               "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/28.0"
             },
             {
               "rank": 8,
@@ -47851,7 +47902,8 @@ const leaderboardData = {
               "average_rank_percent": 8.6,
               "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.0/33.0"
             },
             {
               "rank": 9,
@@ -47862,7 +47914,8 @@ const leaderboardData = {
               "average_rank_percent": 6.2,
               "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "65.0/36.0"
             },
             {
               "rank": 10,
@@ -47873,7 +47926,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
             },
             {
               "rank": 11,
@@ -47884,7 +47938,8 @@ const leaderboardData = {
               "average_rank_percent": 8.793103448275861,
               "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/25.4"
             },
             {
               "rank": 12,
@@ -47895,7 +47950,8 @@ const leaderboardData = {
               "average_rank_percent": 6.611111111111111,
               "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.5/22.8"
             },
             {
               "rank": 13,
@@ -47906,7 +47962,8 @@ const leaderboardData = {
               "average_rank_percent": 6.776119402985074,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/35.6"
             },
             {
               "rank": 14,
@@ -47917,7 +47974,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/24.0"
             },
             {
               "rank": 15,
@@ -47928,7 +47986,8 @@ const leaderboardData = {
               "average_rank_percent": 5.8,
               "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/39.0"
             },
             {
               "rank": 16,
@@ -47939,7 +47998,8 @@ const leaderboardData = {
               "average_rank_percent": 8.44,
               "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/24.4"
             },
             {
               "rank": 17,
@@ -47950,7 +48010,8 @@ const leaderboardData = {
               "average_rank_percent": 6.769230769230769,
               "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.3/38.7"
             },
             {
               "rank": 18,
@@ -47961,7 +48022,8 @@ const leaderboardData = {
               "average_rank_percent": 6.4,
               "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/31.0"
             },
             {
               "rank": 19,
@@ -47972,7 +48034,8 @@ const leaderboardData = {
               "average_rank_percent": 8.88888888888889,
               "key_stats": "Stab:8.6 Clea:0.2 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/26.0"
             },
             {
               "rank": 20,
@@ -47983,7 +48046,8 @@ const leaderboardData = {
               "average_rank_percent": 9.2,
               "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/27.0"
             },
             {
               "rank": 21,
@@ -47994,7 +48058,8 @@ const leaderboardData = {
               "average_rank_percent": 8.666666666666666,
               "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.2/24.0"
             },
             {
               "rank": 22,
@@ -48005,7 +48070,8 @@ const leaderboardData = {
               "average_rank_percent": 12.4,
               "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/25.0"
             },
             {
               "rank": 23,
@@ -48016,7 +48082,8 @@ const leaderboardData = {
               "average_rank_percent": 9.2,
               "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/32.0"
             },
             {
               "rank": 24,
@@ -48027,7 +48094,8 @@ const leaderboardData = {
               "average_rank_percent": 7.230769230769231,
               "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.7/25.3"
             },
             {
               "rank": 25,
@@ -48038,7 +48106,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/25.0"
             },
             {
               "rank": 26,
@@ -48049,7 +48118,8 @@ const leaderboardData = {
               "average_rank_percent": 7.4,
               "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.0/34.0"
             },
             {
               "rank": 27,
@@ -48060,7 +48130,8 @@ const leaderboardData = {
               "average_rank_percent": 10.9,
               "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.5/25.5"
             },
             {
               "rank": 28,
@@ -48071,7 +48142,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/20.5"
             },
             {
               "rank": 29,
@@ -48082,7 +48154,8 @@ const leaderboardData = {
               "average_rank_percent": 9.4,
               "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/31.0"
             },
             {
               "rank": 30,
@@ -48093,7 +48166,8 @@ const leaderboardData = {
               "average_rank_percent": 9.625,
               "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/23.5"
             },
             {
               "rank": 31,
@@ -48104,7 +48178,8 @@ const leaderboardData = {
               "average_rank_percent": 8.6,
               "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/26.5"
             },
             {
               "rank": 32,
@@ -48115,7 +48190,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "26.5/13.5"
             },
             {
               "rank": 33,
@@ -48126,7 +48202,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
             },
             {
               "rank": 34,
@@ -48137,7 +48214,8 @@ const leaderboardData = {
               "average_rank_percent": 9.6,
               "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
             },
             {
               "rank": 35,
@@ -48148,7 +48226,8 @@ const leaderboardData = {
               "average_rank_percent": 14.23076923076923,
               "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "39.3/23.7"
             },
             {
               "rank": 36,
@@ -48159,7 +48238,8 @@ const leaderboardData = {
               "average_rank_percent": 9.6,
               "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/15.0"
             },
             {
               "rank": 37,
@@ -48170,7 +48250,8 @@ const leaderboardData = {
               "average_rank_percent": 11.916666666666666,
               "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.7/16.7"
             }
           ]
         },
@@ -48193,7 +48274,8 @@ const leaderboardData = {
               "average_rank_percent": 2.935483870967742,
               "key_stats": "Heal:2065.7 Clea:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "85.1/61.6"
             },
             {
               "rank": 2,
@@ -48204,7 +48286,8 @@ const leaderboardData = {
               "average_rank_percent": 3.566666666666667,
               "key_stats": "Heal:1852.5 Clea:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.5/51.6"
             },
             {
               "rank": 3,
@@ -48215,7 +48298,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2259.2 Clea:1.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "81.7/59.3"
             },
             {
               "rank": 4,
@@ -48226,7 +48310,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Heal:1770.3 Clea:1.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/51.2"
             },
             {
               "rank": 5,
@@ -48237,7 +48322,8 @@ const leaderboardData = {
               "average_rank_percent": 2.25,
               "key_stats": "Heal:1679.8 Clea:1.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/42.8"
             },
             {
               "rank": 6,
@@ -48248,7 +48334,8 @@ const leaderboardData = {
               "average_rank_percent": 2.625,
               "key_stats": "Heal:1776.9 Clea:1.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.8/46.4"
             },
             {
               "rank": 7,
@@ -48259,7 +48346,8 @@ const leaderboardData = {
               "average_rank_percent": 2.6,
               "key_stats": "Heal:2842.1 Clea:1.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "80.0/52.7"
             },
             {
               "rank": 8,
@@ -48270,7 +48358,8 @@ const leaderboardData = {
               "average_rank_percent": 1.25,
               "key_stats": "Heal:1920.7 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "78.0/50.5"
             },
             {
               "rank": 9,
@@ -48281,7 +48370,8 @@ const leaderboardData = {
               "average_rank_percent": 2.9,
               "key_stats": "Heal:1582.6 Clea:1.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.6/50.2"
             },
             {
               "rank": 10,
@@ -48292,7 +48382,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Heal:2048.8 Clea:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "72.0/43.0"
             },
             {
               "rank": 11,
@@ -48303,7 +48394,8 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "key_stats": "Heal:1637.6 Clea:1.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "80.0/62.0"
             },
             {
               "rank": 12,
@@ -48314,7 +48406,8 @@ const leaderboardData = {
               "average_rank_percent": 3.75,
               "key_stats": "Heal:1513.5 Clea:1.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.5/53.5"
             },
             {
               "rank": 13,
@@ -48325,7 +48418,8 @@ const leaderboardData = {
               "average_rank_percent": 4.666666666666667,
               "key_stats": "Heal:1407.3 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/51.0"
             },
             {
               "rank": 14,
@@ -48336,7 +48430,8 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "key_stats": "Heal:2845.1 Clea:1.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "101.0/87.0"
             },
             {
               "rank": 15,
@@ -48347,7 +48442,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:1611.1 Clea:1.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.0/50.0"
             },
             {
               "rank": 16,
@@ -48358,7 +48454,8 @@ const leaderboardData = {
               "average_rank_percent": 4.25,
               "key_stats": "Heal:1783.2 Clea:1.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.0/47.5"
             },
             {
               "rank": 17,
@@ -48369,7 +48466,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1408.5 Clea:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "25.0/7.0"
             },
             {
               "rank": 18,
@@ -48380,7 +48478,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2183.6 Clea:1.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/51.5"
             },
             {
               "rank": 19,
@@ -48391,7 +48490,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:1634.3 Clea:1.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "76.0/58.0"
             },
             {
               "rank": 20,
@@ -48402,7 +48502,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1736.4 Clea:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.8/41.0"
             },
             {
               "rank": 21,
@@ -48413,7 +48514,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2231.9 Clea:1.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
             },
             {
               "rank": 22,
@@ -48424,7 +48526,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Heal:1497.1 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "70.0/52.0"
             },
             {
               "rank": 23,
@@ -48435,7 +48538,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Heal:2162.2 Clea:1.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/58.0"
             },
             {
               "rank": 24,
@@ -48446,7 +48550,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Heal:1469.9 Clea:1.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.0/32.0"
             },
             {
               "rank": 25,
@@ -48457,7 +48562,8 @@ const leaderboardData = {
               "average_rank_percent": 4.75,
               "key_stats": "Heal:1656.1 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/42.5"
             },
             {
               "rank": 26,
@@ -48468,7 +48574,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Heal:1826.7 Clea:1.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "77.0/65.0"
             },
             {
               "rank": 27,
@@ -48479,7 +48586,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Heal:1823.8 Clea:1.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "66.0/58.0"
             },
             {
               "rank": 28,
@@ -48490,7 +48598,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1793.3 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "82.0/62.0"
             },
             {
               "rank": 29,
@@ -48501,7 +48610,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1121.7 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/50.0"
             },
             {
               "rank": 30,
@@ -48512,7 +48622,8 @@ const leaderboardData = {
               "average_rank_percent": 5.75,
               "key_stats": "Heal:1429.4 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "82.0/52.5"
             },
             {
               "rank": 31,
@@ -48523,7 +48634,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Heal:829.7 Clea:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/30.5"
             },
             {
               "rank": 32,
@@ -48534,7 +48646,8 @@ const leaderboardData = {
               "average_rank_percent": 11.166666666666666,
               "key_stats": "Heal:1116.6 Clea:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.3"
             },
             {
               "rank": 33,
@@ -48545,7 +48658,8 @@ const leaderboardData = {
               "average_rank_percent": 6.666666666666667,
               "key_stats": "Heal:1294.2 Clea:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.6/43.8"
             },
             {
               "rank": 34,
@@ -48556,7 +48670,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Heal:1215.0 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.7/36.0"
             },
             {
               "rank": 35,
@@ -48567,7 +48682,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Heal:649.7 Clea:1.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/51.0"
             },
             {
               "rank": 36,
@@ -48578,7 +48694,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:871.9 Clea:1.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "48.7/39.3"
             },
             {
               "rank": 37,
@@ -48589,7 +48706,8 @@ const leaderboardData = {
               "average_rank_percent": 4.833333333333333,
               "key_stats": "Heal:1097.1 Clea:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.7/42.7"
             },
             {
               "rank": 38,
@@ -48600,7 +48718,8 @@ const leaderboardData = {
               "average_rank_percent": 7.25,
               "key_stats": "Heal:1431.5 Clea:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.2/34.2"
             },
             {
               "rank": 39,
@@ -48611,7 +48730,8 @@ const leaderboardData = {
               "average_rank_percent": 9.857142857142858,
               "key_stats": "Heal:776.2 Clea:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.8/21.5"
             },
             {
               "rank": 40,
@@ -48622,7 +48742,8 @@ const leaderboardData = {
               "average_rank_percent": 8.166666666666666,
               "key_stats": "Heal:668.9 Clea:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.3/31.3"
             },
             {
               "rank": 41,
@@ -48633,7 +48754,8 @@ const leaderboardData = {
               "average_rank_percent": 10.0,
               "key_stats": "Heal:1333.5 Clea:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/43.0"
             }
           ]
         },
@@ -48656,7 +48778,8 @@ const leaderboardData = {
               "average_rank_percent": 5.875,
               "key_stats": "Stri:1.1 DPS:1643.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.8/36.5"
             },
             {
               "rank": 2,
@@ -48667,7 +48790,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stri:1.0 DPS:1775.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.0/41.0"
             },
             {
               "rank": 3,
@@ -48678,7 +48802,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Stri:0.9 DPS:1598.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/32.5"
             },
             {
               "rank": 4,
@@ -48689,7 +48814,8 @@ const leaderboardData = {
               "average_rank_percent": 14.25,
               "key_stats": "Stri:1.3 DPS:439.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/36.5"
             },
             {
               "rank": 5,
@@ -48700,7 +48826,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.5 DPS:328.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/17.0"
             },
             {
               "rank": 6,
@@ -48711,7 +48838,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stri:0.7 DPS:1157.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.6/24.8"
             },
             {
               "rank": 7,
@@ -48722,7 +48850,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stri:0.8 DPS:1097.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/26.0"
             },
             {
               "rank": 8,
@@ -48733,7 +48862,8 @@ const leaderboardData = {
               "average_rank_percent": 13.5,
               "key_stats": "Stri:1.1 DPS:681.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/30.0"
             },
             {
               "rank": 9,
@@ -48744,7 +48874,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:1.0 DPS:1249.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.0/23.0"
             },
             {
               "rank": 10,
@@ -48755,7 +48886,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.6 DPS:271.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/24.5"
             },
             {
               "rank": 11,
@@ -48766,7 +48898,8 @@ const leaderboardData = {
               "average_rank_percent": 10.333333333333334,
               "key_stats": "Stri:0.7 DPS:1270.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/26.3"
             },
             {
               "rank": 12,
@@ -48777,7 +48910,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stri:0.9 DPS:873.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/27.0"
             },
             {
               "rank": 13,
@@ -48788,7 +48922,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:0.6 DPS:1155.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/25.0"
             },
             {
               "rank": 14,
@@ -48799,7 +48934,8 @@ const leaderboardData = {
               "average_rank_percent": 16.0,
               "key_stats": "Stri:0.7 DPS:524.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/29.0"
             },
             {
               "rank": 15,
@@ -48810,7 +48946,8 @@ const leaderboardData = {
               "average_rank_percent": 10.875,
               "key_stats": "Stri:0.7 DPS:668.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "27.2/23.8"
             },
             {
               "rank": 16,
@@ -48821,7 +48958,8 @@ const leaderboardData = {
               "average_rank_percent": 9.421052631578947,
               "key_stats": "Stri:0.6 DPS:1209.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/28.0"
             },
             {
               "rank": 17,
@@ -48832,7 +48970,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stri:0.9 DPS:775.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 18,
@@ -48843,7 +48982,8 @@ const leaderboardData = {
               "average_rank_percent": 17.5,
               "key_stats": "Stri:0.9 DPS:371.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/31.0"
             },
             {
               "rank": 19,
@@ -48854,7 +48994,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stri:0.4 DPS:1228.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.0/23.0"
             },
             {
               "rank": 20,
@@ -48865,7 +49006,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stri:0.5 DPS:1625.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/30.0"
             },
             {
               "rank": 21,
@@ -48876,7 +49018,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Stri:0.8 DPS:597.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/22.5"
             },
             {
               "rank": 22,
@@ -48887,7 +49030,8 @@ const leaderboardData = {
               "average_rank_percent": 16.5,
               "key_stats": "Stri:1.1 DPS:349.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/33.0"
             },
             {
               "rank": 23,
@@ -48898,7 +49042,8 @@ const leaderboardData = {
               "average_rank_percent": 8.833333333333334,
               "key_stats": "Stri:0.6 DPS:1554.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/31.0"
             },
             {
               "rank": 24,
@@ -48909,7 +49054,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Stri:0.6 DPS:729.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/43.0"
             },
             {
               "rank": 25,
@@ -48920,7 +49066,8 @@ const leaderboardData = {
               "average_rank_percent": 10.428571428571429,
               "key_stats": "Stri:0.5 DPS:948.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.6/21.0"
             },
             {
               "rank": 26,
@@ -48931,7 +49078,8 @@ const leaderboardData = {
               "average_rank_percent": 9.8,
               "key_stats": "Stri:0.4 DPS:1030.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.9/32.6"
             },
             {
               "rank": 27,
@@ -48942,7 +49090,8 @@ const leaderboardData = {
               "average_rank_percent": 17.75,
               "key_stats": "Stri:0.6 DPS:275.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.2/29.7"
             },
             {
               "rank": 28,
@@ -48953,7 +49102,8 @@ const leaderboardData = {
               "average_rank_percent": 15.75,
               "key_stats": "Stri:0.6 DPS:330.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "34.5/29.5"
             },
             {
               "rank": 29,
@@ -48964,7 +49114,8 @@ const leaderboardData = {
               "average_rank_percent": 16.0,
               "key_stats": "Stri:0.8 DPS:384.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/27.0"
             },
             {
               "rank": 30,
@@ -48975,7 +49126,8 @@ const leaderboardData = {
               "average_rank_percent": 12.0,
               "key_stats": "Stri:0.5 DPS:903.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.0/23.5"
             },
             {
               "rank": 31,
@@ -48986,7 +49138,8 @@ const leaderboardData = {
               "average_rank_percent": 15.5,
               "key_stats": "Stri:0.4 DPS:232.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/20.0"
             },
             {
               "rank": 32,
@@ -48997,7 +49150,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stri:0.3 DPS:286.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.0/19.0"
             },
             {
               "rank": 33,
@@ -49008,7 +49162,8 @@ const leaderboardData = {
               "average_rank_percent": 10.0,
               "key_stats": "Stri:0.5 DPS:1385.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/33.0"
             },
             {
               "rank": 34,
@@ -49019,7 +49174,8 @@ const leaderboardData = {
               "average_rank_percent": 12.68421052631579,
               "key_stats": "Stri:0.4 DPS:800.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.8/20.2"
             },
             {
               "rank": 35,
@@ -49030,7 +49186,8 @@ const leaderboardData = {
               "average_rank_percent": 12.333333333333334,
               "key_stats": "Stri:0.6 DPS:1138.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.3/22.3"
             },
             {
               "rank": 36,
@@ -49041,7 +49198,8 @@ const leaderboardData = {
               "average_rank_percent": 16.77777777777778,
               "key_stats": "Stri:0.4 DPS:517.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.6/21.0"
             },
             {
               "rank": 37,
@@ -49052,7 +49210,8 @@ const leaderboardData = {
               "average_rank_percent": 14.0,
               "key_stats": "Stri:0.5 DPS:666.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/19.5"
             },
             {
               "rank": 38,
@@ -49063,7 +49222,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:830.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
             },
             {
               "rank": 39,
@@ -49074,7 +49234,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:944.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/22.0"
             },
             {
               "rank": 40,
@@ -49085,7 +49246,8 @@ const leaderboardData = {
               "average_rank_percent": 10.8125,
               "key_stats": "Stri:0.4 DPS:872.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.8/18.8"
             },
             {
               "rank": 41,
@@ -49096,7 +49258,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stri:0.4 DPS:425.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "29.3/15.0"
             },
             {
               "rank": 42,
@@ -49107,7 +49270,8 @@ const leaderboardData = {
               "average_rank_percent": 20.0,
               "key_stats": "Stri:0.5 DPS:473.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/22.0"
             },
             {
               "rank": 43,
@@ -49118,7 +49282,8 @@ const leaderboardData = {
               "average_rank_percent": 11.75,
               "key_stats": "Stri:0.8 DPS:1055.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/30.0"
             },
             {
               "rank": 44,
@@ -49129,7 +49294,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Stri:0.4 DPS:1214.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/41.0"
             },
             {
               "rank": 45,
@@ -49140,7 +49306,8 @@ const leaderboardData = {
               "average_rank_percent": 19.5,
               "key_stats": "Stri:0.5 DPS:568.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "22.0/18.0"
             },
             {
               "rank": 46,
@@ -49151,7 +49318,8 @@ const leaderboardData = {
               "average_rank_percent": 20.25,
               "key_stats": "Stri:0.5 DPS:415.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.5/19.0"
             },
             {
               "rank": 47,
@@ -49162,7 +49330,8 @@ const leaderboardData = {
               "average_rank_percent": 22.0,
               "key_stats": "Stri:0.2 DPS:351.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.5/28.0"
             },
             {
               "rank": 48,
@@ -49173,7 +49342,8 @@ const leaderboardData = {
               "average_rank_percent": 19.5,
               "key_stats": "Stri:0.7 DPS:543.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/31.0"
             },
             {
               "rank": 49,
@@ -49184,7 +49354,8 @@ const leaderboardData = {
               "average_rank_percent": 18.666666666666668,
               "key_stats": "Stri:0.4 DPS:555.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/22.0"
             },
             {
               "rank": 50,
@@ -49195,7 +49366,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stri:0.7 DPS:1430.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/27.0"
             },
             {
               "rank": 51,
@@ -49206,7 +49378,8 @@ const leaderboardData = {
               "average_rank_percent": 24.5,
               "key_stats": "Stri:0.5 DPS:185.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.0/21.0"
             },
             {
               "rank": 52,
@@ -49217,7 +49390,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stri:0.7 DPS:782.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/29.0"
             },
             {
               "rank": 53,
@@ -49228,7 +49402,8 @@ const leaderboardData = {
               "average_rank_percent": 18.5,
               "key_stats": "Stri:0.6 DPS:1154.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/38.0"
             },
             {
               "rank": 54,
@@ -49239,7 +49414,8 @@ const leaderboardData = {
               "average_rank_percent": 24.5,
               "key_stats": "Stri:0.4 DPS:308.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "24.0/14.0"
             },
             {
               "rank": 55,
@@ -49250,7 +49426,8 @@ const leaderboardData = {
               "average_rank_percent": 19.0,
               "key_stats": "Stri:0.1 DPS:375.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.5/24.5"
             },
             {
               "rank": 56,
@@ -49261,7 +49438,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.3 DPS:167.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/20.0"
             },
             {
               "rank": 57,
@@ -49272,7 +49450,8 @@ const leaderboardData = {
               "average_rank_percent": 22.5,
               "key_stats": "Stri:0.3 DPS:312.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/20.0"
             },
             {
               "rank": 58,
@@ -49283,7 +49462,8 @@ const leaderboardData = {
               "average_rank_percent": 14.2,
               "key_stats": "Stri:0.3 DPS:653.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.7/22.0"
             },
             {
               "rank": 59,
@@ -49294,7 +49474,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.1 DPS:314.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "29.0/15.5"
             },
             {
               "rank": 60,
@@ -49305,7 +49486,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stri:0.6 DPS:688.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/30.0"
             },
             {
               "rank": 61,
@@ -49316,7 +49498,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.2 DPS:239.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/21.0"
             }
           ]
         },
@@ -49343,7 +49526,8 @@ const leaderboardData = {
               "average_rank_percent": 10.214285714285714,
               "key_stats": "Migh:35.6 Resi:0.9 Stab:2.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.6/31.4"
             },
             {
               "rank": 2,
@@ -49354,7 +49538,8 @@ const leaderboardData = {
               "average_rank_percent": 7.083333333333333,
               "key_stats": "Migh:36.1 Resi:1.4 Stab:4.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/30.7"
             },
             {
               "rank": 3,
@@ -49365,7 +49550,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/35.0"
             },
             {
               "rank": 4,
@@ -49376,7 +49562,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "34.0/25.0"
             },
             {
               "rank": 5,
@@ -49387,7 +49574,8 @@ const leaderboardData = {
               "average_rank_percent": 6.9,
               "key_stats": "Migh:12.7 Resi:0.8 Stab:2.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.7/24.3"
             },
             {
               "rank": 6,
@@ -49398,7 +49586,8 @@ const leaderboardData = {
               "average_rank_percent": 9.25,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/36.0"
             },
             {
               "rank": 7,
@@ -49409,7 +49598,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Migh:24.5 Resi:0.7 Stab:2.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.0/26.0"
             },
             {
               "rank": 8,
@@ -49420,7 +49610,8 @@ const leaderboardData = {
               "average_rank_percent": 9.375,
               "key_stats": "Migh:10.7 Resi:0.7 Stab:2.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.8/32.2"
             },
             {
               "rank": 9,
@@ -49431,7 +49622,8 @@ const leaderboardData = {
               "average_rank_percent": 10.25,
               "key_stats": "Migh:14.8 Resi:0.8 Stab:3.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.0/44.0"
             },
             {
               "rank": 10,
@@ -49442,7 +49634,8 @@ const leaderboardData = {
               "average_rank_percent": 16.25,
               "key_stats": "Migh:17.0 Resi:0.6 Stab:2.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/31.0"
             },
             {
               "rank": 11,
@@ -49453,7 +49646,8 @@ const leaderboardData = {
               "average_rank_percent": 10.666666666666666,
               "key_stats": "Migh:8.4 Resi:0.9 Stab:3.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/22.7"
             },
             {
               "rank": 12,
@@ -49464,7 +49658,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/25.0"
             },
             {
               "rank": 13,
@@ -49475,7 +49670,8 @@ const leaderboardData = {
               "average_rank_percent": 10.25,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/53.0"
             }
           ]
         },
@@ -49500,7 +49696,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stab:5.0 Clea:0.8 DPS:1274.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.3/59.0"
             },
             {
               "rank": 2,
@@ -49511,7 +49708,8 @@ const leaderboardData = {
               "average_rank_percent": 11.25,
               "key_stats": "Stab:6.0 Clea:0.5 DPS:906.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.2/45.5"
             },
             {
               "rank": 3,
@@ -49522,7 +49720,8 @@ const leaderboardData = {
               "average_rank_percent": 5.333333333333333,
               "key_stats": "Stab:5.9 Clea:0.3 DPS:1205.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.5/24.5"
             },
             {
               "rank": 4,
@@ -49533,7 +49732,8 @@ const leaderboardData = {
               "average_rank_percent": 9.333333333333334,
               "key_stats": "Stab:8.8 Clea:0.7 DPS:1947.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "89.0/53.0"
             },
             {
               "rank": 5,
@@ -49544,7 +49744,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "70.0/48.0"
             },
             {
               "rank": 6,
@@ -49555,7 +49756,8 @@ const leaderboardData = {
               "average_rank_percent": 12.0,
               "key_stats": "Stab:6.1 Clea:0.4 DPS:1084.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/49.3"
             },
             {
               "rank": 7,
@@ -49566,7 +49768,8 @@ const leaderboardData = {
               "average_rank_percent": 11.333333333333334,
               "key_stats": "Stab:5.5 Clea:0.6 DPS:1446.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "72.0/62.0"
             },
             {
               "rank": 8,
@@ -49577,7 +49780,8 @@ const leaderboardData = {
               "average_rank_percent": 13.11111111111111,
               "key_stats": "Stab:6.6 Clea:0.3 DPS:629.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.3/36.0"
             },
             {
               "rank": 9,
@@ -49588,7 +49792,8 @@ const leaderboardData = {
               "average_rank_percent": 13.166666666666666,
               "key_stats": "Stab:6.8 Clea:0.3 DPS:510.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/33.8"
             },
             {
               "rank": 10,
@@ -49599,7 +49804,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stab:3.4 Clea:0.4 DPS:599.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "76.0/33.0"
             },
             {
               "rank": 11,
@@ -49610,7 +49816,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stab:4.5 Clea:0.4 DPS:1109.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.0/46.0"
             },
             {
               "rank": 12,
@@ -49621,7 +49828,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:6.1 Clea:0.9 DPS:1434.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/36.0"
             },
             {
               "rank": 13,
@@ -49632,7 +49840,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stab:6.7 Clea:0.3 DPS:823.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "84.0/63.0"
             },
             {
               "rank": 14,
@@ -49643,7 +49852,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "84.0/49.0"
             },
             {
               "rank": 15,
@@ -49654,7 +49864,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stab:5.8 Clea:0.9 DPS:1320.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/38.0"
             },
             {
               "rank": 16,
@@ -49665,7 +49876,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.0/39.0"
             },
             {
               "rank": 17,
@@ -49676,7 +49888,8 @@ const leaderboardData = {
               "average_rank_percent": 19.4,
               "key_stats": "Stab:3.4 Clea:0.2 DPS:377.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/26.0"
             },
             {
               "rank": 18,
@@ -49687,7 +49900,8 @@ const leaderboardData = {
               "average_rank_percent": 10.333333333333334,
               "key_stats": "Stab:3.1 Clea:0.3 DPS:667.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/39.0"
             },
             {
               "rank": 19,
@@ -49698,7 +49912,8 @@ const leaderboardData = {
               "average_rank_percent": 12.238095238095237,
               "key_stats": "Stab:4.9 Clea:0.3 DPS:850.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/39.9"
             }
           ]
         }
@@ -89185,7 +89400,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Stab:8.7 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/24.5"
             },
             {
               "rank": 2,
@@ -89196,7 +89412,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Stab:7.6 Resi:1.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.5/48.2"
             },
             {
               "rank": 3,
@@ -89207,7 +89424,8 @@ const leaderboardData = {
               "average_rank_percent": 3.25,
               "key_stats": "Stab:7.0 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.7/42.5"
             },
             {
               "rank": 4,
@@ -89218,7 +89436,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.6 Resi:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/22.0"
             },
             {
               "rank": 5,
@@ -89229,7 +89448,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Stab:7.8 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.3/32.5"
             },
             {
               "rank": 6,
@@ -89240,7 +89460,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:8.4 Resi:1.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/39.0"
             },
             {
               "rank": 7,
@@ -89251,7 +89472,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stab:9.7 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/41.0"
             },
             {
               "rank": 8,
@@ -89262,7 +89484,8 @@ const leaderboardData = {
               "average_rank_percent": 3.6666666666666665,
               "key_stats": "Stab:6.0 Resi:1.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.9/27.3"
             },
             {
               "rank": 9,
@@ -89273,7 +89496,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stab:8.5 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.8/45.2"
             },
             {
               "rank": 10,
@@ -89284,7 +89508,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Stab:8.3 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
             },
             {
               "rank": 11,
@@ -89295,7 +89520,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.7 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/28.0"
             },
             {
               "rank": 12,
@@ -89306,7 +89532,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stab:6.4 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.0/41.5"
             },
             {
               "rank": 13,
@@ -89317,7 +89544,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.1 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "15.0/15.0"
             },
             {
               "rank": 14,
@@ -89328,7 +89556,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:7.3 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.8/40.2"
             },
             {
               "rank": 15,
@@ -89339,7 +89568,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:6.5 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "62.0/51.0"
             },
             {
               "rank": 16,
@@ -89350,7 +89580,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.4 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/40.0"
             }
           ]
         },
@@ -89379,7 +89610,8 @@ const leaderboardData = {
               "average_rank_percent": 4.08,
               "key_stats": "Stab:8.7 Clea:1.2 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.4/28.5"
             },
             {
               "rank": 2,
@@ -89390,7 +89622,8 @@ const leaderboardData = {
               "average_rank_percent": 3.9,
               "key_stats": "Stab:5.5 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/26.6"
             },
             {
               "rank": 3,
@@ -89401,7 +89634,8 @@ const leaderboardData = {
               "average_rank_percent": 6.166666666666667,
               "key_stats": "Stab:6.5 Clea:1.0 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.8/31.7"
             },
             {
               "rank": 4,
@@ -89412,7 +89646,8 @@ const leaderboardData = {
               "average_rank_percent": 6.6,
               "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 5,
@@ -89423,7 +89658,8 @@ const leaderboardData = {
               "average_rank_percent": 4.8,
               "key_stats": "Stab:8.4 Clea:1.7 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/37.0"
             },
             {
               "rank": 6,
@@ -89434,7 +89670,8 @@ const leaderboardData = {
               "average_rank_percent": 7.6,
               "key_stats": "Stab:7.0 Clea:1.2 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/34.2"
             },
             {
               "rank": 7,
@@ -89445,7 +89682,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:6.2 Clea:1.0 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/25.4"
             },
             {
               "rank": 8,
@@ -89456,7 +89694,8 @@ const leaderboardData = {
               "average_rank_percent": 6.4,
               "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/31.0"
             },
             {
               "rank": 9,
@@ -89467,7 +89706,8 @@ const leaderboardData = {
               "average_rank_percent": 5.2,
               "key_stats": "Stab:5.9 Clea:0.7 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/24.4"
             },
             {
               "rank": 10,
@@ -89478,7 +89718,8 @@ const leaderboardData = {
               "average_rank_percent": 6.1,
               "key_stats": "Stab:5.7 Clea:0.8 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/35.6"
             },
             {
               "rank": 11,
@@ -89489,7 +89730,8 @@ const leaderboardData = {
               "average_rank_percent": 6.625,
               "key_stats": "Stab:7.5 Clea:0.6 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.3/38.7"
             },
             {
               "rank": 12,
@@ -89500,7 +89742,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/25.0"
             },
             {
               "rank": 13,
@@ -89511,7 +89754,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stab:5.5 Clea:0.4 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.7/25.3"
             },
             {
               "rank": 14,
@@ -89522,7 +89766,8 @@ const leaderboardData = {
               "average_rank_percent": 5.4,
               "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/26.5"
             },
             {
               "rank": 15,
@@ -89533,7 +89778,8 @@ const leaderboardData = {
               "average_rank_percent": 9.2,
               "key_stats": "Stab:4.2 Clea:0.4 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/20.5"
             },
             {
               "rank": 16,
@@ -89544,7 +89790,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
             },
             {
               "rank": 17,
@@ -89555,7 +89802,8 @@ const leaderboardData = {
               "average_rank_percent": 9.6,
               "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
             }
           ]
         },
@@ -89578,7 +89826,8 @@ const leaderboardData = {
               "average_rank_percent": 5.75,
               "key_stats": "Stri:1.1 DPS:1727.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.8/36.5"
             },
             {
               "rank": 2,
@@ -89589,7 +89838,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stri:1.0 DPS:1775.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.0/41.0"
             },
             {
               "rank": 3,
@@ -89600,7 +89850,8 @@ const leaderboardData = {
               "average_rank_percent": 6.75,
               "key_stats": "Stri:0.8 DPS:1754.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.6/24.8"
             },
             {
               "rank": 4,
@@ -89611,7 +89862,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:1.0 DPS:1249.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.0/23.0"
             },
             {
               "rank": 5,
@@ -89622,7 +89874,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:0.6 DPS:1229.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/26.3"
             },
             {
               "rank": 6,
@@ -89633,7 +89886,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:0.6 DPS:1587.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/28.0"
             },
             {
               "rank": 7,
@@ -89644,7 +89898,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stri:0.9 DPS:873.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/27.0"
             },
             {
               "rank": 8,
@@ -89655,7 +89910,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:0.6 DPS:1155.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/25.0"
             },
             {
               "rank": 9,
@@ -89666,7 +89922,8 @@ const leaderboardData = {
               "average_rank_percent": 10.875,
               "key_stats": "Stri:0.7 DPS:668.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "27.2/23.8"
             },
             {
               "rank": 10,
@@ -89677,7 +89934,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stri:0.9 DPS:775.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 11,
@@ -89688,7 +89946,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stri:0.6 DPS:1606.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/31.0"
             },
             {
               "rank": 12,
@@ -89699,7 +89958,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stri:0.4 DPS:1228.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.0/23.0"
             },
             {
               "rank": 13,
@@ -89710,7 +89970,8 @@ const leaderboardData = {
               "average_rank_percent": 16.0,
               "key_stats": "Stri:0.8 DPS:384.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/27.0"
             },
             {
               "rank": 14,
@@ -89721,7 +89982,8 @@ const leaderboardData = {
               "average_rank_percent": 12.75,
               "key_stats": "Stri:0.5 DPS:922.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.8/18.8"
             },
             {
               "rank": 15,
@@ -89732,7 +89994,8 @@ const leaderboardData = {
               "average_rank_percent": 8.333333333333334,
               "key_stats": "Stri:0.5 DPS:1397.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/41.0"
             },
             {
               "rank": 16,
@@ -89743,7 +90006,8 @@ const leaderboardData = {
               "average_rank_percent": 15.5,
               "key_stats": "Stri:0.4 DPS:232.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/20.0"
             },
             {
               "rank": 17,
@@ -89754,7 +90018,8 @@ const leaderboardData = {
               "average_rank_percent": 14.0,
               "key_stats": "Stri:0.5 DPS:666.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/19.5"
             },
             {
               "rank": 18,
@@ -89765,7 +90030,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:830.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
             },
             {
               "rank": 19,
@@ -89776,7 +90042,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:944.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/22.0"
             },
             {
               "rank": 20,
@@ -89787,7 +90054,8 @@ const leaderboardData = {
               "average_rank_percent": 10.375,
               "key_stats": "Stri:0.4 DPS:1143.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.9/32.6"
             },
             {
               "rank": 21,
@@ -89798,7 +90066,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Stri:0.8 DPS:1485.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/30.0"
             },
             {
               "rank": 22,
@@ -89809,7 +90078,8 @@ const leaderboardData = {
               "average_rank_percent": 8.875,
               "key_stats": "Stri:0.4 DPS:1224.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.6/21.0"
             },
             {
               "rank": 23,
@@ -89820,7 +90090,8 @@ const leaderboardData = {
               "average_rank_percent": 15.25,
               "key_stats": "Stri:0.4 DPS:673.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.6/21.0"
             },
             {
               "rank": 24,
@@ -89831,7 +90102,8 @@ const leaderboardData = {
               "average_rank_percent": 12.625,
               "key_stats": "Stri:0.3 DPS:811.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.8/20.2"
             },
             {
               "rank": 25,
@@ -89842,7 +90114,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stri:0.7 DPS:1430.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/27.0"
             },
             {
               "rank": 26,
@@ -89853,7 +90126,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stri:0.7 DPS:782.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/29.0"
             },
             {
               "rank": 27,
@@ -89864,7 +90138,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.3 DPS:167.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/20.0"
             },
             {
               "rank": 28,
@@ -89875,7 +90150,8 @@ const leaderboardData = {
               "average_rank_percent": 14.2,
               "key_stats": "Stri:0.3 DPS:653.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.7/22.0"
             },
             {
               "rank": 29,
@@ -89886,7 +90162,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stri:0.6 DPS:688.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/30.0"
             },
             {
               "rank": 30,
@@ -89897,7 +90174,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.2 DPS:239.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/21.0"
             }
           ]
         },
@@ -89920,7 +90198,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0833333333333335,
               "key_stats": "Heal:2096.6 Clea:1.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "85.1/61.6"
             },
             {
               "rank": 2,
@@ -89931,7 +90210,8 @@ const leaderboardData = {
               "average_rank_percent": 3.8,
               "key_stats": "Heal:1756.3 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.5/51.6"
             },
             {
               "rank": 3,
@@ -89942,7 +90222,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Heal:1551.9 Clea:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/51.2"
             },
             {
               "rank": 4,
@@ -89953,7 +90234,8 @@ const leaderboardData = {
               "average_rank_percent": 2.75,
               "key_stats": "Heal:1525.4 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/42.8"
             },
             {
               "rank": 5,
@@ -89964,7 +90246,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Heal:1868.6 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "78.0/50.5"
             },
             {
               "rank": 6,
@@ -89975,7 +90258,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:1611.1 Clea:1.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.0/50.0"
             },
             {
               "rank": 7,
@@ -89986,7 +90270,8 @@ const leaderboardData = {
               "average_rank_percent": 4.25,
               "key_stats": "Heal:1783.2 Clea:1.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.0/47.5"
             },
             {
               "rank": 8,
@@ -89997,7 +90282,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2183.6 Clea:1.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/51.5"
             },
             {
               "rank": 9,
@@ -90008,7 +90294,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:1634.3 Clea:1.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "76.0/58.0"
             },
             {
               "rank": 10,
@@ -90019,7 +90306,8 @@ const leaderboardData = {
               "average_rank_percent": 3.6666666666666665,
               "key_stats": "Heal:2051.5 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "80.0/52.7"
             },
             {
               "rank": 11,
@@ -90030,7 +90318,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2231.9 Clea:1.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
             },
             {
               "rank": 12,
@@ -90041,7 +90330,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Heal:1591.8 Clea:1.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/42.5"
             },
             {
               "rank": 13,
@@ -90052,7 +90342,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Heal:1497.1 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "70.0/52.0"
             },
             {
               "rank": 14,
@@ -90063,7 +90354,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Heal:2162.2 Clea:1.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/58.0"
             },
             {
               "rank": 15,
@@ -90074,7 +90366,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Heal:1469.9 Clea:1.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.0/32.0"
             },
             {
               "rank": 16,
@@ -90085,7 +90378,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Heal:1885.5 Clea:1.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.6/43.8"
             },
             {
               "rank": 17,
@@ -90096,7 +90390,8 @@ const leaderboardData = {
               "average_rank_percent": 3.8333333333333335,
               "key_stats": "Heal:1744.1 Clea:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.8/41.0"
             },
             {
               "rank": 18,
@@ -90107,7 +90402,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Heal:1823.8 Clea:1.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "66.0/58.0"
             },
             {
               "rank": 19,
@@ -90118,7 +90414,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1793.3 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "82.0/62.0"
             },
             {
               "rank": 20,
@@ -90129,7 +90426,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1121.7 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/50.0"
             },
             {
               "rank": 21,
@@ -90140,7 +90438,8 @@ const leaderboardData = {
               "average_rank_percent": 5.75,
               "key_stats": "Heal:1429.4 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "82.0/52.5"
             },
             {
               "rank": 22,
@@ -90151,7 +90450,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Heal:2548.1 Clea:1.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.6/50.2"
             },
             {
               "rank": 23,
@@ -90162,7 +90462,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Heal:1215.0 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.7/36.0"
             },
             {
               "rank": 24,
@@ -90173,7 +90474,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Heal:1107.4 Clea:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.7/42.7"
             },
             {
               "rank": 25,
@@ -90184,7 +90486,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Heal:1009.6 Clea:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/30.5"
             },
             {
               "rank": 26,
@@ -90195,7 +90498,8 @@ const leaderboardData = {
               "average_rank_percent": 7.25,
               "key_stats": "Heal:1431.5 Clea:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.2/34.2"
             },
             {
               "rank": 27,
@@ -90206,7 +90510,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Heal:774.5 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.8/21.5"
             },
             {
               "rank": 28,
@@ -90217,7 +90522,8 @@ const leaderboardData = {
               "average_rank_percent": 10.0,
               "key_stats": "Heal:1333.5 Clea:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/43.0"
             },
             {
               "rank": 29,
@@ -90228,7 +90534,8 @@ const leaderboardData = {
               "average_rank_percent": 8.666666666666666,
               "key_stats": "Heal:762.3 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.3/31.3"
             }
           ]
         },
@@ -90255,7 +90562,8 @@ const leaderboardData = {
               "average_rank_percent": 8.25,
               "key_stats": "Migh:32.8 Resi:1.4 Stab:4.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/30.7"
             },
             {
               "rank": 2,
@@ -90266,7 +90574,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/35.0"
             },
             {
               "rank": 3,
@@ -90277,7 +90586,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "34.0/25.0"
             },
             {
               "rank": 4,
@@ -90288,7 +90598,8 @@ const leaderboardData = {
               "average_rank_percent": 8.25,
               "key_stats": "Migh:26.6 Resi:0.9 Stab:2.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.6/31.4"
             },
             {
               "rank": 5,
@@ -90299,7 +90610,8 @@ const leaderboardData = {
               "average_rank_percent": 9.25,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/36.0"
             },
             {
               "rank": 6,
@@ -90310,7 +90622,8 @@ const leaderboardData = {
               "average_rank_percent": 8.5,
               "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/22.7"
             },
             {
               "rank": 7,
@@ -90321,7 +90634,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/25.0"
             },
             {
               "rank": 8,
@@ -90332,7 +90646,8 @@ const leaderboardData = {
               "average_rank_percent": 10.25,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/53.0"
             }
           ]
         },
@@ -90357,7 +90672,8 @@ const leaderboardData = {
               "average_rank_percent": 11.166666666666666,
               "key_stats": "Stab:5.8 Clea:0.6 DPS:1038.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.2/45.5"
             },
             {
               "rank": 2,
@@ -90368,7 +90684,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "70.0/48.0"
             },
             {
               "rank": 3,
@@ -90379,7 +90696,8 @@ const leaderboardData = {
               "average_rank_percent": 11.5,
               "key_stats": "Stab:4.7 Clea:0.8 DPS:1210.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.3/59.0"
             },
             {
               "rank": 4,
@@ -90390,7 +90708,8 @@ const leaderboardData = {
               "average_rank_percent": 12.166666666666666,
               "key_stats": "Stab:7.6 Clea:0.4 DPS:704.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.3/36.0"
             },
             {
               "rank": 5,
@@ -90401,7 +90720,8 @@ const leaderboardData = {
               "average_rank_percent": 14.777777777777779,
               "key_stats": "Stab:6.7 Clea:0.3 DPS:547.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/33.8"
             },
             {
               "rank": 6,
@@ -90412,7 +90732,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:6.1 Clea:0.9 DPS:1434.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/36.0"
             },
             {
               "rank": 7,
@@ -90423,7 +90744,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "84.0/49.0"
             },
             {
               "rank": 8,
@@ -90434,7 +90756,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stab:5.8 Clea:0.9 DPS:1320.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/38.0"
             },
             {
               "rank": 9,
@@ -90445,7 +90768,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.0/39.0"
             },
             {
               "rank": 10,
@@ -90456,7 +90780,8 @@ const leaderboardData = {
               "average_rank_percent": 12.0,
               "key_stats": "Stab:5.3 Clea:0.4 DPS:998.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/49.3"
             },
             {
               "rank": 11,
@@ -90467,7 +90792,8 @@ const leaderboardData = {
               "average_rank_percent": 14.0,
               "key_stats": "Stab:4.8 Clea:0.4 DPS:963.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/39.9"
             }
           ]
         }
@@ -134853,7 +135179,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Stab:7.8 Resi:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.5/48.2"
             },
             {
               "rank": 2,
@@ -134864,7 +135191,8 @@ const leaderboardData = {
               "average_rank_percent": 3.4,
               "key_stats": "Stab:6.2 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.7/42.5"
             },
             {
               "rank": 3,
@@ -134875,7 +135203,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Stab:8.7 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/24.5"
             },
             {
               "rank": 4,
@@ -134886,7 +135215,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.6 Resi:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/22.0"
             },
             {
               "rank": 5,
@@ -134897,7 +135227,8 @@ const leaderboardData = {
               "average_rank_percent": 5.25,
               "key_stats": "Stab:7.0 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.8/40.2"
             },
             {
               "rank": 6,
@@ -134908,7 +135239,8 @@ const leaderboardData = {
               "average_rank_percent": 5.25,
               "key_stats": "Stab:6.2 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.3/32.5"
             },
             {
               "rank": 7,
@@ -134919,7 +135251,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Stab:7.4 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/53.2"
             },
             {
               "rank": 8,
@@ -134930,7 +135263,8 @@ const leaderboardData = {
               "average_rank_percent": 5.333333333333333,
               "key_stats": "Stab:6.0 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.9/27.3"
             },
             {
               "rank": 9,
@@ -134941,7 +135275,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:8.4 Resi:1.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/39.0"
             },
             {
               "rank": 10,
@@ -134952,7 +135287,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stab:9.7 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/41.0"
             },
             {
               "rank": 11,
@@ -134963,7 +135299,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stab:8.5 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.8/45.2"
             },
             {
               "rank": 12,
@@ -134974,7 +135311,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Stab:5.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "28.3/24.3"
             },
             {
               "rank": 13,
@@ -134985,7 +135323,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stab:5.1 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.5/42.5"
             },
             {
               "rank": 14,
@@ -134996,7 +135335,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.7 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/28.0"
             },
             {
               "rank": 15,
@@ -135007,7 +135347,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.3 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
             },
             {
               "rank": 16,
@@ -135018,7 +135359,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Stab:6.3 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/36.0"
             },
             {
               "rank": 17,
@@ -135029,7 +135371,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Stab:7.6 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/45.0"
             },
             {
               "rank": 18,
@@ -135040,7 +135383,8 @@ const leaderboardData = {
               "average_rank_percent": 6.833333333333333,
               "key_stats": "Stab:5.8 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.0/41.5"
             },
             {
               "rank": 19,
@@ -135051,7 +135395,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:5.4 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/47.0"
             },
             {
               "rank": 20,
@@ -135062,7 +135407,8 @@ const leaderboardData = {
               "average_rank_percent": 5.0,
               "key_stats": "Stab:3.9 Resi:1.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/35.0"
             },
             {
               "rank": 21,
@@ -135073,7 +135419,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.1 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "15.0/15.0"
             },
             {
               "rank": 22,
@@ -135084,7 +135431,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:6.5 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "62.0/51.0"
             },
             {
               "rank": 23,
@@ -135095,7 +135443,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.4 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/40.0"
             }
           ]
         },
@@ -135124,7 +135473,8 @@ const leaderboardData = {
               "average_rank_percent": 5.0,
               "key_stats": "Stab:7.9 Clea:1.2 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.4/28.5"
             },
             {
               "rank": 2,
@@ -135135,7 +135485,8 @@ const leaderboardData = {
               "average_rank_percent": 3.9,
               "key_stats": "Stab:5.5 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/26.6"
             },
             {
               "rank": 3,
@@ -135146,7 +135497,8 @@ const leaderboardData = {
               "average_rank_percent": 6.777777777777778,
               "key_stats": "Stab:5.6 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.8/31.7"
             },
             {
               "rank": 4,
@@ -135157,7 +135509,8 @@ const leaderboardData = {
               "average_rank_percent": 6.6,
               "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 5,
@@ -135168,7 +135521,8 @@ const leaderboardData = {
               "average_rank_percent": 6.05,
               "key_stats": "Stab:6.5 Clea:0.6 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/34.2"
             },
             {
               "rank": 6,
@@ -135179,7 +135533,8 @@ const leaderboardData = {
               "average_rank_percent": 6.2,
               "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "65.0/36.0"
             },
             {
               "rank": 7,
@@ -135190,7 +135545,8 @@ const leaderboardData = {
               "average_rank_percent": 7.6,
               "key_stats": "Stab:7.1 Clea:0.4 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/24.4"
             },
             {
               "rank": 8,
@@ -135201,7 +135557,8 @@ const leaderboardData = {
               "average_rank_percent": 4.8,
               "key_stats": "Stab:8.4 Clea:1.7 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/37.0"
             },
             {
               "rank": 9,
@@ -135212,7 +135569,8 @@ const leaderboardData = {
               "average_rank_percent": 6.611111111111111,
               "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.5/22.8"
             },
             {
               "rank": 10,
@@ -135223,7 +135581,8 @@ const leaderboardData = {
               "average_rank_percent": 6.769230769230769,
               "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.3/38.7"
             },
             {
               "rank": 11,
@@ -135234,7 +135593,8 @@ const leaderboardData = {
               "average_rank_percent": 6.716981132075472,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/35.6"
             },
             {
               "rank": 12,
@@ -135245,7 +135605,8 @@ const leaderboardData = {
               "average_rank_percent": 6.4,
               "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/31.0"
             },
             {
               "rank": 13,
@@ -135256,7 +135617,8 @@ const leaderboardData = {
               "average_rank_percent": 7.714285714285714,
               "key_stats": "Stab:4.7 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/25.4"
             },
             {
               "rank": 14,
@@ -135267,7 +135629,8 @@ const leaderboardData = {
               "average_rank_percent": 9.2,
               "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/32.0"
             },
             {
               "rank": 15,
@@ -135278,7 +135641,8 @@ const leaderboardData = {
               "average_rank_percent": 7.230769230769231,
               "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.7/25.3"
             },
             {
               "rank": 16,
@@ -135289,7 +135653,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/25.0"
             },
             {
               "rank": 17,
@@ -135300,7 +135665,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/20.5"
             },
             {
               "rank": 18,
@@ -135311,7 +135677,8 @@ const leaderboardData = {
               "average_rank_percent": 5.4,
               "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/26.5"
             },
             {
               "rank": 19,
@@ -135322,7 +135689,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "26.5/13.5"
             },
             {
               "rank": 20,
@@ -135333,7 +135701,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
             },
             {
               "rank": 21,
@@ -135344,7 +135713,8 @@ const leaderboardData = {
               "average_rank_percent": 9.6,
               "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
             },
             {
               "rank": 22,
@@ -135355,7 +135725,8 @@ const leaderboardData = {
               "average_rank_percent": 9.6,
               "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/15.0"
             },
             {
               "rank": 23,
@@ -135366,415 +135737,8 @@ const leaderboardData = {
               "average_rank_percent": 11.916666666666666,
               "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
-            }
-          ]
-        },
-        "Druid": {
-          "metrics": [
-            "Healing",
-            "Cleanses"
-          ],
-          "weights": [
-            0.6,
-            0.4
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "modus.7921",
-              "composite_score": 1761.11514131596,
-              "glicko_rating": 1761.11514131596,
-              "games_played": 25,
-              "average_rank_percent": 3.12,
-              "key_stats": "Heal:1947.8 Clea:1.2",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 2,
-              "account_name": "Astro Bear.6305",
-              "composite_score": 1730.8456906813608,
-              "glicko_rating": 1730.8456906813608,
-              "games_played": 19,
-              "average_rank_percent": 3.9473684210526314,
-              "key_stats": "Heal:1843.7 Clea:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 3,
-              "account_name": "Uriah.7082",
-              "composite_score": 1719.260650995229,
-              "glicko_rating": 1719.260650995229,
-              "games_played": 6,
-              "average_rank_percent": 2.5,
-              "key_stats": "Heal:1662.9 Clea:1.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 4,
-              "account_name": "Johnny.5478",
-              "composite_score": 1704.9321365935452,
-              "glicko_rating": 1704.9321365935452,
-              "games_played": 4,
-              "average_rank_percent": 1.25,
-              "key_stats": "Heal:1920.7 Clea:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 5,
-              "account_name": "Foodels.7358",
-              "composite_score": 1689.928428145406,
-              "glicko_rating": 1689.928428145406,
-              "games_played": 4,
-              "average_rank_percent": 1.0,
-              "key_stats": "Heal:1551.9 Clea:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 6,
-              "account_name": "Jeff.7219",
-              "composite_score": 1667.7972296896642,
-              "glicko_rating": 1667.7972296896642,
-              "games_played": 2,
-              "average_rank_percent": 1.0,
-              "key_stats": "Heal:2048.8 Clea:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 7,
-              "account_name": "CaptainKnightfall.4378",
-              "composite_score": 1657.5197594657598,
-              "glicko_rating": 1657.5197594657598,
-              "games_played": 4,
-              "average_rank_percent": 3.75,
-              "key_stats": "Heal:1513.5 Clea:1.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 8,
-              "account_name": "Xhil.9316",
-              "composite_score": 1655.8780555569735,
-              "glicko_rating": 1655.8780555569735,
-              "games_played": 6,
-              "average_rank_percent": 4.666666666666667,
-              "key_stats": "Heal:1407.3 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 9,
-              "account_name": "Guars.6409",
-              "composite_score": 1650.4308234212367,
-              "glicko_rating": 1650.4308234212367,
-              "games_played": 2,
-              "average_rank_percent": 2.0,
-              "key_stats": "Heal:2845.1 Clea:1.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 10,
-              "account_name": "amends.3469",
-              "composite_score": 1645.8707436890572,
-              "glicko_rating": 1645.8707436890572,
-              "games_played": 2,
-              "average_rank_percent": 1.5,
-              "key_stats": "Heal:1611.1 Clea:1.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 11,
-              "account_name": "Jax Blake.7250",
-              "composite_score": 1644.7179190230863,
-              "glicko_rating": 1644.7179190230863,
-              "games_played": 4,
-              "average_rank_percent": 4.25,
-              "key_stats": "Heal:1783.2 Clea:1.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 12,
-              "account_name": "aznsleeper.5896",
-              "composite_score": 1643.5020875227099,
-              "glicko_rating": 1643.5020875227099,
-              "games_played": 2,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1408.5 Clea:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 13,
-              "account_name": "Luke.9108",
-              "composite_score": 1643.309971059889,
-              "glicko_rating": 1643.309971059889,
-              "games_played": 2,
-              "average_rank_percent": 1.5,
-              "key_stats": "Heal:2183.6 Clea:1.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 14,
-              "account_name": "ParaldaWind.4523",
-              "composite_score": 1638.4052466594617,
-              "glicko_rating": 1638.4052466594617,
-              "games_played": 2,
-              "average_rank_percent": 1.5,
-              "key_stats": "Heal:1634.3 Clea:1.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 15,
-              "account_name": "pariah.6937",
-              "composite_score": 1637.344381268258,
-              "glicko_rating": 1637.344381268258,
-              "games_played": 4,
-              "average_rank_percent": 2.25,
-              "key_stats": "Heal:1750.0 Clea:1.2",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 16,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1636.0012366845995,
-              "glicko_rating": 1636.0012366845995,
-              "games_played": 8,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1736.4 Clea:1.2",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 17,
-              "account_name": "Soothsayer.9206",
-              "composite_score": 1634.742132628364,
-              "glicko_rating": 1634.742132628364,
-              "games_played": 3,
-              "average_rank_percent": 3.6666666666666665,
-              "key_stats": "Heal:2051.5 Clea:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 18,
-              "account_name": "Mandar.9813",
-              "composite_score": 1632.6759829314533,
-              "glicko_rating": 1632.6759829314533,
-              "games_played": 2,
-              "average_rank_percent": 1.5,
-              "key_stats": "Heal:2231.9 Clea:1.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 19,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1625.8888547398317,
-              "glicko_rating": 1625.8888547398317,
-              "games_played": 2,
-              "average_rank_percent": 2.5,
-              "key_stats": "Heal:1497.1 Clea:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 20,
-              "account_name": "IronOre.7826",
-              "composite_score": 1623.1477238811308,
-              "glicko_rating": 1623.1477238811308,
-              "games_played": 2,
-              "average_rank_percent": 3.5,
-              "key_stats": "Heal:2162.2 Clea:1.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 21,
-              "account_name": "Mini.1786",
-              "composite_score": 1623.087460748316,
-              "glicko_rating": 1623.087460748316,
-              "games_played": 2,
-              "average_rank_percent": 3.0,
-              "key_stats": "Heal:1469.9 Clea:1.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 22,
-              "account_name": "ThiagoW.4810",
-              "composite_score": 1616.7014700433263,
-              "glicko_rating": 1616.7014700433263,
-              "games_played": 4,
-              "average_rank_percent": 4.75,
-              "key_stats": "Heal:1656.1 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 23,
-              "account_name": "Stan.9684",
-              "composite_score": 1595.8241631081864,
-              "glicko_rating": 1595.8241631081864,
-              "games_played": 2,
-              "average_rank_percent": 3.5,
-              "key_stats": "Heal:1823.8 Clea:1.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 24,
-              "account_name": "Bother.9415",
-              "composite_score": 1594.7443251024695,
-              "glicko_rating": 1594.7443251024695,
-              "games_played": 2,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1793.3 Clea:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 25,
-              "account_name": "FrozenDelicious.3690",
-              "composite_score": 1577.7252282922534,
-              "glicko_rating": 1577.7252282922534,
-              "games_played": 2,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1121.7 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 26,
-              "account_name": "Lozen.7623",
-              "composite_score": 1572.050755739017,
-              "glicko_rating": 1572.050755739017,
-              "games_played": 4,
-              "average_rank_percent": 5.75,
-              "key_stats": "Heal:1429.4 Clea:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 27,
-              "account_name": "Igure.2063",
-              "composite_score": 1569.761183579924,
-              "glicko_rating": 1569.761183579924,
-              "games_played": 4,
-              "average_rank_percent": 4.5,
-              "key_stats": "Heal:829.7 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 28,
-              "account_name": "SilverBlade Hero.8974",
-              "composite_score": 1568.5770530412726,
-              "glicko_rating": 1568.5770530412726,
-              "games_played": 6,
-              "average_rank_percent": 11.166666666666666,
-              "key_stats": "Heal:1116.6 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 29,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1563.435547955074,
-              "glicko_rating": 1563.435547955074,
-              "games_played": 9,
-              "average_rank_percent": 6.666666666666667,
-              "key_stats": "Heal:1294.2 Clea:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 30,
-              "account_name": "Hiraldo.7954",
-              "composite_score": 1563.3719049768406,
-              "glicko_rating": 1563.3719049768406,
-              "games_played": 10,
-              "average_rank_percent": 5.5,
-              "key_stats": "Heal:1215.0 Clea:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 31,
-              "account_name": "J WreckX.7648",
-              "composite_score": 1551.1696022669403,
-              "glicko_rating": 1551.1696022669403,
-              "games_played": 5,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:871.9 Clea:1.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 32,
-              "account_name": "Malek.9417",
-              "composite_score": 1546.5347527263111,
-              "glicko_rating": 1546.5347527263111,
-              "games_played": 6,
-              "average_rank_percent": 4.833333333333333,
-              "key_stats": "Heal:1097.1 Clea:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 33,
-              "account_name": "synco.8132",
-              "composite_score": 1541.0859653897824,
-              "glicko_rating": 1541.0859653897824,
-              "games_played": 8,
-              "average_rank_percent": 7.25,
-              "key_stats": "Heal:1431.5 Clea:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 34,
-              "account_name": "HuMbErTerA.4253",
-              "composite_score": 1499.341287549143,
-              "glicko_rating": 1499.341287549143,
-              "games_played": 7,
-              "average_rank_percent": 9.857142857142858,
-              "key_stats": "Heal:776.2 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 35,
-              "account_name": "Jdchil.9561",
-              "composite_score": 1492.2449029555692,
-              "glicko_rating": 1492.2449029555692,
-              "games_played": 2,
-              "average_rank_percent": 10.0,
-              "key_stats": "Heal:1333.5 Clea:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0
-            },
-            {
-              "rank": 36,
-              "account_name": "TigerSpirit.2194",
-              "composite_score": 1491.4858355371312,
-              "glicko_rating": 1491.4858355371312,
-              "games_played": 16,
-              "average_rank_percent": 7.4375,
-              "key_stats": "Heal:738.3 Clea:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.7/16.7"
             }
           ]
         },
@@ -135797,7 +135761,8 @@ const leaderboardData = {
               "average_rank_percent": 5.75,
               "key_stats": "Stri:1.1 DPS:1727.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.8/36.5"
             },
             {
               "rank": 2,
@@ -135808,7 +135773,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stri:1.0 DPS:1775.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.0/41.0"
             },
             {
               "rank": 3,
@@ -135819,7 +135785,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Stri:0.9 DPS:1598.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/32.5"
             },
             {
               "rank": 4,
@@ -135830,7 +135797,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.5 DPS:328.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/17.0"
             },
             {
               "rank": 5,
@@ -135841,7 +135809,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:1.0 DPS:1249.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.0/23.0"
             },
             {
               "rank": 6,
@@ -135852,7 +135821,8 @@ const leaderboardData = {
               "average_rank_percent": 10.333333333333334,
               "key_stats": "Stri:0.7 DPS:1270.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/26.3"
             },
             {
               "rank": 7,
@@ -135863,7 +135833,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stri:0.6 DPS:1455.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.6/24.8"
             },
             {
               "rank": 8,
@@ -135874,7 +135845,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stri:0.9 DPS:873.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/27.0"
             },
             {
               "rank": 9,
@@ -135885,7 +135857,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:0.6 DPS:1155.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/25.0"
             },
             {
               "rank": 10,
@@ -135896,7 +135869,8 @@ const leaderboardData = {
               "average_rank_percent": 10.875,
               "key_stats": "Stri:0.7 DPS:668.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "27.2/23.8"
             },
             {
               "rank": 11,
@@ -135907,7 +135881,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stri:0.9 DPS:775.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 12,
@@ -135918,7 +135893,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stri:0.4 DPS:1228.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.0/23.0"
             },
             {
               "rank": 13,
@@ -135929,7 +135905,8 @@ const leaderboardData = {
               "average_rank_percent": 8.833333333333334,
               "key_stats": "Stri:0.6 DPS:1554.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/31.0"
             },
             {
               "rank": 14,
@@ -135940,7 +135917,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Stri:0.6 DPS:729.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/43.0"
             },
             {
               "rank": 15,
@@ -135951,7 +135929,8 @@ const leaderboardData = {
               "average_rank_percent": 9.8,
               "key_stats": "Stri:0.4 DPS:1030.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.9/32.6"
             },
             {
               "rank": 16,
@@ -135962,7 +135941,8 @@ const leaderboardData = {
               "average_rank_percent": 16.0,
               "key_stats": "Stri:0.8 DPS:384.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/27.0"
             },
             {
               "rank": 17,
@@ -135973,7 +135953,8 @@ const leaderboardData = {
               "average_rank_percent": 9.636363636363637,
               "key_stats": "Stri:0.5 DPS:1246.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/28.0"
             },
             {
               "rank": 18,
@@ -135984,7 +135965,8 @@ const leaderboardData = {
               "average_rank_percent": 15.5,
               "key_stats": "Stri:0.4 DPS:232.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/20.0"
             },
             {
               "rank": 19,
@@ -135995,7 +135977,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stri:0.3 DPS:286.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.0/19.0"
             },
             {
               "rank": 20,
@@ -136006,7 +135989,8 @@ const leaderboardData = {
               "average_rank_percent": 12.333333333333334,
               "key_stats": "Stri:0.6 DPS:1138.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.3/22.3"
             },
             {
               "rank": 21,
@@ -136017,7 +136001,8 @@ const leaderboardData = {
               "average_rank_percent": 16.77777777777778,
               "key_stats": "Stri:0.4 DPS:517.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.6/21.0"
             },
             {
               "rank": 22,
@@ -136028,7 +136013,8 @@ const leaderboardData = {
               "average_rank_percent": 9.4,
               "key_stats": "Stri:0.4 DPS:1051.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.6/21.0"
             },
             {
               "rank": 23,
@@ -136039,7 +136025,8 @@ const leaderboardData = {
               "average_rank_percent": 14.0,
               "key_stats": "Stri:0.5 DPS:666.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/19.5"
             },
             {
               "rank": 24,
@@ -136050,7 +136037,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:830.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
             },
             {
               "rank": 25,
@@ -136061,7 +136049,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:944.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/22.0"
             },
             {
               "rank": 26,
@@ -136072,7 +136061,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stri:0.4 DPS:425.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "29.3/15.0"
             },
             {
               "rank": 27,
@@ -136083,7 +136073,8 @@ const leaderboardData = {
               "average_rank_percent": 11.75,
               "key_stats": "Stri:0.8 DPS:1055.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/30.0"
             },
             {
               "rank": 28,
@@ -136094,7 +136085,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Stri:0.4 DPS:1214.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/41.0"
             },
             {
               "rank": 29,
@@ -136105,7 +136097,8 @@ const leaderboardData = {
               "average_rank_percent": 11.142857142857142,
               "key_stats": "Stri:0.4 DPS:838.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.8/18.8"
             },
             {
               "rank": 30,
@@ -136116,7 +136109,8 @@ const leaderboardData = {
               "average_rank_percent": 12.0,
               "key_stats": "Stri:0.3 DPS:785.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.8/20.2"
             },
             {
               "rank": 31,
@@ -136127,7 +136121,8 @@ const leaderboardData = {
               "average_rank_percent": 22.0,
               "key_stats": "Stri:0.2 DPS:351.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.5/28.0"
             },
             {
               "rank": 32,
@@ -136138,7 +136133,8 @@ const leaderboardData = {
               "average_rank_percent": 15.5,
               "key_stats": "Stri:0.4 DPS:700.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/22.0"
             },
             {
               "rank": 33,
@@ -136149,7 +136145,8 @@ const leaderboardData = {
               "average_rank_percent": 19.5,
               "key_stats": "Stri:0.7 DPS:543.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/31.0"
             },
             {
               "rank": 34,
@@ -136160,7 +136157,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stri:0.7 DPS:1430.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/27.0"
             },
             {
               "rank": 35,
@@ -136171,7 +136169,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stri:0.7 DPS:782.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/29.0"
             },
             {
               "rank": 36,
@@ -136182,7 +136181,8 @@ const leaderboardData = {
               "average_rank_percent": 18.5,
               "key_stats": "Stri:0.6 DPS:1154.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/38.0"
             },
             {
               "rank": 37,
@@ -136193,7 +136193,8 @@ const leaderboardData = {
               "average_rank_percent": 19.0,
               "key_stats": "Stri:0.1 DPS:375.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.5/24.5"
             },
             {
               "rank": 38,
@@ -136204,7 +136205,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.3 DPS:167.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/20.0"
             },
             {
               "rank": 39,
@@ -136215,7 +136217,8 @@ const leaderboardData = {
               "average_rank_percent": 22.5,
               "key_stats": "Stri:0.3 DPS:312.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/20.0"
             },
             {
               "rank": 40,
@@ -136226,7 +136229,8 @@ const leaderboardData = {
               "average_rank_percent": 14.2,
               "key_stats": "Stri:0.3 DPS:653.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.7/22.0"
             },
             {
               "rank": 41,
@@ -136237,7 +136241,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.1 DPS:314.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "29.0/15.5"
             },
             {
               "rank": 42,
@@ -136248,7 +136253,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stri:0.6 DPS:688.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/30.0"
             },
             {
               "rank": 43,
@@ -136259,7 +136265,452 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.2 DPS:239.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/21.0"
+            }
+          ]
+        },
+        "Druid": {
+          "metrics": [
+            "Healing",
+            "Cleanses"
+          ],
+          "weights": [
+            0.6,
+            0.4
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "modus.7921",
+              "composite_score": 1761.11514131596,
+              "glicko_rating": 1761.11514131596,
+              "games_played": 25,
+              "average_rank_percent": 3.12,
+              "key_stats": "Heal:1947.8 Clea:1.2",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "85.1/61.6"
+            },
+            {
+              "rank": 2,
+              "account_name": "Astro Bear.6305",
+              "composite_score": 1730.8456906813608,
+              "glicko_rating": 1730.8456906813608,
+              "games_played": 19,
+              "average_rank_percent": 3.9473684210526314,
+              "key_stats": "Heal:1843.7 Clea:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "64.5/51.6"
+            },
+            {
+              "rank": 3,
+              "account_name": "Uriah.7082",
+              "composite_score": 1719.260650995229,
+              "glicko_rating": 1719.260650995229,
+              "games_played": 6,
+              "average_rank_percent": 2.5,
+              "key_stats": "Heal:1662.9 Clea:1.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "54.0/42.8"
+            },
+            {
+              "rank": 4,
+              "account_name": "Johnny.5478",
+              "composite_score": 1704.9321365935452,
+              "glicko_rating": 1704.9321365935452,
+              "games_played": 4,
+              "average_rank_percent": 1.25,
+              "key_stats": "Heal:1920.7 Clea:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "78.0/50.5"
+            },
+            {
+              "rank": 5,
+              "account_name": "Foodels.7358",
+              "composite_score": 1689.928428145406,
+              "glicko_rating": 1689.928428145406,
+              "games_played": 4,
+              "average_rank_percent": 1.0,
+              "key_stats": "Heal:1551.9 Clea:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "71.0/51.2"
+            },
+            {
+              "rank": 6,
+              "account_name": "Jeff.7219",
+              "composite_score": 1667.7972296896642,
+              "glicko_rating": 1667.7972296896642,
+              "games_played": 2,
+              "average_rank_percent": 1.0,
+              "key_stats": "Heal:2048.8 Clea:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "72.0/43.0"
+            },
+            {
+              "rank": 7,
+              "account_name": "CaptainKnightfall.4378",
+              "composite_score": 1657.5197594657598,
+              "glicko_rating": 1657.5197594657598,
+              "games_played": 4,
+              "average_rank_percent": 3.75,
+              "key_stats": "Heal:1513.5 Clea:1.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.5/53.5"
+            },
+            {
+              "rank": 8,
+              "account_name": "Xhil.9316",
+              "composite_score": 1655.8780555569735,
+              "glicko_rating": 1655.8780555569735,
+              "games_played": 6,
+              "average_rank_percent": 4.666666666666667,
+              "key_stats": "Heal:1407.3 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "73.0/51.0"
+            },
+            {
+              "rank": 9,
+              "account_name": "Guars.6409",
+              "composite_score": 1650.4308234212367,
+              "glicko_rating": 1650.4308234212367,
+              "games_played": 2,
+              "average_rank_percent": 2.0,
+              "key_stats": "Heal:2845.1 Clea:1.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "101.0/87.0"
+            },
+            {
+              "rank": 10,
+              "account_name": "amends.3469",
+              "composite_score": 1645.8707436890572,
+              "glicko_rating": 1645.8707436890572,
+              "games_played": 2,
+              "average_rank_percent": 1.5,
+              "key_stats": "Heal:1611.1 Clea:1.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "68.0/50.0"
+            },
+            {
+              "rank": 11,
+              "account_name": "Jax Blake.7250",
+              "composite_score": 1644.7179190230863,
+              "glicko_rating": 1644.7179190230863,
+              "games_played": 4,
+              "average_rank_percent": 4.25,
+              "key_stats": "Heal:1783.2 Clea:1.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.0/47.5"
+            },
+            {
+              "rank": 12,
+              "account_name": "aznsleeper.5896",
+              "composite_score": 1643.5020875227099,
+              "glicko_rating": 1643.5020875227099,
+              "games_played": 2,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1408.5 Clea:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "25.0/7.0"
+            },
+            {
+              "rank": 13,
+              "account_name": "Luke.9108",
+              "composite_score": 1643.309971059889,
+              "glicko_rating": 1643.309971059889,
+              "games_played": 2,
+              "average_rank_percent": 1.5,
+              "key_stats": "Heal:2183.6 Clea:1.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "73.0/51.5"
+            },
+            {
+              "rank": 14,
+              "account_name": "ParaldaWind.4523",
+              "composite_score": 1638.4052466594617,
+              "glicko_rating": 1638.4052466594617,
+              "games_played": 2,
+              "average_rank_percent": 1.5,
+              "key_stats": "Heal:1634.3 Clea:1.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "76.0/58.0"
+            },
+            {
+              "rank": 15,
+              "account_name": "pariah.6937",
+              "composite_score": 1637.344381268258,
+              "glicko_rating": 1637.344381268258,
+              "games_played": 4,
+              "average_rank_percent": 2.25,
+              "key_stats": "Heal:1750.0 Clea:1.2",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "57.6/50.2"
+            },
+            {
+              "rank": 16,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1636.0012366845995,
+              "glicko_rating": 1636.0012366845995,
+              "games_played": 8,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1736.4 Clea:1.2",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "50.8/41.0"
+            },
+            {
+              "rank": 17,
+              "account_name": "Soothsayer.9206",
+              "composite_score": 1634.742132628364,
+              "glicko_rating": 1634.742132628364,
+              "games_played": 3,
+              "average_rank_percent": 3.6666666666666665,
+              "key_stats": "Heal:2051.5 Clea:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "80.0/52.7"
+            },
+            {
+              "rank": 18,
+              "account_name": "Mandar.9813",
+              "composite_score": 1632.6759829314533,
+              "glicko_rating": 1632.6759829314533,
+              "games_played": 2,
+              "average_rank_percent": 1.5,
+              "key_stats": "Heal:2231.9 Clea:1.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
+            },
+            {
+              "rank": 19,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1625.8888547398317,
+              "glicko_rating": 1625.8888547398317,
+              "games_played": 2,
+              "average_rank_percent": 2.5,
+              "key_stats": "Heal:1497.1 Clea:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "70.0/52.0"
+            },
+            {
+              "rank": 20,
+              "account_name": "IronOre.7826",
+              "composite_score": 1623.1477238811308,
+              "glicko_rating": 1623.1477238811308,
+              "games_played": 2,
+              "average_rank_percent": 3.5,
+              "key_stats": "Heal:2162.2 Clea:1.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "71.0/58.0"
+            },
+            {
+              "rank": 21,
+              "account_name": "Mini.1786",
+              "composite_score": 1623.087460748316,
+              "glicko_rating": 1623.087460748316,
+              "games_played": 2,
+              "average_rank_percent": 3.0,
+              "key_stats": "Heal:1469.9 Clea:1.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "59.0/32.0"
+            },
+            {
+              "rank": 22,
+              "account_name": "ThiagoW.4810",
+              "composite_score": 1616.7014700433263,
+              "glicko_rating": 1616.7014700433263,
+              "games_played": 4,
+              "average_rank_percent": 4.75,
+              "key_stats": "Heal:1656.1 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "60.0/42.5"
+            },
+            {
+              "rank": 23,
+              "account_name": "Stan.9684",
+              "composite_score": 1595.8241631081864,
+              "glicko_rating": 1595.8241631081864,
+              "games_played": 2,
+              "average_rank_percent": 3.5,
+              "key_stats": "Heal:1823.8 Clea:1.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "66.0/58.0"
+            },
+            {
+              "rank": 24,
+              "account_name": "Bother.9415",
+              "composite_score": 1594.7443251024695,
+              "glicko_rating": 1594.7443251024695,
+              "games_played": 2,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1793.3 Clea:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "82.0/62.0"
+            },
+            {
+              "rank": 25,
+              "account_name": "FrozenDelicious.3690",
+              "composite_score": 1577.7252282922534,
+              "glicko_rating": 1577.7252282922534,
+              "games_played": 2,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1121.7 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "63.0/50.0"
+            },
+            {
+              "rank": 26,
+              "account_name": "Lozen.7623",
+              "composite_score": 1572.050755739017,
+              "glicko_rating": 1572.050755739017,
+              "games_played": 4,
+              "average_rank_percent": 5.75,
+              "key_stats": "Heal:1429.4 Clea:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "82.0/52.5"
+            },
+            {
+              "rank": 27,
+              "account_name": "Igure.2063",
+              "composite_score": 1569.761183579924,
+              "glicko_rating": 1569.761183579924,
+              "games_played": 4,
+              "average_rank_percent": 4.5,
+              "key_stats": "Heal:829.7 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.5/30.5"
+            },
+            {
+              "rank": 28,
+              "account_name": "SilverBlade Hero.8974",
+              "composite_score": 1568.5770530412726,
+              "glicko_rating": 1568.5770530412726,
+              "games_played": 6,
+              "average_rank_percent": 11.166666666666666,
+              "key_stats": "Heal:1116.6 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/32.3"
+            },
+            {
+              "rank": 29,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1563.435547955074,
+              "glicko_rating": 1563.435547955074,
+              "games_played": 9,
+              "average_rank_percent": 6.666666666666667,
+              "key_stats": "Heal:1294.2 Clea:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "49.6/43.8"
+            },
+            {
+              "rank": 30,
+              "account_name": "Hiraldo.7954",
+              "composite_score": 1563.3719049768406,
+              "glicko_rating": 1563.3719049768406,
+              "games_played": 10,
+              "average_rank_percent": 5.5,
+              "key_stats": "Heal:1215.0 Clea:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "54.7/36.0"
+            },
+            {
+              "rank": 31,
+              "account_name": "J WreckX.7648",
+              "composite_score": 1551.1696022669403,
+              "glicko_rating": 1551.1696022669403,
+              "games_played": 5,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:871.9 Clea:1.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "48.7/39.3"
+            },
+            {
+              "rank": 32,
+              "account_name": "Malek.9417",
+              "composite_score": 1546.5347527263111,
+              "glicko_rating": 1546.5347527263111,
+              "games_played": 6,
+              "average_rank_percent": 4.833333333333333,
+              "key_stats": "Heal:1097.1 Clea:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "61.7/42.7"
+            },
+            {
+              "rank": 33,
+              "account_name": "synco.8132",
+              "composite_score": 1541.0859653897824,
+              "glicko_rating": 1541.0859653897824,
+              "games_played": 8,
+              "average_rank_percent": 7.25,
+              "key_stats": "Heal:1431.5 Clea:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "53.2/34.2"
+            },
+            {
+              "rank": 34,
+              "account_name": "HuMbErTerA.4253",
+              "composite_score": 1499.341287549143,
+              "glicko_rating": 1499.341287549143,
+              "games_played": 7,
+              "average_rank_percent": 9.857142857142858,
+              "key_stats": "Heal:776.2 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "31.8/21.5"
+            },
+            {
+              "rank": 35,
+              "account_name": "Jdchil.9561",
+              "composite_score": 1492.2449029555692,
+              "glicko_rating": 1492.2449029555692,
+              "games_played": 2,
+              "average_rank_percent": 10.0,
+              "key_stats": "Heal:1333.5 Clea:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "53.0/43.0"
+            },
+            {
+              "rank": 36,
+              "account_name": "TigerSpirit.2194",
+              "composite_score": 1491.4858355371312,
+              "glicko_rating": 1491.4858355371312,
+              "games_played": 16,
+              "average_rank_percent": 7.4375,
+              "key_stats": "Heal:738.3 Clea:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "45.3/31.3"
             }
           ]
         },
@@ -136286,7 +136737,8 @@ const leaderboardData = {
               "average_rank_percent": 7.083333333333333,
               "key_stats": "Migh:36.1 Resi:1.4 Stab:4.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/30.7"
             },
             {
               "rank": 2,
@@ -136297,7 +136749,8 @@ const leaderboardData = {
               "average_rank_percent": 8.25,
               "key_stats": "Migh:35.8 Resi:0.9 Stab:2.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.6/31.4"
             },
             {
               "rank": 3,
@@ -136308,7 +136761,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/35.0"
             },
             {
               "rank": 4,
@@ -136319,7 +136773,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "34.0/25.0"
             },
             {
               "rank": 5,
@@ -136330,7 +136785,8 @@ const leaderboardData = {
               "average_rank_percent": 6.9,
               "key_stats": "Migh:12.7 Resi:0.8 Stab:2.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.7/24.3"
             },
             {
               "rank": 6,
@@ -136341,7 +136797,8 @@ const leaderboardData = {
               "average_rank_percent": 9.25,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/36.0"
             },
             {
               "rank": 7,
@@ -136352,7 +136809,8 @@ const leaderboardData = {
               "average_rank_percent": 8.5,
               "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/22.7"
             },
             {
               "rank": 8,
@@ -136363,7 +136821,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/25.0"
             },
             {
               "rank": 9,
@@ -136374,7 +136833,8 @@ const leaderboardData = {
               "average_rank_percent": 10.25,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/53.0"
             }
           ]
         },
@@ -136399,7 +136859,8 @@ const leaderboardData = {
               "average_rank_percent": 11.25,
               "key_stats": "Stab:6.0 Clea:0.5 DPS:906.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.2/45.5"
             },
             {
               "rank": 2,
@@ -136410,7 +136871,8 @@ const leaderboardData = {
               "average_rank_percent": 5.333333333333333,
               "key_stats": "Stab:5.9 Clea:0.3 DPS:1205.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.5/24.5"
             },
             {
               "rank": 3,
@@ -136421,7 +136883,8 @@ const leaderboardData = {
               "average_rank_percent": 9.333333333333334,
               "key_stats": "Stab:8.8 Clea:0.7 DPS:1947.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "89.0/53.0"
             },
             {
               "rank": 4,
@@ -136432,7 +136895,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "70.0/48.0"
             },
             {
               "rank": 5,
@@ -136443,7 +136907,8 @@ const leaderboardData = {
               "average_rank_percent": 11.5,
               "key_stats": "Stab:4.7 Clea:0.8 DPS:1210.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.3/59.0"
             },
             {
               "rank": 6,
@@ -136454,7 +136919,8 @@ const leaderboardData = {
               "average_rank_percent": 11.333333333333334,
               "key_stats": "Stab:5.5 Clea:0.6 DPS:1446.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "72.0/62.0"
             },
             {
               "rank": 7,
@@ -136465,7 +136931,8 @@ const leaderboardData = {
               "average_rank_percent": 13.11111111111111,
               "key_stats": "Stab:6.6 Clea:0.3 DPS:629.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.3/36.0"
             },
             {
               "rank": 8,
@@ -136476,7 +136943,8 @@ const leaderboardData = {
               "average_rank_percent": 13.166666666666666,
               "key_stats": "Stab:6.8 Clea:0.3 DPS:510.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/33.8"
             },
             {
               "rank": 9,
@@ -136487,7 +136955,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stab:3.4 Clea:0.4 DPS:599.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "76.0/33.0"
             },
             {
               "rank": 10,
@@ -136498,7 +136967,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:6.1 Clea:0.9 DPS:1434.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/36.0"
             },
             {
               "rank": 11,
@@ -136509,7 +136979,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stab:6.7 Clea:0.3 DPS:823.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "84.0/63.0"
             },
             {
               "rank": 12,
@@ -136520,7 +136991,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Stab:6.2 Clea:0.3 DPS:1070.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/49.3"
             },
             {
               "rank": 13,
@@ -136531,7 +137003,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "84.0/49.0"
             },
             {
               "rank": 14,
@@ -136542,7 +137015,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stab:5.8 Clea:0.9 DPS:1320.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/38.0"
             },
             {
               "rank": 15,
@@ -136553,7 +137027,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.0/39.0"
             },
             {
               "rank": 16,
@@ -136564,7 +137039,8 @@ const leaderboardData = {
               "average_rank_percent": 19.4,
               "key_stats": "Stab:3.4 Clea:0.2 DPS:377.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/26.0"
             },
             {
               "rank": 17,
@@ -136575,7 +137051,8 @@ const leaderboardData = {
               "average_rank_percent": 10.333333333333334,
               "key_stats": "Stab:3.1 Clea:0.3 DPS:667.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/39.0"
             },
             {
               "rank": 18,
@@ -136586,7 +137063,8 @@ const leaderboardData = {
               "average_rank_percent": 12.238095238095237,
               "key_stats": "Stab:4.9 Clea:0.3 DPS:850.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/39.9"
             }
           ]
         }
@@ -198707,7 +199185,8 @@ const leaderboardData = {
               "average_rank_percent": 1.375,
               "key_stats": "Stab:8.2 Resi:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.5/48.2"
             },
             {
               "rank": 2,
@@ -198718,7 +199197,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Stab:7.6 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/53.2"
             },
             {
               "rank": 3,
@@ -198729,7 +199209,8 @@ const leaderboardData = {
               "average_rank_percent": 5.625,
               "key_stats": "Stab:7.1 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.5/48.8"
             },
             {
               "rank": 4,
@@ -198740,7 +199221,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Stab:6.4 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.7/42.5"
             },
             {
               "rank": 5,
@@ -198751,7 +199233,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.8 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/24.5"
             },
             {
               "rank": 6,
@@ -198762,7 +199245,8 @@ const leaderboardData = {
               "average_rank_percent": 5.117647058823529,
               "key_stats": "Stab:6.3 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.9/27.3"
             },
             {
               "rank": 7,
@@ -198773,7 +199257,8 @@ const leaderboardData = {
               "average_rank_percent": 4.25,
               "key_stats": "Stab:7.2 Resi:1.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.5/50.5"
             },
             {
               "rank": 8,
@@ -198784,7 +199269,8 @@ const leaderboardData = {
               "average_rank_percent": 5.583333333333333,
               "key_stats": "Stab:6.5 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.3/32.5"
             },
             {
               "rank": 9,
@@ -198795,7 +199281,8 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "key_stats": "Stab:8.5 Resi:1.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "48.0/43.0"
             },
             {
               "rank": 10,
@@ -198806,7 +199293,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Stab:7.2 Resi:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/43.0"
             },
             {
               "rank": 11,
@@ -198817,7 +199305,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Stab:7.6 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/28.0"
             },
             {
               "rank": 12,
@@ -198828,7 +199317,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Stab:9.3 Resi:1.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/46.0"
             },
             {
               "rank": 13,
@@ -198839,7 +199329,8 @@ const leaderboardData = {
               "average_rank_percent": 5.8076923076923075,
               "key_stats": "Stab:6.9 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.0/41.5"
             },
             {
               "rank": 14,
@@ -198850,7 +199341,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Stab:7.0 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/47.0"
             },
             {
               "rank": 15,
@@ -198861,7 +199353,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.6 Resi:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/22.0"
             },
             {
               "rank": 16,
@@ -198872,7 +199365,8 @@ const leaderboardData = {
               "average_rank_percent": 6.444444444444445,
               "key_stats": "Stab:6.9 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.8/40.2"
             },
             {
               "rank": 17,
@@ -198883,7 +199377,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:9.1 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.0/67.0"
             },
             {
               "rank": 18,
@@ -198894,7 +199389,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:7.1 Resi:1.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "72.0/59.0"
             },
             {
               "rank": 19,
@@ -198905,7 +199401,8 @@ const leaderboardData = {
               "average_rank_percent": 5.666666666666667,
               "key_stats": "Stab:6.1 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "28.3/24.3"
             },
             {
               "rank": 20,
@@ -198916,7 +199413,8 @@ const leaderboardData = {
               "average_rank_percent": 8.5,
               "key_stats": "Stab:6.0 Resi:1.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/46.0"
             },
             {
               "rank": 21,
@@ -198927,7 +199425,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Stab:8.4 Resi:1.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/39.0"
             },
             {
               "rank": 22,
@@ -198938,7 +199437,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stab:9.7 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/41.0"
             },
             {
               "rank": 23,
@@ -198949,7 +199449,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stab:5.3 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/42.0"
             },
             {
               "rank": 24,
@@ -198960,7 +199461,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stab:5.5 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.5/42.5"
             },
             {
               "rank": 25,
@@ -198971,7 +199473,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stab:8.5 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.8/45.2"
             },
             {
               "rank": 26,
@@ -198982,7 +199485,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.1 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.0/66.0"
             },
             {
               "rank": 27,
@@ -198993,7 +199497,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stab:8.3 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.0/48.0"
             },
             {
               "rank": 28,
@@ -199004,7 +199509,8 @@ const leaderboardData = {
               "average_rank_percent": 8.5,
               "key_stats": "Stab:9.4 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/48.0"
             },
             {
               "rank": 29,
@@ -199015,7 +199521,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.7 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/28.0"
             },
             {
               "rank": 30,
@@ -199026,7 +199533,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:7.3 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
             },
             {
               "rank": 31,
@@ -199037,7 +199545,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stab:4.6 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/36.0"
             },
             {
               "rank": 32,
@@ -199048,7 +199557,8 @@ const leaderboardData = {
               "average_rank_percent": 8.333333333333334,
               "key_stats": "Stab:5.3 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/45.5"
             },
             {
               "rank": 33,
@@ -199059,7 +199569,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:8.0 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "65.5/54.0"
             },
             {
               "rank": 34,
@@ -199070,7 +199581,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Stab:6.3 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/36.0"
             },
             {
               "rank": 35,
@@ -199081,7 +199593,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Stab:7.6 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/45.0"
             },
             {
               "rank": 36,
@@ -199092,7 +199605,8 @@ const leaderboardData = {
               "average_rank_percent": 5.0,
               "key_stats": "Stab:7.1 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/31.5"
             },
             {
               "rank": 37,
@@ -199103,7 +199617,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:5.4 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/47.0"
             },
             {
               "rank": 38,
@@ -199114,7 +199629,8 @@ const leaderboardData = {
               "average_rank_percent": 5.0,
               "key_stats": "Stab:3.9 Resi:1.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/35.0"
             },
             {
               "rank": 39,
@@ -199125,7 +199641,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.1 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "15.0/15.0"
             },
             {
               "rank": 40,
@@ -199136,7 +199653,8 @@ const leaderboardData = {
               "average_rank_percent": 7.666666666666667,
               "key_stats": "Stab:4.2 Resi:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.5/29.0"
             },
             {
               "rank": 41,
@@ -199147,7 +199665,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stab:4.5 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/33.0"
             },
             {
               "rank": 42,
@@ -199158,7 +199677,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:6.5 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "62.0/51.0"
             },
             {
               "rank": 43,
@@ -199169,7 +199689,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stab:4.3 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/33.0"
             },
             {
               "rank": 44,
@@ -199180,7 +199701,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:5.4 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/40.0"
             }
           ]
         },
@@ -199203,7 +199725,8 @@ const leaderboardData = {
               "average_rank_percent": 2.935483870967742,
               "key_stats": "Heal:2065.7 Clea:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "85.1/61.6"
             },
             {
               "rank": 2,
@@ -199214,7 +199737,8 @@ const leaderboardData = {
               "average_rank_percent": 3.566666666666667,
               "key_stats": "Heal:1852.5 Clea:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.5/51.6"
             },
             {
               "rank": 3,
@@ -199225,7 +199749,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2259.2 Clea:1.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "81.7/59.3"
             },
             {
               "rank": 4,
@@ -199236,7 +199761,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Heal:1770.3 Clea:1.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/51.2"
             },
             {
               "rank": 5,
@@ -199247,7 +199773,8 @@ const leaderboardData = {
               "average_rank_percent": 2.25,
               "key_stats": "Heal:1679.8 Clea:1.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/42.8"
             },
             {
               "rank": 6,
@@ -199258,7 +199785,8 @@ const leaderboardData = {
               "average_rank_percent": 2.625,
               "key_stats": "Heal:1776.9 Clea:1.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.8/46.4"
             },
             {
               "rank": 7,
@@ -199269,7 +199797,8 @@ const leaderboardData = {
               "average_rank_percent": 2.6,
               "key_stats": "Heal:2842.1 Clea:1.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "80.0/52.7"
             },
             {
               "rank": 8,
@@ -199280,7 +199809,8 @@ const leaderboardData = {
               "average_rank_percent": 1.25,
               "key_stats": "Heal:1920.7 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "78.0/50.5"
             },
             {
               "rank": 9,
@@ -199291,7 +199821,8 @@ const leaderboardData = {
               "average_rank_percent": 2.9,
               "key_stats": "Heal:1582.6 Clea:1.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.6/50.2"
             },
             {
               "rank": 10,
@@ -199302,7 +199833,8 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "key_stats": "Heal:2048.8 Clea:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "72.0/43.0"
             },
             {
               "rank": 11,
@@ -199313,7 +199845,8 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "key_stats": "Heal:1637.6 Clea:1.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "80.0/62.0"
             },
             {
               "rank": 12,
@@ -199324,7 +199857,8 @@ const leaderboardData = {
               "average_rank_percent": 3.75,
               "key_stats": "Heal:1513.5 Clea:1.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.5/53.5"
             },
             {
               "rank": 13,
@@ -199335,7 +199869,8 @@ const leaderboardData = {
               "average_rank_percent": 4.666666666666667,
               "key_stats": "Heal:1407.3 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/51.0"
             },
             {
               "rank": 14,
@@ -199346,7 +199881,8 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "key_stats": "Heal:2845.1 Clea:1.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "101.0/87.0"
             },
             {
               "rank": 15,
@@ -199357,7 +199893,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:1611.1 Clea:1.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.0/50.0"
             },
             {
               "rank": 16,
@@ -199368,7 +199905,8 @@ const leaderboardData = {
               "average_rank_percent": 4.25,
               "key_stats": "Heal:1783.2 Clea:1.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.0/47.5"
             },
             {
               "rank": 17,
@@ -199379,7 +199917,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1408.5 Clea:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "25.0/7.0"
             },
             {
               "rank": 18,
@@ -199390,7 +199929,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2183.6 Clea:1.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "73.0/51.5"
             },
             {
               "rank": 19,
@@ -199401,7 +199941,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:1634.3 Clea:1.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "76.0/58.0"
             },
             {
               "rank": 20,
@@ -199412,7 +199953,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1736.4 Clea:1.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.8/41.0"
             },
             {
               "rank": 21,
@@ -199423,7 +199965,8 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "key_stats": "Heal:2231.9 Clea:1.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
             },
             {
               "rank": 22,
@@ -199434,7 +199977,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Heal:1497.1 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "70.0/52.0"
             },
             {
               "rank": 23,
@@ -199445,7 +199989,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Heal:2162.2 Clea:1.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/58.0"
             },
             {
               "rank": 24,
@@ -199456,7 +200001,8 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "key_stats": "Heal:1469.9 Clea:1.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.0/32.0"
             },
             {
               "rank": 25,
@@ -199467,7 +200013,8 @@ const leaderboardData = {
               "average_rank_percent": 4.75,
               "key_stats": "Heal:1656.1 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "60.0/42.5"
             },
             {
               "rank": 26,
@@ -199478,7 +200025,8 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "key_stats": "Heal:1826.7 Clea:1.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "77.0/65.0"
             },
             {
               "rank": 27,
@@ -199489,7 +200037,8 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "key_stats": "Heal:1823.8 Clea:1.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "66.0/58.0"
             },
             {
               "rank": 28,
@@ -199500,7 +200049,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1793.3 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "82.0/62.0"
             },
             {
               "rank": 29,
@@ -199511,7 +200061,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:1121.7 Clea:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/50.0"
             },
             {
               "rank": 30,
@@ -199522,7 +200073,8 @@ const leaderboardData = {
               "average_rank_percent": 5.75,
               "key_stats": "Heal:1429.4 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "82.0/52.5"
             },
             {
               "rank": 31,
@@ -199533,7 +200085,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Heal:829.7 Clea:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/30.5"
             },
             {
               "rank": 32,
@@ -199544,7 +200097,8 @@ const leaderboardData = {
               "average_rank_percent": 11.166666666666666,
               "key_stats": "Heal:1116.6 Clea:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.3"
             },
             {
               "rank": 33,
@@ -199555,7 +200109,8 @@ const leaderboardData = {
               "average_rank_percent": 6.666666666666667,
               "key_stats": "Heal:1294.2 Clea:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.6/43.8"
             },
             {
               "rank": 34,
@@ -199566,7 +200121,8 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "key_stats": "Heal:1215.0 Clea:0.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.7/36.0"
             },
             {
               "rank": 35,
@@ -199577,7 +200133,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Heal:649.7 Clea:1.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/51.0"
             },
             {
               "rank": 36,
@@ -199588,7 +200145,8 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "key_stats": "Heal:871.9 Clea:1.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "48.7/39.3"
             },
             {
               "rank": 37,
@@ -199599,7 +200157,8 @@ const leaderboardData = {
               "average_rank_percent": 4.833333333333333,
               "key_stats": "Heal:1097.1 Clea:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.7/42.7"
             },
             {
               "rank": 38,
@@ -199610,7 +200169,8 @@ const leaderboardData = {
               "average_rank_percent": 7.25,
               "key_stats": "Heal:1431.5 Clea:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.2/34.2"
             },
             {
               "rank": 39,
@@ -199621,7 +200181,8 @@ const leaderboardData = {
               "average_rank_percent": 9.857142857142858,
               "key_stats": "Heal:776.2 Clea:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.8/21.5"
             },
             {
               "rank": 40,
@@ -199632,7 +200193,8 @@ const leaderboardData = {
               "average_rank_percent": 8.166666666666666,
               "key_stats": "Heal:668.9 Clea:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.3/31.3"
             },
             {
               "rank": 41,
@@ -199643,7 +200205,8 @@ const leaderboardData = {
               "average_rank_percent": 10.0,
               "key_stats": "Heal:1333.5 Clea:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/43.0"
             }
           ]
         },
@@ -199672,7 +200235,8 @@ const leaderboardData = {
               "average_rank_percent": 5.3,
               "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.4/28.5"
             },
             {
               "rank": 2,
@@ -199683,7 +200247,8 @@ const leaderboardData = {
               "average_rank_percent": 4.478260869565218,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/26.6"
             },
             {
               "rank": 3,
@@ -199694,7 +200259,8 @@ const leaderboardData = {
               "average_rank_percent": 7.072727272727272,
               "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.8/31.7"
             },
             {
               "rank": 4,
@@ -199705,7 +200271,8 @@ const leaderboardData = {
               "average_rank_percent": 5.222222222222222,
               "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/37.0"
             },
             {
               "rank": 5,
@@ -199716,7 +200283,8 @@ const leaderboardData = {
               "average_rank_percent": 6.260869565217392,
               "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/34.2"
             },
             {
               "rank": 6,
@@ -199727,7 +200295,8 @@ const leaderboardData = {
               "average_rank_percent": 6.6,
               "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 7,
@@ -199738,7 +200307,8 @@ const leaderboardData = {
               "average_rank_percent": 10.0,
               "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/28.0"
             },
             {
               "rank": 8,
@@ -199749,7 +200319,8 @@ const leaderboardData = {
               "average_rank_percent": 8.6,
               "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.0/33.0"
             },
             {
               "rank": 9,
@@ -199760,7 +200331,8 @@ const leaderboardData = {
               "average_rank_percent": 6.2,
               "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "65.0/36.0"
             },
             {
               "rank": 10,
@@ -199771,7 +200343,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
             },
             {
               "rank": 11,
@@ -199782,7 +200355,8 @@ const leaderboardData = {
               "average_rank_percent": 8.793103448275861,
               "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/25.4"
             },
             {
               "rank": 12,
@@ -199793,7 +200367,8 @@ const leaderboardData = {
               "average_rank_percent": 6.611111111111111,
               "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.5/22.8"
             },
             {
               "rank": 13,
@@ -199804,7 +200379,8 @@ const leaderboardData = {
               "average_rank_percent": 6.776119402985074,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/35.6"
             },
             {
               "rank": 14,
@@ -199815,7 +200391,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/24.0"
             },
             {
               "rank": 15,
@@ -199826,7 +200403,8 @@ const leaderboardData = {
               "average_rank_percent": 5.8,
               "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/39.0"
             },
             {
               "rank": 16,
@@ -199837,7 +200415,8 @@ const leaderboardData = {
               "average_rank_percent": 8.44,
               "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/24.4"
             },
             {
               "rank": 17,
@@ -199848,7 +200427,8 @@ const leaderboardData = {
               "average_rank_percent": 6.769230769230769,
               "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.3/38.7"
             },
             {
               "rank": 18,
@@ -199859,7 +200439,8 @@ const leaderboardData = {
               "average_rank_percent": 6.4,
               "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/31.0"
             },
             {
               "rank": 19,
@@ -199870,7 +200451,8 @@ const leaderboardData = {
               "average_rank_percent": 8.88888888888889,
               "key_stats": "Stab:8.6 Clea:0.2 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/26.0"
             },
             {
               "rank": 20,
@@ -199881,7 +200463,8 @@ const leaderboardData = {
               "average_rank_percent": 9.2,
               "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/27.0"
             },
             {
               "rank": 21,
@@ -199892,7 +200475,8 @@ const leaderboardData = {
               "average_rank_percent": 8.666666666666666,
               "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.2/24.0"
             },
             {
               "rank": 22,
@@ -199903,7 +200487,8 @@ const leaderboardData = {
               "average_rank_percent": 12.4,
               "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/25.0"
             },
             {
               "rank": 23,
@@ -199914,7 +200499,8 @@ const leaderboardData = {
               "average_rank_percent": 9.2,
               "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "71.0/32.0"
             },
             {
               "rank": 24,
@@ -199925,7 +200511,8 @@ const leaderboardData = {
               "average_rank_percent": 7.230769230769231,
               "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.7/25.3"
             },
             {
               "rank": 25,
@@ -199936,7 +200523,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/25.0"
             },
             {
               "rank": 26,
@@ -199947,7 +200535,8 @@ const leaderboardData = {
               "average_rank_percent": 7.4,
               "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.0/34.0"
             },
             {
               "rank": 27,
@@ -199958,7 +200547,8 @@ const leaderboardData = {
               "average_rank_percent": 10.9,
               "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.5/25.5"
             },
             {
               "rank": 28,
@@ -199969,7 +200559,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/20.5"
             },
             {
               "rank": 29,
@@ -199980,7 +200571,8 @@ const leaderboardData = {
               "average_rank_percent": 9.4,
               "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/31.0"
             },
             {
               "rank": 30,
@@ -199991,7 +200583,8 @@ const leaderboardData = {
               "average_rank_percent": 9.625,
               "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.5/23.5"
             },
             {
               "rank": 31,
@@ -200002,7 +200595,8 @@ const leaderboardData = {
               "average_rank_percent": 8.6,
               "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/26.5"
             },
             {
               "rank": 32,
@@ -200013,7 +200607,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "26.5/13.5"
             },
             {
               "rank": 33,
@@ -200024,7 +200619,8 @@ const leaderboardData = {
               "average_rank_percent": 7.8,
               "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
             },
             {
               "rank": 34,
@@ -200035,7 +200631,8 @@ const leaderboardData = {
               "average_rank_percent": 9.6,
               "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
             },
             {
               "rank": 35,
@@ -200046,7 +200643,8 @@ const leaderboardData = {
               "average_rank_percent": 14.23076923076923,
               "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "39.3/23.7"
             },
             {
               "rank": 36,
@@ -200057,7 +200655,8 @@ const leaderboardData = {
               "average_rank_percent": 9.6,
               "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "61.0/15.0"
             },
             {
               "rank": 37,
@@ -200068,7 +200667,8 @@ const leaderboardData = {
               "average_rank_percent": 11.916666666666666,
               "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.7/16.7"
             }
           ]
         },
@@ -200091,7 +200691,8 @@ const leaderboardData = {
               "average_rank_percent": 5.875,
               "key_stats": "Stri:1.1 DPS:1643.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.8/36.5"
             },
             {
               "rank": 2,
@@ -200102,7 +200703,8 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "key_stats": "Stri:1.0 DPS:1775.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "59.0/41.0"
             },
             {
               "rank": 3,
@@ -200113,7 +200715,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Stri:0.9 DPS:1598.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/32.5"
             },
             {
               "rank": 4,
@@ -200124,7 +200727,8 @@ const leaderboardData = {
               "average_rank_percent": 14.25,
               "key_stats": "Stri:1.3 DPS:439.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.0/36.5"
             },
             {
               "rank": 5,
@@ -200135,7 +200739,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.5 DPS:328.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/17.0"
             },
             {
               "rank": 6,
@@ -200146,7 +200751,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stri:0.7 DPS:1157.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.6/24.8"
             },
             {
               "rank": 7,
@@ -200157,7 +200763,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stri:0.8 DPS:1097.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/26.0"
             },
             {
               "rank": 8,
@@ -200168,7 +200775,8 @@ const leaderboardData = {
               "average_rank_percent": 13.5,
               "key_stats": "Stri:1.1 DPS:681.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/30.0"
             },
             {
               "rank": 9,
@@ -200179,7 +200787,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:1.0 DPS:1249.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.0/23.0"
             },
             {
               "rank": 10,
@@ -200190,7 +200799,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.6 DPS:271.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/24.5"
             },
             {
               "rank": 11,
@@ -200201,7 +200811,8 @@ const leaderboardData = {
               "average_rank_percent": 10.333333333333334,
               "key_stats": "Stri:0.7 DPS:1270.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.7/26.3"
             },
             {
               "rank": 12,
@@ -200212,7 +200823,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stri:0.9 DPS:873.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/27.0"
             },
             {
               "rank": 13,
@@ -200223,7 +200835,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stri:0.6 DPS:1155.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/25.0"
             },
             {
               "rank": 14,
@@ -200234,7 +200847,8 @@ const leaderboardData = {
               "average_rank_percent": 16.0,
               "key_stats": "Stri:0.7 DPS:524.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/29.0"
             },
             {
               "rank": 15,
@@ -200245,7 +200859,8 @@ const leaderboardData = {
               "average_rank_percent": 10.875,
               "key_stats": "Stri:0.7 DPS:668.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "27.2/23.8"
             },
             {
               "rank": 16,
@@ -200256,7 +200871,8 @@ const leaderboardData = {
               "average_rank_percent": 9.421052631578947,
               "key_stats": "Stri:0.6 DPS:1209.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "56.0/28.0"
             },
             {
               "rank": 17,
@@ -200267,7 +200883,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stri:0.9 DPS:775.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
             },
             {
               "rank": 18,
@@ -200278,7 +200895,8 @@ const leaderboardData = {
               "average_rank_percent": 17.5,
               "key_stats": "Stri:0.9 DPS:371.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/31.0"
             },
             {
               "rank": 19,
@@ -200289,7 +200907,8 @@ const leaderboardData = {
               "average_rank_percent": 6.0,
               "key_stats": "Stri:0.4 DPS:1228.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.0/23.0"
             },
             {
               "rank": 20,
@@ -200300,7 +200919,8 @@ const leaderboardData = {
               "average_rank_percent": 4.5,
               "key_stats": "Stri:0.5 DPS:1625.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/30.0"
             },
             {
               "rank": 21,
@@ -200311,7 +200931,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Stri:0.8 DPS:597.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "33.0/22.5"
             },
             {
               "rank": 22,
@@ -200322,7 +200943,8 @@ const leaderboardData = {
               "average_rank_percent": 16.5,
               "key_stats": "Stri:1.1 DPS:349.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/33.0"
             },
             {
               "rank": 23,
@@ -200333,7 +200955,8 @@ const leaderboardData = {
               "average_rank_percent": 8.833333333333334,
               "key_stats": "Stri:0.6 DPS:1554.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/31.0"
             },
             {
               "rank": 24,
@@ -200344,7 +200967,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Stri:0.6 DPS:729.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/43.0"
             },
             {
               "rank": 25,
@@ -200355,7 +200979,8 @@ const leaderboardData = {
               "average_rank_percent": 10.428571428571429,
               "key_stats": "Stri:0.5 DPS:948.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.6/21.0"
             },
             {
               "rank": 26,
@@ -200366,7 +200991,8 @@ const leaderboardData = {
               "average_rank_percent": 9.8,
               "key_stats": "Stri:0.4 DPS:1030.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.9/32.6"
             },
             {
               "rank": 27,
@@ -200377,7 +201003,8 @@ const leaderboardData = {
               "average_rank_percent": 17.75,
               "key_stats": "Stri:0.6 DPS:275.8",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.2/29.7"
             },
             {
               "rank": 28,
@@ -200388,7 +201015,8 @@ const leaderboardData = {
               "average_rank_percent": 15.75,
               "key_stats": "Stri:0.6 DPS:330.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "34.5/29.5"
             },
             {
               "rank": 29,
@@ -200399,7 +201027,8 @@ const leaderboardData = {
               "average_rank_percent": 16.0,
               "key_stats": "Stri:0.8 DPS:384.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "43.0/27.0"
             },
             {
               "rank": 30,
@@ -200410,7 +201039,8 @@ const leaderboardData = {
               "average_rank_percent": 12.0,
               "key_stats": "Stri:0.5 DPS:903.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.0/23.5"
             },
             {
               "rank": 31,
@@ -200421,7 +201051,8 @@ const leaderboardData = {
               "average_rank_percent": 15.5,
               "key_stats": "Stri:0.4 DPS:232.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/20.0"
             },
             {
               "rank": 32,
@@ -200432,7 +201063,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stri:0.3 DPS:286.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.0/19.0"
             },
             {
               "rank": 33,
@@ -200443,7 +201075,8 @@ const leaderboardData = {
               "average_rank_percent": 10.0,
               "key_stats": "Stri:0.5 DPS:1385.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.0/33.0"
             },
             {
               "rank": 34,
@@ -200454,7 +201087,8 @@ const leaderboardData = {
               "average_rank_percent": 12.68421052631579,
               "key_stats": "Stri:0.4 DPS:800.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.8/20.2"
             },
             {
               "rank": 35,
@@ -200465,7 +201099,8 @@ const leaderboardData = {
               "average_rank_percent": 12.333333333333334,
               "key_stats": "Stri:0.6 DPS:1138.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.3/22.3"
             },
             {
               "rank": 36,
@@ -200476,7 +201111,8 @@ const leaderboardData = {
               "average_rank_percent": 16.77777777777778,
               "key_stats": "Stri:0.4 DPS:517.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "41.6/21.0"
             },
             {
               "rank": 37,
@@ -200487,7 +201123,8 @@ const leaderboardData = {
               "average_rank_percent": 14.0,
               "key_stats": "Stri:0.5 DPS:666.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/19.5"
             },
             {
               "rank": 38,
@@ -200498,7 +201135,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:830.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
             },
             {
               "rank": 39,
@@ -200509,7 +201147,8 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "key_stats": "Stri:0.7 DPS:944.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "32.0/22.0"
             },
             {
               "rank": 40,
@@ -200520,7 +201159,8 @@ const leaderboardData = {
               "average_rank_percent": 10.8125,
               "key_stats": "Stri:0.4 DPS:872.6",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.8/18.8"
             },
             {
               "rank": 41,
@@ -200531,7 +201171,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stri:0.4 DPS:425.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "29.3/15.0"
             },
             {
               "rank": 42,
@@ -200542,7 +201183,8 @@ const leaderboardData = {
               "average_rank_percent": 20.0,
               "key_stats": "Stri:0.5 DPS:473.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/22.0"
             },
             {
               "rank": 43,
@@ -200553,7 +201195,8 @@ const leaderboardData = {
               "average_rank_percent": 11.75,
               "key_stats": "Stri:0.8 DPS:1055.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "46.0/30.0"
             },
             {
               "rank": 44,
@@ -200564,7 +201207,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Stri:0.4 DPS:1214.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/41.0"
             },
             {
               "rank": 45,
@@ -200575,7 +201219,8 @@ const leaderboardData = {
               "average_rank_percent": 19.5,
               "key_stats": "Stri:0.5 DPS:568.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "22.0/18.0"
             },
             {
               "rank": 46,
@@ -200586,7 +201231,8 @@ const leaderboardData = {
               "average_rank_percent": 20.25,
               "key_stats": "Stri:0.5 DPS:415.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.5/19.0"
             },
             {
               "rank": 47,
@@ -200597,7 +201243,8 @@ const leaderboardData = {
               "average_rank_percent": 22.0,
               "key_stats": "Stri:0.2 DPS:351.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.5/28.0"
             },
             {
               "rank": 48,
@@ -200608,7 +201255,8 @@ const leaderboardData = {
               "average_rank_percent": 19.5,
               "key_stats": "Stri:0.7 DPS:543.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/31.0"
             },
             {
               "rank": 49,
@@ -200619,7 +201267,8 @@ const leaderboardData = {
               "average_rank_percent": 18.666666666666668,
               "key_stats": "Stri:0.4 DPS:555.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "49.0/22.0"
             },
             {
               "rank": 50,
@@ -200630,7 +201279,8 @@ const leaderboardData = {
               "average_rank_percent": 7.5,
               "key_stats": "Stri:0.7 DPS:1430.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "35.0/27.0"
             },
             {
               "rank": 51,
@@ -200641,7 +201291,8 @@ const leaderboardData = {
               "average_rank_percent": 24.5,
               "key_stats": "Stri:0.5 DPS:185.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "31.0/21.0"
             },
             {
               "rank": 52,
@@ -200652,7 +201303,8 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "key_stats": "Stri:0.7 DPS:782.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "53.0/29.0"
             },
             {
               "rank": 53,
@@ -200663,7 +201315,8 @@ const leaderboardData = {
               "average_rank_percent": 18.5,
               "key_stats": "Stri:0.6 DPS:1154.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/38.0"
             },
             {
               "rank": 54,
@@ -200674,7 +201327,8 @@ const leaderboardData = {
               "average_rank_percent": 24.5,
               "key_stats": "Stri:0.4 DPS:308.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "24.0/14.0"
             },
             {
               "rank": 55,
@@ -200685,7 +201339,8 @@ const leaderboardData = {
               "average_rank_percent": 19.0,
               "key_stats": "Stri:0.1 DPS:375.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "44.5/24.5"
             },
             {
               "rank": 56,
@@ -200696,7 +201351,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.3 DPS:167.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/20.0"
             },
             {
               "rank": 57,
@@ -200707,7 +201363,8 @@ const leaderboardData = {
               "average_rank_percent": 22.5,
               "key_stats": "Stri:0.3 DPS:312.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "30.0/20.0"
             },
             {
               "rank": 58,
@@ -200718,7 +201375,8 @@ const leaderboardData = {
               "average_rank_percent": 14.2,
               "key_stats": "Stri:0.3 DPS:653.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.7/22.0"
             },
             {
               "rank": 59,
@@ -200729,7 +201387,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.1 DPS:314.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "29.0/15.5"
             },
             {
               "rank": 60,
@@ -200740,7 +201399,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stri:0.6 DPS:688.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "52.0/30.0"
             },
             {
               "rank": 61,
@@ -200751,7 +201411,8 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "key_stats": "Stri:0.2 DPS:239.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "38.0/21.0"
             }
           ]
         },
@@ -200778,7 +201439,8 @@ const leaderboardData = {
               "average_rank_percent": 10.214285714285714,
               "key_stats": "Migh:35.6 Resi:0.9 Stab:2.9",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.6/31.4"
             },
             {
               "rank": 2,
@@ -200789,7 +201451,8 @@ const leaderboardData = {
               "average_rank_percent": 7.083333333333333,
               "key_stats": "Migh:36.1 Resi:1.4 Stab:4.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "64.0/30.7"
             },
             {
               "rank": 3,
@@ -200800,7 +201463,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/35.0"
             },
             {
               "rank": 4,
@@ -200811,7 +201475,8 @@ const leaderboardData = {
               "average_rank_percent": 7.75,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "34.0/25.0"
             },
             {
               "rank": 5,
@@ -200822,7 +201487,8 @@ const leaderboardData = {
               "average_rank_percent": 6.9,
               "key_stats": "Migh:12.7 Resi:0.8 Stab:2.1",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "37.7/24.3"
             },
             {
               "rank": 6,
@@ -200833,7 +201499,8 @@ const leaderboardData = {
               "average_rank_percent": 9.25,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/36.0"
             },
             {
               "rank": 7,
@@ -200844,7 +201511,8 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "key_stats": "Migh:24.5 Resi:0.7 Stab:2.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.0/26.0"
             },
             {
               "rank": 8,
@@ -200855,7 +201523,8 @@ const leaderboardData = {
               "average_rank_percent": 9.375,
               "key_stats": "Migh:10.7 Resi:0.7 Stab:2.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "45.8/32.2"
             },
             {
               "rank": 9,
@@ -200866,7 +201535,8 @@ const leaderboardData = {
               "average_rank_percent": 10.25,
               "key_stats": "Migh:14.8 Resi:0.8 Stab:3.1",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.0/44.0"
             },
             {
               "rank": 10,
@@ -200877,7 +201547,8 @@ const leaderboardData = {
               "average_rank_percent": 16.25,
               "key_stats": "Migh:17.0 Resi:0.6 Stab:2.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "36.0/31.0"
             },
             {
               "rank": 11,
@@ -200888,7 +201559,8 @@ const leaderboardData = {
               "average_rank_percent": 10.666666666666666,
               "key_stats": "Migh:8.4 Resi:0.9 Stab:3.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "63.0/22.7"
             },
             {
               "rank": 12,
@@ -200899,7 +201571,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/25.0"
             },
             {
               "rank": 13,
@@ -200910,7 +201583,8 @@ const leaderboardData = {
               "average_rank_percent": 10.25,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "58.0/53.0"
             }
           ]
         },
@@ -200935,7 +201609,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stab:5.0 Clea:0.8 DPS:1274.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "67.3/59.0"
             },
             {
               "rank": 2,
@@ -200946,7 +201621,8 @@ const leaderboardData = {
               "average_rank_percent": 11.25,
               "key_stats": "Stab:6.0 Clea:0.5 DPS:906.2",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "68.2/45.5"
             },
             {
               "rank": 3,
@@ -200957,7 +201633,8 @@ const leaderboardData = {
               "average_rank_percent": 5.333333333333333,
               "key_stats": "Stab:5.9 Clea:0.3 DPS:1205.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.5/24.5"
             },
             {
               "rank": 4,
@@ -200968,7 +201645,8 @@ const leaderboardData = {
               "average_rank_percent": 9.333333333333334,
               "key_stats": "Stab:8.8 Clea:0.7 DPS:1947.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "89.0/53.0"
             },
             {
               "rank": 5,
@@ -200979,7 +201657,8 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "70.0/48.0"
             },
             {
               "rank": 6,
@@ -200990,7 +201669,8 @@ const leaderboardData = {
               "average_rank_percent": 12.0,
               "key_stats": "Stab:6.1 Clea:0.4 DPS:1084.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/49.3"
             },
             {
               "rank": 7,
@@ -201001,7 +201681,8 @@ const leaderboardData = {
               "average_rank_percent": 11.333333333333334,
               "key_stats": "Stab:5.5 Clea:0.6 DPS:1446.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "72.0/62.0"
             },
             {
               "rank": 8,
@@ -201012,7 +201693,8 @@ const leaderboardData = {
               "average_rank_percent": 13.11111111111111,
               "key_stats": "Stab:6.6 Clea:0.3 DPS:629.7",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "40.3/36.0"
             },
             {
               "rank": 9,
@@ -201023,7 +201705,8 @@ const leaderboardData = {
               "average_rank_percent": 13.166666666666666,
               "key_stats": "Stab:6.8 Clea:0.3 DPS:510.5",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "47.0/33.8"
             },
             {
               "rank": 10,
@@ -201034,7 +201717,8 @@ const leaderboardData = {
               "average_rank_percent": 13.0,
               "key_stats": "Stab:3.4 Clea:0.4 DPS:599.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "76.0/33.0"
             },
             {
               "rank": 11,
@@ -201045,7 +201729,8 @@ const leaderboardData = {
               "average_rank_percent": 17.0,
               "key_stats": "Stab:4.5 Clea:0.4 DPS:1109.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "57.0/46.0"
             },
             {
               "rank": 12,
@@ -201056,7 +201741,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:6.1 Clea:0.9 DPS:1434.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "54.0/36.0"
             },
             {
               "rank": 13,
@@ -201067,7 +201753,8 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "key_stats": "Stab:6.7 Clea:0.3 DPS:823.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "84.0/63.0"
             },
             {
               "rank": 14,
@@ -201078,7 +201765,8 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "84.0/49.0"
             },
             {
               "rank": 15,
@@ -201089,7 +201777,8 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "key_stats": "Stab:5.8 Clea:0.9 DPS:1320.0",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "50.0/38.0"
             },
             {
               "rank": 16,
@@ -201100,7 +201789,8 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "55.0/39.0"
             },
             {
               "rank": 17,
@@ -201111,7 +201801,8 @@ const leaderboardData = {
               "average_rank_percent": 19.4,
               "key_stats": "Stab:3.4 Clea:0.2 DPS:377.5",
               "is_guild_member": false,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "42.0/26.0"
             },
             {
               "rank": 18,
@@ -201122,7 +201813,8 @@ const leaderboardData = {
               "average_rank_percent": 10.333333333333334,
               "key_stats": "Stab:3.1 Clea:0.3 DPS:667.0",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "51.0/39.0"
             },
             {
               "rank": 19,
@@ -201133,7 +201825,8 @@ const leaderboardData = {
               "average_rank_percent": 12.238095238095237,
               "key_stats": "Stab:4.9 Clea:0.3 DPS:850.4",
               "is_guild_member": true,
-              "rating_delta": 0.0
+              "rating_delta": 0.0,
+              "apm": "69.7/39.9"
             }
           ]
         }
@@ -297772,6 +298465,11 @@ function loadProfessionLeaderboard(profession) {
             key: 'key_stats',
             label: 'Key Stats',
             type: 'stats'
+        },
+        {
+            key: 'apm',
+            label: 'APM',
+            type: 'apm'
         }
     ];
     
@@ -298081,7 +298779,7 @@ function createLeaderboardTable(data, columns, tableId = 'leaderboard') {
 }
 
 function formatCellValue(value, type) {
-    if (value === null || value === undefined) {
+    if ((value === null || value === undefined) && type !== 'apm') {
         return 'N/A';
     }
     
@@ -298120,6 +298818,8 @@ function formatCellValue(value, type) {
             } else {
                 return `<span class="delta-negative">${value.toFixed(1)}</span>`;
             }
+        case 'apm':
+            return (value !== null && value !== undefined) ? `<span class="stat-value">${value}</span>` : '<span class="stat-value">-</span>';
         default:
             return value;
     }
