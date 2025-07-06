@@ -1,6 +1,6 @@
 // Leaderboard data
 const leaderboardData = {
-  "generated_at": "2025-07-06T02:27:29.049288",
+  "generated_at": "2025-07-06T14:12:39.360144",
   "guild_enabled": false,
   "guild_name": "Pyromancers",
   "guild_tag": "PYRO",
@@ -46521,444 +46521,6 @@ const leaderboardData = {
             }
           ]
         },
-        "Chronomancer": {
-          "metrics": [
-            "Stability",
-            "Cleanses",
-            "Resistance",
-            "Healing",
-            "Barrier"
-          ],
-          "weights": [
-            0.35,
-            0.35,
-            0.15,
-            0.1,
-            0.05
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "Bailyen Arturius.4263",
-              "composite_score": 1666.3124693170746,
-              "glicko_rating": 1666.3124693170746,
-              "games_played": 50,
-              "average_rank_percent": 5.3,
-              "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "57.4/28.5"
-            },
-            {
-              "rank": 2,
-              "account_name": "Disenable.1640",
-              "composite_score": 1603.3773175245788,
-              "glicko_rating": 1603.3773175245788,
-              "games_played": 23,
-              "average_rank_percent": 4.478260869565218,
-              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "51.0/26.6"
-            },
-            {
-              "rank": 3,
-              "account_name": "Muted.8591",
-              "composite_score": 1595.6172703815607,
-              "glicko_rating": 1595.6172703815607,
-              "games_played": 55,
-              "average_rank_percent": 7.072727272727272,
-              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.8/31.7"
-            },
-            {
-              "rank": 4,
-              "account_name": "Ronin.4501",
-              "composite_score": 1578.3507931453298,
-              "glicko_rating": 1578.3507931453298,
-              "games_played": 9,
-              "average_rank_percent": 5.222222222222222,
-              "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.5/37.0"
-            },
-            {
-              "rank": 5,
-              "account_name": "Uriah.7082",
-              "composite_score": 1571.284643313535,
-              "glicko_rating": 1571.284643313535,
-              "games_played": 23,
-              "average_rank_percent": 6.260869565217392,
-              "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "61.0/34.2"
-            },
-            {
-              "rank": 6,
-              "account_name": "bernadettesurprise.3297",
-              "composite_score": 1568.1481545717616,
-              "glicko_rating": 1568.1481545717616,
-              "games_played": 5,
-              "average_rank_percent": 6.6,
-              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/32.0"
-            },
-            {
-              "rank": 7,
-              "account_name": "Crator of Fire.1796",
-              "composite_score": 1565.7030112521657,
-              "glicko_rating": 1565.7030112521657,
-              "games_played": 9,
-              "average_rank_percent": 10.0,
-              "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "42.0/28.0"
-            },
-            {
-              "rank": 8,
-              "account_name": "On Fire.7602",
-              "composite_score": 1556.5493341686604,
-              "glicko_rating": 1556.5493341686604,
-              "games_played": 5,
-              "average_rank_percent": 8.6,
-              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "69.0/33.0"
-            },
-            {
-              "rank": 9,
-              "account_name": "ABC.9386",
-              "composite_score": 1554.9696131805972,
-              "glicko_rating": 1554.9696131805972,
-              "games_played": 5,
-              "average_rank_percent": 6.2,
-              "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "65.0/36.0"
-            },
-            {
-              "rank": 10,
-              "account_name": "Degothia.7394",
-              "composite_score": 1553.640532165705,
-              "glicko_rating": 1553.640532165705,
-              "games_played": 10,
-              "average_rank_percent": 6.5,
-              "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "41.0/30.5"
-            },
-            {
-              "rank": 11,
-              "account_name": "Igure.2063",
-              "composite_score": 1542.7276427687323,
-              "glicko_rating": 1542.7276427687323,
-              "games_played": 5,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:8.7 Clea:0.2 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "39.0/31.0"
-            },
-            {
-              "rank": 12,
-              "account_name": "synco.8132",
-              "composite_score": 1542.54073001449,
-              "glicko_rating": 1542.54073001449,
-              "games_played": 29,
-              "average_rank_percent": 8.793103448275861,
-              "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/25.4"
-            },
-            {
-              "rank": 13,
-              "account_name": "Mellis.8451",
-              "composite_score": 1537.485212679087,
-              "glicko_rating": 1537.485212679087,
-              "games_played": 18,
-              "average_rank_percent": 6.611111111111111,
-              "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "35.5/22.8"
-            },
-            {
-              "rank": 14,
-              "account_name": "Nictheman.9754",
-              "composite_score": 1537.2304668516022,
-              "glicko_rating": 1537.2304668516022,
-              "games_played": 67,
-              "average_rank_percent": 6.776119402985074,
-              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "44.7/35.6"
-            },
-            {
-              "rank": 15,
-              "account_name": "Lookiey.1387",
-              "composite_score": 1533.8999059604193,
-              "glicko_rating": 1533.8999059604193,
-              "games_played": 5,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "36.0/24.0"
-            },
-            {
-              "rank": 16,
-              "account_name": "Kearsarge.9357",
-              "composite_score": 1533.429052783799,
-              "glicko_rating": 1533.429052783799,
-              "games_played": 5,
-              "average_rank_percent": 5.8,
-              "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/39.0"
-            },
-            {
-              "rank": 17,
-              "account_name": "Havocus.3682",
-              "composite_score": 1531.3537722501724,
-              "glicko_rating": 1531.3537722501724,
-              "games_played": 25,
-              "average_rank_percent": 8.44,
-              "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "52.0/24.4"
-            },
-            {
-              "rank": 18,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1531.2373628287528,
-              "glicko_rating": 1531.2373628287528,
-              "games_played": 13,
-              "average_rank_percent": 6.769230769230769,
-              "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "59.3/38.7"
-            },
-            {
-              "rank": 19,
-              "account_name": "Jim.5419",
-              "composite_score": 1527.6882683994913,
-              "glicko_rating": 1527.6882683994913,
-              "games_played": 5,
-              "average_rank_percent": 9.2,
-              "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "45.0/27.0"
-            },
-            {
-              "rank": 20,
-              "account_name": "katoki.7869",
-              "composite_score": 1519.716894183684,
-              "glicko_rating": 1519.716894183684,
-              "games_played": 24,
-              "average_rank_percent": 8.666666666666666,
-              "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "55.2/24.0"
-            },
-            {
-              "rank": 21,
-              "account_name": "mng.1634",
-              "composite_score": 1518.0833312424265,
-              "glicko_rating": 1518.0833312424265,
-              "games_played": 5,
-              "average_rank_percent": 12.4,
-              "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/25.0"
-            },
-            {
-              "rank": 22,
-              "account_name": "Mini.1786",
-              "composite_score": 1507.3434385516628,
-              "glicko_rating": 1507.3434385516628,
-              "games_played": 5,
-              "average_rank_percent": 9.2,
-              "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "71.0/32.0"
-            },
-            {
-              "rank": 23,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1505.2518552251936,
-              "glicko_rating": 1505.2518552251936,
-              "games_played": 13,
-              "average_rank_percent": 7.230769230769231,
-              "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "41.7/25.3"
-            },
-            {
-              "rank": 24,
-              "account_name": "Mini.8130",
-              "composite_score": 1496.4624235048918,
-              "glicko_rating": 1496.4624235048918,
-              "games_played": 5,
-              "average_rank_percent": 7.4,
-              "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "57.0/34.0"
-            },
-            {
-              "rank": 25,
-              "account_name": "Bleebt.4108",
-              "composite_score": 1492.28067834946,
-              "glicko_rating": 1492.28067834946,
-              "games_played": 10,
-              "average_rank_percent": 10.9,
-              "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "50.5/25.5"
-            },
-            {
-              "rank": 26,
-              "account_name": "pariah.6937",
-              "composite_score": 1488.3002183671197,
-              "glicko_rating": 1488.3002183671197,
-              "games_played": 10,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "36.0/20.5"
-            },
-            {
-              "rank": 27,
-              "account_name": "Bother.9415",
-              "composite_score": 1468.800721936516,
-              "glicko_rating": 1468.800721936516,
-              "games_played": 5,
-              "average_rank_percent": 9.4,
-              "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "49.0/31.0"
-            },
-            {
-              "rank": 28,
-              "account_name": "Malek.9417",
-              "composite_score": 1466.7795379414895,
-              "glicko_rating": 1466.7795379414895,
-              "games_played": 8,
-              "average_rank_percent": 9.625,
-              "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.5/23.5"
-            },
-            {
-              "rank": 29,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1465.8245492676517,
-              "glicko_rating": 1465.8245492676517,
-              "games_played": 10,
-              "average_rank_percent": 8.6,
-              "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "33.0/26.5"
-            },
-            {
-              "rank": 30,
-              "account_name": "CaptainKnightfall.4378",
-              "composite_score": 1465.1825081602187,
-              "glicko_rating": 1465.1825081602187,
-              "games_played": 7,
-              "average_rank_percent": 13.0,
-              "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "26.5/13.5"
-            },
-            {
-              "rank": 31,
-              "account_name": "Graven.4325",
-              "composite_score": 1457.2581799696413,
-              "glicko_rating": 1457.2581799696413,
-              "games_played": 5,
-              "average_rank_percent": 7.8,
-              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "49.0/19.0"
-            },
-            {
-              "rank": 32,
-              "account_name": "Eliare.4069",
-              "composite_score": 1455.0928724345904,
-              "glicko_rating": 1455.0928724345904,
-              "games_played": 5,
-              "average_rank_percent": 9.6,
-              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "35.0/17.0"
-            },
-            {
-              "rank": 33,
-              "account_name": "GreatPadinski.2170",
-              "composite_score": 1444.822325853459,
-              "glicko_rating": 1444.822325853459,
-              "games_played": 13,
-              "average_rank_percent": 14.23076923076923,
-              "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "39.3/23.7"
-            },
-            {
-              "rank": 34,
-              "account_name": "Bad Karma.8407",
-              "composite_score": 1428.1039738989934,
-              "glicko_rating": 1428.1039738989934,
-              "games_played": 5,
-              "average_rank_percent": 9.6,
-              "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "61.0/15.0"
-            },
-            {
-              "rank": 35,
-              "account_name": "Sieia.3642",
-              "composite_score": 1396.4437363427814,
-              "glicko_rating": 1396.4437363427814,
-              "games_played": 12,
-              "average_rank_percent": 11.916666666666666,
-              "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "32.7/16.7"
-            }
-          ]
-        },
         "Druid": {
           "metrics": [
             "Healing",
@@ -47436,6 +46998,444 @@ const leaderboardData = {
               "is_guild_member": false,
               "rating_delta": 0.0,
               "apm": "53.0/43.0"
+            }
+          ]
+        },
+        "Chronomancer": {
+          "metrics": [
+            "Stability",
+            "Cleanses",
+            "Resistance",
+            "Healing",
+            "Barrier"
+          ],
+          "weights": [
+            0.35,
+            0.35,
+            0.15,
+            0.1,
+            0.05
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "Bailyen Arturius.4263",
+              "composite_score": 1666.3124693170746,
+              "glicko_rating": 1666.3124693170746,
+              "games_played": 50,
+              "average_rank_percent": 5.3,
+              "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "57.4/28.5"
+            },
+            {
+              "rank": 2,
+              "account_name": "Disenable.1640",
+              "composite_score": 1603.3773175245788,
+              "glicko_rating": 1603.3773175245788,
+              "games_played": 23,
+              "average_rank_percent": 4.478260869565218,
+              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "51.0/26.6"
+            },
+            {
+              "rank": 3,
+              "account_name": "Muted.8591",
+              "composite_score": 1595.6172703815607,
+              "glicko_rating": 1595.6172703815607,
+              "games_played": 55,
+              "average_rank_percent": 7.072727272727272,
+              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.8/31.7"
+            },
+            {
+              "rank": 4,
+              "account_name": "Ronin.4501",
+              "composite_score": 1578.3507931453298,
+              "glicko_rating": 1578.3507931453298,
+              "games_played": 9,
+              "average_rank_percent": 5.222222222222222,
+              "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.5/37.0"
+            },
+            {
+              "rank": 5,
+              "account_name": "Uriah.7082",
+              "composite_score": 1571.284643313535,
+              "glicko_rating": 1571.284643313535,
+              "games_played": 23,
+              "average_rank_percent": 6.260869565217392,
+              "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "61.0/34.2"
+            },
+            {
+              "rank": 6,
+              "account_name": "bernadettesurprise.3297",
+              "composite_score": 1568.1481545717616,
+              "glicko_rating": 1568.1481545717616,
+              "games_played": 5,
+              "average_rank_percent": 6.6,
+              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
+            },
+            {
+              "rank": 7,
+              "account_name": "Crator of Fire.1796",
+              "composite_score": 1565.7030112521657,
+              "glicko_rating": 1565.7030112521657,
+              "games_played": 9,
+              "average_rank_percent": 10.0,
+              "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "42.0/28.0"
+            },
+            {
+              "rank": 8,
+              "account_name": "On Fire.7602",
+              "composite_score": 1556.5493341686604,
+              "glicko_rating": 1556.5493341686604,
+              "games_played": 5,
+              "average_rank_percent": 8.6,
+              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.0/33.0"
+            },
+            {
+              "rank": 9,
+              "account_name": "ABC.9386",
+              "composite_score": 1554.9696131805972,
+              "glicko_rating": 1554.9696131805972,
+              "games_played": 5,
+              "average_rank_percent": 6.2,
+              "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "65.0/36.0"
+            },
+            {
+              "rank": 10,
+              "account_name": "Degothia.7394",
+              "composite_score": 1553.640532165705,
+              "glicko_rating": 1553.640532165705,
+              "games_played": 10,
+              "average_rank_percent": 6.5,
+              "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
+            },
+            {
+              "rank": 11,
+              "account_name": "Igure.2063",
+              "composite_score": 1542.7276427687323,
+              "glicko_rating": 1542.7276427687323,
+              "games_played": 5,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:8.7 Clea:0.2 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "39.0/31.0"
+            },
+            {
+              "rank": 12,
+              "account_name": "synco.8132",
+              "composite_score": 1542.54073001449,
+              "glicko_rating": 1542.54073001449,
+              "games_played": 29,
+              "average_rank_percent": 8.793103448275861,
+              "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/25.4"
+            },
+            {
+              "rank": 13,
+              "account_name": "Mellis.8451",
+              "composite_score": 1537.485212679087,
+              "glicko_rating": 1537.485212679087,
+              "games_played": 18,
+              "average_rank_percent": 6.611111111111111,
+              "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "35.5/22.8"
+            },
+            {
+              "rank": 14,
+              "account_name": "Nictheman.9754",
+              "composite_score": 1537.2304668516022,
+              "glicko_rating": 1537.2304668516022,
+              "games_played": 67,
+              "average_rank_percent": 6.776119402985074,
+              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "44.7/35.6"
+            },
+            {
+              "rank": 15,
+              "account_name": "Lookiey.1387",
+              "composite_score": 1533.8999059604193,
+              "glicko_rating": 1533.8999059604193,
+              "games_played": 5,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "36.0/24.0"
+            },
+            {
+              "rank": 16,
+              "account_name": "Kearsarge.9357",
+              "composite_score": 1533.429052783799,
+              "glicko_rating": 1533.429052783799,
+              "games_played": 5,
+              "average_rank_percent": 5.8,
+              "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/39.0"
+            },
+            {
+              "rank": 17,
+              "account_name": "Havocus.3682",
+              "composite_score": 1531.3537722501724,
+              "glicko_rating": 1531.3537722501724,
+              "games_played": 25,
+              "average_rank_percent": 8.44,
+              "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "52.0/24.4"
+            },
+            {
+              "rank": 18,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1531.2373628287528,
+              "glicko_rating": 1531.2373628287528,
+              "games_played": 13,
+              "average_rank_percent": 6.769230769230769,
+              "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "59.3/38.7"
+            },
+            {
+              "rank": 19,
+              "account_name": "Jim.5419",
+              "composite_score": 1527.6882683994913,
+              "glicko_rating": 1527.6882683994913,
+              "games_played": 5,
+              "average_rank_percent": 9.2,
+              "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "45.0/27.0"
+            },
+            {
+              "rank": 20,
+              "account_name": "katoki.7869",
+              "composite_score": 1519.716894183684,
+              "glicko_rating": 1519.716894183684,
+              "games_played": 24,
+              "average_rank_percent": 8.666666666666666,
+              "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "55.2/24.0"
+            },
+            {
+              "rank": 21,
+              "account_name": "mng.1634",
+              "composite_score": 1518.0833312424265,
+              "glicko_rating": 1518.0833312424265,
+              "games_played": 5,
+              "average_rank_percent": 12.4,
+              "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/25.0"
+            },
+            {
+              "rank": 22,
+              "account_name": "Mini.1786",
+              "composite_score": 1507.3434385516628,
+              "glicko_rating": 1507.3434385516628,
+              "games_played": 5,
+              "average_rank_percent": 9.2,
+              "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "71.0/32.0"
+            },
+            {
+              "rank": 23,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1505.2518552251936,
+              "glicko_rating": 1505.2518552251936,
+              "games_played": 13,
+              "average_rank_percent": 7.230769230769231,
+              "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "41.7/25.3"
+            },
+            {
+              "rank": 24,
+              "account_name": "Mini.8130",
+              "composite_score": 1496.4624235048918,
+              "glicko_rating": 1496.4624235048918,
+              "games_played": 5,
+              "average_rank_percent": 7.4,
+              "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "57.0/34.0"
+            },
+            {
+              "rank": 25,
+              "account_name": "Bleebt.4108",
+              "composite_score": 1492.28067834946,
+              "glicko_rating": 1492.28067834946,
+              "games_played": 10,
+              "average_rank_percent": 10.9,
+              "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "50.5/25.5"
+            },
+            {
+              "rank": 26,
+              "account_name": "pariah.6937",
+              "composite_score": 1488.3002183671197,
+              "glicko_rating": 1488.3002183671197,
+              "games_played": 10,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "36.0/20.5"
+            },
+            {
+              "rank": 27,
+              "account_name": "Bother.9415",
+              "composite_score": 1468.800721936516,
+              "glicko_rating": 1468.800721936516,
+              "games_played": 5,
+              "average_rank_percent": 9.4,
+              "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "49.0/31.0"
+            },
+            {
+              "rank": 28,
+              "account_name": "Malek.9417",
+              "composite_score": 1466.7795379414895,
+              "glicko_rating": 1466.7795379414895,
+              "games_played": 8,
+              "average_rank_percent": 9.625,
+              "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.5/23.5"
+            },
+            {
+              "rank": 29,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1465.8245492676517,
+              "glicko_rating": 1465.8245492676517,
+              "games_played": 10,
+              "average_rank_percent": 8.6,
+              "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "33.0/26.5"
+            },
+            {
+              "rank": 30,
+              "account_name": "CaptainKnightfall.4378",
+              "composite_score": 1465.1825081602187,
+              "glicko_rating": 1465.1825081602187,
+              "games_played": 7,
+              "average_rank_percent": 13.0,
+              "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "26.5/13.5"
+            },
+            {
+              "rank": 31,
+              "account_name": "Graven.4325",
+              "composite_score": 1457.2581799696413,
+              "glicko_rating": 1457.2581799696413,
+              "games_played": 5,
+              "average_rank_percent": 7.8,
+              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
+            },
+            {
+              "rank": 32,
+              "account_name": "Eliare.4069",
+              "composite_score": 1455.0928724345904,
+              "glicko_rating": 1455.0928724345904,
+              "games_played": 5,
+              "average_rank_percent": 9.6,
+              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
+            },
+            {
+              "rank": 33,
+              "account_name": "GreatPadinski.2170",
+              "composite_score": 1444.822325853459,
+              "glicko_rating": 1444.822325853459,
+              "games_played": 13,
+              "average_rank_percent": 14.23076923076923,
+              "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "39.3/23.7"
+            },
+            {
+              "rank": 34,
+              "account_name": "Bad Karma.8407",
+              "composite_score": 1428.1039738989934,
+              "glicko_rating": 1428.1039738989934,
+              "games_played": 5,
+              "average_rank_percent": 9.6,
+              "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "61.0/15.0"
+            },
+            {
+              "rank": 35,
+              "account_name": "Sieia.3642",
+              "composite_score": 1396.4437363427814,
+              "glicko_rating": 1396.4437363427814,
+              "games_played": 12,
+              "average_rank_percent": 11.916666666666666,
+              "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "32.7/16.7"
             }
           ]
         },
@@ -62833,7 +62833,44 @@ const leaderboardData = {
           {
             "rank": 1,
             "account_name": "Interpretor.3091",
-            "professions_played": "Spellbreaker (14), Warrior (8), Berserker (6), Untamed (5), Catalyst (3), Holosmith (2), Vindicator (1), Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 14
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 8
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 6
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 5
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 41,
             "profession_count": 9,
             "primary_profession": "Spellbreaker",
@@ -62842,7 +62879,48 @@ const leaderboardData = {
           {
             "rank": 2,
             "account_name": "Havocus.3682",
-            "professions_played": "Catalyst (10), Scourge (8), Chronomancer (5), Berserker (3), Vindicator (2), Reaper (2), Firebrand (2), Dragonhunter (2), Support Spb (1), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 10
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 8
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 3
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 36,
             "profession_count": 10,
             "primary_profession": "Catalyst",
@@ -62851,7 +62929,28 @@ const leaderboardData = {
           {
             "rank": 3,
             "account_name": "Dextra.8162",
-            "professions_played": "Weaver (20), Catalyst (8), Soulbeast (4), Thief (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 20
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Soulbeast",
+                "session_count": 4
+              },
+              {
+                "profession": "Thief",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 34,
             "profession_count": 5,
             "primary_profession": "Weaver",
@@ -62860,7 +62959,36 @@ const leaderboardData = {
           {
             "rank": 4,
             "account_name": "ParaldaWind.4523",
-            "professions_played": "China DH (20), Dragonhunter (7), Condi Firebrand (2), Vindicator (1), Specter (1), Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "China DH",
+                "session_count": 20
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 7
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 33,
             "profession_count": 7,
             "primary_profession": "China DH",
@@ -62869,7 +62997,48 @@ const leaderboardData = {
           {
             "rank": 5,
             "account_name": "Nictheman.9754",
-            "professions_played": "Chronomancer (14), Spellbreaker (8), Warrior (2), Support Spb (1), Reaper (1), Holosmith (1), Firebrand (1), Condi Firebrand (1), Catalyst (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 14
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 8
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 31,
             "profession_count": 10,
             "primary_profession": "Chronomancer",
@@ -62878,7 +63047,40 @@ const leaderboardData = {
           {
             "rank": 6,
             "account_name": "synco.8132",
-            "professions_played": "Catalyst (8), Chronomancer (7), Support Spb (4), Druid (4), Scourge (3), Vindicator (2), Boon Cata (2), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 7
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              },
+              {
+                "profession": "Boon Cata",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 31,
             "profession_count": 8,
             "primary_profession": "Catalyst",
@@ -62887,7 +63089,24 @@ const leaderboardData = {
           {
             "rank": 7,
             "account_name": "Nero.6195",
-            "professions_played": "Scourge (10), Firebrand (10), Condi Firebrand (7), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 10
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 7
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 28,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -62896,7 +63115,44 @@ const leaderboardData = {
           {
             "rank": 8,
             "account_name": "Freelanced.6084",
-            "professions_played": "Scourge (10), Catalyst (8), Scrapper (2), Firebrand (2), Vindicator (1), Reaper (1), Holosmith (1), Dragonhunter (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 27,
             "profession_count": 9,
             "primary_profession": "Scourge",
@@ -62905,7 +63161,20 @@ const leaderboardData = {
           {
             "rank": 9,
             "account_name": "Huge.5891",
-            "professions_played": "Dragonhunter (19), Willbender (4), China DH (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 19
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 4
+              },
+              {
+                "profession": "China DH",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 24,
             "profession_count": 3,
             "primary_profession": "Dragonhunter",
@@ -62914,7 +63183,40 @@ const leaderboardData = {
           {
             "rank": 10,
             "account_name": "Soothsayer.9206",
-            "professions_played": "Untamed (9), Scourge (4), Druid (3), Dragonhunter (3), Catalyst (2), Warrior (1), Spellbreaker (1), Renegade (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 9
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 24,
             "profession_count": 8,
             "primary_profession": "Untamed",
@@ -62923,7 +63225,44 @@ const leaderboardData = {
           {
             "rank": 11,
             "account_name": "Uriah.7082",
-            "professions_played": "Chronomancer (5), Vindicator (4), Scourge (4), Druid (4), Spellbreaker (2), Berserker (2), Warrior (1), Herald (1), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 4
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 24,
             "profession_count": 9,
             "primary_profession": "Chronomancer",
@@ -62932,7 +63271,32 @@ const leaderboardData = {
           {
             "rank": 12,
             "account_name": "Mellis.8451",
-            "professions_played": "Scourge (7), Firebrand (6), Chronomancer (4), Condi Firebrand (3), Dragonhunter (2), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 7
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 6
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 23,
             "profession_count": 6,
             "primary_profession": "Scourge",
@@ -62941,7 +63305,20 @@ const leaderboardData = {
           {
             "rank": 13,
             "account_name": "Astro Bear.6305",
-            "professions_played": "Druid (17), Firebrand (4), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 17
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 22,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -62950,7 +63327,28 @@ const leaderboardData = {
           {
             "rank": 14,
             "account_name": "Luke.9108",
-            "professions_played": "Scourge (10), Untamed (3), Reaper (3), Condi Firebrand (3), Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 3
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 5,
             "primary_profession": "Scourge",
@@ -62959,7 +63357,56 @@ const leaderboardData = {
           {
             "rank": 15,
             "account_name": "Pieswithattitude.2357",
-            "professions_played": "Catalyst (5), Spellbreaker (3), Chronomancer (3), Druid (2), Tempest (1), Scrapper (1), Scourge (1), Reaper (1), Holosmith (1), Dragonhunter (1), Boon Cata (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 12,
             "primary_profession": "Catalyst",
@@ -62968,7 +63415,20 @@ const leaderboardData = {
           {
             "rank": 16,
             "account_name": "modus.7921",
-            "professions_played": "Druid (16), Firebrand (4), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 16
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -62977,7 +63437,36 @@ const leaderboardData = {
           {
             "rank": 17,
             "account_name": "FlawedDjinn.3217",
-            "professions_played": "Scourge (5), Druid (5), Untamed (3), Chronomancer (3), Boon Vindi (2), Reaper (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Druid",
+                "session_count": 5
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 20,
             "profession_count": 7,
             "primary_profession": "Scourge",
@@ -62986,7 +63475,24 @@ const leaderboardData = {
           {
             "rank": 18,
             "account_name": "Muted.8591",
-            "professions_played": "Chronomancer (12), Reaper (5), Tempest (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 12
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 19,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -62995,7 +63501,20 @@ const leaderboardData = {
           {
             "rank": 19,
             "account_name": "emz.3571",
-            "professions_played": "Reaper (12), Weaver (3), Catalyst (3)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 12
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 18,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -63004,7 +63523,48 @@ const leaderboardData = {
           {
             "rank": 20,
             "account_name": "Ashtonlightstone.9145",
-            "professions_played": "Druid (4), Reaper (2), Firebrand (2), Dragonhunter (2), Chronomancer (2), Vindicator (1), Spellbreaker (1), Scourge (1), Catalyst (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 10,
             "primary_profession": "Druid",
@@ -63013,7 +63573,28 @@ const leaderboardData = {
           {
             "rank": 21,
             "account_name": "Crator of Fire.1796",
-            "professions_played": "Scourge (5), Reaper (5), Vindicator (4), Chronomancer (2), Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 4
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 5,
             "primary_profession": "Scourge",
@@ -63022,7 +63603,36 @@ const leaderboardData = {
           {
             "rank": 22,
             "account_name": "Malek.9417",
-            "professions_played": "Firebrand (5), Condi Firebrand (4), Druid (3), Chronomancer (2), Spellbreaker (1), Scourge (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 7,
             "primary_profession": "Firebrand",
@@ -63031,7 +63641,24 @@ const leaderboardData = {
           {
             "rank": 23,
             "account_name": "aznsleeper.5896",
-            "professions_played": "Firebrand (13), Chronomancer (2), Vindicator (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 13
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 4,
             "primary_profession": "Firebrand",
@@ -63040,7 +63667,16 @@ const leaderboardData = {
           {
             "rank": 24,
             "account_name": "Aein.1483",
-            "professions_played": "Vindicator (14), Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 14
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -63049,7 +63685,40 @@ const leaderboardData = {
           {
             "rank": 25,
             "account_name": "Bother.9415",
-            "professions_played": "Scourge (3), Holosmith (3), Catalyst (3), Untamed (2), Virtuoso (1), Firebrand (1), Druid (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 8,
             "primary_profession": "Scourge",
@@ -63058,7 +63727,12 @@ const leaderboardData = {
           {
             "rank": 26,
             "account_name": "TigerSpirit.2194",
-            "professions_played": "Druid (15)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 15
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -63067,7 +63741,16 @@ const leaderboardData = {
           {
             "rank": 27,
             "account_name": "adrielle.2109",
-            "professions_played": "Firebrand (11), Condi Firebrand (4)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 11
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -63076,7 +63759,28 @@ const leaderboardData = {
           {
             "rank": 28,
             "account_name": "montjusk.9671",
-            "professions_played": "Warrior (9), Scourge (2), Chronomancer (2), Spellbreaker (1), Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 9
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 5,
             "primary_profession": "Warrior",
@@ -63085,7 +63789,16 @@ const leaderboardData = {
           {
             "rank": 29,
             "account_name": "Bailyen Arturius.4263",
-            "professions_played": "Chronomancer (10), Vindicator (2)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 10
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 12,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -63094,7 +63807,12 @@ const leaderboardData = {
           {
             "rank": 30,
             "account_name": "Smile.9284",
-            "professions_played": "Chronomancer (12)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 12
+              }
+            ],
             "total_sessions": 12,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -63103,7 +63821,20 @@ const leaderboardData = {
           {
             "rank": 31,
             "account_name": "Argo.2675",
-            "professions_played": "Chronomancer (8), Support Spb (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 8
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 3,
             "primary_profession": "Chronomancer",
@@ -63112,7 +63843,28 @@ const leaderboardData = {
           {
             "rank": 32,
             "account_name": "Elgar.2091",
-            "professions_played": "Reaper (5), Scourge (2), Spellbreaker (1), Specter (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Reaper",
@@ -63121,7 +63873,28 @@ const leaderboardData = {
           {
             "rank": 33,
             "account_name": "Johnny.5478",
-            "professions_played": "Reaper (4), Specter (2), Druid (2), Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 4
+              },
+              {
+                "profession": "Specter",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Reaper",
@@ -63130,7 +63903,28 @@ const leaderboardData = {
           {
             "rank": 34,
             "account_name": "Lasthope.7943",
-            "professions_played": "Dragonhunter (4), Guardian (3), Willbender (1), Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 4
+              },
+              {
+                "profession": "Guardian",
+                "session_count": 3
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Dragonhunter",
@@ -63139,7 +63933,24 @@ const leaderboardData = {
           {
             "rank": 35,
             "account_name": "Hiraldo.7954",
-            "professions_played": "Druid (6), Untamed (1), Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 6
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -63148,7 +63959,40 @@ const leaderboardData = {
           {
             "rank": 36,
             "account_name": "Jeff.7219",
-            "professions_played": "Scourge (2), Untamed (1), Spellbreaker (1), Reaper (1), Druid (1), Dragonhunter (1), Catalyst (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 8,
             "primary_profession": "Scourge",
@@ -63157,7 +64001,16 @@ const leaderboardData = {
           {
             "rank": 37,
             "account_name": "OPness.3215",
-            "professions_played": "Support Spb (7), Spellbreaker (2)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 7
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -63166,7 +64019,16 @@ const leaderboardData = {
           {
             "rank": 38,
             "account_name": "mikefmc.5961",
-            "professions_played": "Firebrand (6), Support Spb (3)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 6
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -63175,7 +64037,28 @@ const leaderboardData = {
           {
             "rank": 39,
             "account_name": "CaptainKnightfall.4378",
-            "professions_played": "Tempest (2), Druid (2), Chronomancer (2), Spellbreaker (1), Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 5,
             "primary_profession": "Tempest",
@@ -63184,7 +64067,24 @@ const leaderboardData = {
           {
             "rank": 40,
             "account_name": "Degothia.7394",
-            "professions_played": "Druid (3), Scourge (2), Chronomancer (2), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -63193,7 +64093,24 @@ const leaderboardData = {
           {
             "rank": 41,
             "account_name": "Disenable.1640",
-            "professions_played": "Chronomancer (5), Spellbreaker (1), Scrapper (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -63202,7 +64119,20 @@ const leaderboardData = {
           {
             "rank": 42,
             "account_name": "waschy.6093",
-            "professions_played": "Firebrand (5), Dragonhunter (2), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 3,
             "primary_profession": "Firebrand",
@@ -63211,7 +64141,16 @@ const leaderboardData = {
           {
             "rank": 43,
             "account_name": "Aromapaloma.3194",
-            "professions_played": "Tempest (6), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 6
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -63220,7 +64159,16 @@ const leaderboardData = {
           {
             "rank": 44,
             "account_name": "FrozenDelicious.3690",
-            "professions_played": "Scourge (6), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 6
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -63229,7 +64177,20 @@ const leaderboardData = {
           {
             "rank": 45,
             "account_name": "SilverBlade Hero.8974",
-            "professions_played": "Druid (3), Scourge (2), Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -63238,7 +64199,24 @@ const leaderboardData = {
           {
             "rank": 46,
             "account_name": "Steampunkengineer.7146",
-            "professions_played": "Chronomancer (3), Firebrand (2), Druid (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -63247,7 +64225,12 @@ const leaderboardData = {
           {
             "rank": 47,
             "account_name": "Wootzies.3574",
-            "professions_played": "Tempest (7)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 7
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -63256,7 +64239,28 @@ const leaderboardData = {
           {
             "rank": 48,
             "account_name": "ixJurema.8657",
-            "professions_played": "Tempest (2), Reaper (2), Support Spb (1), Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 5,
             "primary_profession": "Tempest",
@@ -63265,7 +64269,16 @@ const leaderboardData = {
           {
             "rank": 49,
             "account_name": "pariah.6937",
-            "professions_played": "Druid (5), Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 5
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -63274,7 +64287,24 @@ const leaderboardData = {
           {
             "rank": 50,
             "account_name": "Xhil.9316",
-            "professions_played": "Druid (3), Tempest (1), Firebrand (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -63283,7 +64313,16 @@ const leaderboardData = {
           {
             "rank": 51,
             "account_name": "BlueFlame.8673",
-            "professions_played": "Berserker (4), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 4
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Berserker",
@@ -63292,7 +64331,24 @@ const leaderboardData = {
           {
             "rank": 52,
             "account_name": "Bricktus.1682",
-            "professions_played": "Catalyst (2), Untamed (1), Tempest (1), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Catalyst",
@@ -63301,7 +64357,20 @@ const leaderboardData = {
           {
             "rank": 53,
             "account_name": "Coileddarknight.9528",
-            "professions_played": "Support Spb (3), Condi Firebrand (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -63310,7 +64379,24 @@ const leaderboardData = {
           {
             "rank": 54,
             "account_name": "Daasen.3719",
-            "professions_played": "Reaper (2), Scourge (1), Necromancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Necromancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Reaper",
@@ -63319,7 +64405,12 @@ const leaderboardData = {
           {
             "rank": 55,
             "account_name": "Emily.4523",
-            "professions_played": "Druid (5)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 5
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -63328,7 +64419,24 @@ const leaderboardData = {
           {
             "rank": 56,
             "account_name": "Jordan.1860",
-            "professions_played": "Virtuoso (2), Untamed (1), Chronomancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Virtuoso",
@@ -63337,7 +64445,28 @@ const leaderboardData = {
           {
             "rank": 57,
             "account_name": "Max Danger.4031",
-            "professions_played": "Virtuoso (1), Tempest (1), Druid (1), Chronomancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 5,
             "primary_profession": "Virtuoso",
@@ -63346,7 +64475,20 @@ const leaderboardData = {
           {
             "rank": 58,
             "account_name": "Mes.1906",
-            "professions_played": "Scourge (3), Warrior (1), Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -63355,7 +64497,20 @@ const leaderboardData = {
           {
             "rank": 59,
             "account_name": "Mortealug.6043",
-            "professions_played": "Firebrand (2), Condi Firebrand (2), Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Firebrand",
@@ -63364,7 +64519,16 @@ const leaderboardData = {
           {
             "rank": 60,
             "account_name": "Nightbringer.9845",
-            "professions_played": "Berserker (3), Holosmith (2)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 3
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Berserker",
@@ -63373,7 +64537,20 @@ const leaderboardData = {
           {
             "rank": 61,
             "account_name": "Stash.8401",
-            "professions_played": "Scourge (2), Catalyst (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -63382,7 +64559,16 @@ const leaderboardData = {
           {
             "rank": 62,
             "account_name": "Syde.1863",
-            "professions_played": "Scourge (4), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -63391,7 +64577,24 @@ const leaderboardData = {
           {
             "rank": 63,
             "account_name": "filipe.2809",
-            "professions_played": "Scourge (2), Dragonhunter (1), Condi Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -63400,7 +64603,12 @@ const leaderboardData = {
           {
             "rank": 64,
             "account_name": "katoki.7869",
-            "professions_played": "Chronomancer (5)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -63409,7 +64617,24 @@ const leaderboardData = {
           {
             "rank": 65,
             "account_name": "Azelroth.6801",
-            "professions_played": "Vindicator (1), Tempest (1), Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 4,
             "primary_profession": "Vindicator",
@@ -63418,7 +64643,20 @@ const leaderboardData = {
           {
             "rank": 66,
             "account_name": "Basic.9204",
-            "professions_played": "Scourge (2), Spellbreaker (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -63427,7 +64665,16 @@ const leaderboardData = {
           {
             "rank": 67,
             "account_name": "Bertozaur.4578",
-            "professions_played": "Scourge (3), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -63436,7 +64683,16 @@ const leaderboardData = {
           {
             "rank": 68,
             "account_name": "Bouzouki.7598",
-            "professions_played": "Scourge (2), Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -63445,7 +64701,24 @@ const leaderboardData = {
           {
             "rank": 69,
             "account_name": "Chakkkka.2504",
-            "professions_played": "Untamed (1), Tempest (1), Scourge (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 4,
             "primary_profession": "Untamed",
@@ -63454,7 +64727,16 @@ const leaderboardData = {
           {
             "rank": 70,
             "account_name": "Fibbs.1623",
-            "professions_played": "Tempest (2), Condi Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -63463,7 +64745,12 @@ const leaderboardData = {
           {
             "rank": 71,
             "account_name": "Foodels.7358",
-            "professions_played": "Druid (4)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -63472,7 +64759,16 @@ const leaderboardData = {
           {
             "rank": 72,
             "account_name": "Hydrason.4612",
-            "professions_played": "Firebrand (2), Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -63481,7 +64777,20 @@ const leaderboardData = {
           {
             "rank": 73,
             "account_name": "Igure.2063",
-            "professions_played": "Druid (2), Specter (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -63490,7 +64799,16 @@ const leaderboardData = {
           {
             "rank": 74,
             "account_name": "JStillwater.4360",
-            "professions_played": "Tempest (2), Spellbreaker (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -63499,7 +64817,12 @@ const leaderboardData = {
           {
             "rank": 75,
             "account_name": "KaNgUs.1025",
-            "professions_played": "Berserker (4)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -63508,7 +64831,20 @@ const leaderboardData = {
           {
             "rank": 76,
             "account_name": "LightspeedJack.9473",
-            "professions_played": "Holosmith (2), Spellbreaker (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Holosmith",
@@ -63517,7 +64853,16 @@ const leaderboardData = {
           {
             "rank": 77,
             "account_name": "Solomon Darkfury.3729",
-            "professions_played": "Support Spb (3), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -63526,7 +64871,16 @@ const leaderboardData = {
           {
             "rank": 78,
             "account_name": "acumen.1980",
-            "professions_played": "Catalyst (3), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -63535,7 +64889,24 @@ const leaderboardData = {
           {
             "rank": 79,
             "account_name": "amends.3469",
-            "professions_played": "Untamed (1), Scourge (1), Renegade (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 4,
             "primary_profession": "Untamed",
@@ -63544,7 +64915,20 @@ const leaderboardData = {
           {
             "rank": 80,
             "account_name": "pinguinox.9528",
-            "professions_played": "Dragonhunter (2), Spellbreaker (1), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Dragonhunter",
@@ -63553,7 +64937,20 @@ const leaderboardData = {
           {
             "rank": 81,
             "account_name": "Bad Karma.8407",
-            "professions_played": "Scourge (1), Harbinger (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -63562,7 +64959,16 @@ const leaderboardData = {
           {
             "rank": 82,
             "account_name": "Bleebt.4108",
-            "professions_played": "Chronomancer (2), Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -63571,7 +64977,16 @@ const leaderboardData = {
           {
             "rank": 83,
             "account_name": "BlueViolet.8263",
-            "professions_played": "Firebrand (2), Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -63580,7 +64995,20 @@ const leaderboardData = {
           {
             "rank": 84,
             "account_name": "Bronkes.1865",
-            "professions_played": "Scrapper (1), Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Scrapper",
@@ -63589,7 +65017,20 @@ const leaderboardData = {
           {
             "rank": 85,
             "account_name": "CrimeLordXx.3920",
-            "professions_played": "Spellbreaker (1), Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Spellbreaker",
@@ -63598,7 +65039,12 @@ const leaderboardData = {
           {
             "rank": 86,
             "account_name": "Death by Omen.1734",
-            "professions_played": "Spellbreaker (3)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -63607,7 +65053,16 @@ const leaderboardData = {
           {
             "rank": 87,
             "account_name": "Eliare.4069",
-            "professions_played": "Tempest (2), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -63616,7 +65071,12 @@ const leaderboardData = {
           {
             "rank": 88,
             "account_name": "GreatPadinski.2170",
-            "professions_played": "Chronomancer (3)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -63625,7 +65085,20 @@ const leaderboardData = {
           {
             "rank": 89,
             "account_name": "Guars.6409",
-            "professions_played": "Support Spb (1), Spellbreaker (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -63634,7 +65107,20 @@ const leaderboardData = {
           {
             "rank": 90,
             "account_name": "Hostile Pudding.5617",
-            "professions_played": "Support Spb (1), Spellbreaker (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -63643,7 +65129,12 @@ const leaderboardData = {
           {
             "rank": 91,
             "account_name": "HuMbErTerA.4253",
-            "professions_played": "Druid (3)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -63652,7 +65143,12 @@ const leaderboardData = {
           {
             "rank": 92,
             "account_name": "J WreckX.7648",
-            "professions_played": "Druid (3)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -63661,7 +65157,16 @@ const leaderboardData = {
           {
             "rank": 93,
             "account_name": "Kenlos.2354",
-            "professions_played": "Druid (2), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -63670,7 +65175,12 @@ const leaderboardData = {
           {
             "rank": 94,
             "account_name": "King Sylvari.2567",
-            "professions_played": "Firebrand (3)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -63679,7 +65189,16 @@ const leaderboardData = {
           {
             "rank": 95,
             "account_name": "Knightmare.6849",
-            "professions_played": "Scourge (2), Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -63688,7 +65207,16 @@ const leaderboardData = {
           {
             "rank": 96,
             "account_name": "Lozen.7623",
-            "professions_played": "Druid (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -63697,7 +65225,20 @@ const leaderboardData = {
           {
             "rank": 97,
             "account_name": "Mandar.9813",
-            "professions_played": "Tempest (1), Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Tempest",
@@ -63706,7 +65247,20 @@ const leaderboardData = {
           {
             "rank": 98,
             "account_name": "Naomi.5372",
-            "professions_played": "Virtuoso (1), Mirage (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Virtuoso",
@@ -63715,7 +65269,16 @@ const leaderboardData = {
           {
             "rank": 99,
             "account_name": "PelloJello.8241",
-            "professions_played": "Catalyst (2), Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -63724,7 +65287,16 @@ const leaderboardData = {
           {
             "rank": 100,
             "account_name": "Raven Paradox.1860",
-            "professions_played": "Druid (2), Support Spb (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -63733,7 +65305,16 @@ const leaderboardData = {
           {
             "rank": 101,
             "account_name": "Ronin.4501",
-            "professions_played": "Chronomancer (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -63742,7 +65323,12 @@ const leaderboardData = {
           {
             "rank": 102,
             "account_name": "Sieia.3642",
-            "professions_played": "Chronomancer (3)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -63751,7 +65337,16 @@ const leaderboardData = {
           {
             "rank": 103,
             "account_name": "TopestOfKeks.5192",
-            "professions_played": "Berserker (2), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Berserker",
@@ -63760,7 +65355,20 @@ const leaderboardData = {
           {
             "rank": 104,
             "account_name": "Yeek.2976",
-            "professions_played": "Reaper (1), Holosmith (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -63769,7 +65377,16 @@ const leaderboardData = {
           {
             "rank": 105,
             "account_name": "blambidy.3216",
-            "professions_played": "Scourge (2), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -63778,7 +65395,16 @@ const leaderboardData = {
           {
             "rank": 106,
             "account_name": "cmackoy.4973",
-            "professions_played": "Scrapper (2), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scrapper",
@@ -63787,7 +65413,16 @@ const leaderboardData = {
           {
             "rank": 107,
             "account_name": "dobbeh.7382",
-            "professions_played": "Holosmith (2), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -63796,7 +65431,12 @@ const leaderboardData = {
           {
             "rank": 108,
             "account_name": "liloxw.4809",
-            "professions_played": "Scourge (3)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -63805,7 +65445,16 @@ const leaderboardData = {
           {
             "rank": 109,
             "account_name": "limbrose.3079",
-            "professions_played": "Scrapper (2), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scrapper",
@@ -63814,7 +65463,20 @@ const leaderboardData = {
           {
             "rank": 110,
             "account_name": "lordkauet.3458",
-            "professions_played": "Warrior (1), Spellbreaker (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Warrior",
@@ -63823,7 +65485,20 @@ const leaderboardData = {
           {
             "rank": 111,
             "account_name": "mikerock.6187",
-            "professions_played": "Reaper (1), Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -63832,7 +65507,16 @@ const leaderboardData = {
           {
             "rank": 112,
             "account_name": "seppukuYUM.5147",
-            "professions_played": "Spellbreaker (2), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -63841,7 +65525,16 @@ const leaderboardData = {
           {
             "rank": 113,
             "account_name": "wildsilent.6257",
-            "professions_played": "Firebrand (2), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -63850,7 +65543,16 @@ const leaderboardData = {
           {
             "rank": 114,
             "account_name": "yhanbruno.5873",
-            "professions_played": "Catalyst (2), Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -63859,7 +65561,16 @@ const leaderboardData = {
           {
             "rank": 115,
             "account_name": "ABC.9386",
-            "professions_played": "Holosmith (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -63868,7 +65579,16 @@ const leaderboardData = {
           {
             "rank": 116,
             "account_name": "Asterisk.9730",
-            "professions_played": "Support Spb (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -63877,7 +65597,12 @@ const leaderboardData = {
           {
             "rank": 117,
             "account_name": "BattleGalaticNinja.4508",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -63886,7 +65611,12 @@ const leaderboardData = {
           {
             "rank": 118,
             "account_name": "Bellesh.4298",
-            "professions_played": "Tempest (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -63895,7 +65625,16 @@ const leaderboardData = {
           {
             "rank": 119,
             "account_name": "Beneko.8475",
-            "professions_played": "Holosmith (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -63904,7 +65643,12 @@ const leaderboardData = {
           {
             "rank": 120,
             "account_name": "Blinking Router.4305",
-            "professions_played": "Scourge (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -63913,7 +65657,16 @@ const leaderboardData = {
           {
             "rank": 121,
             "account_name": "Carnibaal.2140",
-            "professions_played": "Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -63922,7 +65675,12 @@ const leaderboardData = {
           {
             "rank": 122,
             "account_name": "Clarrovi.9085",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -63931,7 +65689,16 @@ const leaderboardData = {
           {
             "rank": 123,
             "account_name": "Cruelty.9730",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -63940,7 +65707,12 @@ const leaderboardData = {
           {
             "rank": 124,
             "account_name": "DareDevils.6039",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -63949,7 +65721,16 @@ const leaderboardData = {
           {
             "rank": 125,
             "account_name": "DgsWolf.4790",
-            "professions_played": "Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -63958,7 +65739,16 @@ const leaderboardData = {
           {
             "rank": 126,
             "account_name": "EternalEndless.7695",
-            "professions_played": "Scrapper (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scrapper",
@@ -63967,7 +65757,16 @@ const leaderboardData = {
           {
             "rank": 127,
             "account_name": "Eucalyptus.9784",
-            "professions_played": "Virtuoso (1), Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Virtuoso",
@@ -63976,7 +65775,12 @@ const leaderboardData = {
           {
             "rank": 128,
             "account_name": "Fungo Maligno.4081",
-            "professions_played": "Specter (2)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -63985,7 +65789,12 @@ const leaderboardData = {
           {
             "rank": 129,
             "account_name": "General Moo.7930",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -63994,7 +65803,16 @@ const leaderboardData = {
           {
             "rank": 130,
             "account_name": "Hideus.3259",
-            "professions_played": "Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64003,7 +65821,12 @@ const leaderboardData = {
           {
             "rank": 131,
             "account_name": "Jax Blake.7250",
-            "professions_played": "Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -64012,7 +65835,16 @@ const leaderboardData = {
           {
             "rank": 132,
             "account_name": "Mini.8130",
-            "professions_played": "Tempest (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -64021,7 +65853,16 @@ const leaderboardData = {
           {
             "rank": 133,
             "account_name": "Niopek.5123",
-            "professions_played": "Warrior (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Warrior",
@@ -64030,7 +65871,16 @@ const leaderboardData = {
           {
             "rank": 134,
             "account_name": "Niyack.4953",
-            "professions_played": "Scourge (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64039,7 +65889,16 @@ const leaderboardData = {
           {
             "rank": 135,
             "account_name": "Noe.4360",
-            "professions_played": "Reaper (1), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -64048,7 +65907,16 @@ const leaderboardData = {
           {
             "rank": 136,
             "account_name": "POOKIE.5621",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64057,7 +65925,16 @@ const leaderboardData = {
           {
             "rank": 137,
             "account_name": "Pentheus.4571",
-            "professions_played": "Reaper (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -64066,7 +65943,16 @@ const leaderboardData = {
           {
             "rank": 138,
             "account_name": "RoyTheBoy.8693",
-            "professions_played": "Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -64075,7 +65961,16 @@ const leaderboardData = {
           {
             "rank": 139,
             "account_name": "Sabbaah.2314",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64084,7 +65979,16 @@ const leaderboardData = {
           {
             "rank": 140,
             "account_name": "Shaaaads.1856",
-            "professions_played": "Tempest (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -64093,7 +65997,16 @@ const leaderboardData = {
           {
             "rank": 141,
             "account_name": "Sselnoisiv.6130",
-            "professions_played": "Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64102,7 +66015,16 @@ const leaderboardData = {
           {
             "rank": 142,
             "account_name": "Stan.9684",
-            "professions_played": "Vindicator (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -64111,7 +66033,16 @@ const leaderboardData = {
           {
             "rank": 143,
             "account_name": "Synders.9627",
-            "professions_played": "Renegade (1), Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Renegade",
@@ -64120,7 +66051,16 @@ const leaderboardData = {
           {
             "rank": 144,
             "account_name": "Theweemon.8459",
-            "professions_played": "Specter (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Specter",
@@ -64129,7 +66069,16 @@ const leaderboardData = {
           {
             "rank": 145,
             "account_name": "Vaqa.4238",
-            "professions_played": "Vindicator (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -64138,7 +66087,16 @@ const leaderboardData = {
           {
             "rank": 146,
             "account_name": "Vasnia.3189",
-            "professions_played": "Spellbreaker (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -64147,7 +66105,12 @@ const leaderboardData = {
           {
             "rank": 147,
             "account_name": "Wisdom.6028",
-            "professions_played": "Scourge (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -64156,7 +66119,12 @@ const leaderboardData = {
           {
             "rank": 148,
             "account_name": "Zikum.4126",
-            "professions_played": "Tempest (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -64165,7 +66133,16 @@ const leaderboardData = {
           {
             "rank": 149,
             "account_name": "bernadettesurprise.3297",
-            "professions_played": "Scourge (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64174,7 +66151,12 @@ const leaderboardData = {
           {
             "rank": 150,
             "account_name": "freecarl.9214",
-            "professions_played": "Holosmith (2)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -64183,7 +66165,12 @@ const leaderboardData = {
           {
             "rank": 151,
             "account_name": "hataki.8716",
-            "professions_played": "Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64192,7 +66179,16 @@ const leaderboardData = {
           {
             "rank": 152,
             "account_name": "killsfun.2436",
-            "professions_played": "Reaper (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -64201,7 +66197,12 @@ const leaderboardData = {
           {
             "rank": 153,
             "account_name": "lauri.4873",
-            "professions_played": "Mirage (2)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -64210,7 +66211,16 @@ const leaderboardData = {
           {
             "rank": 154,
             "account_name": "nateboyd.5682",
-            "professions_played": "Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -64219,7 +66229,12 @@ const leaderboardData = {
           {
             "rank": 155,
             "account_name": "orangejoose.4981",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64228,7 +66243,16 @@ const leaderboardData = {
           {
             "rank": 156,
             "account_name": "shakey.6384",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64237,7 +66261,12 @@ const leaderboardData = {
           {
             "rank": 157,
             "account_name": "souljota.7923",
-            "professions_played": "Vindicator (2)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -64246,7 +66275,16 @@ const leaderboardData = {
           {
             "rank": 158,
             "account_name": "steelrage.2904",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -64255,7 +66293,12 @@ const leaderboardData = {
           {
             "rank": 159,
             "account_name": "stu.2590",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64264,7 +66307,16 @@ const leaderboardData = {
           {
             "rank": 160,
             "account_name": "threats.1832",
-            "professions_played": "Tempest (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -64273,7 +66325,12 @@ const leaderboardData = {
           {
             "rank": 161,
             "account_name": "Adrokos.1729",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64282,7 +66339,12 @@ const leaderboardData = {
           {
             "rank": 162,
             "account_name": "Ah fa su su ex.6520",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64291,7 +66353,12 @@ const leaderboardData = {
           {
             "rank": 163,
             "account_name": "Andry.2473",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64300,7 +66367,12 @@ const leaderboardData = {
           {
             "rank": 164,
             "account_name": "Angelfire.3942",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -64309,7 +66381,12 @@ const leaderboardData = {
           {
             "rank": 165,
             "account_name": "Arpeggio.9730",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64318,7 +66395,12 @@ const leaderboardData = {
           {
             "rank": 166,
             "account_name": "Asper.2863",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -64327,7 +66409,12 @@ const leaderboardData = {
           {
             "rank": 167,
             "account_name": "Athena.4562",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -64336,7 +66423,12 @@ const leaderboardData = {
           {
             "rank": 168,
             "account_name": "Ayemes.5892",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -64345,7 +66437,12 @@ const leaderboardData = {
           {
             "rank": 169,
             "account_name": "AzureInvidiaOnline.6789",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -64354,7 +66451,12 @@ const leaderboardData = {
           {
             "rank": 170,
             "account_name": "Babadook.5842",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -64363,7 +66465,12 @@ const leaderboardData = {
           {
             "rank": 171,
             "account_name": "Basket.7139",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -64372,7 +66479,12 @@ const leaderboardData = {
           {
             "rank": 172,
             "account_name": "Beneddar.7930",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -64381,7 +66493,12 @@ const leaderboardData = {
           {
             "rank": 173,
             "account_name": "BlackMamba.1734",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64390,7 +66507,12 @@ const leaderboardData = {
           {
             "rank": 174,
             "account_name": "BloodDoll.4602",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64399,7 +66521,12 @@ const leaderboardData = {
           {
             "rank": 175,
             "account_name": "Brett.8953",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -64408,7 +66535,12 @@ const leaderboardData = {
           {
             "rank": 176,
             "account_name": "Bryce.3098",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64417,7 +66549,12 @@ const leaderboardData = {
           {
             "rank": 177,
             "account_name": "CallsignTundra.5963",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64426,7 +66563,12 @@ const leaderboardData = {
           {
             "rank": 178,
             "account_name": "Cavalier.4015",
-            "professions_played": "Warrior (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Warrior",
@@ -64435,7 +66577,12 @@ const leaderboardData = {
           {
             "rank": 179,
             "account_name": "Caysadia.2548",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -64444,7 +66591,12 @@ const leaderboardData = {
           {
             "rank": 180,
             "account_name": "ChaosIceKing.2345",
-            "professions_played": "Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Willbender",
@@ -64453,7 +66605,12 @@ const leaderboardData = {
           {
             "rank": 181,
             "account_name": "ChaoticJarod.2745",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -64462,7 +66619,12 @@ const leaderboardData = {
           {
             "rank": 182,
             "account_name": "Chief.7143",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64471,7 +66633,12 @@ const leaderboardData = {
           {
             "rank": 183,
             "account_name": "ChillaurSaur.8640",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -64480,7 +66647,12 @@ const leaderboardData = {
           {
             "rank": 184,
             "account_name": "Crazy.2618",
-            "professions_played": "Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Willbender",
@@ -64489,7 +66661,12 @@ const leaderboardData = {
           {
             "rank": 185,
             "account_name": "Crowley.2740",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -64498,7 +66675,12 @@ const leaderboardData = {
           {
             "rank": 186,
             "account_name": "Cryptic.3519",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -64507,7 +66689,12 @@ const leaderboardData = {
           {
             "rank": 187,
             "account_name": "DanDizh.8416",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -64516,7 +66703,12 @@ const leaderboardData = {
           {
             "rank": 188,
             "account_name": "Dangelys.2630",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -64525,7 +66717,12 @@ const leaderboardData = {
           {
             "rank": 189,
             "account_name": "Daniel.8106",
-            "professions_played": "Thief (1)",
+            "professions_played": [
+              {
+                "profession": "Thief",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Thief",
@@ -64534,7 +66731,12 @@ const leaderboardData = {
           {
             "rank": 190,
             "account_name": "Dave.1706",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -64543,7 +66745,12 @@ const leaderboardData = {
           {
             "rank": 191,
             "account_name": "Digo.2531",
-            "professions_played": "Virtuoso (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Virtuoso",
@@ -64552,7 +66759,12 @@ const leaderboardData = {
           {
             "rank": 192,
             "account_name": "DirtyRat.3941",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64561,7 +66773,12 @@ const leaderboardData = {
           {
             "rank": 193,
             "account_name": "DonkeyHaxor.4052",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -64570,7 +66787,12 @@ const leaderboardData = {
           {
             "rank": 194,
             "account_name": "DraGonfly.9317",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -64579,7 +66801,12 @@ const leaderboardData = {
           {
             "rank": 195,
             "account_name": "Eschkevna.6301",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -64588,7 +66815,12 @@ const leaderboardData = {
           {
             "rank": 196,
             "account_name": "Fantabulous.3406",
-            "professions_played": "Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Untamed",
@@ -64597,7 +66829,12 @@ const leaderboardData = {
           {
             "rank": 197,
             "account_name": "FavoriteOne.6735",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -64606,7 +66843,12 @@ const leaderboardData = {
           {
             "rank": 198,
             "account_name": "Feed.5309",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -64615,7 +66857,12 @@ const leaderboardData = {
           {
             "rank": 199,
             "account_name": "FerkzW.3067",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -64624,7 +66871,12 @@ const leaderboardData = {
           {
             "rank": 200,
             "account_name": "Filipe.8492",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -64633,7 +66885,12 @@ const leaderboardData = {
           {
             "rank": 201,
             "account_name": "Full Course Meal.9540",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64642,7 +66899,12 @@ const leaderboardData = {
           {
             "rank": 202,
             "account_name": "Gir Rowl.7065",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64651,7 +66913,12 @@ const leaderboardData = {
           {
             "rank": 203,
             "account_name": "Graven.4325",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64660,7 +66927,12 @@ const leaderboardData = {
           {
             "rank": 204,
             "account_name": "Grizzly.1826",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64669,7 +66941,12 @@ const leaderboardData = {
           {
             "rank": 205,
             "account_name": "Hansi.4351",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -64678,7 +66955,12 @@ const leaderboardData = {
           {
             "rank": 206,
             "account_name": "Humblelight.9570",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -64687,7 +66969,12 @@ const leaderboardData = {
           {
             "rank": 207,
             "account_name": "Hund.6875",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64696,7 +66983,12 @@ const leaderboardData = {
           {
             "rank": 208,
             "account_name": "IClappBuns.2587",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64705,7 +66997,12 @@ const leaderboardData = {
           {
             "rank": 209,
             "account_name": "Icy Violin.9213",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -64714,7 +67011,12 @@ const leaderboardData = {
           {
             "rank": 210,
             "account_name": "Idaeus.9564",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -64723,7 +67025,12 @@ const leaderboardData = {
           {
             "rank": 211,
             "account_name": "IllusiveMind.6470",
-            "professions_played": "Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -64732,7 +67039,12 @@ const leaderboardData = {
           {
             "rank": 212,
             "account_name": "IronOre.7826",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -64741,7 +67053,12 @@ const leaderboardData = {
           {
             "rank": 213,
             "account_name": "ItalianMagik.2698",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -64750,7 +67067,12 @@ const leaderboardData = {
           {
             "rank": 214,
             "account_name": "Jdchil.9561",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -64759,7 +67081,12 @@ const leaderboardData = {
           {
             "rank": 215,
             "account_name": "Jim.5419",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64768,7 +67095,12 @@ const leaderboardData = {
           {
             "rank": 216,
             "account_name": "JohnNieto.7109",
-            "professions_played": "Virtuoso (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Virtuoso",
@@ -64777,7 +67109,12 @@ const leaderboardData = {
           {
             "rank": 217,
             "account_name": "Kai.6024",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -64786,7 +67123,12 @@ const leaderboardData = {
           {
             "rank": 218,
             "account_name": "KamiKaZe.8173",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -64795,7 +67137,12 @@ const leaderboardData = {
           {
             "rank": 219,
             "account_name": "Kanchou.1576",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -64804,7 +67151,12 @@ const leaderboardData = {
           {
             "rank": 220,
             "account_name": "Kearsarge.9357",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64813,7 +67165,12 @@ const leaderboardData = {
           {
             "rank": 221,
             "account_name": "Kiwi.2176",
-            "professions_played": "Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Weaver",
@@ -64822,7 +67179,12 @@ const leaderboardData = {
           {
             "rank": 222,
             "account_name": "Kojchi.1970",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -64831,7 +67193,12 @@ const leaderboardData = {
           {
             "rank": 223,
             "account_name": "Krine.4690",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64840,7 +67207,12 @@ const leaderboardData = {
           {
             "rank": 224,
             "account_name": "Krounen.7028",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -64849,7 +67221,12 @@ const leaderboardData = {
           {
             "rank": 225,
             "account_name": "Kuwat.4703",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -64858,7 +67235,12 @@ const leaderboardData = {
           {
             "rank": 226,
             "account_name": "Laroong.7629",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -64867,7 +67249,12 @@ const leaderboardData = {
           {
             "rank": 227,
             "account_name": "LianoBR.6532",
-            "professions_played": "Harbinger (1)",
+            "professions_played": [
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Harbinger",
@@ -64876,7 +67263,12 @@ const leaderboardData = {
           {
             "rank": 228,
             "account_name": "Lion.6590",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -64885,7 +67277,12 @@ const leaderboardData = {
           {
             "rank": 229,
             "account_name": "Lookiey.1387",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64894,7 +67291,12 @@ const leaderboardData = {
           {
             "rank": 230,
             "account_name": "MDK.1967",
-            "professions_played": "Mechanist (1)",
+            "professions_played": [
+              {
+                "profession": "Mechanist",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mechanist",
@@ -64903,7 +67305,12 @@ const leaderboardData = {
           {
             "rank": 231,
             "account_name": "Maferente.9570",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64912,7 +67319,12 @@ const leaderboardData = {
           {
             "rank": 232,
             "account_name": "Marinho.9387",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -64921,7 +67333,12 @@ const leaderboardData = {
           {
             "rank": 233,
             "account_name": "Massacremam.4358",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -64930,7 +67347,12 @@ const leaderboardData = {
           {
             "rank": 234,
             "account_name": "Maul.1360",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -64939,7 +67361,12 @@ const leaderboardData = {
           {
             "rank": 235,
             "account_name": "Mellis.7284",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -64948,7 +67375,12 @@ const leaderboardData = {
           {
             "rank": 236,
             "account_name": "Melt.7420",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64957,7 +67389,12 @@ const leaderboardData = {
           {
             "rank": 237,
             "account_name": "Meltdown Manager.9051",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -64966,7 +67403,12 @@ const leaderboardData = {
           {
             "rank": 238,
             "account_name": "MichaelNS.2894",
-            "professions_played": "Mechanist (1)",
+            "professions_played": [
+              {
+                "profession": "Mechanist",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mechanist",
@@ -64975,7 +67417,12 @@ const leaderboardData = {
           {
             "rank": 239,
             "account_name": "Michidoo.4796",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -64984,7 +67431,12 @@ const leaderboardData = {
           {
             "rank": 240,
             "account_name": "Mini.1786",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -64993,7 +67445,12 @@ const leaderboardData = {
           {
             "rank": 241,
             "account_name": "Mona.9180",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -65002,7 +67459,12 @@ const leaderboardData = {
           {
             "rank": 242,
             "account_name": "Montana.8032",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -65011,7 +67473,12 @@ const leaderboardData = {
           {
             "rank": 243,
             "account_name": "Mylovis.6390",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65020,7 +67487,12 @@ const leaderboardData = {
           {
             "rank": 244,
             "account_name": "NSLeviathan.7938",
-            "professions_played": "Engineer (1)",
+            "professions_played": [
+              {
+                "profession": "Engineer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Engineer",
@@ -65029,7 +67501,12 @@ const leaderboardData = {
           {
             "rank": 245,
             "account_name": "Nikayla.4095",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65038,7 +67515,12 @@ const leaderboardData = {
           {
             "rank": 246,
             "account_name": "OdinNevon.7305",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -65047,7 +67529,12 @@ const leaderboardData = {
           {
             "rank": 247,
             "account_name": "On Fire.7602",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65056,7 +67543,12 @@ const leaderboardData = {
           {
             "rank": 248,
             "account_name": "Pererek Ninja.1950",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -65065,7 +67557,12 @@ const leaderboardData = {
           {
             "rank": 249,
             "account_name": "PublicDisplayName.4986",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65074,7 +67571,12 @@ const leaderboardData = {
           {
             "rank": 250,
             "account_name": "PurpScurpington.6457",
-            "professions_played": "Virtuoso (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Virtuoso",
@@ -65083,7 +67585,12 @@ const leaderboardData = {
           {
             "rank": 251,
             "account_name": "Quensa.6985",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -65092,7 +67599,12 @@ const leaderboardData = {
           {
             "rank": 252,
             "account_name": "Rapscallion.3571",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65101,7 +67613,12 @@ const leaderboardData = {
           {
             "rank": 253,
             "account_name": "Ray Bell.2135",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65110,7 +67627,12 @@ const leaderboardData = {
           {
             "rank": 254,
             "account_name": "Raykiu.7841",
-            "professions_played": "Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Willbender",
@@ -65119,7 +67641,12 @@ const leaderboardData = {
           {
             "rank": 255,
             "account_name": "ReiTigre.5289",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -65128,7 +67655,12 @@ const leaderboardData = {
           {
             "rank": 256,
             "account_name": "Rokailin.6534",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65137,7 +67669,12 @@ const leaderboardData = {
           {
             "rank": 257,
             "account_name": "Rook.1934",
-            "professions_played": "Harbinger (1)",
+            "professions_played": [
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Harbinger",
@@ -65146,7 +67683,12 @@ const leaderboardData = {
           {
             "rank": 258,
             "account_name": "Salton.5247",
-            "professions_played": "Bladesworn (1)",
+            "professions_played": [
+              {
+                "profession": "Bladesworn",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Bladesworn",
@@ -65155,7 +67697,12 @@ const leaderboardData = {
           {
             "rank": 259,
             "account_name": "Sebroth.1836",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65164,7 +67711,12 @@ const leaderboardData = {
           {
             "rank": 260,
             "account_name": "Serebus.7314",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65173,7 +67725,12 @@ const leaderboardData = {
           {
             "rank": 261,
             "account_name": "Serial Experiments X.2183",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65182,7 +67739,12 @@ const leaderboardData = {
           {
             "rank": 262,
             "account_name": "Sexykillerz.8572",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65191,7 +67753,12 @@ const leaderboardData = {
           {
             "rank": 263,
             "account_name": "Shinoue.7238",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65200,7 +67767,12 @@ const leaderboardData = {
           {
             "rank": 264,
             "account_name": "Sleepy.5367",
-            "professions_played": "Warrior (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Warrior",
@@ -65209,7 +67781,12 @@ const leaderboardData = {
           {
             "rank": 265,
             "account_name": "Sparrowhawk.2387",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65218,7 +67795,12 @@ const leaderboardData = {
           {
             "rank": 266,
             "account_name": "Sphere.2076",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -65227,7 +67809,12 @@ const leaderboardData = {
           {
             "rank": 267,
             "account_name": "SteelSpirit.1695",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -65236,7 +67823,12 @@ const leaderboardData = {
           {
             "rank": 268,
             "account_name": "StoneWall.6259",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -65245,7 +67837,12 @@ const leaderboardData = {
           {
             "rank": 269,
             "account_name": "SumRandmGuy.1759",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -65254,7 +67851,12 @@ const leaderboardData = {
           {
             "rank": 270,
             "account_name": "Sumfoo.8214",
-            "professions_played": "Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Untamed",
@@ -65263,7 +67865,12 @@ const leaderboardData = {
           {
             "rank": 271,
             "account_name": "SunJian.8029",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65272,7 +67879,12 @@ const leaderboardData = {
           {
             "rank": 272,
             "account_name": "THCLUTCH.7620",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65281,7 +67893,12 @@ const leaderboardData = {
           {
             "rank": 273,
             "account_name": "TTRF.8473",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65290,7 +67907,12 @@ const leaderboardData = {
           {
             "rank": 274,
             "account_name": "TehWolfman.1794",
-            "professions_played": "Support Spb (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Support Spb",
@@ -65299,7 +67921,12 @@ const leaderboardData = {
           {
             "rank": 275,
             "account_name": "The Original Barcode.7985",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65308,7 +67935,12 @@ const leaderboardData = {
           {
             "rank": 276,
             "account_name": "ThiagoW.4810",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -65317,7 +67949,12 @@ const leaderboardData = {
           {
             "rank": 277,
             "account_name": "Tman.8325",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -65326,7 +67963,12 @@ const leaderboardData = {
           {
             "rank": 278,
             "account_name": "Travychu.5432",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -65335,7 +67977,12 @@ const leaderboardData = {
           {
             "rank": 279,
             "account_name": "TripleCorndog.1923",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -65344,7 +67991,12 @@ const leaderboardData = {
           {
             "rank": 280,
             "account_name": "Twister.8645",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65353,7 +68005,12 @@ const leaderboardData = {
           {
             "rank": 281,
             "account_name": "Vantiquera.9038",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -65362,7 +68019,12 @@ const leaderboardData = {
           {
             "rank": 282,
             "account_name": "VegasXZirael.8260",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65371,7 +68033,12 @@ const leaderboardData = {
           {
             "rank": 283,
             "account_name": "Vitro Zeppeli.4159",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -65380,7 +68047,12 @@ const leaderboardData = {
           {
             "rank": 284,
             "account_name": "Wildcassandra.8463",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65389,7 +68061,12 @@ const leaderboardData = {
           {
             "rank": 285,
             "account_name": "WynXombii.2063",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -65398,7 +68075,12 @@ const leaderboardData = {
           {
             "rank": 286,
             "account_name": "YERKO.5947",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -65407,7 +68089,12 @@ const leaderboardData = {
           {
             "rank": 287,
             "account_name": "Ysoserious.9135",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -65416,7 +68103,12 @@ const leaderboardData = {
           {
             "rank": 288,
             "account_name": "Zipster.5029",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65425,7 +68117,12 @@ const leaderboardData = {
           {
             "rank": 289,
             "account_name": "armyalex.4957",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -65434,7 +68131,12 @@ const leaderboardData = {
           {
             "rank": 290,
             "account_name": "asdfghjk.8241",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -65443,7 +68145,12 @@ const leaderboardData = {
           {
             "rank": 291,
             "account_name": "banana.9637",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -65452,7 +68159,12 @@ const leaderboardData = {
           {
             "rank": 292,
             "account_name": "berty.7435",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -65461,7 +68173,12 @@ const leaderboardData = {
           {
             "rank": 293,
             "account_name": "ceras.9513",
-            "professions_played": "Necromancer (1)",
+            "professions_played": [
+              {
+                "profession": "Necromancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Necromancer",
@@ -65470,7 +68187,12 @@ const leaderboardData = {
           {
             "rank": 294,
             "account_name": "chopper.7628",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65479,7 +68201,12 @@ const leaderboardData = {
           {
             "rank": 295,
             "account_name": "cmkmrr.1705",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65488,7 +68215,12 @@ const leaderboardData = {
           {
             "rank": 296,
             "account_name": "deen.1264",
-            "professions_played": "Engineer (1)",
+            "professions_played": [
+              {
+                "profession": "Engineer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Engineer",
@@ -65497,7 +68229,12 @@ const leaderboardData = {
           {
             "rank": 297,
             "account_name": "dirtydaaku.1948",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65506,7 +68243,12 @@ const leaderboardData = {
           {
             "rank": 298,
             "account_name": "dpnz.4539",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -65515,7 +68257,12 @@ const leaderboardData = {
           {
             "rank": 299,
             "account_name": "draxon.9814",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -65524,7 +68271,12 @@ const leaderboardData = {
           {
             "rank": 300,
             "account_name": "evairpt.2843",
-            "professions_played": "Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Untamed",
@@ -65533,7 +68285,12 @@ const leaderboardData = {
           {
             "rank": 301,
             "account_name": "feinal.5829",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -65542,7 +68299,12 @@ const leaderboardData = {
           {
             "rank": 302,
             "account_name": "folly dragon.4126",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -65551,7 +68313,12 @@ const leaderboardData = {
           {
             "rank": 303,
             "account_name": "hameris.1420",
-            "professions_played": "Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -65560,7 +68327,12 @@ const leaderboardData = {
           {
             "rank": 304,
             "account_name": "hyper.3518",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65569,7 +68341,12 @@ const leaderboardData = {
           {
             "rank": 305,
             "account_name": "inneedoflife.5092",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65578,7 +68355,12 @@ const leaderboardData = {
           {
             "rank": 306,
             "account_name": "kiobamm.4627",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -65587,7 +68369,12 @@ const leaderboardData = {
           {
             "rank": 307,
             "account_name": "kuonan.5974",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -65596,7 +68383,12 @@ const leaderboardData = {
           {
             "rank": 308,
             "account_name": "lcuocikny.3814",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65605,7 +68397,12 @@ const leaderboardData = {
           {
             "rank": 309,
             "account_name": "limao.5968",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -65614,7 +68411,12 @@ const leaderboardData = {
           {
             "rank": 310,
             "account_name": "mattb.1263",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65623,7 +68425,12 @@ const leaderboardData = {
           {
             "rank": 311,
             "account_name": "mememe.5239",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -65632,7 +68439,12 @@ const leaderboardData = {
           {
             "rank": 312,
             "account_name": "merytogo.1365",
-            "professions_played": "Mesmer (1)",
+            "professions_played": [
+              {
+                "profession": "Mesmer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mesmer",
@@ -65641,7 +68453,12 @@ const leaderboardData = {
           {
             "rank": 313,
             "account_name": "mis abby.4397",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -65650,7 +68467,12 @@ const leaderboardData = {
           {
             "rank": 314,
             "account_name": "mng.1634",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65659,7 +68481,12 @@ const leaderboardData = {
           {
             "rank": 315,
             "account_name": "mordecia.2807",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -65668,7 +68495,12 @@ const leaderboardData = {
           {
             "rank": 316,
             "account_name": "nucklepuckk.1805",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -65677,7 +68509,12 @@ const leaderboardData = {
           {
             "rank": 317,
             "account_name": "pepsiColaOneTwoThree.6472",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -65686,7 +68523,12 @@ const leaderboardData = {
           {
             "rank": 318,
             "account_name": "pixelbox.4751",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -65695,7 +68537,12 @@ const leaderboardData = {
           {
             "rank": 319,
             "account_name": "qwrvee.2764",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -65704,7 +68551,12 @@ const leaderboardData = {
           {
             "rank": 320,
             "account_name": "rawr.4705",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -65713,7 +68565,12 @@ const leaderboardData = {
           {
             "rank": 321,
             "account_name": "red armadillo.4593",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65722,7 +68579,12 @@ const leaderboardData = {
           {
             "rank": 322,
             "account_name": "rob.7042",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -65731,7 +68593,12 @@ const leaderboardData = {
           {
             "rank": 323,
             "account_name": "saku.2180",
-            "professions_played": "Harbinger (1)",
+            "professions_played": [
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Harbinger",
@@ -65740,7 +68607,12 @@ const leaderboardData = {
           {
             "rank": 324,
             "account_name": "shiinty.5904",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -65749,7 +68621,12 @@ const leaderboardData = {
           {
             "rank": 325,
             "account_name": "slfhie.1764",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -65758,7 +68635,12 @@ const leaderboardData = {
           {
             "rank": 326,
             "account_name": "snups.1297",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -65767,7 +68649,12 @@ const leaderboardData = {
           {
             "rank": 327,
             "account_name": "stan.9576",
-            "professions_played": "Necromancer (1)",
+            "professions_played": [
+              {
+                "profession": "Necromancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Necromancer",
@@ -65776,7 +68663,12 @@ const leaderboardData = {
           {
             "rank": 328,
             "account_name": "tCut.7856",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -65785,7 +68677,12 @@ const leaderboardData = {
           {
             "rank": 329,
             "account_name": "taoofbob.7293",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -65794,7 +68691,12 @@ const leaderboardData = {
           {
             "rank": 330,
             "account_name": "tarsoalvarenga.7823",
-            "professions_played": "Renegade (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Renegade",
@@ -65803,7 +68705,12 @@ const leaderboardData = {
           {
             "rank": 331,
             "account_name": "tehdusterer.5689",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -65812,7 +68719,12 @@ const leaderboardData = {
           {
             "rank": 332,
             "account_name": "undiee.3146",
-            "professions_played": "Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Vindi",
@@ -65821,7 +68733,12 @@ const leaderboardData = {
           {
             "rank": 333,
             "account_name": "velauxya.3451",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -65830,7 +68747,12 @@ const leaderboardData = {
           {
             "rank": 334,
             "account_name": "willsi.7035",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -65839,7 +68761,12 @@ const leaderboardData = {
           {
             "rank": 335,
             "account_name": "wimpyvirus.2506",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -65848,7 +68775,12 @@ const leaderboardData = {
           {
             "rank": 336,
             "account_name": "xzuu.7465",
-            "professions_played": "Renegade (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Renegade",
@@ -65857,7 +68789,12 @@ const leaderboardData = {
           {
             "rank": 337,
             "account_name": "yojoeo.8019",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -86312,6 +89249,118 @@ const leaderboardData = {
             }
           ]
         },
+        "Support Spb": {
+          "metrics": [
+            "Might",
+            "Resistance",
+            "Stability",
+            "Cleanses"
+          ],
+          "weights": [
+            0.4,
+            0.3,
+            0.2,
+            0.1
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "Solomon Darkfury.3729",
+              "composite_score": 1633.2996385645708,
+              "glicko_rating": 1633.2996385645708,
+              "games_played": 8,
+              "average_rank_percent": 8.25,
+              "key_stats": "Migh:32.8 Resi:1.4 Stab:4.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "63.5/33.0"
+            },
+            {
+              "rank": 2,
+              "account_name": "Raven Paradox.1860",
+              "composite_score": 1608.1861791622948,
+              "glicko_rating": 1608.1861791622948,
+              "games_played": 4,
+              "average_rank_percent": 9.0,
+              "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "51.0/35.0"
+            },
+            {
+              "rank": 3,
+              "account_name": "Havocus.3682",
+              "composite_score": 1587.600248966099,
+              "glicko_rating": 1587.600248966099,
+              "games_played": 4,
+              "average_rank_percent": 7.75,
+              "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "34.0/25.0"
+            },
+            {
+              "rank": 4,
+              "account_name": "OPness.3215",
+              "composite_score": 1583.2649192104086,
+              "glicko_rating": 1583.2649192104086,
+              "games_played": 4,
+              "average_rank_percent": 8.25,
+              "key_stats": "Migh:26.6 Resi:0.9 Stab:2.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "42.0/25.0"
+            },
+            {
+              "rank": 5,
+              "account_name": "Argo.2675",
+              "composite_score": 1574.7082212756925,
+              "glicko_rating": 1574.7082212756925,
+              "games_played": 4,
+              "average_rank_percent": 9.25,
+              "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "47.0/36.0"
+            },
+            {
+              "rank": 6,
+              "account_name": "Coileddarknight.9528",
+              "composite_score": 1529.0772663494022,
+              "glicko_rating": 1529.0772663494022,
+              "games_played": 8,
+              "average_rank_percent": 8.5,
+              "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "63.0/23.5"
+            },
+            {
+              "rank": 7,
+              "account_name": "TehWolfman.1794",
+              "composite_score": 1494.7705929601102,
+              "glicko_rating": 1494.7705929601102,
+              "games_played": 4,
+              "average_rank_percent": 13.0,
+              "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "54.0/25.0"
+            },
+            {
+              "rank": 8,
+              "account_name": "Nictheman.9754",
+              "composite_score": 1490.1583953434326,
+              "glicko_rating": 1490.1583953434326,
+              "games_played": 4,
+              "average_rank_percent": 10.25,
+              "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "58.0/53.0"
+            }
+          ]
+        },
         "Condi Firebrand": {
           "metrics": [
             "Stability",
@@ -86431,118 +89480,6 @@ const leaderboardData = {
               "is_guild_member": false,
               "rating_delta": 0.0,
               "apm": "73.0/42.4"
-            }
-          ]
-        },
-        "Support Spb": {
-          "metrics": [
-            "Might",
-            "Resistance",
-            "Stability",
-            "Cleanses"
-          ],
-          "weights": [
-            0.4,
-            0.3,
-            0.2,
-            0.1
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "Solomon Darkfury.3729",
-              "composite_score": 1633.2996385645708,
-              "glicko_rating": 1633.2996385645708,
-              "games_played": 8,
-              "average_rank_percent": 8.25,
-              "key_stats": "Migh:32.8 Resi:1.4 Stab:4.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "63.5/33.0"
-            },
-            {
-              "rank": 2,
-              "account_name": "Raven Paradox.1860",
-              "composite_score": 1608.1861791622948,
-              "glicko_rating": 1608.1861791622948,
-              "games_played": 4,
-              "average_rank_percent": 9.0,
-              "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "51.0/35.0"
-            },
-            {
-              "rank": 3,
-              "account_name": "Havocus.3682",
-              "composite_score": 1587.600248966099,
-              "glicko_rating": 1587.600248966099,
-              "games_played": 4,
-              "average_rank_percent": 7.75,
-              "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "34.0/25.0"
-            },
-            {
-              "rank": 4,
-              "account_name": "OPness.3215",
-              "composite_score": 1583.2649192104086,
-              "glicko_rating": 1583.2649192104086,
-              "games_played": 4,
-              "average_rank_percent": 8.25,
-              "key_stats": "Migh:26.6 Resi:0.9 Stab:2.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "42.0/25.0"
-            },
-            {
-              "rank": 5,
-              "account_name": "Argo.2675",
-              "composite_score": 1574.7082212756925,
-              "glicko_rating": 1574.7082212756925,
-              "games_played": 4,
-              "average_rank_percent": 9.25,
-              "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "47.0/36.0"
-            },
-            {
-              "rank": 6,
-              "account_name": "Coileddarknight.9528",
-              "composite_score": 1529.0772663494022,
-              "glicko_rating": 1529.0772663494022,
-              "games_played": 8,
-              "average_rank_percent": 8.5,
-              "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "63.0/23.5"
-            },
-            {
-              "rank": 7,
-              "account_name": "TehWolfman.1794",
-              "composite_score": 1494.7705929601102,
-              "glicko_rating": 1494.7705929601102,
-              "games_played": 4,
-              "average_rank_percent": 13.0,
-              "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "54.0/25.0"
-            },
-            {
-              "rank": 8,
-              "account_name": "Nictheman.9754",
-              "composite_score": 1490.1583953434326,
-              "glicko_rating": 1490.1583953434326,
-              "games_played": 4,
-              "average_rank_percent": 10.25,
-              "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "58.0/53.0"
             }
           ]
         }
@@ -95570,7 +98507,20 @@ const leaderboardData = {
           {
             "rank": 1,
             "account_name": "Dextra.8162",
-            "professions_played": "Weaver (9), Catalyst (3), Soulbeast (2)",
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 9
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Soulbeast",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 14,
             "profession_count": 3,
             "primary_profession": "Weaver",
@@ -95579,7 +98529,36 @@ const leaderboardData = {
           {
             "rank": 2,
             "account_name": "Interpretor.3091",
-            "professions_played": "Spellbreaker (5), Untamed (3), Warrior (2), Scourge (1), Reaper (1), Catalyst (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 5
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 14,
             "profession_count": 7,
             "primary_profession": "Spellbreaker",
@@ -95588,7 +98567,24 @@ const leaderboardData = {
           {
             "rank": 3,
             "account_name": "Havocus.3682",
-            "professions_played": "Catalyst (7), Scourge (4), Support Spb (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 7
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 13,
             "profession_count": 4,
             "primary_profession": "Catalyst",
@@ -95597,7 +98593,32 @@ const leaderboardData = {
           {
             "rank": 4,
             "account_name": "Nictheman.9754",
-            "professions_played": "Chronomancer (6), Warrior (2), Support Spb (1), Spellbreaker (1), Reaper (1), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 6
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 12,
             "profession_count": 6,
             "primary_profession": "Chronomancer",
@@ -95606,7 +98627,44 @@ const leaderboardData = {
           {
             "rank": 5,
             "account_name": "Pieswithattitude.2357",
-            "professions_played": "Druid (2), Chronomancer (2), Catalyst (2), Spellbreaker (1), Scrapper (1), Scourge (1), Reaper (1), Holosmith (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 12,
             "profession_count": 9,
             "primary_profession": "Druid",
@@ -95615,7 +98673,32 @@ const leaderboardData = {
           {
             "rank": 6,
             "account_name": "FlawedDjinn.3217",
-            "professions_played": "Untamed (2), Scourge (2), Druid (2), Chronomancer (2), Boon Vindi (2), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 6,
             "primary_profession": "Untamed",
@@ -95624,7 +98707,28 @@ const leaderboardData = {
           {
             "rank": 7,
             "account_name": "Freelanced.6084",
-            "professions_played": "Catalyst (5), Scourge (3), Scrapper (1), Reaper (1), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 5,
             "primary_profession": "Catalyst",
@@ -95633,7 +98737,16 @@ const leaderboardData = {
           {
             "rank": 8,
             "account_name": "ParaldaWind.4523",
-            "professions_played": "China DH (9), Dragonhunter (2)",
+            "professions_played": [
+              {
+                "profession": "China DH",
+                "session_count": 9
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 2,
             "primary_profession": "China DH",
@@ -95642,7 +98755,20 @@ const leaderboardData = {
           {
             "rank": 9,
             "account_name": "synco.8132",
-            "professions_played": "Catalyst (5), Druid (4), Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 5
+              },
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 3,
             "primary_profession": "Catalyst",
@@ -95651,7 +98777,16 @@ const leaderboardData = {
           {
             "rank": 10,
             "account_name": "Aein.1483",
-            "professions_played": "Vindicator (9), Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 9
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -95660,7 +98795,28 @@ const leaderboardData = {
           {
             "rank": 11,
             "account_name": "Lasthope.7943",
-            "professions_played": "Dragonhunter (4), Guardian (3), Willbender (1), Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 4
+              },
+              {
+                "profession": "Guardian",
+                "session_count": 3
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Dragonhunter",
@@ -95669,7 +98825,20 @@ const leaderboardData = {
           {
             "rank": 12,
             "account_name": "Nero.6195",
-            "professions_played": "Condi Firebrand (5), Scourge (4), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 3,
             "primary_profession": "Condi Firebrand",
@@ -95678,7 +98847,24 @@ const leaderboardData = {
           {
             "rank": 13,
             "account_name": "Hiraldo.7954",
-            "professions_played": "Druid (6), Untamed (1), Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 6
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -95687,7 +98873,24 @@ const leaderboardData = {
           {
             "rank": 14,
             "account_name": "Luke.9108",
-            "professions_played": "Scourge (4), Untamed (2), Condi Firebrand (2), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -95696,7 +98899,28 @@ const leaderboardData = {
           {
             "rank": 15,
             "account_name": "Mellis.8451",
-            "professions_played": "Scourge (4), Firebrand (2), Reaper (1), Condi Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 5,
             "primary_profession": "Scourge",
@@ -95705,7 +98929,32 @@ const leaderboardData = {
           {
             "rank": 16,
             "account_name": "Soothsayer.9206",
-            "professions_played": "Scourge (2), Druid (2), Catalyst (2), Warrior (1), Untamed (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 6,
             "primary_profession": "Scourge",
@@ -95714,7 +98963,32 @@ const leaderboardData = {
           {
             "rank": 17,
             "account_name": "Uriah.7082",
-            "professions_played": "Scourge (3), Druid (2), Spellbreaker (1), Firebrand (1), Chronomancer (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 6,
             "primary_profession": "Scourge",
@@ -95723,7 +98997,20 @@ const leaderboardData = {
           {
             "rank": 18,
             "account_name": "waschy.6093",
-            "professions_played": "Firebrand (5), Dragonhunter (2), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 3,
             "primary_profession": "Firebrand",
@@ -95732,7 +99019,20 @@ const leaderboardData = {
           {
             "rank": 19,
             "account_name": "Argo.2675",
-            "professions_played": "Chronomancer (5), Support Spb (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 3,
             "primary_profession": "Chronomancer",
@@ -95741,7 +99041,16 @@ const leaderboardData = {
           {
             "rank": 20,
             "account_name": "Huge.5891",
-            "professions_played": "Dragonhunter (6), Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 6
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Dragonhunter",
@@ -95750,7 +99059,16 @@ const leaderboardData = {
           {
             "rank": 21,
             "account_name": "Muted.8591",
-            "professions_played": "Chronomancer (5), Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -95759,7 +99077,20 @@ const leaderboardData = {
           {
             "rank": 22,
             "account_name": "emz.3571",
-            "professions_played": "Reaper (4), Weaver (2), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 4
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -95768,7 +99099,16 @@ const leaderboardData = {
           {
             "rank": 23,
             "account_name": "modus.7921",
-            "professions_played": "Druid (6), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 6
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -95777,7 +99117,16 @@ const leaderboardData = {
           {
             "rank": 24,
             "account_name": "Astro Bear.6305",
-            "professions_played": "Druid (5), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 5
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -95786,7 +99135,16 @@ const leaderboardData = {
           {
             "rank": 25,
             "account_name": "Bailyen Arturius.4263",
-            "professions_played": "Chronomancer (5), Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -95795,7 +99153,24 @@ const leaderboardData = {
           {
             "rank": 26,
             "account_name": "Crator of Fire.1796",
-            "professions_played": "Scourge (2), Reaper (2), Vindicator (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -95804,7 +99179,16 @@ const leaderboardData = {
           {
             "rank": 27,
             "account_name": "adrielle.2109",
-            "professions_played": "Firebrand (3), Condi Firebrand (3)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -95813,7 +99197,24 @@ const leaderboardData = {
           {
             "rank": 28,
             "account_name": "Bother.9415",
-            "professions_played": "Scourge (2), Untamed (1), Druid (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -95822,7 +99223,20 @@ const leaderboardData = {
           {
             "rank": 29,
             "account_name": "Malek.9417",
-            "professions_played": "Druid (2), Condi Firebrand (2), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -95831,7 +99245,16 @@ const leaderboardData = {
           {
             "rank": 30,
             "account_name": "Syde.1863",
-            "professions_played": "Scourge (4), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -95840,7 +99263,16 @@ const leaderboardData = {
           {
             "rank": 31,
             "account_name": "Aromapaloma.3194",
-            "professions_played": "Tempest (3), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 3
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -95849,7 +99281,16 @@ const leaderboardData = {
           {
             "rank": 32,
             "account_name": "Ashtonlightstone.9145",
-            "professions_played": "Druid (3), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -95858,7 +99299,20 @@ const leaderboardData = {
           {
             "rank": 33,
             "account_name": "Basic.9204",
-            "professions_played": "Scourge (2), Spellbreaker (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -95867,7 +99321,16 @@ const leaderboardData = {
           {
             "rank": 34,
             "account_name": "Bertozaur.4578",
-            "professions_played": "Scourge (3), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -95876,7 +99339,20 @@ const leaderboardData = {
           {
             "rank": 35,
             "account_name": "Coileddarknight.9528",
-            "professions_played": "Support Spb (2), Condi Firebrand (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -95885,7 +99361,12 @@ const leaderboardData = {
           {
             "rank": 36,
             "account_name": "Disenable.1640",
-            "professions_played": "Chronomancer (4)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -95894,7 +99375,12 @@ const leaderboardData = {
           {
             "rank": 37,
             "account_name": "Smile.9284",
-            "professions_played": "Chronomancer (4)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -95903,7 +99389,12 @@ const leaderboardData = {
           {
             "rank": 38,
             "account_name": "TigerSpirit.2194",
-            "professions_played": "Druid (4)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -95912,7 +99403,12 @@ const leaderboardData = {
           {
             "rank": 39,
             "account_name": "aznsleeper.5896",
-            "professions_played": "Firebrand (4)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -95921,7 +99417,16 @@ const leaderboardData = {
           {
             "rank": 40,
             "account_name": "Johnny.5478",
-            "professions_played": "Specter (2), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Specter",
@@ -95930,7 +99435,16 @@ const leaderboardData = {
           {
             "rank": 41,
             "account_name": "Lozen.7623",
-            "professions_played": "Druid (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -95939,7 +99453,20 @@ const leaderboardData = {
           {
             "rank": 42,
             "account_name": "Mandar.9813",
-            "professions_played": "Tempest (1), Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Tempest",
@@ -95948,7 +99475,20 @@ const leaderboardData = {
           {
             "rank": 43,
             "account_name": "Naomi.5372",
-            "professions_played": "Virtuoso (1), Mirage (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Virtuoso",
@@ -95957,7 +99497,16 @@ const leaderboardData = {
           {
             "rank": 44,
             "account_name": "Solomon Darkfury.3729",
-            "professions_played": "Support Spb (2), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -95966,7 +99515,16 @@ const leaderboardData = {
           {
             "rank": 45,
             "account_name": "Steampunkengineer.7146",
-            "professions_played": "Chronomancer (2), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -95975,7 +99533,16 @@ const leaderboardData = {
           {
             "rank": 46,
             "account_name": "dobbeh.7382",
-            "professions_played": "Holosmith (2), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -95984,7 +99551,16 @@ const leaderboardData = {
           {
             "rank": 47,
             "account_name": "Asterisk.9730",
-            "professions_played": "Support Spb (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -95993,7 +99569,16 @@ const leaderboardData = {
           {
             "rank": 48,
             "account_name": "Cruelty.9730",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -96002,7 +99587,16 @@ const leaderboardData = {
           {
             "rank": 49,
             "account_name": "Daasen.3719",
-            "professions_played": "Reaper (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -96011,7 +99605,12 @@ const leaderboardData = {
           {
             "rank": 50,
             "account_name": "DareDevils.6039",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96020,7 +99619,16 @@ const leaderboardData = {
           {
             "rank": 51,
             "account_name": "DgsWolf.4790",
-            "professions_played": "Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -96029,7 +99637,12 @@ const leaderboardData = {
           {
             "rank": 52,
             "account_name": "Foodels.7358",
-            "professions_played": "Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -96038,7 +99651,12 @@ const leaderboardData = {
           {
             "rank": 53,
             "account_name": "General Moo.7930",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -96047,7 +99665,16 @@ const leaderboardData = {
           {
             "rank": 54,
             "account_name": "Igure.2063",
-            "professions_played": "Specter (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Specter",
@@ -96056,7 +99683,12 @@ const leaderboardData = {
           {
             "rank": 55,
             "account_name": "Jax Blake.7250",
-            "professions_played": "Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -96065,7 +99697,16 @@ const leaderboardData = {
           {
             "rank": 56,
             "account_name": "Jordan.1860",
-            "professions_played": "Untamed (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Untamed",
@@ -96074,7 +99715,12 @@ const leaderboardData = {
           {
             "rank": 57,
             "account_name": "Mes.1906",
-            "professions_played": "Scourge (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -96083,7 +99729,16 @@ const leaderboardData = {
           {
             "rank": 58,
             "account_name": "Niyack.4953",
-            "professions_played": "Scourge (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -96092,7 +99747,16 @@ const leaderboardData = {
           {
             "rank": 59,
             "account_name": "OPness.3215",
-            "professions_played": "Support Spb (1), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -96101,7 +99765,16 @@ const leaderboardData = {
           {
             "rank": 60,
             "account_name": "Raven Paradox.1860",
-            "professions_played": "Support Spb (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -96110,7 +99783,16 @@ const leaderboardData = {
           {
             "rank": 61,
             "account_name": "Ronin.4501",
-            "professions_played": "Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -96119,7 +99801,16 @@ const leaderboardData = {
           {
             "rank": 62,
             "account_name": "RoyTheBoy.8693",
-            "professions_played": "Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -96128,7 +99819,16 @@ const leaderboardData = {
           {
             "rank": 63,
             "account_name": "TopestOfKeks.5192",
-            "professions_played": "Spellbreaker (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -96137,7 +99837,16 @@ const leaderboardData = {
           {
             "rank": 64,
             "account_name": "amends.3469",
-            "professions_played": "Renegade (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Renegade",
@@ -96146,7 +99855,16 @@ const leaderboardData = {
           {
             "rank": 65,
             "account_name": "bernadettesurprise.3297",
-            "professions_played": "Scourge (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -96155,7 +99873,12 @@ const leaderboardData = {
           {
             "rank": 66,
             "account_name": "freecarl.9214",
-            "professions_played": "Holosmith (2)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -96164,7 +99887,16 @@ const leaderboardData = {
           {
             "rank": 67,
             "account_name": "pariah.6937",
-            "professions_played": "Druid (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -96173,7 +99905,12 @@ const leaderboardData = {
           {
             "rank": 68,
             "account_name": "yhanbruno.5873",
-            "professions_played": "Catalyst (2)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -96182,7 +99919,12 @@ const leaderboardData = {
           {
             "rank": 69,
             "account_name": "Andry.2473",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -96191,7 +99933,12 @@ const leaderboardData = {
           {
             "rank": 70,
             "account_name": "Asper.2863",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -96200,7 +99947,12 @@ const leaderboardData = {
           {
             "rank": 71,
             "account_name": "Ayemes.5892",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -96209,7 +99961,12 @@ const leaderboardData = {
           {
             "rank": 72,
             "account_name": "Babadook.5842",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -96218,7 +99975,12 @@ const leaderboardData = {
           {
             "rank": 73,
             "account_name": "Beneddar.7930",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -96227,7 +99989,12 @@ const leaderboardData = {
           {
             "rank": 74,
             "account_name": "Bleebt.4108",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -96236,7 +100003,12 @@ const leaderboardData = {
           {
             "rank": 75,
             "account_name": "BlueFlame.8673",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -96245,7 +100017,12 @@ const leaderboardData = {
           {
             "rank": 76,
             "account_name": "BlueViolet.8263",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96254,7 +100031,12 @@ const leaderboardData = {
           {
             "rank": 77,
             "account_name": "CallsignTundra.5963",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96263,7 +100045,12 @@ const leaderboardData = {
           {
             "rank": 78,
             "account_name": "Carnibaal.2140",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -96272,7 +100059,12 @@ const leaderboardData = {
           {
             "rank": 79,
             "account_name": "Chakkkka.2504",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -96281,7 +100073,12 @@ const leaderboardData = {
           {
             "rank": 80,
             "account_name": "Clarrovi.9085",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96290,7 +100087,12 @@ const leaderboardData = {
           {
             "rank": 81,
             "account_name": "DanDizh.8416",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -96299,7 +100101,12 @@ const leaderboardData = {
           {
             "rank": 82,
             "account_name": "Eliare.4069",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -96308,7 +100115,12 @@ const leaderboardData = {
           {
             "rank": 83,
             "account_name": "Filipe.8492",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -96317,7 +100129,12 @@ const leaderboardData = {
           {
             "rank": 84,
             "account_name": "FrozenDelicious.3690",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -96326,7 +100143,12 @@ const leaderboardData = {
           {
             "rank": 85,
             "account_name": "Gir Rowl.7065",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96335,7 +100157,12 @@ const leaderboardData = {
           {
             "rank": 86,
             "account_name": "Graven.4325",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -96344,7 +100171,12 @@ const leaderboardData = {
           {
             "rank": 87,
             "account_name": "Hostile Pudding.5617",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -96353,7 +100185,12 @@ const leaderboardData = {
           {
             "rank": 88,
             "account_name": "Humblelight.9570",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -96362,7 +100199,12 @@ const leaderboardData = {
           {
             "rank": 89,
             "account_name": "Hydrason.4612",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -96371,7 +100213,12 @@ const leaderboardData = {
           {
             "rank": 90,
             "account_name": "IClappBuns.2587",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -96380,7 +100227,12 @@ const leaderboardData = {
           {
             "rank": 91,
             "account_name": "Icy Violin.9213",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -96389,7 +100241,12 @@ const leaderboardData = {
           {
             "rank": 92,
             "account_name": "IronOre.7826",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -96398,7 +100255,12 @@ const leaderboardData = {
           {
             "rank": 93,
             "account_name": "ItalianMagik.2698",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -96407,7 +100269,12 @@ const leaderboardData = {
           {
             "rank": 94,
             "account_name": "J WreckX.7648",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -96416,7 +100283,12 @@ const leaderboardData = {
           {
             "rank": 95,
             "account_name": "Jdchil.9561",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -96425,7 +100297,12 @@ const leaderboardData = {
           {
             "rank": 96,
             "account_name": "Knightmare.6849",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -96434,7 +100311,12 @@ const leaderboardData = {
           {
             "rank": 97,
             "account_name": "Krine.4690",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96443,7 +100325,12 @@ const leaderboardData = {
           {
             "rank": 98,
             "account_name": "Krounen.7028",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -96452,7 +100339,12 @@ const leaderboardData = {
           {
             "rank": 99,
             "account_name": "Laroong.7629",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -96461,7 +100353,12 @@ const leaderboardData = {
           {
             "rank": 100,
             "account_name": "Maferente.9570",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -96470,7 +100367,12 @@ const leaderboardData = {
           {
             "rank": 101,
             "account_name": "Mona.9180",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -96479,7 +100381,12 @@ const leaderboardData = {
           {
             "rank": 102,
             "account_name": "Mortealug.6043",
-            "professions_played": "Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Condi Firebrand",
@@ -96488,7 +100395,12 @@ const leaderboardData = {
           {
             "rank": 103,
             "account_name": "Noe.4360",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -96497,7 +100409,12 @@ const leaderboardData = {
           {
             "rank": 104,
             "account_name": "OdinNevon.7305",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -96506,7 +100423,12 @@ const leaderboardData = {
           {
             "rank": 105,
             "account_name": "Rapscallion.3571",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96515,7 +100437,12 @@ const leaderboardData = {
           {
             "rank": 106,
             "account_name": "Salton.5247",
-            "professions_played": "Bladesworn (1)",
+            "professions_played": [
+              {
+                "profession": "Bladesworn",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Bladesworn",
@@ -96524,7 +100451,12 @@ const leaderboardData = {
           {
             "rank": 107,
             "account_name": "Serial Experiments X.2183",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -96533,7 +100465,12 @@ const leaderboardData = {
           {
             "rank": 108,
             "account_name": "Shinoue.7238",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -96542,7 +100479,12 @@ const leaderboardData = {
           {
             "rank": 109,
             "account_name": "Sleepy.5367",
-            "professions_played": "Warrior (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Warrior",
@@ -96551,7 +100493,12 @@ const leaderboardData = {
           {
             "rank": 110,
             "account_name": "Stan.9684",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -96560,7 +100507,12 @@ const leaderboardData = {
           {
             "rank": 111,
             "account_name": "Stash.8401",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -96569,7 +100521,12 @@ const leaderboardData = {
           {
             "rank": 112,
             "account_name": "StoneWall.6259",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -96578,7 +100535,12 @@ const leaderboardData = {
           {
             "rank": 113,
             "account_name": "TTRF.8473",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96587,7 +100549,12 @@ const leaderboardData = {
           {
             "rank": 114,
             "account_name": "TehWolfman.1794",
-            "professions_played": "Support Spb (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Support Spb",
@@ -96596,7 +100563,12 @@ const leaderboardData = {
           {
             "rank": 115,
             "account_name": "Travychu.5432",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -96605,7 +100577,12 @@ const leaderboardData = {
           {
             "rank": 116,
             "account_name": "TripleCorndog.1923",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -96614,7 +100591,12 @@ const leaderboardData = {
           {
             "rank": 117,
             "account_name": "Wildcassandra.8463",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96623,7 +100605,12 @@ const leaderboardData = {
           {
             "rank": 118,
             "account_name": "Ysoserious.9135",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -96632,7 +100619,12 @@ const leaderboardData = {
           {
             "rank": 119,
             "account_name": "asdfghjk.8241",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -96641,7 +100633,12 @@ const leaderboardData = {
           {
             "rank": 120,
             "account_name": "banana.9637",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -96650,7 +100647,12 @@ const leaderboardData = {
           {
             "rank": 121,
             "account_name": "folly dragon.4126",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -96659,7 +100661,12 @@ const leaderboardData = {
           {
             "rank": 122,
             "account_name": "inneedoflife.5092",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96668,7 +100675,12 @@ const leaderboardData = {
           {
             "rank": 123,
             "account_name": "ixJurema.8657",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -96677,7 +100689,12 @@ const leaderboardData = {
           {
             "rank": 124,
             "account_name": "lcuocikny.3814",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96686,7 +100703,12 @@ const leaderboardData = {
           {
             "rank": 125,
             "account_name": "mememe.5239",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -96695,7 +100717,12 @@ const leaderboardData = {
           {
             "rank": 126,
             "account_name": "mikefmc.5961",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -96704,7 +100731,12 @@ const leaderboardData = {
           {
             "rank": 127,
             "account_name": "mikerock.6187",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -96713,7 +100745,12 @@ const leaderboardData = {
           {
             "rank": 128,
             "account_name": "rob.7042",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -128508,6 +132545,426 @@ const leaderboardData = {
             }
           ]
         },
+        "Druid": {
+          "metrics": [
+            "Healing",
+            "Cleanses"
+          ],
+          "weights": [
+            0.6,
+            0.4
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "modus.7921",
+              "composite_score": 1761.11514131596,
+              "glicko_rating": 1761.11514131596,
+              "games_played": 25,
+              "average_rank_percent": 3.12,
+              "key_stats": "Heal:1947.8 Clea:1.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "83.2/60.4"
+            },
+            {
+              "rank": 2,
+              "account_name": "Astro Bear.6305",
+              "composite_score": 1730.8456906813608,
+              "glicko_rating": 1730.8456906813608,
+              "games_played": 19,
+              "average_rank_percent": 3.9473684210526314,
+              "key_stats": "Heal:1843.7 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.5/55.6"
+            },
+            {
+              "rank": 3,
+              "account_name": "Uriah.7082",
+              "composite_score": 1719.260650995229,
+              "glicko_rating": 1719.260650995229,
+              "games_played": 6,
+              "average_rank_percent": 2.5,
+              "key_stats": "Heal:1662.9 Clea:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/35.0"
+            },
+            {
+              "rank": 4,
+              "account_name": "Johnny.5478",
+              "composite_score": 1704.9321365935452,
+              "glicko_rating": 1704.9321365935452,
+              "games_played": 4,
+              "average_rank_percent": 1.25,
+              "key_stats": "Heal:1920.7 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "78.0/50.5"
+            },
+            {
+              "rank": 5,
+              "account_name": "Foodels.7358",
+              "composite_score": 1689.928428145406,
+              "glicko_rating": 1689.928428145406,
+              "games_played": 4,
+              "average_rank_percent": 1.0,
+              "key_stats": "Heal:1551.9 Clea:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "65.0/46.5"
+            },
+            {
+              "rank": 6,
+              "account_name": "Jeff.7219",
+              "composite_score": 1667.7972296896642,
+              "glicko_rating": 1667.7972296896642,
+              "games_played": 2,
+              "average_rank_percent": 1.0,
+              "key_stats": "Heal:2048.8 Clea:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "72.0/43.0"
+            },
+            {
+              "rank": 7,
+              "account_name": "CaptainKnightfall.4378",
+              "composite_score": 1657.5197594657598,
+              "glicko_rating": 1657.5197594657598,
+              "games_played": 4,
+              "average_rank_percent": 3.75,
+              "key_stats": "Heal:1513.5 Clea:1.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.5/53.5"
+            },
+            {
+              "rank": 8,
+              "account_name": "Xhil.9316",
+              "composite_score": 1655.8780555569735,
+              "glicko_rating": 1655.8780555569735,
+              "games_played": 6,
+              "average_rank_percent": 4.666666666666667,
+              "key_stats": "Heal:1407.3 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "73.0/51.0"
+            },
+            {
+              "rank": 9,
+              "account_name": "Guars.6409",
+              "composite_score": 1650.4308234212367,
+              "glicko_rating": 1650.4308234212367,
+              "games_played": 2,
+              "average_rank_percent": 2.0,
+              "key_stats": "Heal:2845.1 Clea:1.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "101.0/87.0"
+            },
+            {
+              "rank": 10,
+              "account_name": "amends.3469",
+              "composite_score": 1645.8707436890572,
+              "glicko_rating": 1645.8707436890572,
+              "games_played": 2,
+              "average_rank_percent": 1.5,
+              "key_stats": "Heal:1611.1 Clea:1.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "68.0/50.0"
+            },
+            {
+              "rank": 11,
+              "account_name": "Jax Blake.7250",
+              "composite_score": 1644.7179190230863,
+              "glicko_rating": 1644.7179190230863,
+              "games_played": 4,
+              "average_rank_percent": 4.25,
+              "key_stats": "Heal:1783.2 Clea:1.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.0/47.5"
+            },
+            {
+              "rank": 12,
+              "account_name": "aznsleeper.5896",
+              "composite_score": 1643.5020875227099,
+              "glicko_rating": 1643.5020875227099,
+              "games_played": 2,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1408.5 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "25.0/7.0"
+            },
+            {
+              "rank": 13,
+              "account_name": "Luke.9108",
+              "composite_score": 1643.309971059889,
+              "glicko_rating": 1643.309971059889,
+              "games_played": 2,
+              "average_rank_percent": 1.5,
+              "key_stats": "Heal:2183.6 Clea:1.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "73.0/51.5"
+            },
+            {
+              "rank": 14,
+              "account_name": "pariah.6937",
+              "composite_score": 1637.344381268258,
+              "glicko_rating": 1637.344381268258,
+              "games_played": 4,
+              "average_rank_percent": 2.25,
+              "key_stats": "Heal:1750.0 Clea:1.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "57.0/50.5"
+            },
+            {
+              "rank": 15,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1636.0012366845995,
+              "glicko_rating": 1636.0012366845995,
+              "games_played": 8,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1736.4 Clea:1.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "50.8/41.0"
+            },
+            {
+              "rank": 16,
+              "account_name": "Soothsayer.9206",
+              "composite_score": 1634.742132628364,
+              "glicko_rating": 1634.742132628364,
+              "games_played": 3,
+              "average_rank_percent": 3.6666666666666665,
+              "key_stats": "Heal:2051.5 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "71.0/42.5"
+            },
+            {
+              "rank": 17,
+              "account_name": "Mandar.9813",
+              "composite_score": 1632.6759829314533,
+              "glicko_rating": 1632.6759829314533,
+              "games_played": 2,
+              "average_rank_percent": 1.5,
+              "key_stats": "Heal:2231.9 Clea:1.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
+            },
+            {
+              "rank": 18,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1625.8888547398317,
+              "glicko_rating": 1625.8888547398317,
+              "games_played": 2,
+              "average_rank_percent": 2.5,
+              "key_stats": "Heal:1497.1 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "70.0/52.0"
+            },
+            {
+              "rank": 19,
+              "account_name": "IronOre.7826",
+              "composite_score": 1623.1477238811308,
+              "glicko_rating": 1623.1477238811308,
+              "games_played": 2,
+              "average_rank_percent": 3.5,
+              "key_stats": "Heal:2162.2 Clea:1.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "71.0/58.0"
+            },
+            {
+              "rank": 20,
+              "account_name": "Stan.9684",
+              "composite_score": 1595.8241631081864,
+              "glicko_rating": 1595.8241631081864,
+              "games_played": 2,
+              "average_rank_percent": 3.5,
+              "key_stats": "Heal:1823.8 Clea:1.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "66.0/58.0"
+            },
+            {
+              "rank": 21,
+              "account_name": "Bother.9415",
+              "composite_score": 1594.7443251024695,
+              "glicko_rating": 1594.7443251024695,
+              "games_played": 2,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1793.3 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "82.0/62.0"
+            },
+            {
+              "rank": 22,
+              "account_name": "FrozenDelicious.3690",
+              "composite_score": 1577.7252282922534,
+              "glicko_rating": 1577.7252282922534,
+              "games_played": 2,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:1121.7 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "63.0/50.0"
+            },
+            {
+              "rank": 23,
+              "account_name": "Lozen.7623",
+              "composite_score": 1572.050755739017,
+              "glicko_rating": 1572.050755739017,
+              "games_played": 4,
+              "average_rank_percent": 5.75,
+              "key_stats": "Heal:1429.4 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "82.0/52.5"
+            },
+            {
+              "rank": 24,
+              "account_name": "Igure.2063",
+              "composite_score": 1569.761183579924,
+              "glicko_rating": 1569.761183579924,
+              "games_played": 4,
+              "average_rank_percent": 4.5,
+              "key_stats": "Heal:829.7 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.5/30.5"
+            },
+            {
+              "rank": 25,
+              "account_name": "SilverBlade Hero.8974",
+              "composite_score": 1568.5770530412726,
+              "glicko_rating": 1568.5770530412726,
+              "games_played": 6,
+              "average_rank_percent": 11.166666666666666,
+              "key_stats": "Heal:1116.6 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/32.3"
+            },
+            {
+              "rank": 26,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1563.435547955074,
+              "glicko_rating": 1563.435547955074,
+              "games_played": 9,
+              "average_rank_percent": 6.666666666666667,
+              "key_stats": "Heal:1294.2 Clea:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "49.6/43.8"
+            },
+            {
+              "rank": 27,
+              "account_name": "Hiraldo.7954",
+              "composite_score": 1563.3719049768406,
+              "glicko_rating": 1563.3719049768406,
+              "games_played": 10,
+              "average_rank_percent": 5.5,
+              "key_stats": "Heal:1215.0 Clea:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "54.7/36.0"
+            },
+            {
+              "rank": 28,
+              "account_name": "J WreckX.7648",
+              "composite_score": 1551.1696022669403,
+              "glicko_rating": 1551.1696022669403,
+              "games_played": 5,
+              "average_rank_percent": 4.0,
+              "key_stats": "Heal:871.9 Clea:1.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "48.7/39.3"
+            },
+            {
+              "rank": 29,
+              "account_name": "Malek.9417",
+              "composite_score": 1546.5347527263111,
+              "glicko_rating": 1546.5347527263111,
+              "games_played": 6,
+              "average_rank_percent": 4.833333333333333,
+              "key_stats": "Heal:1097.1 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "61.7/42.7"
+            },
+            {
+              "rank": 30,
+              "account_name": "synco.8132",
+              "composite_score": 1541.0859653897824,
+              "glicko_rating": 1541.0859653897824,
+              "games_played": 8,
+              "average_rank_percent": 7.25,
+              "key_stats": "Heal:1431.5 Clea:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "53.2/34.2"
+            },
+            {
+              "rank": 31,
+              "account_name": "ThiagoW.4810",
+              "composite_score": 1536.6923286700285,
+              "glicko_rating": 1536.6923286700285,
+              "games_played": 2,
+              "average_rank_percent": 6.5,
+              "key_stats": "Heal:1720.5 Clea:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "48.0/32.0"
+            },
+            {
+              "rank": 32,
+              "account_name": "HuMbErTerA.4253",
+              "composite_score": 1493.9825588353103,
+              "glicko_rating": 1493.9825588353103,
+              "games_played": 5,
+              "average_rank_percent": 11.4,
+              "key_stats": "Heal:777.0 Clea:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "30.0/20.0"
+            },
+            {
+              "rank": 33,
+              "account_name": "Jdchil.9561",
+              "composite_score": 1492.2449029555692,
+              "glicko_rating": 1492.2449029555692,
+              "games_played": 2,
+              "average_rank_percent": 10.0,
+              "key_stats": "Heal:1333.5 Clea:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "53.0/43.0"
+            },
+            {
+              "rank": 34,
+              "account_name": "TigerSpirit.2194",
+              "composite_score": 1491.4858355371312,
+              "glicko_rating": 1491.4858355371312,
+              "games_played": 16,
+              "average_rank_percent": 7.4375,
+              "key_stats": "Heal:738.3 Clea:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "55.2/36.7"
+            }
+          ]
+        },
         "Scourge": {
           "metrics": [
             "Strips",
@@ -128985,426 +133442,6 @@ const leaderboardData = {
               "is_guild_member": false,
               "rating_delta": 0.0,
               "apm": "38.0/21.0"
-            }
-          ]
-        },
-        "Druid": {
-          "metrics": [
-            "Healing",
-            "Cleanses"
-          ],
-          "weights": [
-            0.6,
-            0.4
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "modus.7921",
-              "composite_score": 1761.11514131596,
-              "glicko_rating": 1761.11514131596,
-              "games_played": 25,
-              "average_rank_percent": 3.12,
-              "key_stats": "Heal:1947.8 Clea:1.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "83.2/60.4"
-            },
-            {
-              "rank": 2,
-              "account_name": "Astro Bear.6305",
-              "composite_score": 1730.8456906813608,
-              "glicko_rating": 1730.8456906813608,
-              "games_played": 19,
-              "average_rank_percent": 3.9473684210526314,
-              "key_stats": "Heal:1843.7 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "69.5/55.6"
-            },
-            {
-              "rank": 3,
-              "account_name": "Uriah.7082",
-              "composite_score": 1719.260650995229,
-              "glicko_rating": 1719.260650995229,
-              "games_played": 6,
-              "average_rank_percent": 2.5,
-              "key_stats": "Heal:1662.9 Clea:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/35.0"
-            },
-            {
-              "rank": 4,
-              "account_name": "Johnny.5478",
-              "composite_score": 1704.9321365935452,
-              "glicko_rating": 1704.9321365935452,
-              "games_played": 4,
-              "average_rank_percent": 1.25,
-              "key_stats": "Heal:1920.7 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "78.0/50.5"
-            },
-            {
-              "rank": 5,
-              "account_name": "Foodels.7358",
-              "composite_score": 1689.928428145406,
-              "glicko_rating": 1689.928428145406,
-              "games_played": 4,
-              "average_rank_percent": 1.0,
-              "key_stats": "Heal:1551.9 Clea:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "65.0/46.5"
-            },
-            {
-              "rank": 6,
-              "account_name": "Jeff.7219",
-              "composite_score": 1667.7972296896642,
-              "glicko_rating": 1667.7972296896642,
-              "games_played": 2,
-              "average_rank_percent": 1.0,
-              "key_stats": "Heal:2048.8 Clea:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "72.0/43.0"
-            },
-            {
-              "rank": 7,
-              "account_name": "CaptainKnightfall.4378",
-              "composite_score": 1657.5197594657598,
-              "glicko_rating": 1657.5197594657598,
-              "games_played": 4,
-              "average_rank_percent": 3.75,
-              "key_stats": "Heal:1513.5 Clea:1.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "69.5/53.5"
-            },
-            {
-              "rank": 8,
-              "account_name": "Xhil.9316",
-              "composite_score": 1655.8780555569735,
-              "glicko_rating": 1655.8780555569735,
-              "games_played": 6,
-              "average_rank_percent": 4.666666666666667,
-              "key_stats": "Heal:1407.3 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "73.0/51.0"
-            },
-            {
-              "rank": 9,
-              "account_name": "Guars.6409",
-              "composite_score": 1650.4308234212367,
-              "glicko_rating": 1650.4308234212367,
-              "games_played": 2,
-              "average_rank_percent": 2.0,
-              "key_stats": "Heal:2845.1 Clea:1.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "101.0/87.0"
-            },
-            {
-              "rank": 10,
-              "account_name": "amends.3469",
-              "composite_score": 1645.8707436890572,
-              "glicko_rating": 1645.8707436890572,
-              "games_played": 2,
-              "average_rank_percent": 1.5,
-              "key_stats": "Heal:1611.1 Clea:1.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "68.0/50.0"
-            },
-            {
-              "rank": 11,
-              "account_name": "Jax Blake.7250",
-              "composite_score": 1644.7179190230863,
-              "glicko_rating": 1644.7179190230863,
-              "games_played": 4,
-              "average_rank_percent": 4.25,
-              "key_stats": "Heal:1783.2 Clea:1.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "69.0/47.5"
-            },
-            {
-              "rank": 12,
-              "account_name": "aznsleeper.5896",
-              "composite_score": 1643.5020875227099,
-              "glicko_rating": 1643.5020875227099,
-              "games_played": 2,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1408.5 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "25.0/7.0"
-            },
-            {
-              "rank": 13,
-              "account_name": "Luke.9108",
-              "composite_score": 1643.309971059889,
-              "glicko_rating": 1643.309971059889,
-              "games_played": 2,
-              "average_rank_percent": 1.5,
-              "key_stats": "Heal:2183.6 Clea:1.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "73.0/51.5"
-            },
-            {
-              "rank": 14,
-              "account_name": "pariah.6937",
-              "composite_score": 1637.344381268258,
-              "glicko_rating": 1637.344381268258,
-              "games_played": 4,
-              "average_rank_percent": 2.25,
-              "key_stats": "Heal:1750.0 Clea:1.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "57.0/50.5"
-            },
-            {
-              "rank": 15,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1636.0012366845995,
-              "glicko_rating": 1636.0012366845995,
-              "games_played": 8,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1736.4 Clea:1.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "50.8/41.0"
-            },
-            {
-              "rank": 16,
-              "account_name": "Soothsayer.9206",
-              "composite_score": 1634.742132628364,
-              "glicko_rating": 1634.742132628364,
-              "games_played": 3,
-              "average_rank_percent": 3.6666666666666665,
-              "key_stats": "Heal:2051.5 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "71.0/42.5"
-            },
-            {
-              "rank": 17,
-              "account_name": "Mandar.9813",
-              "composite_score": 1632.6759829314533,
-              "glicko_rating": 1632.6759829314533,
-              "games_played": 2,
-              "average_rank_percent": 1.5,
-              "key_stats": "Heal:2231.9 Clea:1.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "30.0/25.0"
-            },
-            {
-              "rank": 18,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1625.8888547398317,
-              "glicko_rating": 1625.8888547398317,
-              "games_played": 2,
-              "average_rank_percent": 2.5,
-              "key_stats": "Heal:1497.1 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "70.0/52.0"
-            },
-            {
-              "rank": 19,
-              "account_name": "IronOre.7826",
-              "composite_score": 1623.1477238811308,
-              "glicko_rating": 1623.1477238811308,
-              "games_played": 2,
-              "average_rank_percent": 3.5,
-              "key_stats": "Heal:2162.2 Clea:1.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "71.0/58.0"
-            },
-            {
-              "rank": 20,
-              "account_name": "Stan.9684",
-              "composite_score": 1595.8241631081864,
-              "glicko_rating": 1595.8241631081864,
-              "games_played": 2,
-              "average_rank_percent": 3.5,
-              "key_stats": "Heal:1823.8 Clea:1.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "66.0/58.0"
-            },
-            {
-              "rank": 21,
-              "account_name": "Bother.9415",
-              "composite_score": 1594.7443251024695,
-              "glicko_rating": 1594.7443251024695,
-              "games_played": 2,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1793.3 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "82.0/62.0"
-            },
-            {
-              "rank": 22,
-              "account_name": "FrozenDelicious.3690",
-              "composite_score": 1577.7252282922534,
-              "glicko_rating": 1577.7252282922534,
-              "games_played": 2,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:1121.7 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "63.0/50.0"
-            },
-            {
-              "rank": 23,
-              "account_name": "Lozen.7623",
-              "composite_score": 1572.050755739017,
-              "glicko_rating": 1572.050755739017,
-              "games_played": 4,
-              "average_rank_percent": 5.75,
-              "key_stats": "Heal:1429.4 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "82.0/52.5"
-            },
-            {
-              "rank": 24,
-              "account_name": "Igure.2063",
-              "composite_score": 1569.761183579924,
-              "glicko_rating": 1569.761183579924,
-              "games_played": 4,
-              "average_rank_percent": 4.5,
-              "key_stats": "Heal:829.7 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.5/30.5"
-            },
-            {
-              "rank": 25,
-              "account_name": "SilverBlade Hero.8974",
-              "composite_score": 1568.5770530412726,
-              "glicko_rating": 1568.5770530412726,
-              "games_played": 6,
-              "average_rank_percent": 11.166666666666666,
-              "key_stats": "Heal:1116.6 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/32.3"
-            },
-            {
-              "rank": 26,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1563.435547955074,
-              "glicko_rating": 1563.435547955074,
-              "games_played": 9,
-              "average_rank_percent": 6.666666666666667,
-              "key_stats": "Heal:1294.2 Clea:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "49.6/43.8"
-            },
-            {
-              "rank": 27,
-              "account_name": "Hiraldo.7954",
-              "composite_score": 1563.3719049768406,
-              "glicko_rating": 1563.3719049768406,
-              "games_played": 10,
-              "average_rank_percent": 5.5,
-              "key_stats": "Heal:1215.0 Clea:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "54.7/36.0"
-            },
-            {
-              "rank": 28,
-              "account_name": "J WreckX.7648",
-              "composite_score": 1551.1696022669403,
-              "glicko_rating": 1551.1696022669403,
-              "games_played": 5,
-              "average_rank_percent": 4.0,
-              "key_stats": "Heal:871.9 Clea:1.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "48.7/39.3"
-            },
-            {
-              "rank": 29,
-              "account_name": "Malek.9417",
-              "composite_score": 1546.5347527263111,
-              "glicko_rating": 1546.5347527263111,
-              "games_played": 6,
-              "average_rank_percent": 4.833333333333333,
-              "key_stats": "Heal:1097.1 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "61.7/42.7"
-            },
-            {
-              "rank": 30,
-              "account_name": "synco.8132",
-              "composite_score": 1541.0859653897824,
-              "glicko_rating": 1541.0859653897824,
-              "games_played": 8,
-              "average_rank_percent": 7.25,
-              "key_stats": "Heal:1431.5 Clea:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "53.2/34.2"
-            },
-            {
-              "rank": 31,
-              "account_name": "ThiagoW.4810",
-              "composite_score": 1536.6923286700285,
-              "glicko_rating": 1536.6923286700285,
-              "games_played": 2,
-              "average_rank_percent": 6.5,
-              "key_stats": "Heal:1720.5 Clea:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "48.0/32.0"
-            },
-            {
-              "rank": 32,
-              "account_name": "HuMbErTerA.4253",
-              "composite_score": 1493.9825588353103,
-              "glicko_rating": 1493.9825588353103,
-              "games_played": 5,
-              "average_rank_percent": 11.4,
-              "key_stats": "Heal:777.0 Clea:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "30.0/20.0"
-            },
-            {
-              "rank": 33,
-              "account_name": "Jdchil.9561",
-              "composite_score": 1492.2449029555692,
-              "glicko_rating": 1492.2449029555692,
-              "games_played": 2,
-              "average_rank_percent": 10.0,
-              "key_stats": "Heal:1333.5 Clea:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "53.0/43.0"
-            },
-            {
-              "rank": 34,
-              "account_name": "TigerSpirit.2194",
-              "composite_score": 1491.4858355371312,
-              "glicko_rating": 1491.4858355371312,
-              "games_played": 16,
-              "average_rank_percent": 7.4375,
-              "key_stats": "Heal:738.3 Clea:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "55.2/36.7"
             }
           ]
         },
@@ -141998,7 +146035,24 @@ const leaderboardData = {
           {
             "rank": 1,
             "account_name": "Dextra.8162",
-            "professions_played": "Weaver (15), Catalyst (8), Soulbeast (2), Thief (1)",
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 15
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Soulbeast",
+                "session_count": 2
+              },
+              {
+                "profession": "Thief",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 26,
             "profession_count": 4,
             "primary_profession": "Weaver",
@@ -142007,7 +146061,44 @@ const leaderboardData = {
           {
             "rank": 2,
             "account_name": "Interpretor.3091",
-            "professions_played": "Spellbreaker (7), Untamed (5), Warrior (4), Catalyst (3), Holosmith (2), Berserker (2), Vindicator (1), Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 7
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 5
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 4
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 26,
             "profession_count": 9,
             "primary_profession": "Spellbreaker",
@@ -142016,7 +146107,32 @@ const leaderboardData = {
           {
             "rank": 3,
             "account_name": "Havocus.3682",
-            "professions_played": "Catalyst (10), Scourge (7), Chronomancer (4), Vindicator (1), Support Spb (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 10
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 7
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 24,
             "profession_count": 6,
             "primary_profession": "Catalyst",
@@ -142025,7 +146141,24 @@ const leaderboardData = {
           {
             "rank": 4,
             "account_name": "ParaldaWind.4523",
-            "professions_played": "China DH (14), Dragonhunter (4), Condi Firebrand (2), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "China DH",
+                "session_count": 14
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 4,
             "primary_profession": "China DH",
@@ -142034,7 +146167,56 @@ const leaderboardData = {
           {
             "rank": 5,
             "account_name": "Pieswithattitude.2357",
-            "professions_played": "Catalyst (5), Spellbreaker (3), Chronomancer (3), Druid (2), Tempest (1), Scrapper (1), Scourge (1), Reaper (1), Holosmith (1), Dragonhunter (1), Boon Cata (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 12,
             "primary_profession": "Catalyst",
@@ -142043,7 +146225,32 @@ const leaderboardData = {
           {
             "rank": 6,
             "account_name": "synco.8132",
-            "professions_played": "Catalyst (8), Druid (4), Chronomancer (4), Scourge (3), Vindicator (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 6,
             "primary_profession": "Catalyst",
@@ -142052,7 +146259,20 @@ const leaderboardData = {
           {
             "rank": 7,
             "account_name": "Nero.6195",
-            "professions_played": "Scourge (8), Condi Firebrand (7), Firebrand (5)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 8
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 7
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              }
+            ],
             "total_sessions": 20,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -142061,7 +146281,40 @@ const leaderboardData = {
           {
             "rank": 8,
             "account_name": "Nictheman.9754",
-            "professions_played": "Chronomancer (11), Warrior (2), Spellbreaker (2), Support Spb (1), Reaper (1), Holosmith (1), Condi Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 11
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 20,
             "profession_count": 8,
             "primary_profession": "Chronomancer",
@@ -142070,7 +146323,36 @@ const leaderboardData = {
           {
             "rank": 9,
             "account_name": "Freelanced.6084",
-            "professions_played": "Catalyst (8), Scourge (6), Scrapper (1), Reaper (1), Holosmith (1), Firebrand (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 6
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 19,
             "profession_count": 7,
             "primary_profession": "Catalyst",
@@ -142079,7 +146361,28 @@ const leaderboardData = {
           {
             "rank": 10,
             "account_name": "Luke.9108",
-            "professions_played": "Scourge (10), Untamed (3), Reaper (2), Druid (2), Condi Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 19,
             "profession_count": 5,
             "primary_profession": "Scourge",
@@ -142088,7 +146391,36 @@ const leaderboardData = {
           {
             "rank": 11,
             "account_name": "FlawedDjinn.3217",
-            "professions_played": "Druid (5), Untamed (3), Scourge (3), Chronomancer (3), Boon Vindi (2), Reaper (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 5
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 18,
             "profession_count": 7,
             "primary_profession": "Druid",
@@ -142097,7 +146429,32 @@ const leaderboardData = {
           {
             "rank": 12,
             "account_name": "Mellis.8451",
-            "professions_played": "Scourge (5), Firebrand (5), Chronomancer (4), Condi Firebrand (2), Reaper (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 18,
             "profession_count": 6,
             "primary_profession": "Scourge",
@@ -142106,7 +146463,20 @@ const leaderboardData = {
           {
             "rank": 13,
             "account_name": "Huge.5891",
-            "professions_played": "Dragonhunter (12), Willbender (4), China DH (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 12
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 4
+              },
+              {
+                "profession": "China DH",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 3,
             "primary_profession": "Dragonhunter",
@@ -142115,7 +146485,24 @@ const leaderboardData = {
           {
             "rank": 14,
             "account_name": "Muted.8591",
-            "professions_played": "Chronomancer (8), Reaper (5), Tempest (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 8
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -142124,7 +146511,16 @@ const leaderboardData = {
           {
             "rank": 15,
             "account_name": "Aein.1483",
-            "professions_played": "Vindicator (13), Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 13
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 14,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -142133,7 +146529,32 @@ const leaderboardData = {
           {
             "rank": 16,
             "account_name": "Uriah.7082",
-            "professions_played": "Scourge (4), Chronomancer (4), Druid (3), Spellbreaker (1), Firebrand (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 14,
             "profession_count": 6,
             "primary_profession": "Scourge",
@@ -142142,7 +146563,16 @@ const leaderboardData = {
           {
             "rank": 17,
             "account_name": "modus.7921",
-            "professions_played": "Druid (13), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 13
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 14,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -142151,7 +146581,16 @@ const leaderboardData = {
           {
             "rank": 18,
             "account_name": "Astro Bear.6305",
-            "professions_played": "Druid (10), Firebrand (3)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 10
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 13,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -142160,7 +146599,24 @@ const leaderboardData = {
           {
             "rank": 19,
             "account_name": "Crator of Fire.1796",
-            "professions_played": "Scourge (5), Reaper (5), Vindicator (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 12,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -142169,7 +146625,32 @@ const leaderboardData = {
           {
             "rank": 20,
             "account_name": "Malek.9417",
-            "professions_played": "Condi Firebrand (4), Druid (3), Scourge (1), Firebrand (1), Dragonhunter (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 6,
             "primary_profession": "Condi Firebrand",
@@ -142178,7 +146659,36 @@ const leaderboardData = {
           {
             "rank": 21,
             "account_name": "Soothsayer.9206",
-            "professions_played": "Untamed (2), Scourge (2), Druid (2), Catalyst (2), Warrior (1), Renegade (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 7,
             "primary_profession": "Untamed",
@@ -142187,7 +146697,16 @@ const leaderboardData = {
           {
             "rank": 22,
             "account_name": "adrielle.2109",
-            "professions_played": "Firebrand (7), Condi Firebrand (4)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 7
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -142196,7 +146715,20 @@ const leaderboardData = {
           {
             "rank": 23,
             "account_name": "emz.3571",
-            "professions_played": "Reaper (6), Weaver (3), Catalyst (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 6
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 11,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -142205,7 +146737,20 @@ const leaderboardData = {
           {
             "rank": 24,
             "account_name": "Argo.2675",
-            "professions_played": "Chronomancer (8), Support Spb (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 8
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 3,
             "primary_profession": "Chronomancer",
@@ -142214,7 +146759,16 @@ const leaderboardData = {
           {
             "rank": 25,
             "account_name": "Bailyen Arturius.4263",
-            "professions_played": "Chronomancer (8), Vindicator (2)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 8
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -142223,7 +146777,28 @@ const leaderboardData = {
           {
             "rank": 26,
             "account_name": "Lasthope.7943",
-            "professions_played": "Dragonhunter (4), Guardian (3), Willbender (1), Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 4
+              },
+              {
+                "profession": "Guardian",
+                "session_count": 3
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Dragonhunter",
@@ -142232,7 +146807,24 @@ const leaderboardData = {
           {
             "rank": 27,
             "account_name": "Bother.9415",
-            "professions_played": "Scourge (3), Catalyst (3), Untamed (2), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -142241,7 +146833,24 @@ const leaderboardData = {
           {
             "rank": 28,
             "account_name": "Hiraldo.7954",
-            "professions_played": "Druid (6), Untamed (1), Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 6
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -142250,7 +146859,12 @@ const leaderboardData = {
           {
             "rank": 29,
             "account_name": "TigerSpirit.2194",
-            "professions_played": "Druid (9)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 9
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -142259,7 +146873,20 @@ const leaderboardData = {
           {
             "rank": 30,
             "account_name": "aznsleeper.5896",
-            "professions_played": "Firebrand (6), Chronomancer (2), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 6
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 3,
             "primary_profession": "Firebrand",
@@ -142268,7 +146895,28 @@ const leaderboardData = {
           {
             "rank": 31,
             "account_name": "Ashtonlightstone.9145",
-            "professions_played": "Druid (4), Reaper (1), Dragonhunter (1), Chronomancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 5,
             "primary_profession": "Druid",
@@ -142277,7 +146925,12 @@ const leaderboardData = {
           {
             "rank": 32,
             "account_name": "Smile.9284",
-            "professions_played": "Chronomancer (8)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 8
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -142286,7 +146939,20 @@ const leaderboardData = {
           {
             "rank": 33,
             "account_name": "waschy.6093",
-            "professions_played": "Firebrand (5), Dragonhunter (2), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 3,
             "primary_profession": "Firebrand",
@@ -142295,7 +146961,24 @@ const leaderboardData = {
           {
             "rank": 34,
             "account_name": "Disenable.1640",
-            "professions_played": "Chronomancer (4), Spellbreaker (1), Scrapper (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -142304,7 +146987,20 @@ const leaderboardData = {
           {
             "rank": 35,
             "account_name": "SilverBlade Hero.8974",
-            "professions_played": "Druid (3), Scourge (2), Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -142313,7 +147009,20 @@ const leaderboardData = {
           {
             "rank": 36,
             "account_name": "montjusk.9671",
-            "professions_played": "Warrior (3), Scourge (2), Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 3,
             "primary_profession": "Warrior",
@@ -142322,7 +147031,16 @@ const leaderboardData = {
           {
             "rank": 37,
             "account_name": "Aromapaloma.3194",
-            "professions_played": "Tempest (5), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 5
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -142331,7 +147049,24 @@ const leaderboardData = {
           {
             "rank": 38,
             "account_name": "Johnny.5478",
-            "professions_played": "Specter (2), Druid (2), Reaper (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 4,
             "primary_profession": "Specter",
@@ -142340,7 +147075,16 @@ const leaderboardData = {
           {
             "rank": 39,
             "account_name": "OPness.3215",
-            "professions_played": "Support Spb (5), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -142349,7 +147093,24 @@ const leaderboardData = {
           {
             "rank": 40,
             "account_name": "Steampunkengineer.7146",
-            "professions_played": "Chronomancer (3), Firebrand (1), Druid (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -142358,7 +147119,24 @@ const leaderboardData = {
           {
             "rank": 41,
             "account_name": "Xhil.9316",
-            "professions_played": "Druid (3), Tempest (1), Firebrand (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -142367,7 +147145,20 @@ const leaderboardData = {
           {
             "rank": 42,
             "account_name": "CaptainKnightfall.4378",
-            "professions_played": "Druid (2), Chronomancer (2), Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -142376,7 +147167,24 @@ const leaderboardData = {
           {
             "rank": 43,
             "account_name": "Jeff.7219",
-            "professions_played": "Scourge (2), Druid (1), Dragonhunter (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -142385,7 +147193,24 @@ const leaderboardData = {
           {
             "rank": 44,
             "account_name": "Jordan.1860",
-            "professions_played": "Virtuoso (2), Untamed (1), Chronomancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Virtuoso",
@@ -142394,7 +147219,20 @@ const leaderboardData = {
           {
             "rank": 45,
             "account_name": "Stash.8401",
-            "professions_played": "Scourge (2), Catalyst (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -142403,7 +147241,16 @@ const leaderboardData = {
           {
             "rank": 46,
             "account_name": "Syde.1863",
-            "professions_played": "Scourge (4), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -142412,7 +147259,16 @@ const leaderboardData = {
           {
             "rank": 47,
             "account_name": "mikefmc.5961",
-            "professions_played": "Support Spb (3), Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -142421,7 +147277,20 @@ const leaderboardData = {
           {
             "rank": 48,
             "account_name": "Basic.9204",
-            "professions_played": "Scourge (2), Spellbreaker (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -142430,7 +147299,16 @@ const leaderboardData = {
           {
             "rank": 49,
             "account_name": "Bertozaur.4578",
-            "professions_played": "Scourge (3), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -142439,7 +147317,20 @@ const leaderboardData = {
           {
             "rank": 50,
             "account_name": "Coileddarknight.9528",
-            "professions_played": "Support Spb (2), Condi Firebrand (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -142448,7 +147339,16 @@ const leaderboardData = {
           {
             "rank": 51,
             "account_name": "Mortealug.6043",
-            "professions_played": "Firebrand (2), Condi Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -142457,7 +147357,16 @@ const leaderboardData = {
           {
             "rank": 52,
             "account_name": "Solomon Darkfury.3729",
-            "professions_played": "Support Spb (3), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -142466,7 +147375,16 @@ const leaderboardData = {
           {
             "rank": 53,
             "account_name": "acumen.1980",
-            "professions_played": "Catalyst (3), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -142475,7 +147393,20 @@ const leaderboardData = {
           {
             "rank": 54,
             "account_name": "filipe.2809",
-            "professions_played": "Scourge (2), Dragonhunter (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -142484,7 +147415,16 @@ const leaderboardData = {
           {
             "rank": 55,
             "account_name": "pariah.6937",
-            "professions_played": "Druid (2), Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -142493,7 +147433,20 @@ const leaderboardData = {
           {
             "rank": 56,
             "account_name": "Chakkkka.2504",
-            "professions_played": "Tempest (1), Scourge (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Tempest",
@@ -142502,7 +147455,12 @@ const leaderboardData = {
           {
             "rank": 57,
             "account_name": "HuMbErTerA.4253",
-            "professions_played": "Druid (3)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -142511,7 +147469,16 @@ const leaderboardData = {
           {
             "rank": 58,
             "account_name": "Hydrason.4612",
-            "professions_played": "Chronomancer (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -142520,7 +147487,16 @@ const leaderboardData = {
           {
             "rank": 59,
             "account_name": "Igure.2063",
-            "professions_played": "Druid (2), Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -142529,7 +147505,12 @@ const leaderboardData = {
           {
             "rank": 60,
             "account_name": "J WreckX.7648",
-            "professions_played": "Druid (3)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -142538,7 +147519,16 @@ const leaderboardData = {
           {
             "rank": 61,
             "account_name": "Lozen.7623",
-            "professions_played": "Druid (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -142547,7 +147537,20 @@ const leaderboardData = {
           {
             "rank": 62,
             "account_name": "Mandar.9813",
-            "professions_played": "Tempest (1), Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Tempest",
@@ -142556,7 +147559,12 @@ const leaderboardData = {
           {
             "rank": 63,
             "account_name": "Mes.1906",
-            "professions_played": "Scourge (3)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -142565,7 +147573,20 @@ const leaderboardData = {
           {
             "rank": 64,
             "account_name": "Naomi.5372",
-            "professions_played": "Virtuoso (1), Mirage (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Virtuoso",
@@ -142574,7 +147595,16 @@ const leaderboardData = {
           {
             "rank": 65,
             "account_name": "Raven Paradox.1860",
-            "professions_played": "Druid (2), Support Spb (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -142583,7 +147613,12 @@ const leaderboardData = {
           {
             "rank": 66,
             "account_name": "Sieia.3642",
-            "professions_played": "Chronomancer (3)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -142592,7 +147627,12 @@ const leaderboardData = {
           {
             "rank": 67,
             "account_name": "Wootzies.3574",
-            "professions_played": "Tempest (3)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -142601,7 +147641,16 @@ const leaderboardData = {
           {
             "rank": 68,
             "account_name": "dobbeh.7382",
-            "professions_played": "Holosmith (2), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -142610,7 +147659,16 @@ const leaderboardData = {
           {
             "rank": 69,
             "account_name": "ixJurema.8657",
-            "professions_played": "Tempest (2), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -142619,7 +147677,12 @@ const leaderboardData = {
           {
             "rank": 70,
             "account_name": "liloxw.4809",
-            "professions_played": "Scourge (3)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -142628,7 +147691,16 @@ const leaderboardData = {
           {
             "rank": 71,
             "account_name": "limbrose.3079",
-            "professions_played": "Scrapper (2), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scrapper",
@@ -142637,7 +147709,16 @@ const leaderboardData = {
           {
             "rank": 72,
             "account_name": "pinguinox.9528",
-            "professions_played": "Dragonhunter (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Dragonhunter",
@@ -142646,7 +147727,16 @@ const leaderboardData = {
           {
             "rank": 73,
             "account_name": "yhanbruno.5873",
-            "professions_played": "Catalyst (2), Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -142655,7 +147745,16 @@ const leaderboardData = {
           {
             "rank": 74,
             "account_name": "ABC.9386",
-            "professions_played": "Holosmith (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -142664,7 +147763,16 @@ const leaderboardData = {
           {
             "rank": 75,
             "account_name": "Asterisk.9730",
-            "professions_played": "Support Spb (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -142673,7 +147781,12 @@ const leaderboardData = {
           {
             "rank": 76,
             "account_name": "BlueViolet.8263",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -142682,7 +147795,12 @@ const leaderboardData = {
           {
             "rank": 77,
             "account_name": "Bricktus.1682",
-            "professions_played": "Catalyst (2)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -142691,7 +147809,16 @@ const leaderboardData = {
           {
             "rank": 78,
             "account_name": "Cruelty.9730",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -142700,7 +147827,16 @@ const leaderboardData = {
           {
             "rank": 79,
             "account_name": "Daasen.3719",
-            "professions_played": "Reaper (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -142709,7 +147845,12 @@ const leaderboardData = {
           {
             "rank": 80,
             "account_name": "DareDevils.6039",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -142718,7 +147859,16 @@ const leaderboardData = {
           {
             "rank": 81,
             "account_name": "DgsWolf.4790",
-            "professions_played": "Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -142727,7 +147877,12 @@ const leaderboardData = {
           {
             "rank": 82,
             "account_name": "Fibbs.1623",
-            "professions_played": "Condi Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Condi Firebrand",
@@ -142736,7 +147891,12 @@ const leaderboardData = {
           {
             "rank": 83,
             "account_name": "Foodels.7358",
-            "professions_played": "Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -142745,7 +147905,12 @@ const leaderboardData = {
           {
             "rank": 84,
             "account_name": "General Moo.7930",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -142754,7 +147919,16 @@ const leaderboardData = {
           {
             "rank": 85,
             "account_name": "Guars.6409",
-            "professions_played": "Spellbreaker (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -142763,7 +147937,12 @@ const leaderboardData = {
           {
             "rank": 86,
             "account_name": "Jax Blake.7250",
-            "professions_played": "Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -142772,7 +147951,12 @@ const leaderboardData = {
           {
             "rank": 87,
             "account_name": "Kenlos.2354",
-            "professions_played": "Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -142781,7 +147965,12 @@ const leaderboardData = {
           {
             "rank": 88,
             "account_name": "LightspeedJack.9473",
-            "professions_played": "Holosmith (2)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -142790,7 +147979,16 @@ const leaderboardData = {
           {
             "rank": 89,
             "account_name": "Niyack.4953",
-            "professions_played": "Scourge (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -142799,7 +147997,16 @@ const leaderboardData = {
           {
             "rank": 90,
             "account_name": "PelloJello.8241",
-            "professions_played": "Tempest (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -142808,7 +148015,16 @@ const leaderboardData = {
           {
             "rank": 91,
             "account_name": "Ronin.4501",
-            "professions_played": "Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -142817,7 +148033,16 @@ const leaderboardData = {
           {
             "rank": 92,
             "account_name": "RoyTheBoy.8693",
-            "professions_played": "Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -142826,7 +148051,16 @@ const leaderboardData = {
           {
             "rank": 93,
             "account_name": "Sabbaah.2314",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -142835,7 +148069,16 @@ const leaderboardData = {
           {
             "rank": 94,
             "account_name": "Shaaaads.1856",
-            "professions_played": "Tempest (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -142844,7 +148087,16 @@ const leaderboardData = {
           {
             "rank": 95,
             "account_name": "TopestOfKeks.5192",
-            "professions_played": "Spellbreaker (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -142853,7 +148105,16 @@ const leaderboardData = {
           {
             "rank": 96,
             "account_name": "amends.3469",
-            "professions_played": "Renegade (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Renegade",
@@ -142862,7 +148123,16 @@ const leaderboardData = {
           {
             "rank": 97,
             "account_name": "bernadettesurprise.3297",
-            "professions_played": "Scourge (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -142871,7 +148141,12 @@ const leaderboardData = {
           {
             "rank": 98,
             "account_name": "cmackoy.4973",
-            "professions_played": "Scrapper (2)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -142880,7 +148155,12 @@ const leaderboardData = {
           {
             "rank": 99,
             "account_name": "freecarl.9214",
-            "professions_played": "Holosmith (2)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -142889,7 +148169,16 @@ const leaderboardData = {
           {
             "rank": 100,
             "account_name": "killsfun.2436",
-            "professions_played": "Reaper (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -142898,7 +148187,12 @@ const leaderboardData = {
           {
             "rank": 101,
             "account_name": "lauri.4873",
-            "professions_played": "Mirage (2)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -142907,7 +148201,12 @@ const leaderboardData = {
           {
             "rank": 102,
             "account_name": "orangejoose.4981",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -142916,7 +148215,12 @@ const leaderboardData = {
           {
             "rank": 103,
             "account_name": "stu.2590",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -142925,7 +148229,12 @@ const leaderboardData = {
           {
             "rank": 104,
             "account_name": "Adrokos.1729",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -142934,7 +148243,12 @@ const leaderboardData = {
           {
             "rank": 105,
             "account_name": "Andry.2473",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -142943,7 +148257,12 @@ const leaderboardData = {
           {
             "rank": 106,
             "account_name": "Asper.2863",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -142952,7 +148271,12 @@ const leaderboardData = {
           {
             "rank": 107,
             "account_name": "Ayemes.5892",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -142961,7 +148285,12 @@ const leaderboardData = {
           {
             "rank": 108,
             "account_name": "Babadook.5842",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -142970,7 +148299,12 @@ const leaderboardData = {
           {
             "rank": 109,
             "account_name": "Bad Karma.8407",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -142979,7 +148313,12 @@ const leaderboardData = {
           {
             "rank": 110,
             "account_name": "Bellesh.4298",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -142988,7 +148327,12 @@ const leaderboardData = {
           {
             "rank": 111,
             "account_name": "Beneddar.7930",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -142997,7 +148341,12 @@ const leaderboardData = {
           {
             "rank": 112,
             "account_name": "Beneko.8475",
-            "professions_played": "Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Condi Firebrand",
@@ -143006,7 +148355,12 @@ const leaderboardData = {
           {
             "rank": 113,
             "account_name": "BlackMamba.1734",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -143015,7 +148369,12 @@ const leaderboardData = {
           {
             "rank": 114,
             "account_name": "Bleebt.4108",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -143024,7 +148383,12 @@ const leaderboardData = {
           {
             "rank": 115,
             "account_name": "BlueFlame.8673",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -143033,7 +148397,12 @@ const leaderboardData = {
           {
             "rank": 116,
             "account_name": "CallsignTundra.5963",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143042,7 +148411,12 @@ const leaderboardData = {
           {
             "rank": 117,
             "account_name": "Carnibaal.2140",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -143051,7 +148425,12 @@ const leaderboardData = {
           {
             "rank": 118,
             "account_name": "ChaoticJarod.2745",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -143060,7 +148439,12 @@ const leaderboardData = {
           {
             "rank": 119,
             "account_name": "ChillaurSaur.8640",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -143069,7 +148453,12 @@ const leaderboardData = {
           {
             "rank": 120,
             "account_name": "Clarrovi.9085",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143078,7 +148467,12 @@ const leaderboardData = {
           {
             "rank": 121,
             "account_name": "Crazy.2618",
-            "professions_played": "Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Willbender",
@@ -143087,7 +148481,12 @@ const leaderboardData = {
           {
             "rank": 122,
             "account_name": "DanDizh.8416",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -143096,7 +148495,12 @@ const leaderboardData = {
           {
             "rank": 123,
             "account_name": "Dangelys.2630",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -143105,7 +148509,12 @@ const leaderboardData = {
           {
             "rank": 124,
             "account_name": "Daniel.8106",
-            "professions_played": "Thief (1)",
+            "professions_played": [
+              {
+                "profession": "Thief",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Thief",
@@ -143114,7 +148523,12 @@ const leaderboardData = {
           {
             "rank": 125,
             "account_name": "Dave.1706",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -143123,7 +148537,12 @@ const leaderboardData = {
           {
             "rank": 126,
             "account_name": "Death by Omen.1734",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -143132,7 +148551,12 @@ const leaderboardData = {
           {
             "rank": 127,
             "account_name": "Digo.2531",
-            "professions_played": "Virtuoso (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Virtuoso",
@@ -143141,7 +148565,12 @@ const leaderboardData = {
           {
             "rank": 128,
             "account_name": "Elgar.2091",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143150,7 +148579,12 @@ const leaderboardData = {
           {
             "rank": 129,
             "account_name": "Eliare.4069",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143159,7 +148593,12 @@ const leaderboardData = {
           {
             "rank": 130,
             "account_name": "Emily.4523",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143168,7 +148607,12 @@ const leaderboardData = {
           {
             "rank": 131,
             "account_name": "FerkzW.3067",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -143177,7 +148621,12 @@ const leaderboardData = {
           {
             "rank": 132,
             "account_name": "Filipe.8492",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -143186,7 +148635,12 @@ const leaderboardData = {
           {
             "rank": 133,
             "account_name": "FrozenDelicious.3690",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143195,7 +148649,12 @@ const leaderboardData = {
           {
             "rank": 134,
             "account_name": "Gir Rowl.7065",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143204,7 +148663,12 @@ const leaderboardData = {
           {
             "rank": 135,
             "account_name": "Graven.4325",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143213,7 +148677,12 @@ const leaderboardData = {
           {
             "rank": 136,
             "account_name": "Hansi.4351",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -143222,7 +148691,12 @@ const leaderboardData = {
           {
             "rank": 137,
             "account_name": "Hideus.3259",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143231,7 +148705,12 @@ const leaderboardData = {
           {
             "rank": 138,
             "account_name": "Hostile Pudding.5617",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -143240,7 +148719,12 @@ const leaderboardData = {
           {
             "rank": 139,
             "account_name": "Humblelight.9570",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -143249,7 +148733,12 @@ const leaderboardData = {
           {
             "rank": 140,
             "account_name": "IClappBuns.2587",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143258,7 +148747,12 @@ const leaderboardData = {
           {
             "rank": 141,
             "account_name": "Icy Violin.9213",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -143267,7 +148761,12 @@ const leaderboardData = {
           {
             "rank": 142,
             "account_name": "Idaeus.9564",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143276,7 +148775,12 @@ const leaderboardData = {
           {
             "rank": 143,
             "account_name": "IllusiveMind.6470",
-            "professions_played": "Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -143285,7 +148789,12 @@ const leaderboardData = {
           {
             "rank": 144,
             "account_name": "IronOre.7826",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143294,7 +148803,12 @@ const leaderboardData = {
           {
             "rank": 145,
             "account_name": "ItalianMagik.2698",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -143303,7 +148817,12 @@ const leaderboardData = {
           {
             "rank": 146,
             "account_name": "Jdchil.9561",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143312,7 +148831,12 @@ const leaderboardData = {
           {
             "rank": 147,
             "account_name": "KamiKaZe.8173",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -143321,7 +148845,12 @@ const leaderboardData = {
           {
             "rank": 148,
             "account_name": "King Sylvari.2567",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143330,7 +148859,12 @@ const leaderboardData = {
           {
             "rank": 149,
             "account_name": "Kiwi.2176",
-            "professions_played": "Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Weaver",
@@ -143339,7 +148873,12 @@ const leaderboardData = {
           {
             "rank": 150,
             "account_name": "Knightmare.6849",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -143348,7 +148887,12 @@ const leaderboardData = {
           {
             "rank": 151,
             "account_name": "Krine.4690",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143357,7 +148901,12 @@ const leaderboardData = {
           {
             "rank": 152,
             "account_name": "Krounen.7028",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -143366,7 +148915,12 @@ const leaderboardData = {
           {
             "rank": 153,
             "account_name": "Kuwat.4703",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -143375,7 +148929,12 @@ const leaderboardData = {
           {
             "rank": 154,
             "account_name": "Laroong.7629",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -143384,7 +148943,12 @@ const leaderboardData = {
           {
             "rank": 155,
             "account_name": "LianoBR.6532",
-            "professions_played": "Harbinger (1)",
+            "professions_played": [
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Harbinger",
@@ -143393,7 +148957,12 @@ const leaderboardData = {
           {
             "rank": 156,
             "account_name": "MDK.1967",
-            "professions_played": "Mechanist (1)",
+            "professions_played": [
+              {
+                "profession": "Mechanist",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mechanist",
@@ -143402,7 +148971,12 @@ const leaderboardData = {
           {
             "rank": 157,
             "account_name": "Maferente.9570",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143411,7 +148985,12 @@ const leaderboardData = {
           {
             "rank": 158,
             "account_name": "Massacremam.4358",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -143420,7 +148999,12 @@ const leaderboardData = {
           {
             "rank": 159,
             "account_name": "Mini.1786",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143429,7 +149013,12 @@ const leaderboardData = {
           {
             "rank": 160,
             "account_name": "Mona.9180",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -143438,7 +149027,12 @@ const leaderboardData = {
           {
             "rank": 161,
             "account_name": "Montana.8032",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -143447,7 +149041,12 @@ const leaderboardData = {
           {
             "rank": 162,
             "account_name": "Nikayla.4095",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -143456,7 +149055,12 @@ const leaderboardData = {
           {
             "rank": 163,
             "account_name": "Noe.4360",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -143465,7 +149069,12 @@ const leaderboardData = {
           {
             "rank": 164,
             "account_name": "OdinNevon.7305",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -143474,7 +149083,12 @@ const leaderboardData = {
           {
             "rank": 165,
             "account_name": "PublicDisplayName.4986",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143483,7 +149097,12 @@ const leaderboardData = {
           {
             "rank": 166,
             "account_name": "Rapscallion.3571",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143492,7 +149111,12 @@ const leaderboardData = {
           {
             "rank": 167,
             "account_name": "ReiTigre.5289",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -143501,7 +149125,12 @@ const leaderboardData = {
           {
             "rank": 168,
             "account_name": "Salton.5247",
-            "professions_played": "Bladesworn (1)",
+            "professions_played": [
+              {
+                "profession": "Bladesworn",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Bladesworn",
@@ -143510,7 +149139,12 @@ const leaderboardData = {
           {
             "rank": 169,
             "account_name": "Serial Experiments X.2183",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143519,7 +149153,12 @@ const leaderboardData = {
           {
             "rank": 170,
             "account_name": "Shinoue.7238",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -143528,7 +149167,12 @@ const leaderboardData = {
           {
             "rank": 171,
             "account_name": "Sleepy.5367",
-            "professions_played": "Warrior (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Warrior",
@@ -143537,7 +149181,12 @@ const leaderboardData = {
           {
             "rank": 172,
             "account_name": "Stan.9684",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143546,7 +149195,12 @@ const leaderboardData = {
           {
             "rank": 173,
             "account_name": "StoneWall.6259",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -143555,7 +149209,12 @@ const leaderboardData = {
           {
             "rank": 174,
             "account_name": "SumRandmGuy.1759",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -143564,7 +149223,12 @@ const leaderboardData = {
           {
             "rank": 175,
             "account_name": "SunJian.8029",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143573,7 +149237,12 @@ const leaderboardData = {
           {
             "rank": 176,
             "account_name": "TTRF.8473",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143582,7 +149251,12 @@ const leaderboardData = {
           {
             "rank": 177,
             "account_name": "TehWolfman.1794",
-            "professions_played": "Support Spb (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Support Spb",
@@ -143591,7 +149265,12 @@ const leaderboardData = {
           {
             "rank": 178,
             "account_name": "Theweemon.8459",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143600,7 +149279,12 @@ const leaderboardData = {
           {
             "rank": 179,
             "account_name": "ThiagoW.4810",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143609,7 +149293,12 @@ const leaderboardData = {
           {
             "rank": 180,
             "account_name": "Travychu.5432",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -143618,7 +149307,12 @@ const leaderboardData = {
           {
             "rank": 181,
             "account_name": "TripleCorndog.1923",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -143627,7 +149321,12 @@ const leaderboardData = {
           {
             "rank": 182,
             "account_name": "Wildcassandra.8463",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143636,7 +149335,12 @@ const leaderboardData = {
           {
             "rank": 183,
             "account_name": "Ysoserious.9135",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -143645,7 +149349,12 @@ const leaderboardData = {
           {
             "rank": 184,
             "account_name": "armyalex.4957",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -143654,7 +149363,12 @@ const leaderboardData = {
           {
             "rank": 185,
             "account_name": "asdfghjk.8241",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -143663,7 +149377,12 @@ const leaderboardData = {
           {
             "rank": 186,
             "account_name": "banana.9637",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -143672,7 +149391,12 @@ const leaderboardData = {
           {
             "rank": 187,
             "account_name": "blambidy.3216",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -143681,7 +149405,12 @@ const leaderboardData = {
           {
             "rank": 188,
             "account_name": "chopper.7628",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143690,7 +149419,12 @@ const leaderboardData = {
           {
             "rank": 189,
             "account_name": "deen.1264",
-            "professions_played": "Engineer (1)",
+            "professions_played": [
+              {
+                "profession": "Engineer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Engineer",
@@ -143699,7 +149433,12 @@ const leaderboardData = {
           {
             "rank": 190,
             "account_name": "draxon.9814",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -143708,7 +149447,12 @@ const leaderboardData = {
           {
             "rank": 191,
             "account_name": "evairpt.2843",
-            "professions_played": "Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Untamed",
@@ -143717,7 +149461,12 @@ const leaderboardData = {
           {
             "rank": 192,
             "account_name": "feinal.5829",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -143726,7 +149475,12 @@ const leaderboardData = {
           {
             "rank": 193,
             "account_name": "folly dragon.4126",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -143735,7 +149489,12 @@ const leaderboardData = {
           {
             "rank": 194,
             "account_name": "inneedoflife.5092",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143744,7 +149503,12 @@ const leaderboardData = {
           {
             "rank": 195,
             "account_name": "kiobamm.4627",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -143753,7 +149517,12 @@ const leaderboardData = {
           {
             "rank": 196,
             "account_name": "kuonan.5974",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -143762,7 +149531,12 @@ const leaderboardData = {
           {
             "rank": 197,
             "account_name": "lcuocikny.3814",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143771,7 +149545,12 @@ const leaderboardData = {
           {
             "rank": 198,
             "account_name": "limao.5968",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -143780,7 +149559,12 @@ const leaderboardData = {
           {
             "rank": 199,
             "account_name": "mememe.5239",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -143789,7 +149573,12 @@ const leaderboardData = {
           {
             "rank": 200,
             "account_name": "merytogo.1365",
-            "professions_played": "Mesmer (1)",
+            "professions_played": [
+              {
+                "profession": "Mesmer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mesmer",
@@ -143798,7 +149587,12 @@ const leaderboardData = {
           {
             "rank": 201,
             "account_name": "mikerock.6187",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -143807,7 +149601,12 @@ const leaderboardData = {
           {
             "rank": 202,
             "account_name": "red armadillo.4593",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143816,7 +149615,12 @@ const leaderboardData = {
           {
             "rank": 203,
             "account_name": "rob.7042",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -143825,7 +149629,12 @@ const leaderboardData = {
           {
             "rank": 204,
             "account_name": "snups.1297",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -143834,7 +149643,12 @@ const leaderboardData = {
           {
             "rank": 205,
             "account_name": "souljota.7923",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -143843,7 +149657,12 @@ const leaderboardData = {
           {
             "rank": 206,
             "account_name": "stan.9576",
-            "professions_played": "Necromancer (1)",
+            "professions_played": [
+              {
+                "profession": "Necromancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Necromancer",
@@ -143852,7 +149671,12 @@ const leaderboardData = {
           {
             "rank": 207,
             "account_name": "tarsoalvarenga.7823",
-            "professions_played": "Renegade (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Renegade",
@@ -143861,7 +149685,12 @@ const leaderboardData = {
           {
             "rank": 208,
             "account_name": "tehdusterer.5689",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -143870,7 +149699,12 @@ const leaderboardData = {
           {
             "rank": 209,
             "account_name": "wildsilent.6257",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -143879,7 +149713,12 @@ const leaderboardData = {
           {
             "rank": 210,
             "account_name": "wimpyvirus.2506",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -206716,7 +212555,44 @@ const leaderboardData = {
           {
             "rank": 1,
             "account_name": "Interpretor.3091",
-            "professions_played": "Spellbreaker (14), Warrior (8), Berserker (6), Untamed (5), Catalyst (3), Holosmith (2), Vindicator (1), Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 14
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 8
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 6
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 5
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 41,
             "profession_count": 9,
             "primary_profession": "Spellbreaker",
@@ -206725,7 +212601,48 @@ const leaderboardData = {
           {
             "rank": 2,
             "account_name": "Havocus.3682",
-            "professions_played": "Catalyst (10), Scourge (8), Chronomancer (5), Berserker (3), Vindicator (2), Reaper (2), Firebrand (2), Dragonhunter (2), Support Spb (1), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 10
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 8
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 3
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 36,
             "profession_count": 10,
             "primary_profession": "Catalyst",
@@ -206734,7 +212651,28 @@ const leaderboardData = {
           {
             "rank": 3,
             "account_name": "Dextra.8162",
-            "professions_played": "Weaver (20), Catalyst (8), Soulbeast (4), Thief (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 20
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Soulbeast",
+                "session_count": 4
+              },
+              {
+                "profession": "Thief",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 34,
             "profession_count": 5,
             "primary_profession": "Weaver",
@@ -206743,7 +212681,36 @@ const leaderboardData = {
           {
             "rank": 4,
             "account_name": "ParaldaWind.4523",
-            "professions_played": "China DH (20), Dragonhunter (7), Condi Firebrand (2), Vindicator (1), Specter (1), Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "China DH",
+                "session_count": 20
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 7
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 33,
             "profession_count": 7,
             "primary_profession": "China DH",
@@ -206752,7 +212719,48 @@ const leaderboardData = {
           {
             "rank": 5,
             "account_name": "Nictheman.9754",
-            "professions_played": "Chronomancer (14), Spellbreaker (8), Warrior (2), Support Spb (1), Reaper (1), Holosmith (1), Firebrand (1), Condi Firebrand (1), Catalyst (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 14
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 8
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 31,
             "profession_count": 10,
             "primary_profession": "Chronomancer",
@@ -206761,7 +212769,40 @@ const leaderboardData = {
           {
             "rank": 6,
             "account_name": "synco.8132",
-            "professions_played": "Catalyst (8), Chronomancer (7), Support Spb (4), Druid (4), Scourge (3), Vindicator (2), Boon Cata (2), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 7
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              },
+              {
+                "profession": "Boon Cata",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 31,
             "profession_count": 8,
             "primary_profession": "Catalyst",
@@ -206770,7 +212811,24 @@ const leaderboardData = {
           {
             "rank": 7,
             "account_name": "Nero.6195",
-            "professions_played": "Scourge (10), Firebrand (10), Condi Firebrand (7), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 10
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 7
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 28,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -206779,7 +212837,44 @@ const leaderboardData = {
           {
             "rank": 8,
             "account_name": "Freelanced.6084",
-            "professions_played": "Scourge (10), Catalyst (8), Scrapper (2), Firebrand (2), Vindicator (1), Reaper (1), Holosmith (1), Dragonhunter (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 27,
             "profession_count": 9,
             "primary_profession": "Scourge",
@@ -206788,7 +212883,20 @@ const leaderboardData = {
           {
             "rank": 9,
             "account_name": "Huge.5891",
-            "professions_played": "Dragonhunter (19), Willbender (4), China DH (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 19
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 4
+              },
+              {
+                "profession": "China DH",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 24,
             "profession_count": 3,
             "primary_profession": "Dragonhunter",
@@ -206797,7 +212905,40 @@ const leaderboardData = {
           {
             "rank": 10,
             "account_name": "Soothsayer.9206",
-            "professions_played": "Untamed (9), Scourge (4), Druid (3), Dragonhunter (3), Catalyst (2), Warrior (1), Spellbreaker (1), Renegade (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 9
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 24,
             "profession_count": 8,
             "primary_profession": "Untamed",
@@ -206806,7 +212947,44 @@ const leaderboardData = {
           {
             "rank": 11,
             "account_name": "Uriah.7082",
-            "professions_played": "Chronomancer (5), Vindicator (4), Scourge (4), Druid (4), Spellbreaker (2), Berserker (2), Warrior (1), Herald (1), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 4
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 24,
             "profession_count": 9,
             "primary_profession": "Chronomancer",
@@ -206815,7 +212993,32 @@ const leaderboardData = {
           {
             "rank": 12,
             "account_name": "Mellis.8451",
-            "professions_played": "Scourge (7), Firebrand (6), Chronomancer (4), Condi Firebrand (3), Dragonhunter (2), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 7
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 6
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 23,
             "profession_count": 6,
             "primary_profession": "Scourge",
@@ -206824,7 +213027,20 @@ const leaderboardData = {
           {
             "rank": 13,
             "account_name": "Astro Bear.6305",
-            "professions_played": "Druid (17), Firebrand (4), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 17
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 22,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -206833,7 +213049,28 @@ const leaderboardData = {
           {
             "rank": 14,
             "account_name": "Luke.9108",
-            "professions_played": "Scourge (10), Untamed (3), Reaper (3), Condi Firebrand (3), Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 3
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 5,
             "primary_profession": "Scourge",
@@ -206842,7 +213079,56 @@ const leaderboardData = {
           {
             "rank": 15,
             "account_name": "Pieswithattitude.2357",
-            "professions_played": "Catalyst (5), Spellbreaker (3), Chronomancer (3), Druid (2), Tempest (1), Scrapper (1), Scourge (1), Reaper (1), Holosmith (1), Dragonhunter (1), Boon Cata (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 12,
             "primary_profession": "Catalyst",
@@ -206851,7 +213137,20 @@ const leaderboardData = {
           {
             "rank": 16,
             "account_name": "modus.7921",
-            "professions_played": "Druid (16), Firebrand (4), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 16
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 21,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -206860,7 +213159,36 @@ const leaderboardData = {
           {
             "rank": 17,
             "account_name": "FlawedDjinn.3217",
-            "professions_played": "Scourge (5), Druid (5), Untamed (3), Chronomancer (3), Boon Vindi (2), Reaper (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Druid",
+                "session_count": 5
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 20,
             "profession_count": 7,
             "primary_profession": "Scourge",
@@ -206869,7 +213197,24 @@ const leaderboardData = {
           {
             "rank": 18,
             "account_name": "Muted.8591",
-            "professions_played": "Chronomancer (12), Reaper (5), Tempest (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 12
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 19,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -206878,7 +213223,20 @@ const leaderboardData = {
           {
             "rank": 19,
             "account_name": "emz.3571",
-            "professions_played": "Reaper (12), Weaver (3), Catalyst (3)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 12
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 18,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -206887,7 +213245,48 @@ const leaderboardData = {
           {
             "rank": 20,
             "account_name": "Ashtonlightstone.9145",
-            "professions_played": "Druid (4), Reaper (2), Firebrand (2), Dragonhunter (2), Chronomancer (2), Vindicator (1), Spellbreaker (1), Scourge (1), Catalyst (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 10,
             "primary_profession": "Druid",
@@ -206896,7 +213295,28 @@ const leaderboardData = {
           {
             "rank": 21,
             "account_name": "Crator of Fire.1796",
-            "professions_played": "Scourge (5), Reaper (5), Vindicator (4), Chronomancer (2), Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 4
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 5,
             "primary_profession": "Scourge",
@@ -206905,7 +213325,36 @@ const leaderboardData = {
           {
             "rank": 22,
             "account_name": "Malek.9417",
-            "professions_played": "Firebrand (5), Condi Firebrand (4), Druid (3), Chronomancer (2), Spellbreaker (1), Scourge (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 7,
             "primary_profession": "Firebrand",
@@ -206914,7 +213363,24 @@ const leaderboardData = {
           {
             "rank": 23,
             "account_name": "aznsleeper.5896",
-            "professions_played": "Firebrand (13), Chronomancer (2), Vindicator (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 13
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 17,
             "profession_count": 4,
             "primary_profession": "Firebrand",
@@ -206923,7 +213389,16 @@ const leaderboardData = {
           {
             "rank": 24,
             "account_name": "Aein.1483",
-            "professions_played": "Vindicator (14), Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 14
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -206932,7 +213407,40 @@ const leaderboardData = {
           {
             "rank": 25,
             "account_name": "Bother.9415",
-            "professions_played": "Scourge (3), Holosmith (3), Catalyst (3), Untamed (2), Virtuoso (1), Firebrand (1), Druid (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 8,
             "primary_profession": "Scourge",
@@ -206941,7 +213449,12 @@ const leaderboardData = {
           {
             "rank": 26,
             "account_name": "TigerSpirit.2194",
-            "professions_played": "Druid (15)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 15
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -206950,7 +213463,16 @@ const leaderboardData = {
           {
             "rank": 27,
             "account_name": "adrielle.2109",
-            "professions_played": "Firebrand (11), Condi Firebrand (4)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 11
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -206959,7 +213481,28 @@ const leaderboardData = {
           {
             "rank": 28,
             "account_name": "montjusk.9671",
-            "professions_played": "Warrior (9), Scourge (2), Chronomancer (2), Spellbreaker (1), Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 9
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 15,
             "profession_count": 5,
             "primary_profession": "Warrior",
@@ -206968,7 +213511,16 @@ const leaderboardData = {
           {
             "rank": 29,
             "account_name": "Bailyen Arturius.4263",
-            "professions_played": "Chronomancer (10), Vindicator (2)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 10
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 12,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -206977,7 +213529,12 @@ const leaderboardData = {
           {
             "rank": 30,
             "account_name": "Smile.9284",
-            "professions_played": "Chronomancer (12)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 12
+              }
+            ],
             "total_sessions": 12,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -206986,7 +213543,20 @@ const leaderboardData = {
           {
             "rank": 31,
             "account_name": "Argo.2675",
-            "professions_played": "Chronomancer (8), Support Spb (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 8
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 3,
             "primary_profession": "Chronomancer",
@@ -206995,7 +213565,28 @@ const leaderboardData = {
           {
             "rank": 32,
             "account_name": "Elgar.2091",
-            "professions_played": "Reaper (5), Scourge (2), Spellbreaker (1), Specter (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Reaper",
@@ -207004,7 +213595,28 @@ const leaderboardData = {
           {
             "rank": 33,
             "account_name": "Johnny.5478",
-            "professions_played": "Reaper (4), Specter (2), Druid (2), Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 4
+              },
+              {
+                "profession": "Specter",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Reaper",
@@ -207013,7 +213625,28 @@ const leaderboardData = {
           {
             "rank": 34,
             "account_name": "Lasthope.7943",
-            "professions_played": "Dragonhunter (4), Guardian (3), Willbender (1), Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 4
+              },
+              {
+                "profession": "Guardian",
+                "session_count": 3
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 10,
             "profession_count": 5,
             "primary_profession": "Dragonhunter",
@@ -207022,7 +213655,24 @@ const leaderboardData = {
           {
             "rank": 35,
             "account_name": "Hiraldo.7954",
-            "professions_played": "Druid (6), Untamed (1), Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 6
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -207031,7 +213681,40 @@ const leaderboardData = {
           {
             "rank": 36,
             "account_name": "Jeff.7219",
-            "professions_played": "Scourge (2), Untamed (1), Spellbreaker (1), Reaper (1), Druid (1), Dragonhunter (1), Catalyst (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 8,
             "primary_profession": "Scourge",
@@ -207040,7 +213723,16 @@ const leaderboardData = {
           {
             "rank": 37,
             "account_name": "OPness.3215",
-            "professions_played": "Support Spb (7), Spellbreaker (2)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 7
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -207049,7 +213741,16 @@ const leaderboardData = {
           {
             "rank": 38,
             "account_name": "mikefmc.5961",
-            "professions_played": "Firebrand (6), Support Spb (3)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 6
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 9,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -207058,7 +213759,28 @@ const leaderboardData = {
           {
             "rank": 39,
             "account_name": "CaptainKnightfall.4378",
-            "professions_played": "Tempest (2), Druid (2), Chronomancer (2), Spellbreaker (1), Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 5,
             "primary_profession": "Tempest",
@@ -207067,7 +213789,24 @@ const leaderboardData = {
           {
             "rank": 40,
             "account_name": "Degothia.7394",
-            "professions_played": "Druid (3), Scourge (2), Chronomancer (2), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -207076,7 +213815,24 @@ const leaderboardData = {
           {
             "rank": 41,
             "account_name": "Disenable.1640",
-            "professions_played": "Chronomancer (5), Spellbreaker (1), Scrapper (1), Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -207085,7 +213841,20 @@ const leaderboardData = {
           {
             "rank": 42,
             "account_name": "waschy.6093",
-            "professions_played": "Firebrand (5), Dragonhunter (2), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 8,
             "profession_count": 3,
             "primary_profession": "Firebrand",
@@ -207094,7 +213863,16 @@ const leaderboardData = {
           {
             "rank": 43,
             "account_name": "Aromapaloma.3194",
-            "professions_played": "Tempest (6), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 6
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -207103,7 +213881,16 @@ const leaderboardData = {
           {
             "rank": 44,
             "account_name": "FrozenDelicious.3690",
-            "professions_played": "Scourge (6), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 6
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207112,7 +213899,20 @@ const leaderboardData = {
           {
             "rank": 45,
             "account_name": "SilverBlade Hero.8974",
-            "professions_played": "Druid (3), Scourge (2), Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -207121,7 +213921,24 @@ const leaderboardData = {
           {
             "rank": 46,
             "account_name": "Steampunkengineer.7146",
-            "professions_played": "Chronomancer (3), Firebrand (2), Druid (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 4,
             "primary_profession": "Chronomancer",
@@ -207130,7 +213947,12 @@ const leaderboardData = {
           {
             "rank": 47,
             "account_name": "Wootzies.3574",
-            "professions_played": "Tempest (7)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 7
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -207139,7 +213961,28 @@ const leaderboardData = {
           {
             "rank": 48,
             "account_name": "ixJurema.8657",
-            "professions_played": "Tempest (2), Reaper (2), Support Spb (1), Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 5,
             "primary_profession": "Tempest",
@@ -207148,7 +213991,16 @@ const leaderboardData = {
           {
             "rank": 49,
             "account_name": "pariah.6937",
-            "professions_played": "Druid (5), Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 5
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 7,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -207157,7 +214009,24 @@ const leaderboardData = {
           {
             "rank": 50,
             "account_name": "Xhil.9316",
-            "professions_played": "Druid (3), Tempest (1), Firebrand (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 6,
             "profession_count": 4,
             "primary_profession": "Druid",
@@ -207166,7 +214035,16 @@ const leaderboardData = {
           {
             "rank": 51,
             "account_name": "BlueFlame.8673",
-            "professions_played": "Berserker (4), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 4
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Berserker",
@@ -207175,7 +214053,24 @@ const leaderboardData = {
           {
             "rank": 52,
             "account_name": "Bricktus.1682",
-            "professions_played": "Catalyst (2), Untamed (1), Tempest (1), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Catalyst",
@@ -207184,7 +214079,20 @@ const leaderboardData = {
           {
             "rank": 53,
             "account_name": "Coileddarknight.9528",
-            "professions_played": "Support Spb (3), Condi Firebrand (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -207193,7 +214101,24 @@ const leaderboardData = {
           {
             "rank": 54,
             "account_name": "Daasen.3719",
-            "professions_played": "Reaper (2), Scourge (1), Necromancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Necromancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Reaper",
@@ -207202,7 +214127,12 @@ const leaderboardData = {
           {
             "rank": 55,
             "account_name": "Emily.4523",
-            "professions_played": "Druid (5)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 5
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -207211,7 +214141,24 @@ const leaderboardData = {
           {
             "rank": 56,
             "account_name": "Jordan.1860",
-            "professions_played": "Virtuoso (2), Untamed (1), Chronomancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Virtuoso",
@@ -207220,7 +214167,28 @@ const leaderboardData = {
           {
             "rank": 57,
             "account_name": "Max Danger.4031",
-            "professions_played": "Virtuoso (1), Tempest (1), Druid (1), Chronomancer (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 5,
             "primary_profession": "Virtuoso",
@@ -207229,7 +214197,20 @@ const leaderboardData = {
           {
             "rank": 58,
             "account_name": "Mes.1906",
-            "professions_played": "Scourge (3), Warrior (1), Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -207238,7 +214219,20 @@ const leaderboardData = {
           {
             "rank": 59,
             "account_name": "Mortealug.6043",
-            "professions_played": "Firebrand (2), Condi Firebrand (2), Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Firebrand",
@@ -207247,7 +214241,16 @@ const leaderboardData = {
           {
             "rank": 60,
             "account_name": "Nightbringer.9845",
-            "professions_played": "Berserker (3), Holosmith (2)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 3
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Berserker",
@@ -207256,7 +214259,20 @@ const leaderboardData = {
           {
             "rank": 61,
             "account_name": "Stash.8401",
-            "professions_played": "Scourge (2), Catalyst (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -207265,7 +214281,16 @@ const leaderboardData = {
           {
             "rank": 62,
             "account_name": "Syde.1863",
-            "professions_played": "Scourge (4), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207274,7 +214299,24 @@ const leaderboardData = {
           {
             "rank": 63,
             "account_name": "filipe.2809",
-            "professions_played": "Scourge (2), Dragonhunter (1), Condi Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 4,
             "primary_profession": "Scourge",
@@ -207283,7 +214325,12 @@ const leaderboardData = {
           {
             "rank": 64,
             "account_name": "katoki.7869",
-            "professions_played": "Chronomancer (5)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              }
+            ],
             "total_sessions": 5,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -207292,7 +214339,24 @@ const leaderboardData = {
           {
             "rank": 65,
             "account_name": "Azelroth.6801",
-            "professions_played": "Vindicator (1), Tempest (1), Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 4,
             "primary_profession": "Vindicator",
@@ -207301,7 +214365,20 @@ const leaderboardData = {
           {
             "rank": 66,
             "account_name": "Basic.9204",
-            "professions_played": "Scourge (2), Spellbreaker (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -207310,7 +214387,16 @@ const leaderboardData = {
           {
             "rank": 67,
             "account_name": "Bertozaur.4578",
-            "professions_played": "Scourge (3), Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207319,7 +214405,16 @@ const leaderboardData = {
           {
             "rank": 68,
             "account_name": "Bouzouki.7598",
-            "professions_played": "Scourge (2), Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207328,7 +214423,24 @@ const leaderboardData = {
           {
             "rank": 69,
             "account_name": "Chakkkka.2504",
-            "professions_played": "Untamed (1), Tempest (1), Scourge (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 4,
             "primary_profession": "Untamed",
@@ -207337,7 +214449,16 @@ const leaderboardData = {
           {
             "rank": 70,
             "account_name": "Fibbs.1623",
-            "professions_played": "Tempest (2), Condi Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -207346,7 +214467,12 @@ const leaderboardData = {
           {
             "rank": 71,
             "account_name": "Foodels.7358",
-            "professions_played": "Druid (4)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -207355,7 +214481,16 @@ const leaderboardData = {
           {
             "rank": 72,
             "account_name": "Hydrason.4612",
-            "professions_played": "Firebrand (2), Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -207364,7 +214499,20 @@ const leaderboardData = {
           {
             "rank": 73,
             "account_name": "Igure.2063",
-            "professions_played": "Druid (2), Specter (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Druid",
@@ -207373,7 +214521,16 @@ const leaderboardData = {
           {
             "rank": 74,
             "account_name": "JStillwater.4360",
-            "professions_played": "Tempest (2), Spellbreaker (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -207382,7 +214539,12 @@ const leaderboardData = {
           {
             "rank": 75,
             "account_name": "KaNgUs.1025",
-            "professions_played": "Berserker (4)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 4
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -207391,7 +214553,20 @@ const leaderboardData = {
           {
             "rank": 76,
             "account_name": "LightspeedJack.9473",
-            "professions_played": "Holosmith (2), Spellbreaker (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Holosmith",
@@ -207400,7 +214575,16 @@ const leaderboardData = {
           {
             "rank": 77,
             "account_name": "Solomon Darkfury.3729",
-            "professions_played": "Support Spb (3), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -207409,7 +214593,16 @@ const leaderboardData = {
           {
             "rank": 78,
             "account_name": "acumen.1980",
-            "professions_played": "Catalyst (3), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -207418,7 +214611,24 @@ const leaderboardData = {
           {
             "rank": 79,
             "account_name": "amends.3469",
-            "professions_played": "Untamed (1), Scourge (1), Renegade (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 4,
             "primary_profession": "Untamed",
@@ -207427,7 +214637,20 @@ const leaderboardData = {
           {
             "rank": 80,
             "account_name": "pinguinox.9528",
-            "professions_played": "Dragonhunter (2), Spellbreaker (1), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 4,
             "profession_count": 3,
             "primary_profession": "Dragonhunter",
@@ -207436,7 +214659,20 @@ const leaderboardData = {
           {
             "rank": 81,
             "account_name": "Bad Karma.8407",
-            "professions_played": "Scourge (1), Harbinger (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Scourge",
@@ -207445,7 +214681,16 @@ const leaderboardData = {
           {
             "rank": 82,
             "account_name": "Bleebt.4108",
-            "professions_played": "Chronomancer (2), Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -207454,7 +214699,16 @@ const leaderboardData = {
           {
             "rank": 83,
             "account_name": "BlueViolet.8263",
-            "professions_played": "Firebrand (2), Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -207463,7 +214717,20 @@ const leaderboardData = {
           {
             "rank": 84,
             "account_name": "Bronkes.1865",
-            "professions_played": "Scrapper (1), Firebrand (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Scrapper",
@@ -207472,7 +214739,20 @@ const leaderboardData = {
           {
             "rank": 85,
             "account_name": "CrimeLordXx.3920",
-            "professions_played": "Spellbreaker (1), Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Spellbreaker",
@@ -207481,7 +214761,12 @@ const leaderboardData = {
           {
             "rank": 86,
             "account_name": "Death by Omen.1734",
-            "professions_played": "Spellbreaker (3)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -207490,7 +214775,16 @@ const leaderboardData = {
           {
             "rank": 87,
             "account_name": "Eliare.4069",
-            "professions_played": "Tempest (2), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -207499,7 +214793,12 @@ const leaderboardData = {
           {
             "rank": 88,
             "account_name": "GreatPadinski.2170",
-            "professions_played": "Chronomancer (3)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -207508,7 +214807,20 @@ const leaderboardData = {
           {
             "rank": 89,
             "account_name": "Guars.6409",
-            "professions_played": "Support Spb (1), Spellbreaker (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -207517,7 +214829,20 @@ const leaderboardData = {
           {
             "rank": 90,
             "account_name": "Hostile Pudding.5617",
-            "professions_played": "Support Spb (1), Spellbreaker (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Support Spb",
@@ -207526,7 +214851,12 @@ const leaderboardData = {
           {
             "rank": 91,
             "account_name": "HuMbErTerA.4253",
-            "professions_played": "Druid (3)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -207535,7 +214865,12 @@ const leaderboardData = {
           {
             "rank": 92,
             "account_name": "J WreckX.7648",
-            "professions_played": "Druid (3)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -207544,7 +214879,16 @@ const leaderboardData = {
           {
             "rank": 93,
             "account_name": "Kenlos.2354",
-            "professions_played": "Druid (2), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -207553,7 +214897,12 @@ const leaderboardData = {
           {
             "rank": 94,
             "account_name": "King Sylvari.2567",
-            "professions_played": "Firebrand (3)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -207562,7 +214911,16 @@ const leaderboardData = {
           {
             "rank": 95,
             "account_name": "Knightmare.6849",
-            "professions_played": "Scourge (2), Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207571,7 +214929,16 @@ const leaderboardData = {
           {
             "rank": 96,
             "account_name": "Lozen.7623",
-            "professions_played": "Druid (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -207580,7 +214947,20 @@ const leaderboardData = {
           {
             "rank": 97,
             "account_name": "Mandar.9813",
-            "professions_played": "Tempest (1), Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Tempest",
@@ -207589,7 +214969,20 @@ const leaderboardData = {
           {
             "rank": 98,
             "account_name": "Naomi.5372",
-            "professions_played": "Virtuoso (1), Mirage (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Virtuoso",
@@ -207598,7 +214991,16 @@ const leaderboardData = {
           {
             "rank": 99,
             "account_name": "PelloJello.8241",
-            "professions_played": "Catalyst (2), Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -207607,7 +215009,16 @@ const leaderboardData = {
           {
             "rank": 100,
             "account_name": "Raven Paradox.1860",
-            "professions_played": "Druid (2), Support Spb (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Druid",
@@ -207616,7 +215027,16 @@ const leaderboardData = {
           {
             "rank": 101,
             "account_name": "Ronin.4501",
-            "professions_played": "Chronomancer (2), Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Chronomancer",
@@ -207625,7 +215045,12 @@ const leaderboardData = {
           {
             "rank": 102,
             "account_name": "Sieia.3642",
-            "professions_played": "Chronomancer (3)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -207634,7 +215059,16 @@ const leaderboardData = {
           {
             "rank": 103,
             "account_name": "TopestOfKeks.5192",
-            "professions_played": "Berserker (2), Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 2
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Berserker",
@@ -207643,7 +215077,20 @@ const leaderboardData = {
           {
             "rank": 104,
             "account_name": "Yeek.2976",
-            "professions_played": "Reaper (1), Holosmith (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -207652,7 +215099,16 @@ const leaderboardData = {
           {
             "rank": 105,
             "account_name": "blambidy.3216",
-            "professions_played": "Scourge (2), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207661,7 +215117,16 @@ const leaderboardData = {
           {
             "rank": 106,
             "account_name": "cmackoy.4973",
-            "professions_played": "Scrapper (2), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scrapper",
@@ -207670,7 +215135,16 @@ const leaderboardData = {
           {
             "rank": 107,
             "account_name": "dobbeh.7382",
-            "professions_played": "Holosmith (2), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -207679,7 +215153,12 @@ const leaderboardData = {
           {
             "rank": 108,
             "account_name": "liloxw.4809",
-            "professions_played": "Scourge (3)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -207688,7 +215167,16 @@ const leaderboardData = {
           {
             "rank": 109,
             "account_name": "limbrose.3079",
-            "professions_played": "Scrapper (2), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Scrapper",
@@ -207697,7 +215185,20 @@ const leaderboardData = {
           {
             "rank": 110,
             "account_name": "lordkauet.3458",
-            "professions_played": "Warrior (1), Spellbreaker (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Warrior",
@@ -207706,7 +215207,20 @@ const leaderboardData = {
           {
             "rank": 111,
             "account_name": "mikerock.6187",
-            "professions_played": "Reaper (1), Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 3,
             "primary_profession": "Reaper",
@@ -207715,7 +215229,16 @@ const leaderboardData = {
           {
             "rank": 112,
             "account_name": "seppukuYUM.5147",
-            "professions_played": "Spellbreaker (2), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -207724,7 +215247,16 @@ const leaderboardData = {
           {
             "rank": 113,
             "account_name": "wildsilent.6257",
-            "professions_played": "Firebrand (2), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -207733,7 +215265,16 @@ const leaderboardData = {
           {
             "rank": 114,
             "account_name": "yhanbruno.5873",
-            "professions_played": "Catalyst (2), Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 3,
             "profession_count": 2,
             "primary_profession": "Catalyst",
@@ -207742,7 +215283,16 @@ const leaderboardData = {
           {
             "rank": 115,
             "account_name": "ABC.9386",
-            "professions_played": "Holosmith (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -207751,7 +215301,16 @@ const leaderboardData = {
           {
             "rank": 116,
             "account_name": "Asterisk.9730",
-            "professions_played": "Support Spb (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Support Spb",
@@ -207760,7 +215319,12 @@ const leaderboardData = {
           {
             "rank": 117,
             "account_name": "BattleGalaticNinja.4508",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -207769,7 +215333,12 @@ const leaderboardData = {
           {
             "rank": 118,
             "account_name": "Bellesh.4298",
-            "professions_played": "Tempest (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -207778,7 +215347,16 @@ const leaderboardData = {
           {
             "rank": 119,
             "account_name": "Beneko.8475",
-            "professions_played": "Holosmith (1), Condi Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Holosmith",
@@ -207787,7 +215365,12 @@ const leaderboardData = {
           {
             "rank": 120,
             "account_name": "Blinking Router.4305",
-            "professions_played": "Scourge (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -207796,7 +215379,16 @@ const leaderboardData = {
           {
             "rank": 121,
             "account_name": "Carnibaal.2140",
-            "professions_played": "Firebrand (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -207805,7 +215397,12 @@ const leaderboardData = {
           {
             "rank": 122,
             "account_name": "Clarrovi.9085",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -207814,7 +215411,16 @@ const leaderboardData = {
           {
             "rank": 123,
             "account_name": "Cruelty.9730",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207823,7 +215429,12 @@ const leaderboardData = {
           {
             "rank": 124,
             "account_name": "DareDevils.6039",
-            "professions_played": "Firebrand (2)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -207832,7 +215443,16 @@ const leaderboardData = {
           {
             "rank": 125,
             "account_name": "DgsWolf.4790",
-            "professions_played": "Spellbreaker (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -207841,7 +215461,16 @@ const leaderboardData = {
           {
             "rank": 126,
             "account_name": "EternalEndless.7695",
-            "professions_played": "Scrapper (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scrapper",
@@ -207850,7 +215479,16 @@ const leaderboardData = {
           {
             "rank": 127,
             "account_name": "Eucalyptus.9784",
-            "professions_played": "Virtuoso (1), Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Virtuoso",
@@ -207859,7 +215497,12 @@ const leaderboardData = {
           {
             "rank": 128,
             "account_name": "Fungo Maligno.4081",
-            "professions_played": "Specter (2)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -207868,7 +215511,12 @@ const leaderboardData = {
           {
             "rank": 129,
             "account_name": "General Moo.7930",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -207877,7 +215525,16 @@ const leaderboardData = {
           {
             "rank": 130,
             "account_name": "Hideus.3259",
-            "professions_played": "Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207886,7 +215543,12 @@ const leaderboardData = {
           {
             "rank": 131,
             "account_name": "Jax Blake.7250",
-            "professions_played": "Druid (2)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -207895,7 +215557,16 @@ const leaderboardData = {
           {
             "rank": 132,
             "account_name": "Mini.8130",
-            "professions_played": "Tempest (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -207904,7 +215575,16 @@ const leaderboardData = {
           {
             "rank": 133,
             "account_name": "Niopek.5123",
-            "professions_played": "Warrior (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Warrior",
@@ -207913,7 +215593,16 @@ const leaderboardData = {
           {
             "rank": 134,
             "account_name": "Niyack.4953",
-            "professions_played": "Scourge (1), Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207922,7 +215611,16 @@ const leaderboardData = {
           {
             "rank": 135,
             "account_name": "Noe.4360",
-            "professions_played": "Reaper (1), Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -207931,7 +215629,16 @@ const leaderboardData = {
           {
             "rank": 136,
             "account_name": "POOKIE.5621",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207940,7 +215647,16 @@ const leaderboardData = {
           {
             "rank": 137,
             "account_name": "Pentheus.4571",
-            "professions_played": "Reaper (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -207949,7 +215665,16 @@ const leaderboardData = {
           {
             "rank": 138,
             "account_name": "RoyTheBoy.8693",
-            "professions_played": "Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -207958,7 +215683,16 @@ const leaderboardData = {
           {
             "rank": 139,
             "account_name": "Sabbaah.2314",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207967,7 +215701,16 @@ const leaderboardData = {
           {
             "rank": 140,
             "account_name": "Shaaaads.1856",
-            "professions_played": "Tempest (1), Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -207976,7 +215719,16 @@ const leaderboardData = {
           {
             "rank": 141,
             "account_name": "Sselnoisiv.6130",
-            "professions_played": "Scourge (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -207985,7 +215737,16 @@ const leaderboardData = {
           {
             "rank": 142,
             "account_name": "Stan.9684",
-            "professions_played": "Vindicator (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -207994,7 +215755,16 @@ const leaderboardData = {
           {
             "rank": 143,
             "account_name": "Synders.9627",
-            "professions_played": "Renegade (1), Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Renegade",
@@ -208003,7 +215773,16 @@ const leaderboardData = {
           {
             "rank": 144,
             "account_name": "Theweemon.8459",
-            "professions_played": "Specter (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Specter",
@@ -208012,7 +215791,16 @@ const leaderboardData = {
           {
             "rank": 145,
             "account_name": "Vaqa.4238",
-            "professions_played": "Vindicator (1), Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Vindicator",
@@ -208021,7 +215809,16 @@ const leaderboardData = {
           {
             "rank": 146,
             "account_name": "Vasnia.3189",
-            "professions_played": "Spellbreaker (1), Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Spellbreaker",
@@ -208030,7 +215827,12 @@ const leaderboardData = {
           {
             "rank": 147,
             "account_name": "Wisdom.6028",
-            "professions_played": "Scourge (2)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -208039,7 +215841,12 @@ const leaderboardData = {
           {
             "rank": 148,
             "account_name": "Zikum.4126",
-            "professions_played": "Tempest (2)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -208048,7 +215855,16 @@ const leaderboardData = {
           {
             "rank": 149,
             "account_name": "bernadettesurprise.3297",
-            "professions_played": "Scourge (1), Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -208057,7 +215873,12 @@ const leaderboardData = {
           {
             "rank": 150,
             "account_name": "freecarl.9214",
-            "professions_played": "Holosmith (2)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -208066,7 +215887,12 @@ const leaderboardData = {
           {
             "rank": 151,
             "account_name": "hataki.8716",
-            "professions_played": "Chronomancer (2)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208075,7 +215901,16 @@ const leaderboardData = {
           {
             "rank": 152,
             "account_name": "killsfun.2436",
-            "professions_played": "Reaper (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Reaper",
@@ -208084,7 +215919,12 @@ const leaderboardData = {
           {
             "rank": 153,
             "account_name": "lauri.4873",
-            "professions_played": "Mirage (2)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -208093,7 +215933,16 @@ const leaderboardData = {
           {
             "rank": 154,
             "account_name": "nateboyd.5682",
-            "professions_played": "Firebrand (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Firebrand",
@@ -208102,7 +215951,12 @@ const leaderboardData = {
           {
             "rank": 155,
             "account_name": "orangejoose.4981",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208111,7 +215965,16 @@ const leaderboardData = {
           {
             "rank": 156,
             "account_name": "shakey.6384",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -208120,7 +215983,12 @@ const leaderboardData = {
           {
             "rank": 157,
             "account_name": "souljota.7923",
-            "professions_played": "Vindicator (2)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -208129,7 +215997,16 @@ const leaderboardData = {
           {
             "rank": 158,
             "account_name": "steelrage.2904",
-            "professions_played": "Scourge (1), Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Scourge",
@@ -208138,7 +216015,12 @@ const leaderboardData = {
           {
             "rank": 159,
             "account_name": "stu.2590",
-            "professions_played": "Reaper (2)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208147,7 +216029,16 @@ const leaderboardData = {
           {
             "rank": 160,
             "account_name": "threats.1832",
-            "professions_played": "Tempest (1), Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 2,
             "profession_count": 2,
             "primary_profession": "Tempest",
@@ -208156,7 +216047,12 @@ const leaderboardData = {
           {
             "rank": 161,
             "account_name": "Adrokos.1729",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208165,7 +216061,12 @@ const leaderboardData = {
           {
             "rank": 162,
             "account_name": "Ah fa su su ex.6520",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208174,7 +216075,12 @@ const leaderboardData = {
           {
             "rank": 163,
             "account_name": "Andry.2473",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208183,7 +216089,12 @@ const leaderboardData = {
           {
             "rank": 164,
             "account_name": "Angelfire.3942",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -208192,7 +216103,12 @@ const leaderboardData = {
           {
             "rank": 165,
             "account_name": "Arpeggio.9730",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208201,7 +216117,12 @@ const leaderboardData = {
           {
             "rank": 166,
             "account_name": "Asper.2863",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -208210,7 +216131,12 @@ const leaderboardData = {
           {
             "rank": 167,
             "account_name": "Athena.4562",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -208219,7 +216145,12 @@ const leaderboardData = {
           {
             "rank": 168,
             "account_name": "Ayemes.5892",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -208228,7 +216159,12 @@ const leaderboardData = {
           {
             "rank": 169,
             "account_name": "AzureInvidiaOnline.6789",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -208237,7 +216173,12 @@ const leaderboardData = {
           {
             "rank": 170,
             "account_name": "Babadook.5842",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -208246,7 +216187,12 @@ const leaderboardData = {
           {
             "rank": 171,
             "account_name": "Basket.7139",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -208255,7 +216201,12 @@ const leaderboardData = {
           {
             "rank": 172,
             "account_name": "Beneddar.7930",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -208264,7 +216215,12 @@ const leaderboardData = {
           {
             "rank": 173,
             "account_name": "BlackMamba.1734",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208273,7 +216229,12 @@ const leaderboardData = {
           {
             "rank": 174,
             "account_name": "BloodDoll.4602",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208282,7 +216243,12 @@ const leaderboardData = {
           {
             "rank": 175,
             "account_name": "Brett.8953",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -208291,7 +216257,12 @@ const leaderboardData = {
           {
             "rank": 176,
             "account_name": "Bryce.3098",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208300,7 +216271,12 @@ const leaderboardData = {
           {
             "rank": 177,
             "account_name": "CallsignTundra.5963",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208309,7 +216285,12 @@ const leaderboardData = {
           {
             "rank": 178,
             "account_name": "Cavalier.4015",
-            "professions_played": "Warrior (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Warrior",
@@ -208318,7 +216299,12 @@ const leaderboardData = {
           {
             "rank": 179,
             "account_name": "Caysadia.2548",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -208327,7 +216313,12 @@ const leaderboardData = {
           {
             "rank": 180,
             "account_name": "ChaosIceKing.2345",
-            "professions_played": "Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Willbender",
@@ -208336,7 +216327,12 @@ const leaderboardData = {
           {
             "rank": 181,
             "account_name": "ChaoticJarod.2745",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -208345,7 +216341,12 @@ const leaderboardData = {
           {
             "rank": 182,
             "account_name": "Chief.7143",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208354,7 +216355,12 @@ const leaderboardData = {
           {
             "rank": 183,
             "account_name": "ChillaurSaur.8640",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -208363,7 +216369,12 @@ const leaderboardData = {
           {
             "rank": 184,
             "account_name": "Crazy.2618",
-            "professions_played": "Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Willbender",
@@ -208372,7 +216383,12 @@ const leaderboardData = {
           {
             "rank": 185,
             "account_name": "Crowley.2740",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -208381,7 +216397,12 @@ const leaderboardData = {
           {
             "rank": 186,
             "account_name": "Cryptic.3519",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -208390,7 +216411,12 @@ const leaderboardData = {
           {
             "rank": 187,
             "account_name": "DanDizh.8416",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -208399,7 +216425,12 @@ const leaderboardData = {
           {
             "rank": 188,
             "account_name": "Dangelys.2630",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -208408,7 +216439,12 @@ const leaderboardData = {
           {
             "rank": 189,
             "account_name": "Daniel.8106",
-            "professions_played": "Thief (1)",
+            "professions_played": [
+              {
+                "profession": "Thief",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Thief",
@@ -208417,7 +216453,12 @@ const leaderboardData = {
           {
             "rank": 190,
             "account_name": "Dave.1706",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -208426,7 +216467,12 @@ const leaderboardData = {
           {
             "rank": 191,
             "account_name": "Digo.2531",
-            "professions_played": "Virtuoso (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Virtuoso",
@@ -208435,7 +216481,12 @@ const leaderboardData = {
           {
             "rank": 192,
             "account_name": "DirtyRat.3941",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208444,7 +216495,12 @@ const leaderboardData = {
           {
             "rank": 193,
             "account_name": "DonkeyHaxor.4052",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -208453,7 +216509,12 @@ const leaderboardData = {
           {
             "rank": 194,
             "account_name": "DraGonfly.9317",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -208462,7 +216523,12 @@ const leaderboardData = {
           {
             "rank": 195,
             "account_name": "Eschkevna.6301",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -208471,7 +216537,12 @@ const leaderboardData = {
           {
             "rank": 196,
             "account_name": "Fantabulous.3406",
-            "professions_played": "Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Untamed",
@@ -208480,7 +216551,12 @@ const leaderboardData = {
           {
             "rank": 197,
             "account_name": "FavoriteOne.6735",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208489,7 +216565,12 @@ const leaderboardData = {
           {
             "rank": 198,
             "account_name": "Feed.5309",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -208498,7 +216579,12 @@ const leaderboardData = {
           {
             "rank": 199,
             "account_name": "FerkzW.3067",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -208507,7 +216593,12 @@ const leaderboardData = {
           {
             "rank": 200,
             "account_name": "Filipe.8492",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -208516,7 +216607,12 @@ const leaderboardData = {
           {
             "rank": 201,
             "account_name": "Full Course Meal.9540",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208525,7 +216621,12 @@ const leaderboardData = {
           {
             "rank": 202,
             "account_name": "Gir Rowl.7065",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208534,7 +216635,12 @@ const leaderboardData = {
           {
             "rank": 203,
             "account_name": "Graven.4325",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208543,7 +216649,12 @@ const leaderboardData = {
           {
             "rank": 204,
             "account_name": "Grizzly.1826",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208552,7 +216663,12 @@ const leaderboardData = {
           {
             "rank": 205,
             "account_name": "Hansi.4351",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -208561,7 +216677,12 @@ const leaderboardData = {
           {
             "rank": 206,
             "account_name": "Humblelight.9570",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -208570,7 +216691,12 @@ const leaderboardData = {
           {
             "rank": 207,
             "account_name": "Hund.6875",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208579,7 +216705,12 @@ const leaderboardData = {
           {
             "rank": 208,
             "account_name": "IClappBuns.2587",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208588,7 +216719,12 @@ const leaderboardData = {
           {
             "rank": 209,
             "account_name": "Icy Violin.9213",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -208597,7 +216733,12 @@ const leaderboardData = {
           {
             "rank": 210,
             "account_name": "Idaeus.9564",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -208606,7 +216747,12 @@ const leaderboardData = {
           {
             "rank": 211,
             "account_name": "IllusiveMind.6470",
-            "professions_played": "Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -208615,7 +216761,12 @@ const leaderboardData = {
           {
             "rank": 212,
             "account_name": "IronOre.7826",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -208624,7 +216775,12 @@ const leaderboardData = {
           {
             "rank": 213,
             "account_name": "ItalianMagik.2698",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -208633,7 +216789,12 @@ const leaderboardData = {
           {
             "rank": 214,
             "account_name": "Jdchil.9561",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -208642,7 +216803,12 @@ const leaderboardData = {
           {
             "rank": 215,
             "account_name": "Jim.5419",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208651,7 +216817,12 @@ const leaderboardData = {
           {
             "rank": 216,
             "account_name": "JohnNieto.7109",
-            "professions_played": "Virtuoso (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Virtuoso",
@@ -208660,7 +216831,12 @@ const leaderboardData = {
           {
             "rank": 217,
             "account_name": "Kai.6024",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -208669,7 +216845,12 @@ const leaderboardData = {
           {
             "rank": 218,
             "account_name": "KamiKaZe.8173",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -208678,7 +216859,12 @@ const leaderboardData = {
           {
             "rank": 219,
             "account_name": "Kanchou.1576",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -208687,7 +216873,12 @@ const leaderboardData = {
           {
             "rank": 220,
             "account_name": "Kearsarge.9357",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208696,7 +216887,12 @@ const leaderboardData = {
           {
             "rank": 221,
             "account_name": "Kiwi.2176",
-            "professions_played": "Weaver (1)",
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Weaver",
@@ -208705,7 +216901,12 @@ const leaderboardData = {
           {
             "rank": 222,
             "account_name": "Kojchi.1970",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -208714,7 +216915,12 @@ const leaderboardData = {
           {
             "rank": 223,
             "account_name": "Krine.4690",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208723,7 +216929,12 @@ const leaderboardData = {
           {
             "rank": 224,
             "account_name": "Krounen.7028",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -208732,7 +216943,12 @@ const leaderboardData = {
           {
             "rank": 225,
             "account_name": "Kuwat.4703",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -208741,7 +216957,12 @@ const leaderboardData = {
           {
             "rank": 226,
             "account_name": "Laroong.7629",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -208750,7 +216971,12 @@ const leaderboardData = {
           {
             "rank": 227,
             "account_name": "LianoBR.6532",
-            "professions_played": "Harbinger (1)",
+            "professions_played": [
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Harbinger",
@@ -208759,7 +216985,12 @@ const leaderboardData = {
           {
             "rank": 228,
             "account_name": "Lion.6590",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -208768,7 +216999,12 @@ const leaderboardData = {
           {
             "rank": 229,
             "account_name": "Lookiey.1387",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208777,7 +217013,12 @@ const leaderboardData = {
           {
             "rank": 230,
             "account_name": "MDK.1967",
-            "professions_played": "Mechanist (1)",
+            "professions_played": [
+              {
+                "profession": "Mechanist",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mechanist",
@@ -208786,7 +217027,12 @@ const leaderboardData = {
           {
             "rank": 231,
             "account_name": "Maferente.9570",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208795,7 +217041,12 @@ const leaderboardData = {
           {
             "rank": 232,
             "account_name": "Marinho.9387",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -208804,7 +217055,12 @@ const leaderboardData = {
           {
             "rank": 233,
             "account_name": "Massacremam.4358",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -208813,7 +217069,12 @@ const leaderboardData = {
           {
             "rank": 234,
             "account_name": "Maul.1360",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -208822,7 +217083,12 @@ const leaderboardData = {
           {
             "rank": 235,
             "account_name": "Mellis.7284",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208831,7 +217097,12 @@ const leaderboardData = {
           {
             "rank": 236,
             "account_name": "Melt.7420",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208840,7 +217111,12 @@ const leaderboardData = {
           {
             "rank": 237,
             "account_name": "Meltdown Manager.9051",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -208849,7 +217125,12 @@ const leaderboardData = {
           {
             "rank": 238,
             "account_name": "MichaelNS.2894",
-            "professions_played": "Mechanist (1)",
+            "professions_played": [
+              {
+                "profession": "Mechanist",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mechanist",
@@ -208858,7 +217139,12 @@ const leaderboardData = {
           {
             "rank": 239,
             "account_name": "Michidoo.4796",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -208867,7 +217153,12 @@ const leaderboardData = {
           {
             "rank": 240,
             "account_name": "Mini.1786",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208876,7 +217167,12 @@ const leaderboardData = {
           {
             "rank": 241,
             "account_name": "Mona.9180",
-            "professions_played": "Boon Cata (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Cata",
@@ -208885,7 +217181,12 @@ const leaderboardData = {
           {
             "rank": 242,
             "account_name": "Montana.8032",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -208894,7 +217195,12 @@ const leaderboardData = {
           {
             "rank": 243,
             "account_name": "Mylovis.6390",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208903,7 +217209,12 @@ const leaderboardData = {
           {
             "rank": 244,
             "account_name": "NSLeviathan.7938",
-            "professions_played": "Engineer (1)",
+            "professions_played": [
+              {
+                "profession": "Engineer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Engineer",
@@ -208912,7 +217223,12 @@ const leaderboardData = {
           {
             "rank": 245,
             "account_name": "Nikayla.4095",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -208921,7 +217237,12 @@ const leaderboardData = {
           {
             "rank": 246,
             "account_name": "OdinNevon.7305",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -208930,7 +217251,12 @@ const leaderboardData = {
           {
             "rank": 247,
             "account_name": "On Fire.7602",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -208939,7 +217265,12 @@ const leaderboardData = {
           {
             "rank": 248,
             "account_name": "Pererek Ninja.1950",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -208948,7 +217279,12 @@ const leaderboardData = {
           {
             "rank": 249,
             "account_name": "PublicDisplayName.4986",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208957,7 +217293,12 @@ const leaderboardData = {
           {
             "rank": 250,
             "account_name": "PurpScurpington.6457",
-            "professions_played": "Virtuoso (1)",
+            "professions_played": [
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Virtuoso",
@@ -208966,7 +217307,12 @@ const leaderboardData = {
           {
             "rank": 251,
             "account_name": "Quensa.6985",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -208975,7 +217321,12 @@ const leaderboardData = {
           {
             "rank": 252,
             "account_name": "Rapscallion.3571",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208984,7 +217335,12 @@ const leaderboardData = {
           {
             "rank": 253,
             "account_name": "Ray Bell.2135",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -208993,7 +217349,12 @@ const leaderboardData = {
           {
             "rank": 254,
             "account_name": "Raykiu.7841",
-            "professions_played": "Willbender (1)",
+            "professions_played": [
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Willbender",
@@ -209002,7 +217363,12 @@ const leaderboardData = {
           {
             "rank": 255,
             "account_name": "ReiTigre.5289",
-            "professions_played": "Ranger (1)",
+            "professions_played": [
+              {
+                "profession": "Ranger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Ranger",
@@ -209011,7 +217377,12 @@ const leaderboardData = {
           {
             "rank": 256,
             "account_name": "Rokailin.6534",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -209020,7 +217391,12 @@ const leaderboardData = {
           {
             "rank": 257,
             "account_name": "Rook.1934",
-            "professions_played": "Harbinger (1)",
+            "professions_played": [
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Harbinger",
@@ -209029,7 +217405,12 @@ const leaderboardData = {
           {
             "rank": 258,
             "account_name": "Salton.5247",
-            "professions_played": "Bladesworn (1)",
+            "professions_played": [
+              {
+                "profession": "Bladesworn",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Bladesworn",
@@ -209038,7 +217419,12 @@ const leaderboardData = {
           {
             "rank": 259,
             "account_name": "Sebroth.1836",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -209047,7 +217433,12 @@ const leaderboardData = {
           {
             "rank": 260,
             "account_name": "Serebus.7314",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209056,7 +217447,12 @@ const leaderboardData = {
           {
             "rank": 261,
             "account_name": "Serial Experiments X.2183",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -209065,7 +217461,12 @@ const leaderboardData = {
           {
             "rank": 262,
             "account_name": "Sexykillerz.8572",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209074,7 +217475,12 @@ const leaderboardData = {
           {
             "rank": 263,
             "account_name": "Shinoue.7238",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209083,7 +217489,12 @@ const leaderboardData = {
           {
             "rank": 264,
             "account_name": "Sleepy.5367",
-            "professions_played": "Warrior (1)",
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Warrior",
@@ -209092,7 +217503,12 @@ const leaderboardData = {
           {
             "rank": 265,
             "account_name": "Sparrowhawk.2387",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209101,7 +217517,12 @@ const leaderboardData = {
           {
             "rank": 266,
             "account_name": "Sphere.2076",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -209110,7 +217531,12 @@ const leaderboardData = {
           {
             "rank": 267,
             "account_name": "SteelSpirit.1695",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -209119,7 +217545,12 @@ const leaderboardData = {
           {
             "rank": 268,
             "account_name": "StoneWall.6259",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -209128,7 +217559,12 @@ const leaderboardData = {
           {
             "rank": 269,
             "account_name": "SumRandmGuy.1759",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -209137,7 +217573,12 @@ const leaderboardData = {
           {
             "rank": 270,
             "account_name": "Sumfoo.8214",
-            "professions_played": "Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Untamed",
@@ -209146,7 +217587,12 @@ const leaderboardData = {
           {
             "rank": 271,
             "account_name": "SunJian.8029",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209155,7 +217601,12 @@ const leaderboardData = {
           {
             "rank": 272,
             "account_name": "THCLUTCH.7620",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209164,7 +217615,12 @@ const leaderboardData = {
           {
             "rank": 273,
             "account_name": "TTRF.8473",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209173,7 +217629,12 @@ const leaderboardData = {
           {
             "rank": 274,
             "account_name": "TehWolfman.1794",
-            "professions_played": "Support Spb (1)",
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Support Spb",
@@ -209182,7 +217643,12 @@ const leaderboardData = {
           {
             "rank": 275,
             "account_name": "The Original Barcode.7985",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209191,7 +217657,12 @@ const leaderboardData = {
           {
             "rank": 276,
             "account_name": "ThiagoW.4810",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -209200,7 +217671,12 @@ const leaderboardData = {
           {
             "rank": 277,
             "account_name": "Tman.8325",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -209209,7 +217685,12 @@ const leaderboardData = {
           {
             "rank": 278,
             "account_name": "Travychu.5432",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -209218,7 +217699,12 @@ const leaderboardData = {
           {
             "rank": 279,
             "account_name": "TripleCorndog.1923",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -209227,7 +217713,12 @@ const leaderboardData = {
           {
             "rank": 280,
             "account_name": "Twister.8645",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -209236,7 +217727,12 @@ const leaderboardData = {
           {
             "rank": 281,
             "account_name": "Vantiquera.9038",
-            "professions_played": "Berserker (1)",
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Berserker",
@@ -209245,7 +217741,12 @@ const leaderboardData = {
           {
             "rank": 282,
             "account_name": "VegasXZirael.8260",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209254,7 +217755,12 @@ const leaderboardData = {
           {
             "rank": 283,
             "account_name": "Vitro Zeppeli.4159",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -209263,7 +217769,12 @@ const leaderboardData = {
           {
             "rank": 284,
             "account_name": "Wildcassandra.8463",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209272,7 +217783,12 @@ const leaderboardData = {
           {
             "rank": 285,
             "account_name": "WynXombii.2063",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -209281,7 +217797,12 @@ const leaderboardData = {
           {
             "rank": 286,
             "account_name": "YERKO.5947",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -209290,7 +217811,12 @@ const leaderboardData = {
           {
             "rank": 287,
             "account_name": "Ysoserious.9135",
-            "professions_played": "Dragonhunter (1)",
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Dragonhunter",
@@ -209299,7 +217825,12 @@ const leaderboardData = {
           {
             "rank": 288,
             "account_name": "Zipster.5029",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209308,7 +217839,12 @@ const leaderboardData = {
           {
             "rank": 289,
             "account_name": "armyalex.4957",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -209317,7 +217853,12 @@ const leaderboardData = {
           {
             "rank": 290,
             "account_name": "asdfghjk.8241",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -209326,7 +217867,12 @@ const leaderboardData = {
           {
             "rank": 291,
             "account_name": "banana.9637",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -209335,7 +217881,12 @@ const leaderboardData = {
           {
             "rank": 292,
             "account_name": "berty.7435",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -209344,7 +217895,12 @@ const leaderboardData = {
           {
             "rank": 293,
             "account_name": "ceras.9513",
-            "professions_played": "Necromancer (1)",
+            "professions_played": [
+              {
+                "profession": "Necromancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Necromancer",
@@ -209353,7 +217909,12 @@ const leaderboardData = {
           {
             "rank": 294,
             "account_name": "chopper.7628",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -209362,7 +217923,12 @@ const leaderboardData = {
           {
             "rank": 295,
             "account_name": "cmkmrr.1705",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209371,7 +217937,12 @@ const leaderboardData = {
           {
             "rank": 296,
             "account_name": "deen.1264",
-            "professions_played": "Engineer (1)",
+            "professions_played": [
+              {
+                "profession": "Engineer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Engineer",
@@ -209380,7 +217951,12 @@ const leaderboardData = {
           {
             "rank": 297,
             "account_name": "dirtydaaku.1948",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209389,7 +217965,12 @@ const leaderboardData = {
           {
             "rank": 298,
             "account_name": "dpnz.4539",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -209398,7 +217979,12 @@ const leaderboardData = {
           {
             "rank": 299,
             "account_name": "draxon.9814",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -209407,7 +217993,12 @@ const leaderboardData = {
           {
             "rank": 300,
             "account_name": "evairpt.2843",
-            "professions_played": "Untamed (1)",
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Untamed",
@@ -209416,7 +218007,12 @@ const leaderboardData = {
           {
             "rank": 301,
             "account_name": "feinal.5829",
-            "professions_played": "Catalyst (1)",
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Catalyst",
@@ -209425,7 +218021,12 @@ const leaderboardData = {
           {
             "rank": 302,
             "account_name": "folly dragon.4126",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -209434,7 +218035,12 @@ const leaderboardData = {
           {
             "rank": 303,
             "account_name": "hameris.1420",
-            "professions_played": "Mirage (1)",
+            "professions_played": [
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mirage",
@@ -209443,7 +218049,12 @@ const leaderboardData = {
           {
             "rank": 304,
             "account_name": "hyper.3518",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209452,7 +218063,12 @@ const leaderboardData = {
           {
             "rank": 305,
             "account_name": "inneedoflife.5092",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209461,7 +218077,12 @@ const leaderboardData = {
           {
             "rank": 306,
             "account_name": "kiobamm.4627",
-            "professions_played": "Soulbeast (1)",
+            "professions_played": [
+              {
+                "profession": "Soulbeast",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Soulbeast",
@@ -209470,7 +218091,12 @@ const leaderboardData = {
           {
             "rank": 307,
             "account_name": "kuonan.5974",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -209479,7 +218105,12 @@ const leaderboardData = {
           {
             "rank": 308,
             "account_name": "lcuocikny.3814",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209488,7 +218119,12 @@ const leaderboardData = {
           {
             "rank": 309,
             "account_name": "limao.5968",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -209497,7 +218133,12 @@ const leaderboardData = {
           {
             "rank": 310,
             "account_name": "mattb.1263",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209506,7 +218147,12 @@ const leaderboardData = {
           {
             "rank": 311,
             "account_name": "mememe.5239",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -209515,7 +218161,12 @@ const leaderboardData = {
           {
             "rank": 312,
             "account_name": "merytogo.1365",
-            "professions_played": "Mesmer (1)",
+            "professions_played": [
+              {
+                "profession": "Mesmer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Mesmer",
@@ -209524,7 +218175,12 @@ const leaderboardData = {
           {
             "rank": 313,
             "account_name": "mis abby.4397",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -209533,7 +218189,12 @@ const leaderboardData = {
           {
             "rank": 314,
             "account_name": "mng.1634",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -209542,7 +218203,12 @@ const leaderboardData = {
           {
             "rank": 315,
             "account_name": "mordecia.2807",
-            "professions_played": "Herald (1)",
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Herald",
@@ -209551,7 +218217,12 @@ const leaderboardData = {
           {
             "rank": 316,
             "account_name": "nucklepuckk.1805",
-            "professions_played": "Chronomancer (1)",
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Chronomancer",
@@ -209560,7 +218231,12 @@ const leaderboardData = {
           {
             "rank": 317,
             "account_name": "pepsiColaOneTwoThree.6472",
-            "professions_played": "Reaper (1)",
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Reaper",
@@ -209569,7 +218245,12 @@ const leaderboardData = {
           {
             "rank": 318,
             "account_name": "pixelbox.4751",
-            "professions_played": "Scourge (1)",
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scourge",
@@ -209578,7 +218259,12 @@ const leaderboardData = {
           {
             "rank": 319,
             "account_name": "qwrvee.2764",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -209587,7 +218273,12 @@ const leaderboardData = {
           {
             "rank": 320,
             "account_name": "rawr.4705",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -209596,7 +218287,12 @@ const leaderboardData = {
           {
             "rank": 321,
             "account_name": "red armadillo.4593",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209605,7 +218301,12 @@ const leaderboardData = {
           {
             "rank": 322,
             "account_name": "rob.7042",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -209614,7 +218315,12 @@ const leaderboardData = {
           {
             "rank": 323,
             "account_name": "saku.2180",
-            "professions_played": "Harbinger (1)",
+            "professions_played": [
+              {
+                "profession": "Harbinger",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Harbinger",
@@ -209623,7 +218329,12 @@ const leaderboardData = {
           {
             "rank": 324,
             "account_name": "shiinty.5904",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -209632,7 +218343,12 @@ const leaderboardData = {
           {
             "rank": 325,
             "account_name": "slfhie.1764",
-            "professions_played": "Vindicator (1)",
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Vindicator",
@@ -209641,7 +218357,12 @@ const leaderboardData = {
           {
             "rank": 326,
             "account_name": "snups.1297",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -209650,7 +218371,12 @@ const leaderboardData = {
           {
             "rank": 327,
             "account_name": "stan.9576",
-            "professions_played": "Necromancer (1)",
+            "professions_played": [
+              {
+                "profession": "Necromancer",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Necromancer",
@@ -209659,7 +218385,12 @@ const leaderboardData = {
           {
             "rank": 328,
             "account_name": "tCut.7856",
-            "professions_played": "Spellbreaker (1)",
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Spellbreaker",
@@ -209668,7 +218399,12 @@ const leaderboardData = {
           {
             "rank": 329,
             "account_name": "taoofbob.7293",
-            "professions_played": "Tempest (1)",
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Tempest",
@@ -209677,7 +218413,12 @@ const leaderboardData = {
           {
             "rank": 330,
             "account_name": "tarsoalvarenga.7823",
-            "professions_played": "Renegade (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Renegade",
@@ -209686,7 +218427,12 @@ const leaderboardData = {
           {
             "rank": 331,
             "account_name": "tehdusterer.5689",
-            "professions_played": "Firebrand (1)",
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Firebrand",
@@ -209695,7 +218441,12 @@ const leaderboardData = {
           {
             "rank": 332,
             "account_name": "undiee.3146",
-            "professions_played": "Boon Vindi (1)",
+            "professions_played": [
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Boon Vindi",
@@ -209704,7 +218455,12 @@ const leaderboardData = {
           {
             "rank": 333,
             "account_name": "velauxya.3451",
-            "professions_played": "Holosmith (1)",
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Holosmith",
@@ -209713,7 +218469,12 @@ const leaderboardData = {
           {
             "rank": 334,
             "account_name": "willsi.7035",
-            "professions_played": "Scrapper (1)",
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Scrapper",
@@ -209722,7 +218483,12 @@ const leaderboardData = {
           {
             "rank": 335,
             "account_name": "wimpyvirus.2506",
-            "professions_played": "Druid (1)",
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Druid",
@@ -209731,7 +218497,12 @@ const leaderboardData = {
           {
             "rank": 336,
             "account_name": "xzuu.7465",
-            "professions_played": "Renegade (1)",
+            "professions_played": [
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Renegade",
@@ -209740,7 +218511,12 @@ const leaderboardData = {
           {
             "rank": 337,
             "account_name": "yojoeo.8019",
-            "professions_played": "Specter (1)",
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
             "total_sessions": 1,
             "profession_count": 1,
             "primary_profession": "Specter",
@@ -286921,7 +295697,7 @@ function initializePage() {
 
 function initializeDarkMode() {
     // Check for saved theme preference or default to light mode
-    const savedTheme = localStorage.getItem('theme') || 'light';
+    const savedTheme = localStorage.getItem('theme') || 'dark';
     document.documentElement.setAttribute('data-theme', savedTheme);
     updateToggleIcon(savedTheme);
 }
@@ -287601,7 +296377,7 @@ function loadPlayerStats(metric) {
             {
                 key: 'professions_played',
                 label: 'Professions Played',
-                type: 'stats'
+                type: 'profession_bar'
             },
             {
                 key: 'total_sessions',
@@ -287733,31 +296509,121 @@ function formatCellValue(value, type) {
             }
         case 'apm':
             return (value !== null && value !== undefined) ? `<span class="stat-value">${value}</span>` : '<span class="stat-value">-</span>';
+        case 'profession_bar':
+            return formatProfessionBar(value);
         default:
             return value;
     }
 }
 
 function getProfessionColor(profession) {
-    const colors = {
-        'Firebrand': '#e74c3c',
-        'Chronomancer': '#9b59b6',
-        'Scourge': '#2c3e50',
-        'Druid': '#27ae60',
-        'Condi Firebrand': '#d35400',
-        'Support Spb': '#f39c12',
-        'Catalyst': '#3498db',
-        'Weaver': '#e67e22',
-        'Tempest': '#1abc9c',
-        'Holosmith': '#34495e',
-        'Dragonhunter': '#f1c40f',
-        'Reaper': '#8e44ad',
-        'Soulbeast': '#16a085',
-        'Untamed': '#c0392b',
-        'Spellbreaker': '#7f8c8d',
-        'Berserker': '#e74c3c'
+    // GW2 profession colors with more distinct variants for elite specs
+    const professionColors = {
+        // Guardian (blue variations)
+        'Guardian': '#72C1D9',      // Medium (base)
+        'Dragonhunter': '#95D4E6',  // Lighter
+        'Firebrand': '#4CABC7',     // Darker
+        'Willbender': '#87CDDF',    // Light variant
+        
+        // Revenant (red variations)
+        'Revenant': '#D16E5A',      // Medium (base)
+        'Herald': '#E08A7A',        // Lighter
+        'Renegade': '#BD4E37',      // Darker
+        'Vindicator': '#D8796A',    // Light variant
+        
+        // Warrior (yellow variations)
+        'Warrior': '#FFD166',       // Medium (base)
+        'Berserker': '#FFDD99',     // Lighter
+        'Spellbreaker': '#FFC233',  // Darker
+        'Bladesworn': '#FFD680',    // Light variant
+        
+        // Engineer (orange variations)
+        'Engineer': '#D09C59',      // Medium (base)
+        'Scrapper': '#E3B585',      // Lighter
+        'Holosmith': '#B7822D',     // Darker
+        'Mechanist': '#D6A66F',     // Light variant
+        
+        // Ranger (green variations)
+        'Ranger': '#8CDC82',        // Medium (base)
+        'Druid': '#B5EAB0',         // Lighter
+        'Soulbeast': '#64CC54',     // Darker
+        'Untamed': '#9DE395',       // Light variant
+        
+        // Thief (pink variations)
+        'Thief': '#C08F95',         // Medium (base)
+        'Daredevil': '#D6AFBA',     // Lighter
+        'Deadeye': '#A9696F',       // Darker
+        'Specter': '#C79CA5',       // Light variant
+        
+        // Elementalist (red variations)
+        'Elementalist': '#F68A87',  // Medium (base)
+        'Tempest': '#FAB0AE',       // Lighter
+        'Weaver': '#F25E5B',        // Darker
+        'Catalyst': '#F79A97',      // Light variant
+        
+        // Mesmer (purple variations)
+        'Mesmer': '#B679D5',        // Medium (base)
+        'Chronomancer': '#D0A0E6',  // Lighter
+        'Mirage': '#9952C4',        // Darker
+        'Virtuoso': '#C288DB',      // Light variant
+        
+        // Necromancer (green variations)
+        'Necromancer': '#52A76F',   // Medium (base)
+        'Reaper': '#7BC498',        // Lighter
+        'Scourge': '#2E8A46',       // Darker
+        'Harbinger': '#62B17F',     // Light variant
+        
+        // Special cases (distinct variations)
+        'Condi Firebrand': '#5CB0C9',  // Darker than Firebrand
+        'Support Spb': '#FFB820',      // Darker than Spellbreaker
+        'China DH': '#9BD8E8',         // Between Guardian and Dragonhunter
+        'Boon Vindi': '#E18B7C'        // Between Revenant and Vindicator
     };
-    return colors[profession] || '#95a5a6';
+    
+    return professionColors[profession] || '#95a5a6';
+}
+
+function formatProfessionBar(professions) {
+    if (!professions || professions.length === 0) {
+        return '<span class="stat-value">-</span>';
+    }
+    
+    const maxVisible = 4;
+    const visibleProfessions = professions.slice(0, maxVisible);
+    const remainingCount = professions.length - maxVisible;
+    
+    // Find max sessions for width scaling
+    const maxSessions = Math.max(...visibleProfessions.map(prof => prof.session_count));
+    
+    let html = '<div class="profession-horizontal-container">';
+    
+    // Add horizontal bars for each profession
+    visibleProfessions.forEach(prof => {
+        const widthPercentage = (prof.session_count / maxSessions) * 100;
+        const color = getProfessionColor(prof.profession);
+        const title = `${prof.profession}: ${prof.session_count} sessions`;
+        
+        html += `<div class="profession-bar-row">
+                    <div class="profession-bar-label">${prof.profession}</div>
+                    <div class="profession-bar-track">
+                        <div class="profession-bar-fill" 
+                             style="width: ${widthPercentage}%; background-color: ${color};" 
+                             title="${title}"
+                             data-profession="${prof.profession}"
+                             data-count="${prof.session_count}">
+                        </div>
+                    </div>
+                    <div class="profession-bar-count">${prof.session_count}</div>
+                 </div>`;
+    });
+    
+    if (remainingCount > 0) {
+        html += `<div class="profession-more-text">and ${remainingCount} more</div>`;
+    }
+    
+    html += '</div>';
+    
+    return html;
 }
 
 function applyRaidsGradient() {
