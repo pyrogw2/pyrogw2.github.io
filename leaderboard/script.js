@@ -1,6 +1,6 @@
 // Leaderboard data
 const leaderboardData = {
-  "generated_at": "2025-07-06T01:44:06.646657",
+  "generated_at": "2025-07-06T01:59:32.956001",
   "guild_enabled": true,
   "guild_name": "Pyromancers",
   "guild_tag": "PYRO",
@@ -47793,468 +47793,6 @@ const leaderboardData = {
             }
           ]
         },
-        "Chronomancer": {
-          "metrics": [
-            "Stability",
-            "Cleanses",
-            "Resistance",
-            "Healing",
-            "Barrier"
-          ],
-          "weights": [
-            0.35,
-            0.35,
-            0.15,
-            0.1,
-            0.05
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "Bailyen Arturius.4263",
-              "composite_score": 1666.3124693170746,
-              "glicko_rating": 1666.3124693170746,
-              "games_played": 50,
-              "average_rank_percent": 5.3,
-              "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "57.4/28.5"
-            },
-            {
-              "rank": 2,
-              "account_name": "Disenable.1640",
-              "composite_score": 1603.3773175245788,
-              "glicko_rating": 1603.3773175245788,
-              "games_played": 23,
-              "average_rank_percent": 4.478260869565218,
-              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "51.0/26.6"
-            },
-            {
-              "rank": 3,
-              "account_name": "Muted.8591",
-              "composite_score": 1595.6172703815607,
-              "glicko_rating": 1595.6172703815607,
-              "games_played": 55,
-              "average_rank_percent": 7.072727272727272,
-              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "46.8/31.7"
-            },
-            {
-              "rank": 4,
-              "account_name": "Ronin.4501",
-              "composite_score": 1578.3507931453298,
-              "glicko_rating": 1578.3507931453298,
-              "games_played": 9,
-              "average_rank_percent": 5.222222222222222,
-              "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "43.5/37.0"
-            },
-            {
-              "rank": 5,
-              "account_name": "Uriah.7082",
-              "composite_score": 1571.284643313535,
-              "glicko_rating": 1571.284643313535,
-              "games_played": 23,
-              "average_rank_percent": 6.260869565217392,
-              "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "61.0/34.2"
-            },
-            {
-              "rank": 6,
-              "account_name": "bernadettesurprise.3297",
-              "composite_score": 1568.1481545717616,
-              "glicko_rating": 1568.1481545717616,
-              "games_played": 5,
-              "average_rank_percent": 6.6,
-              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/32.0"
-            },
-            {
-              "rank": 7,
-              "account_name": "Crator of Fire.1796",
-              "composite_score": 1565.7030112521657,
-              "glicko_rating": 1565.7030112521657,
-              "games_played": 9,
-              "average_rank_percent": 10.0,
-              "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "42.0/28.0"
-            },
-            {
-              "rank": 8,
-              "account_name": "On Fire.7602",
-              "composite_score": 1556.5493341686604,
-              "glicko_rating": 1556.5493341686604,
-              "games_played": 5,
-              "average_rank_percent": 8.6,
-              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "69.0/33.0"
-            },
-            {
-              "rank": 9,
-              "account_name": "ABC.9386",
-              "composite_score": 1554.9696131805972,
-              "glicko_rating": 1554.9696131805972,
-              "games_played": 5,
-              "average_rank_percent": 6.2,
-              "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "65.0/36.0"
-            },
-            {
-              "rank": 10,
-              "account_name": "Degothia.7394",
-              "composite_score": 1553.640532165705,
-              "glicko_rating": 1553.640532165705,
-              "games_played": 10,
-              "average_rank_percent": 6.5,
-              "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "41.0/30.5"
-            },
-            {
-              "rank": 11,
-              "account_name": "synco.8132",
-              "composite_score": 1542.54073001449,
-              "glicko_rating": 1542.54073001449,
-              "games_played": 29,
-              "average_rank_percent": 8.793103448275861,
-              "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "46.0/25.4"
-            },
-            {
-              "rank": 12,
-              "account_name": "Mellis.8451",
-              "composite_score": 1537.485212679087,
-              "glicko_rating": 1537.485212679087,
-              "games_played": 18,
-              "average_rank_percent": 6.611111111111111,
-              "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "35.5/22.8"
-            },
-            {
-              "rank": 13,
-              "account_name": "Nictheman.9754",
-              "composite_score": 1537.2304668516022,
-              "glicko_rating": 1537.2304668516022,
-              "games_played": 67,
-              "average_rank_percent": 6.776119402985074,
-              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "44.7/35.6"
-            },
-            {
-              "rank": 14,
-              "account_name": "Lookiey.1387",
-              "composite_score": 1533.8999059604193,
-              "glicko_rating": 1533.8999059604193,
-              "games_played": 5,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "36.0/24.0"
-            },
-            {
-              "rank": 15,
-              "account_name": "Kearsarge.9357",
-              "composite_score": 1533.429052783799,
-              "glicko_rating": 1533.429052783799,
-              "games_played": 5,
-              "average_rank_percent": 5.8,
-              "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/39.0"
-            },
-            {
-              "rank": 16,
-              "account_name": "Havocus.3682",
-              "composite_score": 1531.3537722501724,
-              "glicko_rating": 1531.3537722501724,
-              "games_played": 25,
-              "average_rank_percent": 8.44,
-              "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "52.0/24.4"
-            },
-            {
-              "rank": 17,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1531.2373628287528,
-              "glicko_rating": 1531.2373628287528,
-              "games_played": 13,
-              "average_rank_percent": 6.769230769230769,
-              "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "59.3/38.7"
-            },
-            {
-              "rank": 18,
-              "account_name": "Souza.1562",
-              "composite_score": 1530.2343459663555,
-              "glicko_rating": 1530.2343459663555,
-              "games_played": 5,
-              "average_rank_percent": 6.4,
-              "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/31.0"
-            },
-            {
-              "rank": 19,
-              "account_name": "Igure.2063",
-              "composite_score": 1528.197728684374,
-              "glicko_rating": 1528.197728684374,
-              "games_played": 9,
-              "average_rank_percent": 8.88888888888889,
-              "key_stats": "Stab:8.6 Clea:0.2 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "32.0/26.0"
-            },
-            {
-              "rank": 20,
-              "account_name": "Jim.5419",
-              "composite_score": 1527.6882683994913,
-              "glicko_rating": 1527.6882683994913,
-              "games_played": 5,
-              "average_rank_percent": 9.2,
-              "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "45.0/27.0"
-            },
-            {
-              "rank": 21,
-              "account_name": "katoki.7869",
-              "composite_score": 1519.716894183684,
-              "glicko_rating": 1519.716894183684,
-              "games_played": 24,
-              "average_rank_percent": 8.666666666666666,
-              "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "55.2/24.0"
-            },
-            {
-              "rank": 22,
-              "account_name": "mng.1634",
-              "composite_score": 1518.0833312424265,
-              "glicko_rating": 1518.0833312424265,
-              "games_played": 5,
-              "average_rank_percent": 12.4,
-              "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/25.0"
-            },
-            {
-              "rank": 23,
-              "account_name": "Mini.1786",
-              "composite_score": 1507.3434385516628,
-              "glicko_rating": 1507.3434385516628,
-              "games_played": 5,
-              "average_rank_percent": 9.2,
-              "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "71.0/32.0"
-            },
-            {
-              "rank": 24,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1505.2518552251936,
-              "glicko_rating": 1505.2518552251936,
-              "games_played": 13,
-              "average_rank_percent": 7.230769230769231,
-              "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "41.7/25.3"
-            },
-            {
-              "rank": 25,
-              "account_name": "ixJurema.8657",
-              "composite_score": 1499.3936690557853,
-              "glicko_rating": 1499.3936690557853,
-              "games_played": 5,
-              "average_rank_percent": 7.8,
-              "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "45.0/25.0"
-            },
-            {
-              "rank": 26,
-              "account_name": "Mini.8130",
-              "composite_score": 1496.4624235048918,
-              "glicko_rating": 1496.4624235048918,
-              "games_played": 5,
-              "average_rank_percent": 7.4,
-              "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "57.0/34.0"
-            },
-            {
-              "rank": 27,
-              "account_name": "Bleebt.4108",
-              "composite_score": 1492.28067834946,
-              "glicko_rating": 1492.28067834946,
-              "games_played": 10,
-              "average_rank_percent": 10.9,
-              "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "50.5/25.5"
-            },
-            {
-              "rank": 28,
-              "account_name": "pariah.6937",
-              "composite_score": 1488.3002183671197,
-              "glicko_rating": 1488.3002183671197,
-              "games_played": 10,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "36.0/20.5"
-            },
-            {
-              "rank": 29,
-              "account_name": "Bother.9415",
-              "composite_score": 1468.800721936516,
-              "glicko_rating": 1468.800721936516,
-              "games_played": 5,
-              "average_rank_percent": 9.4,
-              "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "49.0/31.0"
-            },
-            {
-              "rank": 30,
-              "account_name": "Malek.9417",
-              "composite_score": 1466.7795379414895,
-              "glicko_rating": 1466.7795379414895,
-              "games_played": 8,
-              "average_rank_percent": 9.625,
-              "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "43.5/23.5"
-            },
-            {
-              "rank": 31,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1465.8245492676517,
-              "glicko_rating": 1465.8245492676517,
-              "games_played": 10,
-              "average_rank_percent": 8.6,
-              "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "33.0/26.5"
-            },
-            {
-              "rank": 32,
-              "account_name": "CaptainKnightfall.4378",
-              "composite_score": 1465.1825081602187,
-              "glicko_rating": 1465.1825081602187,
-              "games_played": 7,
-              "average_rank_percent": 13.0,
-              "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "26.5/13.5"
-            },
-            {
-              "rank": 33,
-              "account_name": "Graven.4325",
-              "composite_score": 1457.2581799696413,
-              "glicko_rating": 1457.2581799696413,
-              "games_played": 5,
-              "average_rank_percent": 7.8,
-              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "49.0/19.0"
-            },
-            {
-              "rank": 34,
-              "account_name": "Eliare.4069",
-              "composite_score": 1455.0928724345904,
-              "glicko_rating": 1455.0928724345904,
-              "games_played": 5,
-              "average_rank_percent": 9.6,
-              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "35.0/17.0"
-            },
-            {
-              "rank": 35,
-              "account_name": "GreatPadinski.2170",
-              "composite_score": 1444.822325853459,
-              "glicko_rating": 1444.822325853459,
-              "games_played": 13,
-              "average_rank_percent": 14.23076923076923,
-              "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "39.3/23.7"
-            },
-            {
-              "rank": 36,
-              "account_name": "Bad Karma.8407",
-              "composite_score": 1428.1039738989934,
-              "glicko_rating": 1428.1039738989934,
-              "games_played": 5,
-              "average_rank_percent": 9.6,
-              "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "61.0/15.0"
-            },
-            {
-              "rank": 37,
-              "account_name": "Sieia.3642",
-              "composite_score": 1396.4437363427814,
-              "glicko_rating": 1396.4437363427814,
-              "games_played": 12,
-              "average_rank_percent": 11.916666666666666,
-              "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "32.7/16.7"
-            }
-          ]
-        },
         "Druid": {
           "metrics": [
             "Healing",
@@ -48756,6 +48294,468 @@ const leaderboardData = {
               "is_guild_member": false,
               "rating_delta": 0.0,
               "apm": "53.0/43.0"
+            }
+          ]
+        },
+        "Chronomancer": {
+          "metrics": [
+            "Stability",
+            "Cleanses",
+            "Resistance",
+            "Healing",
+            "Barrier"
+          ],
+          "weights": [
+            0.35,
+            0.35,
+            0.15,
+            0.1,
+            0.05
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "Bailyen Arturius.4263",
+              "composite_score": 1666.3124693170746,
+              "glicko_rating": 1666.3124693170746,
+              "games_played": 50,
+              "average_rank_percent": 5.3,
+              "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "57.4/28.5"
+            },
+            {
+              "rank": 2,
+              "account_name": "Disenable.1640",
+              "composite_score": 1603.3773175245788,
+              "glicko_rating": 1603.3773175245788,
+              "games_played": 23,
+              "average_rank_percent": 4.478260869565218,
+              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "51.0/26.6"
+            },
+            {
+              "rank": 3,
+              "account_name": "Muted.8591",
+              "composite_score": 1595.6172703815607,
+              "glicko_rating": 1595.6172703815607,
+              "games_played": 55,
+              "average_rank_percent": 7.072727272727272,
+              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "46.8/31.7"
+            },
+            {
+              "rank": 4,
+              "account_name": "Ronin.4501",
+              "composite_score": 1578.3507931453298,
+              "glicko_rating": 1578.3507931453298,
+              "games_played": 9,
+              "average_rank_percent": 5.222222222222222,
+              "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "43.5/37.0"
+            },
+            {
+              "rank": 5,
+              "account_name": "Uriah.7082",
+              "composite_score": 1571.284643313535,
+              "glicko_rating": 1571.284643313535,
+              "games_played": 23,
+              "average_rank_percent": 6.260869565217392,
+              "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "61.0/34.2"
+            },
+            {
+              "rank": 6,
+              "account_name": "bernadettesurprise.3297",
+              "composite_score": 1568.1481545717616,
+              "glicko_rating": 1568.1481545717616,
+              "games_played": 5,
+              "average_rank_percent": 6.6,
+              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
+            },
+            {
+              "rank": 7,
+              "account_name": "Crator of Fire.1796",
+              "composite_score": 1565.7030112521657,
+              "glicko_rating": 1565.7030112521657,
+              "games_played": 9,
+              "average_rank_percent": 10.0,
+              "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "42.0/28.0"
+            },
+            {
+              "rank": 8,
+              "account_name": "On Fire.7602",
+              "composite_score": 1556.5493341686604,
+              "glicko_rating": 1556.5493341686604,
+              "games_played": 5,
+              "average_rank_percent": 8.6,
+              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.0/33.0"
+            },
+            {
+              "rank": 9,
+              "account_name": "ABC.9386",
+              "composite_score": 1554.9696131805972,
+              "glicko_rating": 1554.9696131805972,
+              "games_played": 5,
+              "average_rank_percent": 6.2,
+              "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "65.0/36.0"
+            },
+            {
+              "rank": 10,
+              "account_name": "Degothia.7394",
+              "composite_score": 1553.640532165705,
+              "glicko_rating": 1553.640532165705,
+              "games_played": 10,
+              "average_rank_percent": 6.5,
+              "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
+            },
+            {
+              "rank": 11,
+              "account_name": "synco.8132",
+              "composite_score": 1542.54073001449,
+              "glicko_rating": 1542.54073001449,
+              "games_played": 29,
+              "average_rank_percent": 8.793103448275861,
+              "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "46.0/25.4"
+            },
+            {
+              "rank": 12,
+              "account_name": "Mellis.8451",
+              "composite_score": 1537.485212679087,
+              "glicko_rating": 1537.485212679087,
+              "games_played": 18,
+              "average_rank_percent": 6.611111111111111,
+              "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "35.5/22.8"
+            },
+            {
+              "rank": 13,
+              "account_name": "Nictheman.9754",
+              "composite_score": 1537.2304668516022,
+              "glicko_rating": 1537.2304668516022,
+              "games_played": 67,
+              "average_rank_percent": 6.776119402985074,
+              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "44.7/35.6"
+            },
+            {
+              "rank": 14,
+              "account_name": "Lookiey.1387",
+              "composite_score": 1533.8999059604193,
+              "glicko_rating": 1533.8999059604193,
+              "games_played": 5,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "36.0/24.0"
+            },
+            {
+              "rank": 15,
+              "account_name": "Kearsarge.9357",
+              "composite_score": 1533.429052783799,
+              "glicko_rating": 1533.429052783799,
+              "games_played": 5,
+              "average_rank_percent": 5.8,
+              "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/39.0"
+            },
+            {
+              "rank": 16,
+              "account_name": "Havocus.3682",
+              "composite_score": 1531.3537722501724,
+              "glicko_rating": 1531.3537722501724,
+              "games_played": 25,
+              "average_rank_percent": 8.44,
+              "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "52.0/24.4"
+            },
+            {
+              "rank": 17,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1531.2373628287528,
+              "glicko_rating": 1531.2373628287528,
+              "games_played": 13,
+              "average_rank_percent": 6.769230769230769,
+              "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "59.3/38.7"
+            },
+            {
+              "rank": 18,
+              "account_name": "Souza.1562",
+              "composite_score": 1530.2343459663555,
+              "glicko_rating": 1530.2343459663555,
+              "games_played": 5,
+              "average_rank_percent": 6.4,
+              "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/31.0"
+            },
+            {
+              "rank": 19,
+              "account_name": "Igure.2063",
+              "composite_score": 1528.197728684374,
+              "glicko_rating": 1528.197728684374,
+              "games_played": 9,
+              "average_rank_percent": 8.88888888888889,
+              "key_stats": "Stab:8.6 Clea:0.2 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "32.0/26.0"
+            },
+            {
+              "rank": 20,
+              "account_name": "Jim.5419",
+              "composite_score": 1527.6882683994913,
+              "glicko_rating": 1527.6882683994913,
+              "games_played": 5,
+              "average_rank_percent": 9.2,
+              "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "45.0/27.0"
+            },
+            {
+              "rank": 21,
+              "account_name": "katoki.7869",
+              "composite_score": 1519.716894183684,
+              "glicko_rating": 1519.716894183684,
+              "games_played": 24,
+              "average_rank_percent": 8.666666666666666,
+              "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "55.2/24.0"
+            },
+            {
+              "rank": 22,
+              "account_name": "mng.1634",
+              "composite_score": 1518.0833312424265,
+              "glicko_rating": 1518.0833312424265,
+              "games_played": 5,
+              "average_rank_percent": 12.4,
+              "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/25.0"
+            },
+            {
+              "rank": 23,
+              "account_name": "Mini.1786",
+              "composite_score": 1507.3434385516628,
+              "glicko_rating": 1507.3434385516628,
+              "games_played": 5,
+              "average_rank_percent": 9.2,
+              "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "71.0/32.0"
+            },
+            {
+              "rank": 24,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1505.2518552251936,
+              "glicko_rating": 1505.2518552251936,
+              "games_played": 13,
+              "average_rank_percent": 7.230769230769231,
+              "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "41.7/25.3"
+            },
+            {
+              "rank": 25,
+              "account_name": "ixJurema.8657",
+              "composite_score": 1499.3936690557853,
+              "glicko_rating": 1499.3936690557853,
+              "games_played": 5,
+              "average_rank_percent": 7.8,
+              "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "45.0/25.0"
+            },
+            {
+              "rank": 26,
+              "account_name": "Mini.8130",
+              "composite_score": 1496.4624235048918,
+              "glicko_rating": 1496.4624235048918,
+              "games_played": 5,
+              "average_rank_percent": 7.4,
+              "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "57.0/34.0"
+            },
+            {
+              "rank": 27,
+              "account_name": "Bleebt.4108",
+              "composite_score": 1492.28067834946,
+              "glicko_rating": 1492.28067834946,
+              "games_played": 10,
+              "average_rank_percent": 10.9,
+              "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "50.5/25.5"
+            },
+            {
+              "rank": 28,
+              "account_name": "pariah.6937",
+              "composite_score": 1488.3002183671197,
+              "glicko_rating": 1488.3002183671197,
+              "games_played": 10,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "36.0/20.5"
+            },
+            {
+              "rank": 29,
+              "account_name": "Bother.9415",
+              "composite_score": 1468.800721936516,
+              "glicko_rating": 1468.800721936516,
+              "games_played": 5,
+              "average_rank_percent": 9.4,
+              "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "49.0/31.0"
+            },
+            {
+              "rank": 30,
+              "account_name": "Malek.9417",
+              "composite_score": 1466.7795379414895,
+              "glicko_rating": 1466.7795379414895,
+              "games_played": 8,
+              "average_rank_percent": 9.625,
+              "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "43.5/23.5"
+            },
+            {
+              "rank": 31,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1465.8245492676517,
+              "glicko_rating": 1465.8245492676517,
+              "games_played": 10,
+              "average_rank_percent": 8.6,
+              "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "33.0/26.5"
+            },
+            {
+              "rank": 32,
+              "account_name": "CaptainKnightfall.4378",
+              "composite_score": 1465.1825081602187,
+              "glicko_rating": 1465.1825081602187,
+              "games_played": 7,
+              "average_rank_percent": 13.0,
+              "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "26.5/13.5"
+            },
+            {
+              "rank": 33,
+              "account_name": "Graven.4325",
+              "composite_score": 1457.2581799696413,
+              "glicko_rating": 1457.2581799696413,
+              "games_played": 5,
+              "average_rank_percent": 7.8,
+              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
+            },
+            {
+              "rank": 34,
+              "account_name": "Eliare.4069",
+              "composite_score": 1455.0928724345904,
+              "glicko_rating": 1455.0928724345904,
+              "games_played": 5,
+              "average_rank_percent": 9.6,
+              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
+            },
+            {
+              "rank": 35,
+              "account_name": "GreatPadinski.2170",
+              "composite_score": 1444.822325853459,
+              "glicko_rating": 1444.822325853459,
+              "games_played": 13,
+              "average_rank_percent": 14.23076923076923,
+              "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "39.3/23.7"
+            },
+            {
+              "rank": 36,
+              "account_name": "Bad Karma.8407",
+              "composite_score": 1428.1039738989934,
+              "glicko_rating": 1428.1039738989934,
+              "games_played": 5,
+              "average_rank_percent": 9.6,
+              "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "61.0/15.0"
+            },
+            {
+              "rank": 37,
+              "account_name": "Sieia.3642",
+              "composite_score": 1396.4437363427814,
+              "glicko_rating": 1396.4437363427814,
+              "games_played": 12,
+              "average_rank_percent": 11.916666666666666,
+              "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "32.7/16.7"
             }
           ]
         },
@@ -89401,7 +89401,7 @@ const leaderboardData = {
               "key_stats": "Stab:8.7 Resi:0.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "42.0/24.5"
+              "apm": "47.0/19.0"
             },
             {
               "rank": 2,
@@ -89413,7 +89413,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.6 Resi:1.1",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "63.5/48.2"
+              "apm": "70.0/50.0"
             },
             {
               "rank": 3,
@@ -89425,7 +89425,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.0 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "58.7/42.5"
+              "apm": "67.5/51.0"
             },
             {
               "rank": 4,
@@ -89449,7 +89449,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.8 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "43.3/32.5"
+              "apm": "49.0/35.0"
             },
             {
               "rank": 6,
@@ -89485,7 +89485,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.0 Resi:1.0",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "35.9/27.3"
+              "apm": "43.0/29.0"
             },
             {
               "rank": 9,
@@ -89509,7 +89509,7 @@ const leaderboardData = {
               "key_stats": "Stab:8.3 Resi:0.6",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "41.0/30.5"
+              "apm": "35.0/29.0"
             },
             {
               "rank": 11,
@@ -89533,7 +89533,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.4 Resi:0.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "67.0/41.5"
+              "apm": "64.2/38.0"
             },
             {
               "rank": 13,
@@ -89557,7 +89557,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.3 Resi:0.6",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "63.8/40.2"
+              "apm": "64.0/48.0"
             },
             {
               "rank": 15,
@@ -89585,228 +89585,6 @@ const leaderboardData = {
             }
           ]
         },
-        "Chronomancer": {
-          "metrics": [
-            "Stability",
-            "Cleanses",
-            "Resistance",
-            "Healing",
-            "Barrier"
-          ],
-          "weights": [
-            0.35,
-            0.35,
-            0.15,
-            0.1,
-            0.05
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "Bailyen Arturius.4263",
-              "composite_score": 1674.719168254083,
-              "glicko_rating": 1674.719168254083,
-              "games_played": 25,
-              "average_rank_percent": 4.08,
-              "key_stats": "Stab:8.7 Clea:1.2 Resi:0.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "57.4/28.5"
-            },
-            {
-              "rank": 2,
-              "account_name": "Disenable.1640",
-              "composite_score": 1599.7251658874065,
-              "glicko_rating": 1599.7251658874065,
-              "games_played": 20,
-              "average_rank_percent": 3.9,
-              "key_stats": "Stab:5.5 Clea:0.8 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "51.0/26.6"
-            },
-            {
-              "rank": 3,
-              "account_name": "Muted.8591",
-              "composite_score": 1581.3884269971074,
-              "glicko_rating": 1581.3884269971074,
-              "games_played": 24,
-              "average_rank_percent": 6.166666666666667,
-              "key_stats": "Stab:6.5 Clea:1.0 Resi:0.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "46.8/31.7"
-            },
-            {
-              "rank": 4,
-              "account_name": "bernadettesurprise.3297",
-              "composite_score": 1568.1481545717616,
-              "glicko_rating": 1568.1481545717616,
-              "games_played": 5,
-              "average_rank_percent": 6.6,
-              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/32.0"
-            },
-            {
-              "rank": 5,
-              "account_name": "Ronin.4501",
-              "composite_score": 1539.2485271927396,
-              "glicko_rating": 1539.2485271927396,
-              "games_played": 5,
-              "average_rank_percent": 4.8,
-              "key_stats": "Stab:8.4 Clea:1.7 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "43.5/37.0"
-            },
-            {
-              "rank": 6,
-              "account_name": "Uriah.7082",
-              "composite_score": 1534.9061293112254,
-              "glicko_rating": 1534.9061293112254,
-              "games_played": 5,
-              "average_rank_percent": 7.6,
-              "key_stats": "Stab:7.0 Clea:1.2 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "61.0/34.2"
-            },
-            {
-              "rank": 7,
-              "account_name": "synco.8132",
-              "composite_score": 1531.9818926548398,
-              "glicko_rating": 1531.9818926548398,
-              "games_played": 7,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:6.2 Clea:1.0 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "46.0/25.4"
-            },
-            {
-              "rank": 8,
-              "account_name": "Souza.1562",
-              "composite_score": 1530.2343459663555,
-              "glicko_rating": 1530.2343459663555,
-              "games_played": 5,
-              "average_rank_percent": 6.4,
-              "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/31.0"
-            },
-            {
-              "rank": 9,
-              "account_name": "Havocus.3682",
-              "composite_score": 1529.4854654114595,
-              "glicko_rating": 1529.4854654114595,
-              "games_played": 5,
-              "average_rank_percent": 5.2,
-              "key_stats": "Stab:5.9 Clea:0.7 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "52.0/24.4"
-            },
-            {
-              "rank": 10,
-              "account_name": "Nictheman.9754",
-              "composite_score": 1526.3927541385217,
-              "glicko_rating": 1526.3927541385217,
-              "games_played": 30,
-              "average_rank_percent": 6.1,
-              "key_stats": "Stab:5.7 Clea:0.8 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "44.7/35.6"
-            },
-            {
-              "rank": 11,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1513.353390854048,
-              "glicko_rating": 1513.353390854048,
-              "games_played": 8,
-              "average_rank_percent": 6.625,
-              "key_stats": "Stab:7.5 Clea:0.6 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "59.3/38.7"
-            },
-            {
-              "rank": 12,
-              "account_name": "ixJurema.8657",
-              "composite_score": 1499.3936690557853,
-              "glicko_rating": 1499.3936690557853,
-              "games_played": 5,
-              "average_rank_percent": 7.8,
-              "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "45.0/25.0"
-            },
-            {
-              "rank": 13,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1481.6001302555298,
-              "glicko_rating": 1481.6001302555298,
-              "games_played": 8,
-              "average_rank_percent": 7.0,
-              "key_stats": "Stab:5.5 Clea:0.4 Resi:0.9",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "41.7/25.3"
-            },
-            {
-              "rank": 14,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1474.6374282144836,
-              "glicko_rating": 1474.6374282144836,
-              "games_played": 5,
-              "average_rank_percent": 5.4,
-              "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "33.0/26.5"
-            },
-            {
-              "rank": 15,
-              "account_name": "pariah.6937",
-              "composite_score": 1463.521592343011,
-              "glicko_rating": 1463.521592343011,
-              "games_played": 5,
-              "average_rank_percent": 9.2,
-              "key_stats": "Stab:4.2 Clea:0.4 Resi:0.3",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "36.0/20.5"
-            },
-            {
-              "rank": 16,
-              "account_name": "Graven.4325",
-              "composite_score": 1457.2581799696413,
-              "glicko_rating": 1457.2581799696413,
-              "games_played": 5,
-              "average_rank_percent": 7.8,
-              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "49.0/19.0"
-            },
-            {
-              "rank": 17,
-              "account_name": "Eliare.4069",
-              "composite_score": 1455.0928724345904,
-              "glicko_rating": 1455.0928724345904,
-              "games_played": 5,
-              "average_rank_percent": 9.6,
-              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "35.0/17.0"
-            }
-          ]
-        },
         "Scourge": {
           "metrics": [
             "Strips",
@@ -89827,7 +89605,7 @@ const leaderboardData = {
               "key_stats": "Stri:1.1 DPS:1727.0",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "54.8/36.5"
+              "apm": "56.0/38.0"
             },
             {
               "rank": 2,
@@ -89851,7 +89629,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.8 DPS:1754.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "43.6/24.8"
+              "apm": "44.5/28.5"
             },
             {
               "rank": 4,
@@ -89875,7 +89653,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.6 DPS:1229.0",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "44.7/26.3"
+              "apm": "41.0/25.0"
             },
             {
               "rank": 6,
@@ -89887,7 +89665,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.6 DPS:1587.3",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "56.0/28.0"
+              "apm": "54.3/27.7"
             },
             {
               "rank": 7,
@@ -89947,7 +89725,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.6 DPS:1606.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "50.0/31.0"
+              "apm": "50.0/31.5"
             },
             {
               "rank": 12,
@@ -89983,7 +89761,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.5 DPS:922.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "44.8/18.8"
+              "apm": "43.0/20.0"
             },
             {
               "rank": 15,
@@ -89995,7 +89773,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.5 DPS:1397.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "64.0/41.0"
+              "apm": "71.3/48.3"
             },
             {
               "rank": 16,
@@ -90055,7 +89833,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.4 DPS:1143.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "54.9/32.6"
+              "apm": "55.8/32.8"
             },
             {
               "rank": 21,
@@ -90067,7 +89845,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.8 DPS:1485.0",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "46.0/30.0"
+              "apm": "41.0/29.0"
             },
             {
               "rank": 22,
@@ -90079,7 +89857,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.4 DPS:1224.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "47.6/21.0"
+              "apm": "47.8/21.2"
             },
             {
               "rank": 23,
@@ -90091,7 +89869,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.4 DPS:673.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "41.6/21.0"
+              "apm": "47.5/26.5"
             },
             {
               "rank": 24,
@@ -90103,7 +89881,7 @@ const leaderboardData = {
               "key_stats": "Stri:0.3 DPS:811.2",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "49.8/20.2"
+              "apm": "49.8/21.0"
             },
             {
               "rank": 25,
@@ -90179,6 +89957,228 @@ const leaderboardData = {
             }
           ]
         },
+        "Chronomancer": {
+          "metrics": [
+            "Stability",
+            "Cleanses",
+            "Resistance",
+            "Healing",
+            "Barrier"
+          ],
+          "weights": [
+            0.35,
+            0.35,
+            0.15,
+            0.1,
+            0.05
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "Bailyen Arturius.4263",
+              "composite_score": 1674.719168254083,
+              "glicko_rating": 1674.719168254083,
+              "games_played": 25,
+              "average_rank_percent": 4.08,
+              "key_stats": "Stab:8.7 Clea:1.2 Resi:0.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "59.0/30.4"
+            },
+            {
+              "rank": 2,
+              "account_name": "Disenable.1640",
+              "composite_score": 1599.7251658874065,
+              "glicko_rating": 1599.7251658874065,
+              "games_played": 20,
+              "average_rank_percent": 3.9,
+              "key_stats": "Stab:5.5 Clea:0.8 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "54.8/26.5"
+            },
+            {
+              "rank": 3,
+              "account_name": "Muted.8591",
+              "composite_score": 1581.3884269971074,
+              "glicko_rating": 1581.3884269971074,
+              "games_played": 24,
+              "average_rank_percent": 6.166666666666667,
+              "key_stats": "Stab:6.5 Clea:1.0 Resi:0.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "48.6/32.0"
+            },
+            {
+              "rank": 4,
+              "account_name": "bernadettesurprise.3297",
+              "composite_score": 1568.1481545717616,
+              "glicko_rating": 1568.1481545717616,
+              "games_played": 5,
+              "average_rank_percent": 6.6,
+              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
+            },
+            {
+              "rank": 5,
+              "account_name": "Ronin.4501",
+              "composite_score": 1539.2485271927396,
+              "glicko_rating": 1539.2485271927396,
+              "games_played": 5,
+              "average_rank_percent": 4.8,
+              "key_stats": "Stab:8.4 Clea:1.7 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "50.0/40.0"
+            },
+            {
+              "rank": 6,
+              "account_name": "Uriah.7082",
+              "composite_score": 1534.9061293112254,
+              "glicko_rating": 1534.9061293112254,
+              "games_played": 5,
+              "average_rank_percent": 7.6,
+              "key_stats": "Stab:7.0 Clea:1.2 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "56.0/39.0"
+            },
+            {
+              "rank": 7,
+              "account_name": "synco.8132",
+              "composite_score": 1531.9818926548398,
+              "glicko_rating": 1531.9818926548398,
+              "games_played": 7,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:6.2 Clea:1.0 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "46.5/25.5"
+            },
+            {
+              "rank": 8,
+              "account_name": "Souza.1562",
+              "composite_score": 1530.2343459663555,
+              "glicko_rating": 1530.2343459663555,
+              "games_played": 5,
+              "average_rank_percent": 6.4,
+              "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/31.0"
+            },
+            {
+              "rank": 9,
+              "account_name": "Havocus.3682",
+              "composite_score": 1529.4854654114595,
+              "glicko_rating": 1529.4854654114595,
+              "games_played": 5,
+              "average_rank_percent": 5.2,
+              "key_stats": "Stab:5.9 Clea:0.7 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "52.0/24.0"
+            },
+            {
+              "rank": 10,
+              "account_name": "Nictheman.9754",
+              "composite_score": 1526.3927541385217,
+              "glicko_rating": 1526.3927541385217,
+              "games_played": 30,
+              "average_rank_percent": 6.1,
+              "key_stats": "Stab:5.7 Clea:0.8 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "45.0/35.7"
+            },
+            {
+              "rank": 11,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1513.353390854048,
+              "glicko_rating": 1513.353390854048,
+              "games_played": 8,
+              "average_rank_percent": 6.625,
+              "key_stats": "Stab:7.5 Clea:0.6 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "56.0/36.0"
+            },
+            {
+              "rank": 12,
+              "account_name": "ixJurema.8657",
+              "composite_score": 1499.3936690557853,
+              "glicko_rating": 1499.3936690557853,
+              "games_played": 5,
+              "average_rank_percent": 7.8,
+              "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "45.0/25.0"
+            },
+            {
+              "rank": 13,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1481.6001302555298,
+              "glicko_rating": 1481.6001302555298,
+              "games_played": 8,
+              "average_rank_percent": 7.0,
+              "key_stats": "Stab:5.5 Clea:0.4 Resi:0.9",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "44.5/23.5"
+            },
+            {
+              "rank": 14,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1474.6374282144836,
+              "glicko_rating": 1474.6374282144836,
+              "games_played": 5,
+              "average_rank_percent": 5.4,
+              "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "36.0/28.0"
+            },
+            {
+              "rank": 15,
+              "account_name": "pariah.6937",
+              "composite_score": 1463.521592343011,
+              "glicko_rating": 1463.521592343011,
+              "games_played": 5,
+              "average_rank_percent": 9.2,
+              "key_stats": "Stab:4.2 Clea:0.4 Resi:0.3",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "37.0/21.0"
+            },
+            {
+              "rank": 16,
+              "account_name": "Graven.4325",
+              "composite_score": 1457.2581799696413,
+              "glicko_rating": 1457.2581799696413,
+              "games_played": 5,
+              "average_rank_percent": 7.8,
+              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
+            },
+            {
+              "rank": 17,
+              "account_name": "Eliare.4069",
+              "composite_score": 1455.0928724345904,
+              "glicko_rating": 1455.0928724345904,
+              "games_played": 5,
+              "average_rank_percent": 9.6,
+              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
+            }
+          ]
+        },
         "Druid": {
           "metrics": [
             "Healing",
@@ -90199,7 +90199,7 @@ const leaderboardData = {
               "key_stats": "Heal:2096.6 Clea:1.3",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "85.1/61.6"
+              "apm": "87.8/63.3"
             },
             {
               "rank": 2,
@@ -90211,7 +90211,7 @@ const leaderboardData = {
               "key_stats": "Heal:1756.3 Clea:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "64.5/51.6"
+              "apm": "67.6/53.4"
             },
             {
               "rank": 3,
@@ -90223,7 +90223,7 @@ const leaderboardData = {
               "key_stats": "Heal:1551.9 Clea:1.0",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "71.0/51.2"
+              "apm": "65.0/46.5"
             },
             {
               "rank": 4,
@@ -90235,7 +90235,7 @@ const leaderboardData = {
               "key_stats": "Heal:1525.4 Clea:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "54.0/42.8"
+              "apm": "55.0/43.0"
             },
             {
               "rank": 5,
@@ -90247,7 +90247,7 @@ const leaderboardData = {
               "key_stats": "Heal:1868.6 Clea:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "78.0/50.5"
+              "apm": "76.0/49.0"
             },
             {
               "rank": 6,
@@ -90283,7 +90283,7 @@ const leaderboardData = {
               "key_stats": "Heal:2183.6 Clea:1.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "73.0/51.5"
+              "apm": "89.0/70.0"
             },
             {
               "rank": 9,
@@ -90307,7 +90307,7 @@ const leaderboardData = {
               "key_stats": "Heal:2051.5 Clea:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "80.0/52.7"
+              "apm": "71.0/42.5"
             },
             {
               "rank": 11,
@@ -90331,7 +90331,7 @@ const leaderboardData = {
               "key_stats": "Heal:1591.8 Clea:1.4",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "60.0/42.5"
+              "apm": "72.0/53.0"
             },
             {
               "rank": 13,
@@ -90379,7 +90379,7 @@ const leaderboardData = {
               "key_stats": "Heal:1885.5 Clea:1.3",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "49.6/43.8"
+              "apm": "59.5/56.0"
             },
             {
               "rank": 17,
@@ -90391,7 +90391,7 @@ const leaderboardData = {
               "key_stats": "Heal:1744.1 Clea:1.2",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "50.8/41.0"
+              "apm": "48.3/38.3"
             },
             {
               "rank": 18,
@@ -90451,7 +90451,7 @@ const leaderboardData = {
               "key_stats": "Heal:2548.1 Clea:1.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "57.6/50.2"
+              "apm": "62.0/58.0"
             },
             {
               "rank": 23,
@@ -90475,7 +90475,7 @@ const leaderboardData = {
               "key_stats": "Heal:1107.4 Clea:0.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "61.7/42.7"
+              "apm": "60.5/42.5"
             },
             {
               "rank": 25,
@@ -90487,7 +90487,7 @@ const leaderboardData = {
               "key_stats": "Heal:1009.6 Clea:0.7",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "43.5/30.5"
+              "apm": "42.0/27.0"
             },
             {
               "rank": 26,
@@ -90511,7 +90511,7 @@ const leaderboardData = {
               "key_stats": "Heal:774.5 Clea:0.9",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "31.8/21.5"
+              "apm": "37.0/26.0"
             },
             {
               "rank": 28,
@@ -90535,7 +90535,7 @@ const leaderboardData = {
               "key_stats": "Heal:762.3 Clea:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "45.3/31.3"
+              "apm": "55.0/36.0"
             }
           ]
         },
@@ -90563,7 +90563,7 @@ const leaderboardData = {
               "key_stats": "Migh:32.8 Resi:1.4 Stab:4.2",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "64.0/30.7"
+              "apm": "63.5/33.0"
             },
             {
               "rank": 2,
@@ -90599,7 +90599,7 @@ const leaderboardData = {
               "key_stats": "Migh:26.6 Resi:0.9 Stab:2.0",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "51.6/31.4"
+              "apm": "42.0/25.0"
             },
             {
               "rank": 5,
@@ -90623,7 +90623,7 @@ const leaderboardData = {
               "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "63.0/22.7"
+              "apm": "63.0/23.5"
             },
             {
               "rank": 7,
@@ -90673,7 +90673,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.8 Clea:0.6 DPS:1038.0",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "68.2/45.5"
+              "apm": "69.0/48.5"
             },
             {
               "rank": 2,
@@ -90697,7 +90697,7 @@ const leaderboardData = {
               "key_stats": "Stab:4.7 Clea:0.8 DPS:1210.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "67.3/59.0"
+              "apm": "60.0/51.0"
             },
             {
               "rank": 4,
@@ -90709,7 +90709,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.6 Clea:0.4 DPS:704.0",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "40.3/36.0"
+              "apm": "44.0/39.0"
             },
             {
               "rank": 5,
@@ -90721,7 +90721,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.7 Clea:0.3 DPS:547.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "47.0/33.8"
+              "apm": "46.0/35.7"
             },
             {
               "rank": 6,
@@ -90781,7 +90781,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.3 Clea:0.4 DPS:998.0",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "69.7/49.3"
+              "apm": "68.0/43.0"
             },
             {
               "rank": 11,
@@ -90793,7 +90793,7 @@ const leaderboardData = {
               "key_stats": "Stab:4.8 Clea:0.4 DPS:963.6",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "69.7/39.9"
+              "apm": "73.0/42.4"
             }
           ]
         }
@@ -135180,7 +135180,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.8 Resi:1.2",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "63.5/48.2"
+              "apm": "71.0/53.7"
             },
             {
               "rank": 2,
@@ -135192,7 +135192,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.2 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "58.7/42.5"
+              "apm": "56.4/39.2"
             },
             {
               "rank": 3,
@@ -135204,7 +135204,7 @@ const leaderboardData = {
               "key_stats": "Stab:8.7 Resi:0.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "42.0/24.5"
+              "apm": "47.0/19.0"
             },
             {
               "rank": 4,
@@ -135228,7 +135228,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.0 Resi:0.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "63.8/40.2"
+              "apm": "59.2/36.6"
             },
             {
               "rank": 6,
@@ -135240,7 +135240,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.2 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "43.3/32.5"
+              "apm": "39.0/31.0"
             },
             {
               "rank": 7,
@@ -135252,7 +135252,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.4 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "73.0/53.2"
+              "apm": "63.0/44.0"
             },
             {
               "rank": 8,
@@ -135264,7 +135264,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.0 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "35.9/27.3"
+              "apm": "38.1/27.7"
             },
             {
               "rank": 9,
@@ -135312,7 +135312,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.2 Resi:0.4",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "28.3/24.3"
+              "apm": "26.0/21.0"
             },
             {
               "rank": 13,
@@ -135324,7 +135324,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.1 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "54.5/42.5"
+              "apm": "51.0/41.0"
             },
             {
               "rank": 14,
@@ -135384,7 +135384,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.8 Resi:0.6",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "67.0/41.5"
+              "apm": "54.2/28.5"
             },
             {
               "rank": 19,
@@ -135474,7 +135474,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.9 Clea:1.2 Resi:0.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "57.4/28.5"
+              "apm": "57.4/28.9"
             },
             {
               "rank": 2,
@@ -135486,7 +135486,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.5 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "51.0/26.6"
+              "apm": "54.8/26.5"
             },
             {
               "rank": 3,
@@ -135498,7 +135498,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.6 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "46.8/31.7"
+              "apm": "44.5/29.1"
             },
             {
               "rank": 4,
@@ -135522,7 +135522,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.5 Clea:0.6 Resi:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "61.0/34.2"
+              "apm": "60.5/33.8"
             },
             {
               "rank": 6,
@@ -135546,7 +135546,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.1 Clea:0.4 Resi:0.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "52.0/24.4"
+              "apm": "54.0/25.2"
             },
             {
               "rank": 8,
@@ -135558,7 +135558,7 @@ const leaderboardData = {
               "key_stats": "Stab:8.4 Clea:1.7 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "43.5/37.0"
+              "apm": "50.0/40.0"
             },
             {
               "rank": 9,
@@ -135594,7 +135594,7 @@ const leaderboardData = {
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "44.7/35.6"
+              "apm": "44.2/34.1"
             },
             {
               "rank": 12,
@@ -135618,7 +135618,7 @@ const leaderboardData = {
               "key_stats": "Stab:4.7 Clea:0.8 Resi:0.4",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "46.0/25.4"
+              "apm": "44.5/23.8"
             },
             {
               "rank": 14,
@@ -135678,7 +135678,7 @@ const leaderboardData = {
               "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "33.0/26.5"
+              "apm": "36.0/28.0"
             },
             {
               "rank": 19,
@@ -135742,534 +135742,6 @@ const leaderboardData = {
             }
           ]
         },
-        "Scourge": {
-          "metrics": [
-            "Strips",
-            "DPS"
-          ],
-          "weights": [
-            0.7,
-            0.3
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "Soothsayer.9206",
-              "composite_score": 1679.5666377733764,
-              "glicko_rating": 1679.5666377733764,
-              "games_played": 4,
-              "average_rank_percent": 5.75,
-              "key_stats": "Stri:1.1 DPS:1727.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "54.8/36.5"
-            },
-            {
-              "rank": 2,
-              "account_name": "Pieswithattitude.2357",
-              "composite_score": 1638.9514365065465,
-              "glicko_rating": 1638.9514365065465,
-              "games_played": 2,
-              "average_rank_percent": 6.5,
-              "key_stats": "Stri:1.0 DPS:1775.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "59.0/41.0"
-            },
-            {
-              "rank": 3,
-              "account_name": "SilverBlade Hero.8974",
-              "composite_score": 1638.7447750045467,
-              "glicko_rating": 1638.7447750045467,
-              "games_played": 4,
-              "average_rank_percent": 7.75,
-              "key_stats": "Stri:0.9 DPS:1598.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "53.0/32.5"
-            },
-            {
-              "rank": 4,
-              "account_name": "Stash.8401",
-              "composite_score": 1622.4442137813871,
-              "glicko_rating": 1622.4442137813871,
-              "games_played": 4,
-              "average_rank_percent": 15.0,
-              "key_stats": "Stri:0.5 DPS:328.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "30.0/17.0"
-            },
-            {
-              "rank": 5,
-              "account_name": "Cruelty.9730",
-              "composite_score": 1608.3919664002767,
-              "glicko_rating": 1608.3919664002767,
-              "games_played": 2,
-              "average_rank_percent": 9.0,
-              "key_stats": "Stri:1.0 DPS:1249.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "37.0/23.0"
-            },
-            {
-              "rank": 6,
-              "account_name": "Mes.1906",
-              "composite_score": 1598.8987506378817,
-              "glicko_rating": 1598.8987506378817,
-              "games_played": 6,
-              "average_rank_percent": 10.333333333333334,
-              "key_stats": "Stri:0.7 DPS:1270.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "44.7/26.3"
-            },
-            {
-              "rank": 7,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1595.1756845338302,
-              "glicko_rating": 1595.1756845338302,
-              "games_played": 6,
-              "average_rank_percent": 6.0,
-              "key_stats": "Stri:0.6 DPS:1455.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "43.6/24.8"
-            },
-            {
-              "rank": 8,
-              "account_name": "Fungo Maligno.4081",
-              "composite_score": 1589.5092683602356,
-              "glicko_rating": 1589.5092683602356,
-              "games_played": 2,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stri:0.9 DPS:873.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "51.0/27.0"
-            },
-            {
-              "rank": 9,
-              "account_name": "DanDizh.8416",
-              "composite_score": 1588.8636485976474,
-              "glicko_rating": 1588.8636485976474,
-              "games_played": 2,
-              "average_rank_percent": 9.0,
-              "key_stats": "Stri:0.6 DPS:1155.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "51.0/25.0"
-            },
-            {
-              "rank": 10,
-              "account_name": "Syde.1863",
-              "composite_score": 1584.390515322629,
-              "glicko_rating": 1584.390515322629,
-              "games_played": 8,
-              "average_rank_percent": 10.875,
-              "key_stats": "Stri:0.7 DPS:668.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "27.2/23.8"
-            },
-            {
-              "rank": 11,
-              "account_name": "bernadettesurprise.3297",
-              "composite_score": 1575.2805032654355,
-              "glicko_rating": 1575.2805032654355,
-              "games_played": 2,
-              "average_rank_percent": 13.0,
-              "key_stats": "Stri:0.9 DPS:775.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/32.0"
-            },
-            {
-              "rank": 12,
-              "account_name": "Interpretor.3091",
-              "composite_score": 1572.8329489021949,
-              "glicko_rating": 1572.8329489021949,
-              "games_played": 2,
-              "average_rank_percent": 6.0,
-              "key_stats": "Stri:0.4 DPS:1228.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "40.0/23.0"
-            },
-            {
-              "rank": 13,
-              "account_name": "Bother.9415",
-              "composite_score": 1561.7107876698217,
-              "glicko_rating": 1561.7107876698217,
-              "games_played": 6,
-              "average_rank_percent": 8.833333333333334,
-              "key_stats": "Stri:0.6 DPS:1554.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "50.0/31.0"
-            },
-            {
-              "rank": 14,
-              "account_name": "Muted.8591",
-              "composite_score": 1561.1146567901794,
-              "glicko_rating": 1561.1146567901794,
-              "games_played": 2,
-              "average_rank_percent": 12.5,
-              "key_stats": "Stri:0.6 DPS:729.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "50.0/43.0"
-            },
-            {
-              "rank": 15,
-              "account_name": "Luke.9108",
-              "composite_score": 1556.1285666833924,
-              "glicko_rating": 1556.1285666833924,
-              "games_played": 20,
-              "average_rank_percent": 9.8,
-              "key_stats": "Stri:0.4 DPS:1030.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "54.9/32.6"
-            },
-            {
-              "rank": 16,
-              "account_name": "Babadook.5842",
-              "composite_score": 1550.3075390627869,
-              "glicko_rating": 1550.3075390627869,
-              "games_played": 2,
-              "average_rank_percent": 16.0,
-              "key_stats": "Stri:0.8 DPS:384.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/27.0"
-            },
-            {
-              "rank": 17,
-              "account_name": "Freelanced.6084",
-              "composite_score": 1541.48383590194,
-              "glicko_rating": 1541.48383590194,
-              "games_played": 11,
-              "average_rank_percent": 9.636363636363637,
-              "key_stats": "Stri:0.5 DPS:1246.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "56.0/28.0"
-            },
-            {
-              "rank": 18,
-              "account_name": "Argo.2675",
-              "composite_score": 1535.1735130554628,
-              "glicko_rating": 1535.1735130554628,
-              "games_played": 2,
-              "average_rank_percent": 15.5,
-              "key_stats": "Stri:0.4 DPS:232.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "32.0/20.0"
-            },
-            {
-              "rank": 19,
-              "account_name": "Chakkkka.2504",
-              "composite_score": 1532.2137852655635,
-              "glicko_rating": 1532.2137852655635,
-              "games_played": 2,
-              "average_rank_percent": 17.0,
-              "key_stats": "Stri:0.3 DPS:286.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "31.0/19.0"
-            },
-            {
-              "rank": 20,
-              "account_name": "synco.8132",
-              "composite_score": 1528.7716068072432,
-              "glicko_rating": 1528.7716068072432,
-              "games_played": 6,
-              "average_rank_percent": 12.333333333333334,
-              "key_stats": "Stri:0.6 DPS:1138.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "41.3/22.3"
-            },
-            {
-              "rank": 21,
-              "account_name": "Crator of Fire.1796",
-              "composite_score": 1525.640122670949,
-              "glicko_rating": 1525.640122670949,
-              "games_played": 9,
-              "average_rank_percent": 16.77777777777778,
-              "key_stats": "Stri:0.4 DPS:517.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "41.6/21.0"
-            },
-            {
-              "rank": 22,
-              "account_name": "Mellis.8451",
-              "composite_score": 1524.5976799001926,
-              "glicko_rating": 1524.5976799001926,
-              "games_played": 10,
-              "average_rank_percent": 9.4,
-              "key_stats": "Stri:0.4 DPS:1051.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "47.6/21.0"
-            },
-            {
-              "rank": 23,
-              "account_name": "Basic.9204",
-              "composite_score": 1524.4614329118383,
-              "glicko_rating": 1524.4614329118383,
-              "games_played": 4,
-              "average_rank_percent": 14.0,
-              "key_stats": "Stri:0.5 DPS:666.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "38.0/19.5"
-            },
-            {
-              "rank": 24,
-              "account_name": "Mandar.9813",
-              "composite_score": 1523.366594456321,
-              "glicko_rating": 1523.366594456321,
-              "games_played": 2,
-              "average_rank_percent": 15.0,
-              "key_stats": "Stri:0.7 DPS:830.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "30.0/25.0"
-            },
-            {
-              "rank": 25,
-              "account_name": "Niyack.4953",
-              "composite_score": 1521.7884495365422,
-              "glicko_rating": 1521.7884495365422,
-              "games_played": 2,
-              "average_rank_percent": 15.0,
-              "key_stats": "Stri:0.7 DPS:944.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "32.0/22.0"
-            },
-            {
-              "rank": 26,
-              "account_name": "liloxw.4809",
-              "composite_score": 1515.4394534231017,
-              "glicko_rating": 1515.4394534231017,
-              "games_played": 6,
-              "average_rank_percent": 17.0,
-              "key_stats": "Stri:0.4 DPS:425.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "29.3/15.0"
-            },
-            {
-              "rank": 27,
-              "account_name": "limao.5968",
-              "composite_score": 1511.3011791390704,
-              "glicko_rating": 1511.3011791390704,
-              "games_played": 4,
-              "average_rank_percent": 11.75,
-              "key_stats": "Stri:0.8 DPS:1055.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/30.0"
-            },
-            {
-              "rank": 28,
-              "account_name": "Uriah.7082",
-              "composite_score": 1506.7512141443647,
-              "glicko_rating": 1506.7512141443647,
-              "games_played": 8,
-              "average_rank_percent": 7.75,
-              "key_stats": "Stri:0.4 DPS:1214.2",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "64.0/41.0"
-            },
-            {
-              "rank": 29,
-              "account_name": "Havocus.3682",
-              "composite_score": 1505.95873420095,
-              "glicko_rating": 1505.95873420095,
-              "games_played": 14,
-              "average_rank_percent": 11.142857142857142,
-              "key_stats": "Stri:0.4 DPS:838.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "44.8/18.8"
-            },
-            {
-              "rank": 30,
-              "account_name": "Nero.6195",
-              "composite_score": 1503.575975460397,
-              "glicko_rating": 1503.575975460397,
-              "games_played": 15,
-              "average_rank_percent": 12.0,
-              "key_stats": "Stri:0.3 DPS:785.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "49.8/20.2"
-            },
-            {
-              "rank": 31,
-              "account_name": "montjusk.9671",
-              "composite_score": 1487.2270578036955,
-              "glicko_rating": 1487.2270578036955,
-              "games_played": 3,
-              "average_rank_percent": 22.0,
-              "key_stats": "Stri:0.2 DPS:351.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "38.5/28.0"
-            },
-            {
-              "rank": 32,
-              "account_name": "blambidy.3216",
-              "composite_score": 1484.9971422846181,
-              "glicko_rating": 1484.9971422846181,
-              "games_played": 2,
-              "average_rank_percent": 15.5,
-              "key_stats": "Stri:0.4 DPS:700.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "49.0/22.0"
-            },
-            {
-              "rank": 33,
-              "account_name": "Disenable.1640",
-              "composite_score": 1479.8736424271035,
-              "glicko_rating": 1479.8736424271035,
-              "games_played": 2,
-              "average_rank_percent": 19.5,
-              "key_stats": "Stri:0.7 DPS:543.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "58.0/31.0"
-            },
-            {
-              "rank": 34,
-              "account_name": "arrsc.9046",
-              "composite_score": 1469.2117128669975,
-              "glicko_rating": 1469.2117128669975,
-              "games_played": 2,
-              "average_rank_percent": 7.5,
-              "key_stats": "Stri:0.7 DPS:1430.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "35.0/27.0"
-            },
-            {
-              "rank": 35,
-              "account_name": "Flames.9485",
-              "composite_score": 1466.7834211149793,
-              "glicko_rating": 1466.7834211149793,
-              "games_played": 2,
-              "average_rank_percent": 9.5,
-              "key_stats": "Stri:0.7 DPS:782.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "53.0/29.0"
-            },
-            {
-              "rank": 36,
-              "account_name": "Sabbaah.2314",
-              "composite_score": 1456.6021448677902,
-              "glicko_rating": 1456.6021448677902,
-              "games_played": 2,
-              "average_rank_percent": 18.5,
-              "key_stats": "Stri:0.6 DPS:1154.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "58.0/38.0"
-            },
-            {
-              "rank": 37,
-              "account_name": "Jeff.7219",
-              "composite_score": 1434.2614954097053,
-              "glicko_rating": 1434.2614954097053,
-              "games_played": 4,
-              "average_rank_percent": 19.0,
-              "key_stats": "Stri:0.1 DPS:375.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "44.5/24.5"
-            },
-            {
-              "rank": 38,
-              "account_name": "modus.7921",
-              "composite_score": 1426.5852287106943,
-              "glicko_rating": 1426.5852287106943,
-              "games_played": 2,
-              "average_rank_percent": 20.5,
-              "key_stats": "Stri:0.3 DPS:167.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "42.0/20.0"
-            },
-            {
-              "rank": 39,
-              "account_name": "Massacremam.4358",
-              "composite_score": 1425.3836370983458,
-              "glicko_rating": 1425.3836370983458,
-              "games_played": 2,
-              "average_rank_percent": 22.5,
-              "key_stats": "Stri:0.3 DPS:312.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "30.0/20.0"
-            },
-            {
-              "rank": 40,
-              "account_name": "Bertozaur.4578",
-              "composite_score": 1407.2268082389091,
-              "glicko_rating": 1407.2268082389091,
-              "games_played": 5,
-              "average_rank_percent": 14.2,
-              "key_stats": "Stri:0.3 DPS:653.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "45.7/22.0"
-            },
-            {
-              "rank": 41,
-              "account_name": "filipe.2809",
-              "composite_score": 1400.4770904556299,
-              "glicko_rating": 1400.4770904556299,
-              "games_played": 4,
-              "average_rank_percent": 20.5,
-              "key_stats": "Stri:0.1 DPS:314.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "29.0/15.5"
-            },
-            {
-              "rank": 42,
-              "account_name": "aureliocf.7324",
-              "composite_score": 1399.2410685108503,
-              "glicko_rating": 1399.2410685108503,
-              "games_played": 2,
-              "average_rank_percent": 11.0,
-              "key_stats": "Stri:0.6 DPS:688.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "52.0/30.0"
-            },
-            {
-              "rank": 43,
-              "account_name": "ItalianMagik.2698",
-              "composite_score": 1383.9641274250016,
-              "glicko_rating": 1383.9641274250016,
-              "games_played": 2,
-              "average_rank_percent": 20.5,
-              "key_stats": "Stri:0.2 DPS:239.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "38.0/21.0"
-            }
-          ]
-        },
         "Druid": {
           "metrics": [
             "Healing",
@@ -136290,7 +135762,7 @@ const leaderboardData = {
               "key_stats": "Heal:1947.8 Clea:1.2",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "85.1/61.6"
+              "apm": "83.2/60.4"
             },
             {
               "rank": 2,
@@ -136302,7 +135774,7 @@ const leaderboardData = {
               "key_stats": "Heal:1843.7 Clea:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "64.5/51.6"
+              "apm": "69.5/55.6"
             },
             {
               "rank": 3,
@@ -136314,7 +135786,7 @@ const leaderboardData = {
               "key_stats": "Heal:1662.9 Clea:1.0",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "54.0/42.8"
+              "apm": "43.0/35.0"
             },
             {
               "rank": 4,
@@ -136338,7 +135810,7 @@ const leaderboardData = {
               "key_stats": "Heal:1551.9 Clea:1.0",
               "is_guild_member": false,
               "rating_delta": 0.0,
-              "apm": "71.0/51.2"
+              "apm": "65.0/46.5"
             },
             {
               "rank": 6,
@@ -136458,7 +135930,7 @@ const leaderboardData = {
               "key_stats": "Heal:1750.0 Clea:1.2",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "57.6/50.2"
+              "apm": "57.0/50.5"
             },
             {
               "rank": 16,
@@ -136482,7 +135954,7 @@ const leaderboardData = {
               "key_stats": "Heal:2051.5 Clea:0.9",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "80.0/52.7"
+              "apm": "71.0/42.5"
             },
             {
               "rank": 18,
@@ -136710,7 +136182,535 @@ const leaderboardData = {
               "key_stats": "Heal:738.3 Clea:0.8",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "45.3/31.3"
+              "apm": "55.2/36.7"
+            }
+          ]
+        },
+        "Scourge": {
+          "metrics": [
+            "Strips",
+            "DPS"
+          ],
+          "weights": [
+            0.7,
+            0.3
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "Soothsayer.9206",
+              "composite_score": 1679.5666377733764,
+              "glicko_rating": 1679.5666377733764,
+              "games_played": 4,
+              "average_rank_percent": 5.75,
+              "key_stats": "Stri:1.1 DPS:1727.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "56.0/38.0"
+            },
+            {
+              "rank": 2,
+              "account_name": "Pieswithattitude.2357",
+              "composite_score": 1638.9514365065465,
+              "glicko_rating": 1638.9514365065465,
+              "games_played": 2,
+              "average_rank_percent": 6.5,
+              "key_stats": "Stri:1.0 DPS:1775.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "59.0/41.0"
+            },
+            {
+              "rank": 3,
+              "account_name": "SilverBlade Hero.8974",
+              "composite_score": 1638.7447750045467,
+              "glicko_rating": 1638.7447750045467,
+              "games_played": 4,
+              "average_rank_percent": 7.75,
+              "key_stats": "Stri:0.9 DPS:1598.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "53.0/32.5"
+            },
+            {
+              "rank": 4,
+              "account_name": "Stash.8401",
+              "composite_score": 1622.4442137813871,
+              "glicko_rating": 1622.4442137813871,
+              "games_played": 4,
+              "average_rank_percent": 15.0,
+              "key_stats": "Stri:0.5 DPS:328.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "30.0/17.0"
+            },
+            {
+              "rank": 5,
+              "account_name": "Cruelty.9730",
+              "composite_score": 1608.3919664002767,
+              "glicko_rating": 1608.3919664002767,
+              "games_played": 2,
+              "average_rank_percent": 9.0,
+              "key_stats": "Stri:1.0 DPS:1249.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "37.0/23.0"
+            },
+            {
+              "rank": 6,
+              "account_name": "Mes.1906",
+              "composite_score": 1598.8987506378817,
+              "glicko_rating": 1598.8987506378817,
+              "games_played": 6,
+              "average_rank_percent": 10.333333333333334,
+              "key_stats": "Stri:0.7 DPS:1270.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "44.7/26.3"
+            },
+            {
+              "rank": 7,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1595.1756845338302,
+              "glicko_rating": 1595.1756845338302,
+              "games_played": 6,
+              "average_rank_percent": 6.0,
+              "key_stats": "Stri:0.6 DPS:1455.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "44.3/24.0"
+            },
+            {
+              "rank": 8,
+              "account_name": "Fungo Maligno.4081",
+              "composite_score": 1589.5092683602356,
+              "glicko_rating": 1589.5092683602356,
+              "games_played": 2,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stri:0.9 DPS:873.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "51.0/27.0"
+            },
+            {
+              "rank": 9,
+              "account_name": "DanDizh.8416",
+              "composite_score": 1588.8636485976474,
+              "glicko_rating": 1588.8636485976474,
+              "games_played": 2,
+              "average_rank_percent": 9.0,
+              "key_stats": "Stri:0.6 DPS:1155.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "51.0/25.0"
+            },
+            {
+              "rank": 10,
+              "account_name": "Syde.1863",
+              "composite_score": 1584.390515322629,
+              "glicko_rating": 1584.390515322629,
+              "games_played": 8,
+              "average_rank_percent": 10.875,
+              "key_stats": "Stri:0.7 DPS:668.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "27.2/23.8"
+            },
+            {
+              "rank": 11,
+              "account_name": "bernadettesurprise.3297",
+              "composite_score": 1575.2805032654355,
+              "glicko_rating": 1575.2805032654355,
+              "games_played": 2,
+              "average_rank_percent": 13.0,
+              "key_stats": "Stri:0.9 DPS:775.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
+            },
+            {
+              "rank": 12,
+              "account_name": "Interpretor.3091",
+              "composite_score": 1572.8329489021949,
+              "glicko_rating": 1572.8329489021949,
+              "games_played": 2,
+              "average_rank_percent": 6.0,
+              "key_stats": "Stri:0.4 DPS:1228.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "40.0/23.0"
+            },
+            {
+              "rank": 13,
+              "account_name": "Bother.9415",
+              "composite_score": 1561.7107876698217,
+              "glicko_rating": 1561.7107876698217,
+              "games_played": 6,
+              "average_rank_percent": 8.833333333333334,
+              "key_stats": "Stri:0.6 DPS:1554.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "50.0/31.0"
+            },
+            {
+              "rank": 14,
+              "account_name": "Muted.8591",
+              "composite_score": 1561.1146567901794,
+              "glicko_rating": 1561.1146567901794,
+              "games_played": 2,
+              "average_rank_percent": 12.5,
+              "key_stats": "Stri:0.6 DPS:729.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "50.0/43.0"
+            },
+            {
+              "rank": 15,
+              "account_name": "Luke.9108",
+              "composite_score": 1556.1285666833924,
+              "glicko_rating": 1556.1285666833924,
+              "games_played": 20,
+              "average_rank_percent": 9.8,
+              "key_stats": "Stri:0.4 DPS:1030.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "54.9/32.6"
+            },
+            {
+              "rank": 16,
+              "account_name": "Babadook.5842",
+              "composite_score": 1550.3075390627869,
+              "glicko_rating": 1550.3075390627869,
+              "games_played": 2,
+              "average_rank_percent": 16.0,
+              "key_stats": "Stri:0.8 DPS:384.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/27.0"
+            },
+            {
+              "rank": 17,
+              "account_name": "Freelanced.6084",
+              "composite_score": 1541.48383590194,
+              "glicko_rating": 1541.48383590194,
+              "games_played": 11,
+              "average_rank_percent": 9.636363636363637,
+              "key_stats": "Stri:0.5 DPS:1246.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "52.8/23.0"
+            },
+            {
+              "rank": 18,
+              "account_name": "Argo.2675",
+              "composite_score": 1535.1735130554628,
+              "glicko_rating": 1535.1735130554628,
+              "games_played": 2,
+              "average_rank_percent": 15.5,
+              "key_stats": "Stri:0.4 DPS:232.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "32.0/20.0"
+            },
+            {
+              "rank": 19,
+              "account_name": "Chakkkka.2504",
+              "composite_score": 1532.2137852655635,
+              "glicko_rating": 1532.2137852655635,
+              "games_played": 2,
+              "average_rank_percent": 17.0,
+              "key_stats": "Stri:0.3 DPS:286.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "31.0/19.0"
+            },
+            {
+              "rank": 20,
+              "account_name": "synco.8132",
+              "composite_score": 1528.7716068072432,
+              "glicko_rating": 1528.7716068072432,
+              "games_played": 6,
+              "average_rank_percent": 12.333333333333334,
+              "key_stats": "Stri:0.6 DPS:1138.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "41.3/22.3"
+            },
+            {
+              "rank": 21,
+              "account_name": "Crator of Fire.1796",
+              "composite_score": 1525.640122670949,
+              "glicko_rating": 1525.640122670949,
+              "games_played": 9,
+              "average_rank_percent": 16.77777777777778,
+              "key_stats": "Stri:0.4 DPS:517.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "41.6/21.0"
+            },
+            {
+              "rank": 22,
+              "account_name": "Mellis.8451",
+              "composite_score": 1524.5976799001926,
+              "glicko_rating": 1524.5976799001926,
+              "games_played": 10,
+              "average_rank_percent": 9.4,
+              "key_stats": "Stri:0.4 DPS:1051.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "47.6/20.0"
+            },
+            {
+              "rank": 23,
+              "account_name": "Basic.9204",
+              "composite_score": 1524.4614329118383,
+              "glicko_rating": 1524.4614329118383,
+              "games_played": 4,
+              "average_rank_percent": 14.0,
+              "key_stats": "Stri:0.5 DPS:666.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "38.0/19.5"
+            },
+            {
+              "rank": 24,
+              "account_name": "Mandar.9813",
+              "composite_score": 1523.366594456321,
+              "glicko_rating": 1523.366594456321,
+              "games_played": 2,
+              "average_rank_percent": 15.0,
+              "key_stats": "Stri:0.7 DPS:830.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "30.0/25.0"
+            },
+            {
+              "rank": 25,
+              "account_name": "Niyack.4953",
+              "composite_score": 1521.7884495365422,
+              "glicko_rating": 1521.7884495365422,
+              "games_played": 2,
+              "average_rank_percent": 15.0,
+              "key_stats": "Stri:0.7 DPS:944.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "32.0/22.0"
+            },
+            {
+              "rank": 26,
+              "account_name": "liloxw.4809",
+              "composite_score": 1515.4394534231017,
+              "glicko_rating": 1515.4394534231017,
+              "games_played": 6,
+              "average_rank_percent": 17.0,
+              "key_stats": "Stri:0.4 DPS:425.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "29.3/15.0"
+            },
+            {
+              "rank": 27,
+              "account_name": "limao.5968",
+              "composite_score": 1511.3011791390704,
+              "glicko_rating": 1511.3011791390704,
+              "games_played": 4,
+              "average_rank_percent": 11.75,
+              "key_stats": "Stri:0.8 DPS:1055.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/30.0"
+            },
+            {
+              "rank": 28,
+              "account_name": "Uriah.7082",
+              "composite_score": 1506.7512141443647,
+              "glicko_rating": 1506.7512141443647,
+              "games_played": 8,
+              "average_rank_percent": 7.75,
+              "key_stats": "Stri:0.4 DPS:1214.2",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "64.0/41.0"
+            },
+            {
+              "rank": 29,
+              "account_name": "Havocus.3682",
+              "composite_score": 1505.95873420095,
+              "glicko_rating": 1505.95873420095,
+              "games_played": 14,
+              "average_rank_percent": 11.142857142857142,
+              "key_stats": "Stri:0.4 DPS:838.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "45.4/18.7"
+            },
+            {
+              "rank": 30,
+              "account_name": "Nero.6195",
+              "composite_score": 1503.575975460397,
+              "glicko_rating": 1503.575975460397,
+              "games_played": 15,
+              "average_rank_percent": 12.0,
+              "key_stats": "Stri:0.3 DPS:785.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "49.4/19.1"
+            },
+            {
+              "rank": 31,
+              "account_name": "montjusk.9671",
+              "composite_score": 1487.2270578036955,
+              "glicko_rating": 1487.2270578036955,
+              "games_played": 3,
+              "average_rank_percent": 22.0,
+              "key_stats": "Stri:0.2 DPS:351.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "38.5/28.0"
+            },
+            {
+              "rank": 32,
+              "account_name": "blambidy.3216",
+              "composite_score": 1484.9971422846181,
+              "glicko_rating": 1484.9971422846181,
+              "games_played": 2,
+              "average_rank_percent": 15.5,
+              "key_stats": "Stri:0.4 DPS:700.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "50.0/22.0"
+            },
+            {
+              "rank": 33,
+              "account_name": "Disenable.1640",
+              "composite_score": 1479.8736424271035,
+              "glicko_rating": 1479.8736424271035,
+              "games_played": 2,
+              "average_rank_percent": 19.5,
+              "key_stats": "Stri:0.7 DPS:543.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "58.0/31.0"
+            },
+            {
+              "rank": 34,
+              "account_name": "arrsc.9046",
+              "composite_score": 1469.2117128669975,
+              "glicko_rating": 1469.2117128669975,
+              "games_played": 2,
+              "average_rank_percent": 7.5,
+              "key_stats": "Stri:0.7 DPS:1430.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "35.0/27.0"
+            },
+            {
+              "rank": 35,
+              "account_name": "Flames.9485",
+              "composite_score": 1466.7834211149793,
+              "glicko_rating": 1466.7834211149793,
+              "games_played": 2,
+              "average_rank_percent": 9.5,
+              "key_stats": "Stri:0.7 DPS:782.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "53.0/29.0"
+            },
+            {
+              "rank": 36,
+              "account_name": "Sabbaah.2314",
+              "composite_score": 1456.6021448677902,
+              "glicko_rating": 1456.6021448677902,
+              "games_played": 2,
+              "average_rank_percent": 18.5,
+              "key_stats": "Stri:0.6 DPS:1154.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "58.0/38.0"
+            },
+            {
+              "rank": 37,
+              "account_name": "Jeff.7219",
+              "composite_score": 1434.2614954097053,
+              "glicko_rating": 1434.2614954097053,
+              "games_played": 4,
+              "average_rank_percent": 19.0,
+              "key_stats": "Stri:0.1 DPS:375.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "44.5/24.5"
+            },
+            {
+              "rank": 38,
+              "account_name": "modus.7921",
+              "composite_score": 1426.5852287106943,
+              "glicko_rating": 1426.5852287106943,
+              "games_played": 2,
+              "average_rank_percent": 20.5,
+              "key_stats": "Stri:0.3 DPS:167.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "42.0/20.0"
+            },
+            {
+              "rank": 39,
+              "account_name": "Massacremam.4358",
+              "composite_score": 1425.3836370983458,
+              "glicko_rating": 1425.3836370983458,
+              "games_played": 2,
+              "average_rank_percent": 22.5,
+              "key_stats": "Stri:0.3 DPS:312.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "30.0/20.0"
+            },
+            {
+              "rank": 40,
+              "account_name": "Bertozaur.4578",
+              "composite_score": 1407.2268082389091,
+              "glicko_rating": 1407.2268082389091,
+              "games_played": 5,
+              "average_rank_percent": 14.2,
+              "key_stats": "Stri:0.3 DPS:653.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "45.7/22.0"
+            },
+            {
+              "rank": 41,
+              "account_name": "filipe.2809",
+              "composite_score": 1400.4770904556299,
+              "glicko_rating": 1400.4770904556299,
+              "games_played": 4,
+              "average_rank_percent": 20.5,
+              "key_stats": "Stri:0.1 DPS:314.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "29.0/15.5"
+            },
+            {
+              "rank": 42,
+              "account_name": "aureliocf.7324",
+              "composite_score": 1399.2410685108503,
+              "glicko_rating": 1399.2410685108503,
+              "games_played": 2,
+              "average_rank_percent": 11.0,
+              "key_stats": "Stri:0.6 DPS:688.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "52.0/30.0"
+            },
+            {
+              "rank": 43,
+              "account_name": "ItalianMagik.2698",
+              "composite_score": 1383.9641274250016,
+              "glicko_rating": 1383.9641274250016,
+              "games_played": 2,
+              "average_rank_percent": 20.5,
+              "key_stats": "Stri:0.2 DPS:239.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "38.0/21.0"
             }
           ]
         },
@@ -136750,7 +136750,7 @@ const leaderboardData = {
               "key_stats": "Migh:35.8 Resi:0.9 Stab:2.7",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "51.6/31.4"
+              "apm": "50.6/28.8"
             },
             {
               "rank": 3,
@@ -136810,7 +136810,7 @@ const leaderboardData = {
               "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "63.0/22.7"
+              "apm": "63.0/23.5"
             },
             {
               "rank": 8,
@@ -136908,7 +136908,7 @@ const leaderboardData = {
               "key_stats": "Stab:4.7 Clea:0.8 DPS:1210.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "67.3/59.0"
+              "apm": "60.0/51.0"
             },
             {
               "rank": 6,
@@ -136992,7 +136992,7 @@ const leaderboardData = {
               "key_stats": "Stab:6.2 Clea:0.3 DPS:1070.5",
               "is_guild_member": true,
               "rating_delta": 0.0,
-              "apm": "69.7/49.3"
+              "apm": "71.5/49.5"
             },
             {
               "rank": 13,
@@ -199706,6 +199706,468 @@ const leaderboardData = {
             }
           ]
         },
+        "Chronomancer": {
+          "metrics": [
+            "Stability",
+            "Cleanses",
+            "Resistance",
+            "Healing",
+            "Barrier"
+          ],
+          "weights": [
+            0.35,
+            0.35,
+            0.15,
+            0.1,
+            0.05
+          ],
+          "players": [
+            {
+              "rank": 1,
+              "account_name": "Bailyen Arturius.4263",
+              "composite_score": 1666.3124693170746,
+              "glicko_rating": 1666.3124693170746,
+              "games_played": 50,
+              "average_rank_percent": 5.3,
+              "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "57.4/28.5"
+            },
+            {
+              "rank": 2,
+              "account_name": "Disenable.1640",
+              "composite_score": 1603.3773175245788,
+              "glicko_rating": 1603.3773175245788,
+              "games_played": 23,
+              "average_rank_percent": 4.478260869565218,
+              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "51.0/26.6"
+            },
+            {
+              "rank": 3,
+              "account_name": "Muted.8591",
+              "composite_score": 1595.6172703815607,
+              "glicko_rating": 1595.6172703815607,
+              "games_played": 55,
+              "average_rank_percent": 7.072727272727272,
+              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "46.8/31.7"
+            },
+            {
+              "rank": 4,
+              "account_name": "Ronin.4501",
+              "composite_score": 1578.3507931453298,
+              "glicko_rating": 1578.3507931453298,
+              "games_played": 9,
+              "average_rank_percent": 5.222222222222222,
+              "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "43.5/37.0"
+            },
+            {
+              "rank": 5,
+              "account_name": "Uriah.7082",
+              "composite_score": 1571.284643313535,
+              "glicko_rating": 1571.284643313535,
+              "games_played": 23,
+              "average_rank_percent": 6.260869565217392,
+              "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "61.0/34.2"
+            },
+            {
+              "rank": 6,
+              "account_name": "bernadettesurprise.3297",
+              "composite_score": 1568.1481545717616,
+              "glicko_rating": 1568.1481545717616,
+              "games_played": 5,
+              "average_rank_percent": 6.6,
+              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/32.0"
+            },
+            {
+              "rank": 7,
+              "account_name": "Crator of Fire.1796",
+              "composite_score": 1565.7030112521657,
+              "glicko_rating": 1565.7030112521657,
+              "games_played": 9,
+              "average_rank_percent": 10.0,
+              "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "42.0/28.0"
+            },
+            {
+              "rank": 8,
+              "account_name": "On Fire.7602",
+              "composite_score": 1556.5493341686604,
+              "glicko_rating": 1556.5493341686604,
+              "games_played": 5,
+              "average_rank_percent": 8.6,
+              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "69.0/33.0"
+            },
+            {
+              "rank": 9,
+              "account_name": "ABC.9386",
+              "composite_score": 1554.9696131805972,
+              "glicko_rating": 1554.9696131805972,
+              "games_played": 5,
+              "average_rank_percent": 6.2,
+              "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "65.0/36.0"
+            },
+            {
+              "rank": 10,
+              "account_name": "Degothia.7394",
+              "composite_score": 1553.640532165705,
+              "glicko_rating": 1553.640532165705,
+              "games_played": 10,
+              "average_rank_percent": 6.5,
+              "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "41.0/30.5"
+            },
+            {
+              "rank": 11,
+              "account_name": "synco.8132",
+              "composite_score": 1542.54073001449,
+              "glicko_rating": 1542.54073001449,
+              "games_played": 29,
+              "average_rank_percent": 8.793103448275861,
+              "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "46.0/25.4"
+            },
+            {
+              "rank": 12,
+              "account_name": "Mellis.8451",
+              "composite_score": 1537.485212679087,
+              "glicko_rating": 1537.485212679087,
+              "games_played": 18,
+              "average_rank_percent": 6.611111111111111,
+              "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "35.5/22.8"
+            },
+            {
+              "rank": 13,
+              "account_name": "Nictheman.9754",
+              "composite_score": 1537.2304668516022,
+              "glicko_rating": 1537.2304668516022,
+              "games_played": 67,
+              "average_rank_percent": 6.776119402985074,
+              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "44.7/35.6"
+            },
+            {
+              "rank": 14,
+              "account_name": "Lookiey.1387",
+              "composite_score": 1533.8999059604193,
+              "glicko_rating": 1533.8999059604193,
+              "games_played": 5,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "36.0/24.0"
+            },
+            {
+              "rank": 15,
+              "account_name": "Kearsarge.9357",
+              "composite_score": 1533.429052783799,
+              "glicko_rating": 1533.429052783799,
+              "games_played": 5,
+              "average_rank_percent": 5.8,
+              "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/39.0"
+            },
+            {
+              "rank": 16,
+              "account_name": "Havocus.3682",
+              "composite_score": 1531.3537722501724,
+              "glicko_rating": 1531.3537722501724,
+              "games_played": 25,
+              "average_rank_percent": 8.44,
+              "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "52.0/24.4"
+            },
+            {
+              "rank": 17,
+              "account_name": "Steampunkengineer.7146",
+              "composite_score": 1531.2373628287528,
+              "glicko_rating": 1531.2373628287528,
+              "games_played": 13,
+              "average_rank_percent": 6.769230769230769,
+              "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "59.3/38.7"
+            },
+            {
+              "rank": 18,
+              "account_name": "Souza.1562",
+              "composite_score": 1530.2343459663555,
+              "glicko_rating": 1530.2343459663555,
+              "games_played": 5,
+              "average_rank_percent": 6.4,
+              "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "46.0/31.0"
+            },
+            {
+              "rank": 19,
+              "account_name": "Igure.2063",
+              "composite_score": 1528.197728684374,
+              "glicko_rating": 1528.197728684374,
+              "games_played": 9,
+              "average_rank_percent": 8.88888888888889,
+              "key_stats": "Stab:8.6 Clea:0.2 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "32.0/26.0"
+            },
+            {
+              "rank": 20,
+              "account_name": "Jim.5419",
+              "composite_score": 1527.6882683994913,
+              "glicko_rating": 1527.6882683994913,
+              "games_played": 5,
+              "average_rank_percent": 9.2,
+              "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "45.0/27.0"
+            },
+            {
+              "rank": 21,
+              "account_name": "katoki.7869",
+              "composite_score": 1519.716894183684,
+              "glicko_rating": 1519.716894183684,
+              "games_played": 24,
+              "average_rank_percent": 8.666666666666666,
+              "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "55.2/24.0"
+            },
+            {
+              "rank": 22,
+              "account_name": "mng.1634",
+              "composite_score": 1518.0833312424265,
+              "glicko_rating": 1518.0833312424265,
+              "games_played": 5,
+              "average_rank_percent": 12.4,
+              "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "43.0/25.0"
+            },
+            {
+              "rank": 23,
+              "account_name": "Mini.1786",
+              "composite_score": 1507.3434385516628,
+              "glicko_rating": 1507.3434385516628,
+              "games_played": 5,
+              "average_rank_percent": 9.2,
+              "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "71.0/32.0"
+            },
+            {
+              "rank": 24,
+              "account_name": "FlawedDjinn.3217",
+              "composite_score": 1505.2518552251936,
+              "glicko_rating": 1505.2518552251936,
+              "games_played": 13,
+              "average_rank_percent": 7.230769230769231,
+              "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "41.7/25.3"
+            },
+            {
+              "rank": 25,
+              "account_name": "ixJurema.8657",
+              "composite_score": 1499.3936690557853,
+              "glicko_rating": 1499.3936690557853,
+              "games_played": 5,
+              "average_rank_percent": 7.8,
+              "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "45.0/25.0"
+            },
+            {
+              "rank": 26,
+              "account_name": "Mini.8130",
+              "composite_score": 1496.4624235048918,
+              "glicko_rating": 1496.4624235048918,
+              "games_played": 5,
+              "average_rank_percent": 7.4,
+              "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "57.0/34.0"
+            },
+            {
+              "rank": 27,
+              "account_name": "Bleebt.4108",
+              "composite_score": 1492.28067834946,
+              "glicko_rating": 1492.28067834946,
+              "games_played": 10,
+              "average_rank_percent": 10.9,
+              "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "50.5/25.5"
+            },
+            {
+              "rank": 28,
+              "account_name": "pariah.6937",
+              "composite_score": 1488.3002183671197,
+              "glicko_rating": 1488.3002183671197,
+              "games_played": 10,
+              "average_rank_percent": 8.0,
+              "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "36.0/20.5"
+            },
+            {
+              "rank": 29,
+              "account_name": "Bother.9415",
+              "composite_score": 1468.800721936516,
+              "glicko_rating": 1468.800721936516,
+              "games_played": 5,
+              "average_rank_percent": 9.4,
+              "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "49.0/31.0"
+            },
+            {
+              "rank": 30,
+              "account_name": "Malek.9417",
+              "composite_score": 1466.7795379414895,
+              "glicko_rating": 1466.7795379414895,
+              "games_played": 8,
+              "average_rank_percent": 9.625,
+              "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "43.5/23.5"
+            },
+            {
+              "rank": 31,
+              "account_name": "Ashtonlightstone.9145",
+              "composite_score": 1465.8245492676517,
+              "glicko_rating": 1465.8245492676517,
+              "games_played": 10,
+              "average_rank_percent": 8.6,
+              "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0,
+              "apm": "33.0/26.5"
+            },
+            {
+              "rank": 32,
+              "account_name": "CaptainKnightfall.4378",
+              "composite_score": 1465.1825081602187,
+              "glicko_rating": 1465.1825081602187,
+              "games_played": 7,
+              "average_rank_percent": 13.0,
+              "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "26.5/13.5"
+            },
+            {
+              "rank": 33,
+              "account_name": "Graven.4325",
+              "composite_score": 1457.2581799696413,
+              "glicko_rating": 1457.2581799696413,
+              "games_played": 5,
+              "average_rank_percent": 7.8,
+              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "49.0/19.0"
+            },
+            {
+              "rank": 34,
+              "account_name": "Eliare.4069",
+              "composite_score": 1455.0928724345904,
+              "glicko_rating": 1455.0928724345904,
+              "games_played": 5,
+              "average_rank_percent": 9.6,
+              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "35.0/17.0"
+            },
+            {
+              "rank": 35,
+              "account_name": "GreatPadinski.2170",
+              "composite_score": 1444.822325853459,
+              "glicko_rating": 1444.822325853459,
+              "games_played": 13,
+              "average_rank_percent": 14.23076923076923,
+              "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "39.3/23.7"
+            },
+            {
+              "rank": 36,
+              "account_name": "Bad Karma.8407",
+              "composite_score": 1428.1039738989934,
+              "glicko_rating": 1428.1039738989934,
+              "games_played": 5,
+              "average_rank_percent": 9.6,
+              "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "61.0/15.0"
+            },
+            {
+              "rank": 37,
+              "account_name": "Sieia.3642",
+              "composite_score": 1396.4437363427814,
+              "glicko_rating": 1396.4437363427814,
+              "games_played": 12,
+              "average_rank_percent": 11.916666666666666,
+              "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
+              "is_guild_member": false,
+              "rating_delta": 0.0,
+              "apm": "32.7/16.7"
+            }
+          ]
+        },
         "Druid": {
           "metrics": [
             "Healing",
@@ -200207,468 +200669,6 @@ const leaderboardData = {
               "is_guild_member": false,
               "rating_delta": 0.0,
               "apm": "53.0/43.0"
-            }
-          ]
-        },
-        "Chronomancer": {
-          "metrics": [
-            "Stability",
-            "Cleanses",
-            "Resistance",
-            "Healing",
-            "Barrier"
-          ],
-          "weights": [
-            0.35,
-            0.35,
-            0.15,
-            0.1,
-            0.05
-          ],
-          "players": [
-            {
-              "rank": 1,
-              "account_name": "Bailyen Arturius.4263",
-              "composite_score": 1666.3124693170746,
-              "glicko_rating": 1666.3124693170746,
-              "games_played": 50,
-              "average_rank_percent": 5.3,
-              "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "57.4/28.5"
-            },
-            {
-              "rank": 2,
-              "account_name": "Disenable.1640",
-              "composite_score": 1603.3773175245788,
-              "glicko_rating": 1603.3773175245788,
-              "games_played": 23,
-              "average_rank_percent": 4.478260869565218,
-              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "51.0/26.6"
-            },
-            {
-              "rank": 3,
-              "account_name": "Muted.8591",
-              "composite_score": 1595.6172703815607,
-              "glicko_rating": 1595.6172703815607,
-              "games_played": 55,
-              "average_rank_percent": 7.072727272727272,
-              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "46.8/31.7"
-            },
-            {
-              "rank": 4,
-              "account_name": "Ronin.4501",
-              "composite_score": 1578.3507931453298,
-              "glicko_rating": 1578.3507931453298,
-              "games_played": 9,
-              "average_rank_percent": 5.222222222222222,
-              "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "43.5/37.0"
-            },
-            {
-              "rank": 5,
-              "account_name": "Uriah.7082",
-              "composite_score": 1571.284643313535,
-              "glicko_rating": 1571.284643313535,
-              "games_played": 23,
-              "average_rank_percent": 6.260869565217392,
-              "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "61.0/34.2"
-            },
-            {
-              "rank": 6,
-              "account_name": "bernadettesurprise.3297",
-              "composite_score": 1568.1481545717616,
-              "glicko_rating": 1568.1481545717616,
-              "games_played": 5,
-              "average_rank_percent": 6.6,
-              "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/32.0"
-            },
-            {
-              "rank": 7,
-              "account_name": "Crator of Fire.1796",
-              "composite_score": 1565.7030112521657,
-              "glicko_rating": 1565.7030112521657,
-              "games_played": 9,
-              "average_rank_percent": 10.0,
-              "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "42.0/28.0"
-            },
-            {
-              "rank": 8,
-              "account_name": "On Fire.7602",
-              "composite_score": 1556.5493341686604,
-              "glicko_rating": 1556.5493341686604,
-              "games_played": 5,
-              "average_rank_percent": 8.6,
-              "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "69.0/33.0"
-            },
-            {
-              "rank": 9,
-              "account_name": "ABC.9386",
-              "composite_score": 1554.9696131805972,
-              "glicko_rating": 1554.9696131805972,
-              "games_played": 5,
-              "average_rank_percent": 6.2,
-              "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "65.0/36.0"
-            },
-            {
-              "rank": 10,
-              "account_name": "Degothia.7394",
-              "composite_score": 1553.640532165705,
-              "glicko_rating": 1553.640532165705,
-              "games_played": 10,
-              "average_rank_percent": 6.5,
-              "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "41.0/30.5"
-            },
-            {
-              "rank": 11,
-              "account_name": "synco.8132",
-              "composite_score": 1542.54073001449,
-              "glicko_rating": 1542.54073001449,
-              "games_played": 29,
-              "average_rank_percent": 8.793103448275861,
-              "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "46.0/25.4"
-            },
-            {
-              "rank": 12,
-              "account_name": "Mellis.8451",
-              "composite_score": 1537.485212679087,
-              "glicko_rating": 1537.485212679087,
-              "games_played": 18,
-              "average_rank_percent": 6.611111111111111,
-              "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "35.5/22.8"
-            },
-            {
-              "rank": 13,
-              "account_name": "Nictheman.9754",
-              "composite_score": 1537.2304668516022,
-              "glicko_rating": 1537.2304668516022,
-              "games_played": 67,
-              "average_rank_percent": 6.776119402985074,
-              "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "44.7/35.6"
-            },
-            {
-              "rank": 14,
-              "account_name": "Lookiey.1387",
-              "composite_score": 1533.8999059604193,
-              "glicko_rating": 1533.8999059604193,
-              "games_played": 5,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "36.0/24.0"
-            },
-            {
-              "rank": 15,
-              "account_name": "Kearsarge.9357",
-              "composite_score": 1533.429052783799,
-              "glicko_rating": 1533.429052783799,
-              "games_played": 5,
-              "average_rank_percent": 5.8,
-              "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/39.0"
-            },
-            {
-              "rank": 16,
-              "account_name": "Havocus.3682",
-              "composite_score": 1531.3537722501724,
-              "glicko_rating": 1531.3537722501724,
-              "games_played": 25,
-              "average_rank_percent": 8.44,
-              "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "52.0/24.4"
-            },
-            {
-              "rank": 17,
-              "account_name": "Steampunkengineer.7146",
-              "composite_score": 1531.2373628287528,
-              "glicko_rating": 1531.2373628287528,
-              "games_played": 13,
-              "average_rank_percent": 6.769230769230769,
-              "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "59.3/38.7"
-            },
-            {
-              "rank": 18,
-              "account_name": "Souza.1562",
-              "composite_score": 1530.2343459663555,
-              "glicko_rating": 1530.2343459663555,
-              "games_played": 5,
-              "average_rank_percent": 6.4,
-              "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "46.0/31.0"
-            },
-            {
-              "rank": 19,
-              "account_name": "Igure.2063",
-              "composite_score": 1528.197728684374,
-              "glicko_rating": 1528.197728684374,
-              "games_played": 9,
-              "average_rank_percent": 8.88888888888889,
-              "key_stats": "Stab:8.6 Clea:0.2 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "32.0/26.0"
-            },
-            {
-              "rank": 20,
-              "account_name": "Jim.5419",
-              "composite_score": 1527.6882683994913,
-              "glicko_rating": 1527.6882683994913,
-              "games_played": 5,
-              "average_rank_percent": 9.2,
-              "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "45.0/27.0"
-            },
-            {
-              "rank": 21,
-              "account_name": "katoki.7869",
-              "composite_score": 1519.716894183684,
-              "glicko_rating": 1519.716894183684,
-              "games_played": 24,
-              "average_rank_percent": 8.666666666666666,
-              "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "55.2/24.0"
-            },
-            {
-              "rank": 22,
-              "account_name": "mng.1634",
-              "composite_score": 1518.0833312424265,
-              "glicko_rating": 1518.0833312424265,
-              "games_played": 5,
-              "average_rank_percent": 12.4,
-              "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "43.0/25.0"
-            },
-            {
-              "rank": 23,
-              "account_name": "Mini.1786",
-              "composite_score": 1507.3434385516628,
-              "glicko_rating": 1507.3434385516628,
-              "games_played": 5,
-              "average_rank_percent": 9.2,
-              "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "71.0/32.0"
-            },
-            {
-              "rank": 24,
-              "account_name": "FlawedDjinn.3217",
-              "composite_score": 1505.2518552251936,
-              "glicko_rating": 1505.2518552251936,
-              "games_played": 13,
-              "average_rank_percent": 7.230769230769231,
-              "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "41.7/25.3"
-            },
-            {
-              "rank": 25,
-              "account_name": "ixJurema.8657",
-              "composite_score": 1499.3936690557853,
-              "glicko_rating": 1499.3936690557853,
-              "games_played": 5,
-              "average_rank_percent": 7.8,
-              "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "45.0/25.0"
-            },
-            {
-              "rank": 26,
-              "account_name": "Mini.8130",
-              "composite_score": 1496.4624235048918,
-              "glicko_rating": 1496.4624235048918,
-              "games_played": 5,
-              "average_rank_percent": 7.4,
-              "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "57.0/34.0"
-            },
-            {
-              "rank": 27,
-              "account_name": "Bleebt.4108",
-              "composite_score": 1492.28067834946,
-              "glicko_rating": 1492.28067834946,
-              "games_played": 10,
-              "average_rank_percent": 10.9,
-              "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "50.5/25.5"
-            },
-            {
-              "rank": 28,
-              "account_name": "pariah.6937",
-              "composite_score": 1488.3002183671197,
-              "glicko_rating": 1488.3002183671197,
-              "games_played": 10,
-              "average_rank_percent": 8.0,
-              "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "36.0/20.5"
-            },
-            {
-              "rank": 29,
-              "account_name": "Bother.9415",
-              "composite_score": 1468.800721936516,
-              "glicko_rating": 1468.800721936516,
-              "games_played": 5,
-              "average_rank_percent": 9.4,
-              "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "49.0/31.0"
-            },
-            {
-              "rank": 30,
-              "account_name": "Malek.9417",
-              "composite_score": 1466.7795379414895,
-              "glicko_rating": 1466.7795379414895,
-              "games_played": 8,
-              "average_rank_percent": 9.625,
-              "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "43.5/23.5"
-            },
-            {
-              "rank": 31,
-              "account_name": "Ashtonlightstone.9145",
-              "composite_score": 1465.8245492676517,
-              "glicko_rating": 1465.8245492676517,
-              "games_played": 10,
-              "average_rank_percent": 8.6,
-              "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
-              "is_guild_member": true,
-              "rating_delta": 0.0,
-              "apm": "33.0/26.5"
-            },
-            {
-              "rank": 32,
-              "account_name": "CaptainKnightfall.4378",
-              "composite_score": 1465.1825081602187,
-              "glicko_rating": 1465.1825081602187,
-              "games_played": 7,
-              "average_rank_percent": 13.0,
-              "key_stats": "Stab:3.2 Clea:0.1 Resi:0.5",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "26.5/13.5"
-            },
-            {
-              "rank": 33,
-              "account_name": "Graven.4325",
-              "composite_score": 1457.2581799696413,
-              "glicko_rating": 1457.2581799696413,
-              "games_played": 5,
-              "average_rank_percent": 7.8,
-              "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "49.0/19.0"
-            },
-            {
-              "rank": 34,
-              "account_name": "Eliare.4069",
-              "composite_score": 1455.0928724345904,
-              "glicko_rating": 1455.0928724345904,
-              "games_played": 5,
-              "average_rank_percent": 9.6,
-              "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "35.0/17.0"
-            },
-            {
-              "rank": 35,
-              "account_name": "GreatPadinski.2170",
-              "composite_score": 1444.822325853459,
-              "glicko_rating": 1444.822325853459,
-              "games_played": 13,
-              "average_rank_percent": 14.23076923076923,
-              "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "39.3/23.7"
-            },
-            {
-              "rank": 36,
-              "account_name": "Bad Karma.8407",
-              "composite_score": 1428.1039738989934,
-              "glicko_rating": 1428.1039738989934,
-              "games_played": 5,
-              "average_rank_percent": 9.6,
-              "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "61.0/15.0"
-            },
-            {
-              "rank": 37,
-              "account_name": "Sieia.3642",
-              "composite_score": 1396.4437363427814,
-              "glicko_rating": 1396.4437363427814,
-              "games_played": 12,
-              "average_rank_percent": 11.916666666666666,
-              "key_stats": "Stab:2.7 Clea:0.2 Resi:0.3",
-              "is_guild_member": false,
-              "rating_delta": 0.0,
-              "apm": "32.7/16.7"
             }
           ]
         },
