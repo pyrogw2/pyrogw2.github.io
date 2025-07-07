@@ -1,6 +1,6 @@
 // Leaderboard data
 const leaderboardData = {
-  "generated_at": "2025-07-06T23:24:46.290057",
+  "generated_at": "2025-07-06T23:34:02.639969",
   "guild_enabled": true,
   "guild_name": "Pyromancers",
   "guild_tag": "PYRO",
@@ -27623,7 +27623,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1663.1943545846652,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 2.75,
               "glicko_rating": 1663.1943545846652,
               "key_stats": "Stab:7.0 Resi:0.8",
@@ -27636,7 +27636,7 @@ const leaderboardData = {
             {
               "account_name": "Clarrovi.9085",
               "composite_score": 1654.160214713987,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1654.160214713987,
               "key_stats": "Stab:8.7 Resi:0.7",
@@ -27649,7 +27649,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1644.7435812336976,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1644.7435812336976,
               "key_stats": "Stab:7.6 Resi:1.1",
@@ -27662,7 +27662,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1633.9346098796693,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 4.9,
               "glicko_rating": 1633.9346098796693,
               "key_stats": "Stab:8.5 Resi:0.3",
@@ -27675,7 +27675,7 @@ const leaderboardData = {
             {
               "account_name": "Lasthope.7943",
               "composite_score": 1633.8809570003643,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1633.8809570003643,
               "key_stats": "Stab:7.6 Resi:1.2",
@@ -27688,7 +27688,7 @@ const leaderboardData = {
             {
               "account_name": "mikefmc.5961",
               "composite_score": 1624.1771548238353,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1624.1771548238353,
               "key_stats": "Stab:7.8 Resi:0.8",
@@ -27701,7 +27701,7 @@ const leaderboardData = {
             {
               "account_name": "Sabbaah.2314",
               "composite_score": 1622.777205600507,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.5,
               "glicko_rating": 1622.777205600507,
               "key_stats": "Stab:9.7 Resi:0.7",
@@ -27714,7 +27714,7 @@ const leaderboardData = {
             {
               "account_name": "aznsleeper.5896",
               "composite_score": 1622.3157130042255,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 5.375,
               "glicko_rating": 1622.3157130042255,
               "key_stats": "Stab:6.4 Resi:0.7",
@@ -27727,7 +27727,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1618.588571060629,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1618.588571060629,
               "key_stats": "Stab:8.4 Resi:1.0",
@@ -27740,7 +27740,7 @@ const leaderboardData = {
             {
               "account_name": "paizin.2154",
               "composite_score": 1604.2148433664352,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.5,
               "glicko_rating": 1604.2148433664352,
               "key_stats": "Stab:7.7 Resi:0.8",
@@ -27753,7 +27753,7 @@ const leaderboardData = {
             {
               "account_name": "BlueViolet.8263",
               "composite_score": 1603.9625992391661,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1603.9625992391661,
               "key_stats": "Stab:8.3 Resi:0.6",
@@ -27766,7 +27766,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1556.806389449689,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1556.806389449689,
               "key_stats": "Stab:7.3 Resi:0.6",
@@ -27779,7 +27779,7 @@ const leaderboardData = {
             {
               "account_name": "inneedoflife.5092",
               "composite_score": 1555.12350092894,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 11.5,
               "glicko_rating": 1555.12350092894,
               "key_stats": "Stab:6.9 Resi:0.1",
@@ -27792,7 +27792,7 @@ const leaderboardData = {
             {
               "account_name": "lcuocikny.3814",
               "composite_score": 1554.7848874007282,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1554.7848874007282,
               "key_stats": "Stab:5.1 Resi:0.3",
@@ -27805,7 +27805,7 @@ const leaderboardData = {
             {
               "account_name": "DareDevils.6039",
               "composite_score": 1552.9900892474186,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 9.166666666666666,
               "glicko_rating": 1552.9900892474186,
               "key_stats": "Stab:8.4 Resi:0.2",
@@ -27818,7 +27818,7 @@ const leaderboardData = {
             {
               "account_name": "Bayushi.7914",
               "composite_score": 1550.6475402756391,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1550.6475402756391,
               "key_stats": "Stab:6.5 Resi:0.6",
@@ -27831,7 +27831,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1535.4941509847167,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1535.4941509847167,
               "key_stats": "Stab:5.4 Resi:0.4",
@@ -27844,7 +27844,7 @@ const leaderboardData = {
             {
               "account_name": "Gir Rowl.7065",
               "composite_score": 1520.136765776406,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.0,
               "glicko_rating": 1520.136765776406,
               "key_stats": "Stab:5.2 Resi:0.1",
@@ -27857,7 +27857,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1498.9213103645193,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 8.166666666666666,
               "glicko_rating": 1498.9213103645193,
               "key_stats": "Stab:6.1 Resi:0.4",
@@ -27870,7 +27870,7 @@ const leaderboardData = {
             {
               "account_name": "Rapscallion.3571",
               "composite_score": 1475.3837306780003,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.0,
               "glicko_rating": 1475.3837306780003,
               "key_stats": "Stab:5.7 Resi:0.1",
@@ -27883,7 +27883,7 @@ const leaderboardData = {
             {
               "account_name": "CallsignTundra.5963",
               "composite_score": 1444.7632298138456,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 17.0,
               "glicko_rating": 1444.7632298138456,
               "key_stats": "Stab:4.2 Resi:0.2",
@@ -27896,7 +27896,7 @@ const leaderboardData = {
             {
               "account_name": "RoyTheBoy.8693",
               "composite_score": 1434.063526761262,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.5,
               "glicko_rating": 1434.063526761262,
               "key_stats": "Stab:3.8 Resi:0.2",
@@ -27909,7 +27909,7 @@ const leaderboardData = {
             {
               "account_name": "TTRF.8473",
               "composite_score": 1397.2892386299936,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.0,
               "glicko_rating": 1397.2892386299936,
               "key_stats": "Stab:0.2 Resi:0.2",
@@ -27922,7 +27922,7 @@ const leaderboardData = {
             {
               "account_name": "Wildcassandra.8463",
               "composite_score": 1361.326957319351,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 26.0,
               "glicko_rating": 1361.326957319351,
               "key_stats": "Stab:0.1 Resi:0.1",
@@ -27935,7 +27935,7 @@ const leaderboardData = {
             {
               "account_name": "Ronin.4501",
               "composite_score": 1359.6808244807462,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.5,
               "glicko_rating": 1359.6808244807462,
               "key_stats": "Stab:5.3 Resi:0.1",
@@ -27967,7 +27967,7 @@ const leaderboardData = {
             {
               "account_name": "Bailyen Arturius.4263",
               "composite_score": 1739.4701900815328,
-              "games_played": 25,
+              "games_played": 5,
               "average_rank_percent": 4.0,
               "glicko_rating": 1739.4701900815328,
               "key_stats": "Stab:8.7 Clea:1.2 Resi:0.5",
@@ -27980,7 +27980,7 @@ const leaderboardData = {
             {
               "account_name": "Disenable.1640",
               "composite_score": 1678.1778261381041,
-              "games_played": 20,
+              "games_played": 4,
               "average_rank_percent": 3.9,
               "glicko_rating": 1678.1778261381041,
               "key_stats": "Stab:5.5 Clea:0.8 Resi:0.4",
@@ -27993,7 +27993,7 @@ const leaderboardData = {
             {
               "account_name": "Muted.8591",
               "composite_score": 1674.0927172142208,
-              "games_played": 25,
+              "games_played": 5,
               "average_rank_percent": 6.12,
               "glicko_rating": 1674.0927172142208,
               "key_stats": "Stab:6.5 Clea:1.0 Resi:0.4",
@@ -28006,7 +28006,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1640.3915378785855,
-              "games_played": 30,
+              "games_played": 6,
               "average_rank_percent": 5.966666666666667,
               "glicko_rating": 1640.3915378785855,
               "key_stats": "Stab:5.7 Clea:0.8 Resi:0.7",
@@ -28019,7 +28019,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1604.0338686750813,
-              "games_played": 8,
+              "games_played": 2,
               "average_rank_percent": 6.5,
               "glicko_rating": 1604.0338686750813,
               "key_stats": "Stab:7.5 Clea:0.6 Resi:0.8",
@@ -28032,7 +28032,7 @@ const leaderboardData = {
             {
               "account_name": "bernadettesurprise.3297",
               "composite_score": 1600.643468476177,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.2,
               "glicko_rating": 1600.643468476177,
               "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
@@ -28045,7 +28045,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1596.328649580204,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 5.2,
               "glicko_rating": 1596.328649580204,
               "key_stats": "Stab:5.9 Clea:0.7 Resi:0.7",
@@ -28058,7 +28058,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1594.3645075124355,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.0,
               "glicko_rating": 1594.3645075124355,
               "key_stats": "Stab:7.0 Clea:1.2 Resi:0.8",
@@ -28071,7 +28071,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1585.3046874841618,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1585.3046874841618,
               "key_stats": "Stab:7.8 Clea:1.2 Resi:0.2",
@@ -28084,7 +28084,7 @@ const leaderboardData = {
             {
               "account_name": "Ronin.4501",
               "composite_score": 1581.2760433644214,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 4.6,
               "glicko_rating": 1581.2760433644214,
               "key_stats": "Stab:8.4 Clea:1.7 Resi:0.8",
@@ -28097,7 +28097,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1574.9172200897835,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 10.1,
               "glicko_rating": 1574.9172200897835,
               "key_stats": "Stab:6.2 Clea:1.0 Resi:0.2",
@@ -28110,7 +28110,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1565.7800869335765,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 7.0,
               "glicko_rating": 1565.7800869335765,
               "key_stats": "Stab:5.5 Clea:0.4 Resi:0.9",
@@ -28123,7 +28123,7 @@ const leaderboardData = {
             {
               "account_name": "Souza.1562",
               "composite_score": 1559.150676548864,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1559.150676548864,
               "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
@@ -28136,7 +28136,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1543.5935847074638,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 8.8,
               "glicko_rating": 1543.5935847074638,
               "key_stats": "Stab:4.2 Clea:0.4 Resi:0.3",
@@ -28149,7 +28149,7 @@ const leaderboardData = {
             {
               "account_name": "ixJurema.8657",
               "composite_score": 1532.3769243245392,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.8,
               "glicko_rating": 1532.3769243245392,
               "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
@@ -28162,7 +28162,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1531.0169430342169,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 5.4,
               "glicko_rating": 1531.0169430342169,
               "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
@@ -28175,7 +28175,7 @@ const leaderboardData = {
             {
               "account_name": "Eliare.4069",
               "composite_score": 1530.8726838159196,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.6,
               "glicko_rating": 1530.8726838159196,
               "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
@@ -28188,7 +28188,7 @@ const leaderboardData = {
             {
               "account_name": "Igure.2063",
               "composite_score": 1516.7437354405067,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.2,
               "glicko_rating": 1516.7437354405067,
               "key_stats": "Stab:8.4 Clea:0.1 Resi:0.9",
@@ -28201,7 +28201,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1516.2934658726867,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 11.2,
               "glicko_rating": 1516.2934658726867,
               "key_stats": "Stab:5.3 Clea:0.5 Resi:0.6",
@@ -28214,7 +28214,7 @@ const leaderboardData = {
             {
               "account_name": "Graven.4325",
               "composite_score": 1504.20312002244,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.8,
               "glicko_rating": 1504.20312002244,
               "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
@@ -28227,7 +28227,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1500.7943032239625,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 11.8,
               "glicko_rating": 1500.7943032239625,
               "key_stats": "Stab:5.0 Clea:0.1 Resi:0.8",
@@ -28240,7 +28240,7 @@ const leaderboardData = {
             {
               "account_name": "IClappBuns.2587",
               "composite_score": 1483.2032206265587,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 10.4,
               "glicko_rating": 1483.2032206265587,
               "key_stats": "Stab:3.1 Clea:0.3 Resi:0.3",
@@ -28266,7 +28266,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1692.9375954398372,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.75,
               "glicko_rating": 1692.9375954398372,
               "key_stats": "Stri:1.1 DPS:1727.0",
@@ -28279,7 +28279,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1672.498244168444,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 9.0,
               "glicko_rating": 1672.498244168444,
               "key_stats": "Stri:0.6 DPS:1587.3",
@@ -28292,7 +28292,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1669.532244314796,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 6.75,
               "glicko_rating": 1669.532244314796,
               "key_stats": "Stri:0.8 DPS:1754.5",
@@ -28305,7 +28305,7 @@ const leaderboardData = {
             {
               "account_name": "Mes.1906",
               "composite_score": 1651.3589125098968,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 9.0,
               "glicko_rating": 1651.3589125098968,
               "key_stats": "Stri:0.6 DPS:1229.0",
@@ -28318,7 +28318,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1649.0029820350162,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 12.75,
               "glicko_rating": 1649.0029820350162,
               "key_stats": "Stri:0.5 DPS:922.5",
@@ -28331,7 +28331,7 @@ const leaderboardData = {
             {
               "account_name": "Syde.1863",
               "composite_score": 1647.8538813412165,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 10.875,
               "glicko_rating": 1647.8538813412165,
               "key_stats": "Stri:0.7 DPS:668.5",
@@ -28344,7 +28344,7 @@ const leaderboardData = {
             {
               "account_name": "Pieswithattitude.2357",
               "composite_score": 1644.719387971661,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.5,
               "glicko_rating": 1644.719387971661,
               "key_stats": "Stri:1.0 DPS:1775.0",
@@ -28357,7 +28357,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1629.322842960738,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 7.0,
               "glicko_rating": 1629.322842960738,
               "key_stats": "Stri:0.6 DPS:1606.5",
@@ -28370,7 +28370,7 @@ const leaderboardData = {
             {
               "account_name": "Cruelty.9730",
               "composite_score": 1623.0851407497187,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1623.0851407497187,
               "key_stats": "Stri:1.0 DPS:1249.0",
@@ -28383,7 +28383,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1617.7114946845063,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 8.875,
               "glicko_rating": 1617.7114946845063,
               "key_stats": "Stri:0.4 DPS:1224.5",
@@ -28396,7 +28396,7 @@ const leaderboardData = {
             {
               "account_name": "DanDizh.8416",
               "composite_score": 1617.5554671013033,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1617.5554671013033,
               "key_stats": "Stri:0.6 DPS:1155.0",
@@ -28409,7 +28409,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1614.8129648368458,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 8.166666666666666,
               "glicko_rating": 1614.8129648368458,
               "key_stats": "Stri:0.5 DPS:1397.7",
@@ -28422,7 +28422,7 @@ const leaderboardData = {
             {
               "account_name": "limao.5968",
               "composite_score": 1611.3796965635638,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.5,
               "glicko_rating": 1611.3796965635638,
               "key_stats": "Stri:0.8 DPS:1485.0",
@@ -28435,7 +28435,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1605.933656415863,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 10.25,
               "glicko_rating": 1605.933656415863,
               "key_stats": "Stri:0.4 DPS:1143.8",
@@ -28448,7 +28448,7 @@ const leaderboardData = {
             {
               "account_name": "arrsc.9046",
               "composite_score": 1604.754827808402,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1604.754827808402,
               "key_stats": "Stri:0.7 DPS:1430.0",
@@ -28461,7 +28461,7 @@ const leaderboardData = {
             {
               "account_name": "Fungo Maligno.4081",
               "composite_score": 1604.3050076061104,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1604.3050076061104,
               "key_stats": "Stri:0.9 DPS:873.0",
@@ -28474,7 +28474,7 @@ const leaderboardData = {
             {
               "account_name": "Basic.9204",
               "composite_score": 1604.071740768771,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 14.0,
               "glicko_rating": 1604.071740768771,
               "key_stats": "Stri:0.5 DPS:666.0",
@@ -28487,7 +28487,7 @@ const leaderboardData = {
             {
               "account_name": "bernadettesurprise.3297",
               "composite_score": 1599.6105033985436,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1599.6105033985436,
               "key_stats": "Stri:0.9 DPS:775.0",
@@ -28500,7 +28500,7 @@ const leaderboardData = {
             {
               "account_name": "Interpretor.3091",
               "composite_score": 1595.9952181640492,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1595.9952181640492,
               "key_stats": "Stri:0.4 DPS:1228.0",
@@ -28513,7 +28513,7 @@ const leaderboardData = {
             {
               "account_name": "Flames.9485",
               "composite_score": 1590.452083265779,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.5,
               "glicko_rating": 1590.452083265779,
               "key_stats": "Stri:0.7 DPS:782.0",
@@ -28526,7 +28526,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1587.215438261444,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 12.5,
               "glicko_rating": 1587.215438261444,
               "key_stats": "Stri:0.3 DPS:811.2",
@@ -28539,7 +28539,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1584.9555241714033,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 15.25,
               "glicko_rating": 1584.9555241714033,
               "key_stats": "Stri:0.4 DPS:673.5",
@@ -28552,7 +28552,7 @@ const leaderboardData = {
             {
               "account_name": "Babadook.5842",
               "composite_score": 1581.548341358195,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 16.0,
               "glicko_rating": 1581.548341358195,
               "key_stats": "Stri:0.8 DPS:384.0",
@@ -28565,7 +28565,7 @@ const leaderboardData = {
             {
               "account_name": "Niyack.4953",
               "composite_score": 1580.4786946974543,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1580.4786946974543,
               "key_stats": "Stri:0.7 DPS:944.0",
@@ -28578,7 +28578,7 @@ const leaderboardData = {
             {
               "account_name": "Mandar.9813",
               "composite_score": 1579.040040565097,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1579.040040565097,
               "key_stats": "Stri:0.7 DPS:830.0",
@@ -28591,7 +28591,7 @@ const leaderboardData = {
             {
               "account_name": "aureliocf.7324",
               "composite_score": 1576.1127843768454,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 11.0,
               "glicko_rating": 1576.1127843768454,
               "key_stats": "Stri:0.6 DPS:688.0",
@@ -28604,7 +28604,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1568.523316466702,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.5,
               "glicko_rating": 1568.523316466702,
               "key_stats": "Stri:0.4 DPS:232.0",
@@ -28617,7 +28617,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1525.5372635119015,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.0,
               "glicko_rating": 1525.5372635119015,
               "key_stats": "Stri:0.3 DPS:167.0",
@@ -28630,7 +28630,7 @@ const leaderboardData = {
             {
               "account_name": "Bertozaur.4578",
               "composite_score": 1513.4944379358953,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 13.333333333333334,
               "glicko_rating": 1513.4944379358953,
               "key_stats": "Stri:0.2 DPS:653.7",
@@ -28643,7 +28643,7 @@ const leaderboardData = {
             {
               "account_name": "ItalianMagik.2698",
               "composite_score": 1491.3754861958264,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.5,
               "glicko_rating": 1491.3754861958264,
               "key_stats": "Stri:0.2 DPS:239.0",
@@ -28656,7 +28656,7 @@ const leaderboardData = {
             {
               "account_name": "mememe.5239",
               "composite_score": 1455.1085503620411,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1455.1085503620411,
               "key_stats": "Stri:0.1 DPS:111.0",
@@ -28682,7 +28682,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1796.8577403390489,
-              "games_played": 12,
+              "games_played": 6,
               "average_rank_percent": 3.0833333333333335,
               "glicko_rating": 1796.8577403390489,
               "key_stats": "Heal:2096.6 Clea:1.3",
@@ -28695,7 +28695,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1766.3054694597745,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 3.8,
               "glicko_rating": 1766.3054694597745,
               "key_stats": "Heal:1756.3 Clea:0.9",
@@ -28708,7 +28708,7 @@ const leaderboardData = {
             {
               "account_name": "Foodels.7358",
               "composite_score": 1725.2905374864843,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 1.0,
               "glicko_rating": 1725.2905374864843,
               "key_stats": "Heal:1551.9 Clea:1.0",
@@ -28721,7 +28721,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1713.434063577303,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 2.75,
               "glicko_rating": 1713.434063577303,
               "key_stats": "Heal:1525.4 Clea:0.9",
@@ -28734,7 +28734,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1705.9920866810246,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 3.8333333333333335,
               "glicko_rating": 1705.9920866810246,
               "key_stats": "Heal:1744.1 Clea:1.2",
@@ -28747,7 +28747,7 @@ const leaderboardData = {
             {
               "account_name": "Jax Blake.7250",
               "composite_score": 1700.3643889556197,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.25,
               "glicko_rating": 1700.3643889556197,
               "key_stats": "Heal:1783.2 Clea:1.2",
@@ -28760,7 +28760,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1691.4463441212672,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 7.25,
               "glicko_rating": 1691.4463441212672,
               "key_stats": "Heal:1431.5 Clea:0.6",
@@ -28773,7 +28773,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1690.0599666850567,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.5,
               "glicko_rating": 1690.0599666850567,
               "key_stats": "Heal:1885.5 Clea:1.3",
@@ -28786,7 +28786,7 @@ const leaderboardData = {
             {
               "account_name": "Hiraldo.7954",
               "composite_score": 1676.1666076340236,
-              "games_played": 10,
+              "games_played": 6,
               "average_rank_percent": 5.5,
               "glicko_rating": 1676.1666076340236,
               "key_stats": "Heal:1215.0 Clea:0.9",
@@ -28799,7 +28799,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1674.1057377779714,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.75,
               "glicko_rating": 1674.1057377779714,
               "key_stats": "Heal:1429.4 Clea:0.9",
@@ -28812,7 +28812,7 @@ const leaderboardData = {
             {
               "account_name": "Johnny.5478",
               "composite_score": 1664.9349641107592,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.0,
               "glicko_rating": 1664.9349641107592,
               "key_stats": "Heal:1868.6 Clea:0.9",
@@ -28825,7 +28825,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1662.3534258798518,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 3.6666666666666665,
               "glicko_rating": 1662.3534258798518,
               "key_stats": "Heal:2051.5 Clea:0.9",
@@ -28838,7 +28838,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1656.5261505906808,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1656.5261505906808,
               "key_stats": "Heal:1497.1 Clea:0.9",
@@ -28851,7 +28851,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1656.2630843583897,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1656.2630843583897,
               "key_stats": "Heal:2183.6 Clea:1.5",
@@ -28864,7 +28864,7 @@ const leaderboardData = {
             {
               "account_name": "Mandar.9813",
               "composite_score": 1655.721413305399,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1655.721413305399,
               "key_stats": "Heal:2231.9 Clea:1.9",
@@ -28877,7 +28877,7 @@ const leaderboardData = {
             {
               "account_name": "amends.3469",
               "composite_score": 1653.0520645734987,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1653.0520645734987,
               "key_stats": "Heal:1611.1 Clea:1.2",
@@ -28890,7 +28890,7 @@ const leaderboardData = {
             {
               "account_name": "IronOre.7826",
               "composite_score": 1651.0297494594129,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1651.0297494594129,
               "key_stats": "Heal:2162.2 Clea:1.6",
@@ -28903,7 +28903,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1647.1192330629435,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1647.1192330629435,
               "key_stats": "Heal:1634.3 Clea:1.5",
@@ -28916,7 +28916,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1642.9480718309414,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1642.9480718309414,
               "key_stats": "Heal:1793.3 Clea:0.9",
@@ -28929,7 +28929,7 @@ const leaderboardData = {
             {
               "account_name": "ThiagoW.4810",
               "composite_score": 1642.78422785043,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1642.78422785043,
               "key_stats": "Heal:1591.8 Clea:1.4",
@@ -28942,7 +28942,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1641.8584535153982,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.5,
               "glicko_rating": 1641.8584535153982,
               "key_stats": "Heal:1107.4 Clea:0.7",
@@ -28955,7 +28955,7 @@ const leaderboardData = {
             {
               "account_name": "Stan.9684",
               "composite_score": 1640.587280729145,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1640.587280729145,
               "key_stats": "Heal:1823.8 Clea:1.7",
@@ -28968,7 +28968,7 @@ const leaderboardData = {
             {
               "account_name": "Mini.1786",
               "composite_score": 1635.880041171377,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1635.880041171377,
               "key_stats": "Heal:1469.9 Clea:1.4",
@@ -28981,7 +28981,7 @@ const leaderboardData = {
             {
               "account_name": "FrozenDelicious.3690",
               "composite_score": 1632.6061547829622,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1632.6061547829622,
               "key_stats": "Heal:1121.7 Clea:0.9",
@@ -28994,7 +28994,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1621.1551307540503,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1621.1551307540503,
               "key_stats": "Heal:2548.1 Clea:1.7",
@@ -29007,7 +29007,7 @@ const leaderboardData = {
             {
               "account_name": "Igure.2063",
               "composite_score": 1619.996441698344,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1619.996441698344,
               "key_stats": "Heal:1009.6 Clea:0.7",
@@ -29020,7 +29020,7 @@ const leaderboardData = {
             {
               "account_name": "Jdchil.9561",
               "composite_score": 1604.1998601907567,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 10.0,
               "glicko_rating": 1604.1998601907567,
               "key_stats": "Heal:1333.5 Clea:1.0",
@@ -29033,7 +29033,7 @@ const leaderboardData = {
             {
               "account_name": "TigerSpirit.2194",
               "composite_score": 1576.7960808763896,
-              "games_played": 7,
+              "games_played": 4,
               "average_rank_percent": 8.714285714285714,
               "glicko_rating": 1576.7960808763896,
               "key_stats": "Heal:687.1 Clea:0.9",
@@ -29046,7 +29046,7 @@ const leaderboardData = {
             {
               "account_name": "HuMbErTerA.4253",
               "composite_score": 1545.7608523943175,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1545.7608523943175,
               "key_stats": "Heal:774.5 Clea:0.9",
@@ -29072,7 +29072,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1577.3097161100989,
-              "games_played": 18,
+              "games_played": 9,
               "average_rank_percent": 14.61111111111111,
               "glicko_rating": 1577.3097161100989,
               "key_stats": "Stab:6.5 DPS:297.4",
@@ -29100,7 +29100,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1622.9826682231692,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 11.166666666666666,
               "glicko_rating": 1622.9826682231692,
               "key_stats": "Stab:5.8 Clea:0.6 DPS:1038.0",
@@ -29113,7 +29113,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1604.0192618543433,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 11.5,
               "glicko_rating": 1604.0192618543433,
               "key_stats": "Stab:4.7 Clea:0.8 DPS:1210.5",
@@ -29126,7 +29126,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1574.5870678092356,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 7.666666666666667,
               "glicko_rating": 1574.5870678092356,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
@@ -29139,7 +29139,7 @@ const leaderboardData = {
             {
               "account_name": "Mortealug.6043",
               "composite_score": 1571.0839022138682,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 12.166666666666666,
               "glicko_rating": 1571.0839022138682,
               "key_stats": "Stab:7.6 Clea:0.4 DPS:704.0",
@@ -29152,7 +29152,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1568.1803049101177,
-              "games_played": 9,
+              "games_played": 3,
               "average_rank_percent": 14.444444444444445,
               "glicko_rating": 1568.1803049101177,
               "key_stats": "Stab:6.7 Clea:0.3 DPS:547.7",
@@ -29165,7 +29165,7 @@ const leaderboardData = {
             {
               "account_name": "Nennius.9627",
               "composite_score": 1542.5679040175855,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1542.5679040175855,
               "key_stats": "Stab:6.1 Clea:0.9 DPS:1434.0",
@@ -29178,7 +29178,7 @@ const leaderboardData = {
             {
               "account_name": "Mashiro.3408",
               "composite_score": 1532.8364732748544,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 11.0,
               "glicko_rating": 1532.8364732748544,
               "key_stats": "Stab:5.8 Clea:0.9 DPS:1320.0",
@@ -29191,7 +29191,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1526.1124645816665,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1526.1124645816665,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
@@ -29204,7 +29204,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1524.110222841157,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1524.110222841157,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
@@ -29217,7 +29217,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1521.7815193440929,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 12.0,
               "glicko_rating": 1521.7815193440929,
               "key_stats": "Stab:5.3 Clea:0.4 DPS:998.0",
@@ -29230,7 +29230,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1503.2635795609322,
-              "games_played": 15,
+              "games_played": 5,
               "average_rank_percent": 13.866666666666667,
               "glicko_rating": 1503.2635795609322,
               "key_stats": "Stab:4.8 Clea:0.4 DPS:963.6",
@@ -29260,7 +29260,7 @@ const leaderboardData = {
             {
               "account_name": "Solomon Darkfury.3729",
               "composite_score": 1660.563325059387,
-              "games_played": 8,
+              "games_played": 2,
               "average_rank_percent": 8.125,
               "glicko_rating": 1660.563325059387,
               "key_stats": "Migh:32.8 Resi:1.4 Stab:4.2",
@@ -29273,7 +29273,7 @@ const leaderboardData = {
             {
               "account_name": "Raven Paradox.1860",
               "composite_score": 1623.9932914266722,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 8.75,
               "glicko_rating": 1623.9932914266722,
               "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
@@ -29286,7 +29286,7 @@ const leaderboardData = {
             {
               "account_name": "Asterisk.9730",
               "composite_score": 1621.8520876264938,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 8.25,
               "glicko_rating": 1621.8520876264938,
               "key_stats": "Migh:36.5 Resi:1.0 Stab:4.1",
@@ -29299,7 +29299,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1610.9058520418098,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 7.75,
               "glicko_rating": 1610.9058520418098,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
@@ -29312,7 +29312,7 @@ const leaderboardData = {
             {
               "account_name": "OPness.3215",
               "composite_score": 1604.7478414204868,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 8.25,
               "glicko_rating": 1604.7478414204868,
               "key_stats": "Migh:26.6 Resi:0.9 Stab:2.0",
@@ -29325,7 +29325,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1600.3817473409865,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 9.25,
               "glicko_rating": 1600.3817473409865,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
@@ -29338,7 +29338,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1574.3176213472943,
-              "games_played": 8,
+              "games_played": 2,
               "average_rank_percent": 8.5,
               "glicko_rating": 1574.3176213472943,
               "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
@@ -29351,7 +29351,7 @@ const leaderboardData = {
             {
               "account_name": "TehWolfman.1794",
               "composite_score": 1533.1345593079543,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 12.75,
               "glicko_rating": 1533.1345593079543,
               "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
@@ -29364,7 +29364,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1526.7181395710163,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 10.25,
               "glicko_rating": 1526.7181395710163,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
@@ -29390,7 +29390,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1632.5908199517035,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 16.5,
               "glicko_rating": 1632.5908199517035,
               "key_stats": "Prot:3.3 DPS:63.0",
@@ -29403,7 +29403,7 @@ const leaderboardData = {
             {
               "account_name": "Aein.1483",
               "composite_score": 1595.756220889361,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1595.756220889361,
               "key_stats": "Prot:1.6 DPS:1017.0",
@@ -74931,7 +74931,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1749.8855167087934,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 1.5,
               "glicko_rating": 1749.8855167087934,
               "key_stats": "Stab:7.8 Resi:1.2",
@@ -74944,7 +74944,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1729.2669515812552,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 3.2,
               "glicko_rating": 1729.2669515812552,
               "key_stats": "Stab:6.2 Resi:0.8",
@@ -74957,7 +74957,7 @@ const leaderboardData = {
             {
               "account_name": "mikefmc.5961",
               "composite_score": 1657.843685828603,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.75,
               "glicko_rating": 1657.843685828603,
               "key_stats": "Stab:6.2 Resi:0.8",
@@ -74970,7 +74970,7 @@ const leaderboardData = {
             {
               "account_name": "Clarrovi.9085",
               "composite_score": 1654.160214713987,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1654.160214713987,
               "key_stats": "Stab:8.7 Resi:0.7",
@@ -74983,7 +74983,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1641.2286751772144,
-              "games_played": 9,
+              "games_played": 5,
               "average_rank_percent": 7.111111111111111,
               "glicko_rating": 1641.2286751772144,
               "key_stats": "Stab:5.8 Resi:0.7",
@@ -74996,7 +74996,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1636.605632812283,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.0,
               "glicko_rating": 1636.605632812283,
               "key_stats": "Stab:7.4 Resi:0.8",
@@ -75009,7 +75009,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1633.9346098796693,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 4.9,
               "glicko_rating": 1633.9346098796693,
               "key_stats": "Stab:8.5 Resi:0.3",
@@ -75022,7 +75022,7 @@ const leaderboardData = {
             {
               "account_name": "Lasthope.7943",
               "composite_score": 1633.8809570003643,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1633.8809570003643,
               "key_stats": "Stab:7.6 Resi:1.2",
@@ -75035,7 +75035,7 @@ const leaderboardData = {
             {
               "account_name": "aznsleeper.5896",
               "composite_score": 1632.0327354327937,
-              "games_played": 12,
+              "games_played": 6,
               "average_rank_percent": 6.25,
               "glicko_rating": 1632.0327354327937,
               "key_stats": "Stab:5.8 Resi:0.6",
@@ -75048,7 +75048,7 @@ const leaderboardData = {
             {
               "account_name": "King Sylvari.2567",
               "composite_score": 1629.7950094531088,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1629.7950094531088,
               "key_stats": "Stab:5.2 Resi:0.4",
@@ -75061,7 +75061,7 @@ const leaderboardData = {
             {
               "account_name": "Sabbaah.2314",
               "composite_score": 1622.777205600507,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.5,
               "glicko_rating": 1622.777205600507,
               "key_stats": "Stab:9.7 Resi:0.7",
@@ -75074,7 +75074,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1618.588571060629,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1618.588571060629,
               "key_stats": "Stab:8.4 Resi:1.0",
@@ -75087,7 +75087,7 @@ const leaderboardData = {
             {
               "account_name": "BlueViolet.8263",
               "composite_score": 1617.6409052901236,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 6.5,
               "glicko_rating": 1617.6409052901236,
               "key_stats": "Stab:7.3 Resi:0.6",
@@ -75100,7 +75100,7 @@ const leaderboardData = {
             {
               "account_name": "paizin.2154",
               "composite_score": 1604.2148433664352,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.5,
               "glicko_rating": 1604.2148433664352,
               "key_stats": "Stab:7.7 Resi:0.8",
@@ -75113,7 +75113,7 @@ const leaderboardData = {
             {
               "account_name": "Hydrason.4612",
               "composite_score": 1602.5417559644256,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1602.5417559644256,
               "key_stats": "Stab:5.1 Resi:0.8",
@@ -75126,7 +75126,7 @@ const leaderboardData = {
             {
               "account_name": "PublicDisplayName.4986",
               "composite_score": 1596.8307580553665,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.0,
               "glicko_rating": 1596.8307580553665,
               "key_stats": "Stab:7.6 Resi:0.5",
@@ -75139,7 +75139,7 @@ const leaderboardData = {
             {
               "account_name": "Xhil.9316",
               "composite_score": 1587.7909444399008,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1587.7909444399008,
               "key_stats": "Stab:6.3 Resi:0.5",
@@ -75152,7 +75152,7 @@ const leaderboardData = {
             {
               "account_name": "Stash.8401",
               "composite_score": 1584.058691665698,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1584.058691665698,
               "key_stats": "Stab:5.4 Resi:0.6",
@@ -75165,7 +75165,7 @@ const leaderboardData = {
             {
               "account_name": "Mortealug.6043",
               "composite_score": 1577.5716130833546,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 7.666666666666667,
               "glicko_rating": 1577.5716130833546,
               "key_stats": "Stab:6.2 Resi:0.1",
@@ -75178,7 +75178,7 @@ const leaderboardData = {
             {
               "account_name": "red armadillo.4593",
               "composite_score": 1572.4637893578927,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.0,
               "glicko_rating": 1572.4637893578927,
               "key_stats": "Stab:3.9 Resi:1.1",
@@ -75191,7 +75191,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1563.665253593248,
-              "games_played": 14,
+              "games_played": 7,
               "average_rank_percent": 6.785714285714286,
               "glicko_rating": 1563.665253593248,
               "key_stats": "Stab:6.0 Resi:0.4",
@@ -75204,7 +75204,7 @@ const leaderboardData = {
             {
               "account_name": "inneedoflife.5092",
               "composite_score": 1555.12350092894,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 11.5,
               "glicko_rating": 1555.12350092894,
               "key_stats": "Stab:6.9 Resi:0.1",
@@ -75217,7 +75217,7 @@ const leaderboardData = {
             {
               "account_name": "lcuocikny.3814",
               "composite_score": 1554.7848874007282,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1554.7848874007282,
               "key_stats": "Stab:5.1 Resi:0.3",
@@ -75230,7 +75230,7 @@ const leaderboardData = {
             {
               "account_name": "DareDevils.6039",
               "composite_score": 1552.9900892474186,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 9.166666666666666,
               "glicko_rating": 1552.9900892474186,
               "key_stats": "Stab:8.4 Resi:0.2",
@@ -75243,7 +75243,7 @@ const leaderboardData = {
             {
               "account_name": "Bayushi.7914",
               "composite_score": 1550.6475402756391,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1550.6475402756391,
               "key_stats": "Stab:6.5 Resi:0.6",
@@ -75256,7 +75256,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1535.4941509847167,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1535.4941509847167,
               "key_stats": "Stab:5.4 Resi:0.4",
@@ -75269,7 +75269,7 @@ const leaderboardData = {
             {
               "account_name": "Gir Rowl.7065",
               "composite_score": 1520.136765776406,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.0,
               "glicko_rating": 1520.136765776406,
               "key_stats": "Stab:5.2 Resi:0.1",
@@ -75282,7 +75282,7 @@ const leaderboardData = {
             {
               "account_name": "Rapscallion.3571",
               "composite_score": 1475.3837306780003,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.0,
               "glicko_rating": 1475.3837306780003,
               "key_stats": "Stab:5.7 Resi:0.1",
@@ -75295,7 +75295,7 @@ const leaderboardData = {
             {
               "account_name": "SunJian.8029",
               "composite_score": 1464.280502474941,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1464.280502474941,
               "key_stats": "Stab:3.9 Resi:0.2",
@@ -75308,7 +75308,7 @@ const leaderboardData = {
             {
               "account_name": "CallsignTundra.5963",
               "composite_score": 1444.7632298138456,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 17.0,
               "glicko_rating": 1444.7632298138456,
               "key_stats": "Stab:4.2 Resi:0.2",
@@ -75321,7 +75321,7 @@ const leaderboardData = {
             {
               "account_name": "RoyTheBoy.8693",
               "composite_score": 1434.063526761262,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.5,
               "glicko_rating": 1434.063526761262,
               "key_stats": "Stab:3.8 Resi:0.2",
@@ -75334,7 +75334,7 @@ const leaderboardData = {
             {
               "account_name": "TTRF.8473",
               "composite_score": 1397.2892386299936,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.0,
               "glicko_rating": 1397.2892386299936,
               "key_stats": "Stab:0.2 Resi:0.2",
@@ -75347,7 +75347,7 @@ const leaderboardData = {
             {
               "account_name": "pinguinox.9528",
               "composite_score": 1396.65216526832,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 21.5,
               "glicko_rating": 1396.65216526832,
               "key_stats": "Stab:1.0 Resi:0.1",
@@ -75360,7 +75360,7 @@ const leaderboardData = {
             {
               "account_name": "Wildcassandra.8463",
               "composite_score": 1361.326957319351,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 26.0,
               "glicko_rating": 1361.326957319351,
               "key_stats": "Stab:0.1 Resi:0.1",
@@ -75373,7 +75373,7 @@ const leaderboardData = {
             {
               "account_name": "Ronin.4501",
               "composite_score": 1359.6808244807462,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.5,
               "glicko_rating": 1359.6808244807462,
               "key_stats": "Stab:5.3 Resi:0.1",
@@ -75405,7 +75405,7 @@ const leaderboardData = {
             {
               "account_name": "Bailyen Arturius.4263",
               "composite_score": 1741.2136278111323,
-              "games_played": 40,
+              "games_played": 8,
               "average_rank_percent": 4.95,
               "glicko_rating": 1741.2136278111323,
               "key_stats": "Stab:7.9 Clea:1.2 Resi:0.5",
@@ -75418,7 +75418,7 @@ const leaderboardData = {
             {
               "account_name": "Disenable.1640",
               "composite_score": 1678.1778261381041,
-              "games_played": 20,
+              "games_played": 4,
               "average_rank_percent": 3.9,
               "glicko_rating": 1678.1778261381041,
               "key_stats": "Stab:5.5 Clea:0.8 Resi:0.4",
@@ -75431,7 +75431,7 @@ const leaderboardData = {
             {
               "account_name": "Muted.8591",
               "composite_score": 1658.8178829135081,
-              "games_played": 38,
+              "games_played": 8,
               "average_rank_percent": 7.078947368421052,
               "glicko_rating": 1658.8178829135081,
               "key_stats": "Stab:5.6 Clea:0.8 Resi:0.4",
@@ -75444,7 +75444,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1643.159370067616,
-              "games_played": 20,
+              "games_played": 4,
               "average_rank_percent": 5.7,
               "glicko_rating": 1643.159370067616,
               "key_stats": "Stab:6.5 Clea:0.6 Resi:0.9",
@@ -75457,7 +75457,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1641.0985281437524,
-              "games_played": 55,
+              "games_played": 11,
               "average_rank_percent": 7.0,
               "glicko_rating": 1641.0985281437524,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.6",
@@ -75470,7 +75470,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1631.2236539607934,
-              "games_played": 13,
+              "games_played": 3,
               "average_rank_percent": 6.461538461538462,
               "glicko_rating": 1631.2236539607934,
               "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
@@ -75483,7 +75483,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1626.239733079991,
-              "games_played": 20,
+              "games_played": 4,
               "average_rank_percent": 7.45,
               "glicko_rating": 1626.239733079991,
               "key_stats": "Stab:7.1 Clea:0.4 Resi:0.7",
@@ -75496,7 +75496,7 @@ const leaderboardData = {
             {
               "account_name": "ABC.9386",
               "composite_score": 1607.3107447609293,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.2,
               "glicko_rating": 1607.3107447609293,
               "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
@@ -75509,7 +75509,7 @@ const leaderboardData = {
             {
               "account_name": "bernadettesurprise.3297",
               "composite_score": 1600.643468476177,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.2,
               "glicko_rating": 1600.643468476177,
               "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
@@ -75522,7 +75522,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1599.490725250442,
-              "games_played": 15,
+              "games_played": 3,
               "average_rank_percent": 7.133333333333334,
               "glicko_rating": 1599.490725250442,
               "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
@@ -75535,7 +75535,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1585.3046874841618,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1585.3046874841618,
               "key_stats": "Stab:7.8 Clea:1.2 Resi:0.2",
@@ -75548,7 +75548,7 @@ const leaderboardData = {
             {
               "account_name": "Ronin.4501",
               "composite_score": 1581.2760433644214,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 4.6,
               "glicko_rating": 1581.2760433644214,
               "key_stats": "Stab:8.4 Clea:1.7 Resi:0.8",
@@ -75561,7 +75561,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1571.8859112112893,
-              "games_played": 20,
+              "games_played": 4,
               "average_rank_percent": 9.45,
               "glicko_rating": 1571.8859112112893,
               "key_stats": "Stab:4.7 Clea:0.8 Resi:0.2",
@@ -75574,7 +75574,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1570.8899265121736,
-              "games_played": 20,
+              "games_played": 4,
               "average_rank_percent": 7.7,
               "glicko_rating": 1570.8899265121736,
               "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
@@ -75587,7 +75587,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1566.4076397086146,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 7.5,
               "glicko_rating": 1566.4076397086146,
               "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
@@ -75600,7 +75600,7 @@ const leaderboardData = {
             {
               "account_name": "Souza.1562",
               "composite_score": 1559.150676548864,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1559.150676548864,
               "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
@@ -75613,7 +75613,7 @@ const leaderboardData = {
             {
               "account_name": "Mini.1786",
               "composite_score": 1554.372448475214,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.2,
               "glicko_rating": 1554.372448475214,
               "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
@@ -75626,7 +75626,7 @@ const leaderboardData = {
             {
               "account_name": "ixJurema.8657",
               "composite_score": 1532.3769243245392,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.8,
               "glicko_rating": 1532.3769243245392,
               "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
@@ -75639,7 +75639,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1531.0169430342169,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 5.4,
               "glicko_rating": 1531.0169430342169,
               "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
@@ -75652,7 +75652,7 @@ const leaderboardData = {
             {
               "account_name": "Eliare.4069",
               "composite_score": 1530.8726838159196,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.6,
               "glicko_rating": 1530.8726838159196,
               "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
@@ -75665,7 +75665,7 @@ const leaderboardData = {
             {
               "account_name": "Igure.2063",
               "composite_score": 1516.7437354405067,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.2,
               "glicko_rating": 1516.7437354405067,
               "key_stats": "Stab:8.4 Clea:0.1 Resi:0.9",
@@ -75678,7 +75678,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1516.2934658726867,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 11.2,
               "glicko_rating": 1516.2934658726867,
               "key_stats": "Stab:5.3 Clea:0.5 Resi:0.6",
@@ -75691,7 +75691,7 @@ const leaderboardData = {
             {
               "account_name": "Graven.4325",
               "composite_score": 1504.20312002244,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.8,
               "glicko_rating": 1504.20312002244,
               "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
@@ -75704,7 +75704,7 @@ const leaderboardData = {
             {
               "account_name": "Elgar.2091",
               "composite_score": 1486.5907031766594,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.2,
               "glicko_rating": 1486.5907031766594,
               "key_stats": "Stab:2.1 Clea:0.4 Resi:0.1",
@@ -75717,7 +75717,7 @@ const leaderboardData = {
             {
               "account_name": "CaptainKnightfall.4378",
               "composite_score": 1486.4071135766603,
-              "games_played": 9,
+              "games_played": 2,
               "average_rank_percent": 15.444444444444445,
               "glicko_rating": 1486.4071135766603,
               "key_stats": "Stab:3.2 Clea:0.1 Resi:0.3",
@@ -75730,7 +75730,7 @@ const leaderboardData = {
             {
               "account_name": "IClappBuns.2587",
               "composite_score": 1483.2032206265587,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 10.4,
               "glicko_rating": 1483.2032206265587,
               "key_stats": "Stab:3.1 Clea:0.3 Resi:0.3",
@@ -75743,7 +75743,7 @@ const leaderboardData = {
             {
               "account_name": "Bad Karma.8407",
               "composite_score": 1481.10582490726,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.6,
               "glicko_rating": 1481.10582490726,
               "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
@@ -75756,7 +75756,7 @@ const leaderboardData = {
             {
               "account_name": "Sieia.3642",
               "composite_score": 1456.7055508652506,
-              "games_played": 13,
+              "games_played": 3,
               "average_rank_percent": 14.153846153846153,
               "glicko_rating": 1456.7055508652506,
               "key_stats": "Stab:2.7 Clea:0.1 Resi:0.3",
@@ -75782,7 +75782,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1692.9375954398372,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.75,
               "glicko_rating": 1692.9375954398372,
               "key_stats": "Stri:1.1 DPS:1727.0",
@@ -75795,7 +75795,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1676.898794802864,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 6.0,
               "glicko_rating": 1676.898794802864,
               "key_stats": "Stri:0.6 DPS:1455.0",
@@ -75808,7 +75808,7 @@ const leaderboardData = {
             {
               "account_name": "SilverBlade Hero.8974",
               "composite_score": 1670.1716360631135,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 7.5,
               "glicko_rating": 1670.1716360631135,
               "key_stats": "Stri:0.9 DPS:1598.5",
@@ -75821,7 +75821,7 @@ const leaderboardData = {
             {
               "account_name": "Mes.1906",
               "composite_score": 1666.070322132592,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 10.333333333333334,
               "glicko_rating": 1666.070322132592,
               "key_stats": "Stri:0.7 DPS:1270.0",
@@ -75834,7 +75834,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1663.647759060576,
-              "games_played": 20,
+              "games_played": 10,
               "average_rank_percent": 9.7,
               "glicko_rating": 1663.647759060576,
               "key_stats": "Stri:0.4 DPS:1030.0",
@@ -75847,7 +75847,7 @@ const leaderboardData = {
             {
               "account_name": "Syde.1863",
               "composite_score": 1647.8538813412165,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 10.875,
               "glicko_rating": 1647.8538813412165,
               "key_stats": "Stri:0.7 DPS:668.5",
@@ -75860,7 +75860,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1645.3506977135235,
-              "games_played": 14,
+              "games_played": 7,
               "average_rank_percent": 11.142857142857142,
               "glicko_rating": 1645.3506977135235,
               "key_stats": "Stri:0.4 DPS:838.6",
@@ -75873,7 +75873,7 @@ const leaderboardData = {
             {
               "account_name": "Pieswithattitude.2357",
               "composite_score": 1644.719387971661,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.5,
               "glicko_rating": 1644.719387971661,
               "key_stats": "Stri:1.0 DPS:1775.0",
@@ -75886,7 +75886,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1643.7889449672887,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 12.0,
               "glicko_rating": 1643.7889449672887,
               "key_stats": "Stri:0.6 DPS:1138.0",
@@ -75899,7 +75899,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1640.8912499530998,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 8.833333333333334,
               "glicko_rating": 1640.8912499530998,
               "key_stats": "Stri:0.6 DPS:1554.7",
@@ -75912,7 +75912,7 @@ const leaderboardData = {
             {
               "account_name": "Stash.8401",
               "composite_score": 1636.4047866060105,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 15.0,
               "glicko_rating": 1636.4047866060105,
               "key_stats": "Stri:0.5 DPS:328.5",
@@ -75925,7 +75925,7 @@ const leaderboardData = {
             {
               "account_name": "Cruelty.9730",
               "composite_score": 1623.0851407497187,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1623.0851407497187,
               "key_stats": "Stri:1.0 DPS:1249.0",
@@ -75938,7 +75938,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1622.5161917120301,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 9.4,
               "glicko_rating": 1622.5161917120301,
               "key_stats": "Stri:0.4 DPS:1051.8",
@@ -75951,7 +75951,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1620.3750151980637,
-              "games_played": 16,
+              "games_played": 8,
               "average_rank_percent": 11.5,
               "glicko_rating": 1620.3750151980637,
               "key_stats": "Stri:0.3 DPS:785.8",
@@ -75964,7 +75964,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1619.3487310549453,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 7.625,
               "glicko_rating": 1619.3487310549453,
               "key_stats": "Stri:0.4 DPS:1214.2",
@@ -75977,7 +75977,7 @@ const leaderboardData = {
             {
               "account_name": "limao.5968",
               "composite_score": 1619.2706017629853,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 11.75,
               "glicko_rating": 1619.2706017629853,
               "key_stats": "Stri:0.8 DPS:1055.5",
@@ -75990,7 +75990,7 @@ const leaderboardData = {
             {
               "account_name": "DanDizh.8416",
               "composite_score": 1617.5554671013033,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1617.5554671013033,
               "key_stats": "Stri:0.6 DPS:1155.0",
@@ -76003,7 +76003,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1613.334588467963,
-              "games_played": 12,
+              "games_played": 6,
               "average_rank_percent": 9.5,
               "glicko_rating": 1613.334588467963,
               "key_stats": "Stri:0.5 DPS:1246.5",
@@ -76016,7 +76016,7 @@ const leaderboardData = {
             {
               "account_name": "arrsc.9046",
               "composite_score": 1604.754827808402,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1604.754827808402,
               "key_stats": "Stri:0.7 DPS:1430.0",
@@ -76029,7 +76029,7 @@ const leaderboardData = {
             {
               "account_name": "Fungo Maligno.4081",
               "composite_score": 1604.3050076061104,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1604.3050076061104,
               "key_stats": "Stri:0.9 DPS:873.0",
@@ -76042,7 +76042,7 @@ const leaderboardData = {
             {
               "account_name": "Basic.9204",
               "composite_score": 1604.071740768771,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 14.0,
               "glicko_rating": 1604.071740768771,
               "key_stats": "Stri:0.5 DPS:666.0",
@@ -76055,7 +76055,7 @@ const leaderboardData = {
             {
               "account_name": "Muted.8591",
               "composite_score": 1601.4716981515064,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.5,
               "glicko_rating": 1601.4716981515064,
               "key_stats": "Stri:0.6 DPS:729.0",
@@ -76068,7 +76068,7 @@ const leaderboardData = {
             {
               "account_name": "bernadettesurprise.3297",
               "composite_score": 1599.6105033985436,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1599.6105033985436,
               "key_stats": "Stri:0.9 DPS:775.0",
@@ -76081,7 +76081,7 @@ const leaderboardData = {
             {
               "account_name": "Interpretor.3091",
               "composite_score": 1595.9952181640492,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1595.9952181640492,
               "key_stats": "Stri:0.4 DPS:1228.0",
@@ -76094,7 +76094,7 @@ const leaderboardData = {
             {
               "account_name": "Flames.9485",
               "composite_score": 1590.452083265779,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.5,
               "glicko_rating": 1590.452083265779,
               "key_stats": "Stri:0.7 DPS:782.0",
@@ -76107,7 +76107,7 @@ const leaderboardData = {
             {
               "account_name": "Babadook.5842",
               "composite_score": 1581.548341358195,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 16.0,
               "glicko_rating": 1581.548341358195,
               "key_stats": "Stri:0.8 DPS:384.0",
@@ -76120,7 +76120,7 @@ const leaderboardData = {
             {
               "account_name": "Niyack.4953",
               "composite_score": 1580.4786946974543,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1580.4786946974543,
               "key_stats": "Stri:0.7 DPS:944.0",
@@ -76133,7 +76133,7 @@ const leaderboardData = {
             {
               "account_name": "Mandar.9813",
               "composite_score": 1579.040040565097,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1579.040040565097,
               "key_stats": "Stri:0.7 DPS:830.0",
@@ -76146,7 +76146,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1577.6253124868085,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 17.0,
               "glicko_rating": 1577.6253124868085,
               "key_stats": "Stri:0.4 DPS:517.6",
@@ -76159,7 +76159,7 @@ const leaderboardData = {
             {
               "account_name": "aureliocf.7324",
               "composite_score": 1576.1127843768454,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 11.0,
               "glicko_rating": 1576.1127843768454,
               "key_stats": "Stri:0.6 DPS:688.0",
@@ -76172,7 +76172,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1568.523316466702,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.5,
               "glicko_rating": 1568.523316466702,
               "key_stats": "Stri:0.4 DPS:232.0",
@@ -76185,7 +76185,7 @@ const leaderboardData = {
             {
               "account_name": "blambidy.3216",
               "composite_score": 1564.6884116903032,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.5,
               "glicko_rating": 1564.6884116903032,
               "key_stats": "Stri:0.4 DPS:700.0",
@@ -76198,7 +76198,7 @@ const leaderboardData = {
             {
               "account_name": "liloxw.4809",
               "composite_score": 1552.105236051912,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 16.833333333333332,
               "glicko_rating": 1552.105236051912,
               "key_stats": "Stri:0.4 DPS:425.7",
@@ -76211,7 +76211,7 @@ const leaderboardData = {
             {
               "account_name": "Chakkkka.2504",
               "composite_score": 1549.8181677401046,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 17.0,
               "glicko_rating": 1549.8181677401046,
               "key_stats": "Stri:0.3 DPS:286.0",
@@ -76224,7 +76224,7 @@ const leaderboardData = {
             {
               "account_name": "Disenable.1640",
               "composite_score": 1549.7415080122855,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 19.5,
               "glicko_rating": 1549.7415080122855,
               "key_stats": "Stri:0.7 DPS:543.0",
@@ -76237,7 +76237,7 @@ const leaderboardData = {
             {
               "account_name": "Sabbaah.2314",
               "composite_score": 1542.702781252311,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.5,
               "glicko_rating": 1542.702781252311,
               "key_stats": "Stri:0.6 DPS:1154.0",
@@ -76250,7 +76250,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1525.5372635119015,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.0,
               "glicko_rating": 1525.5372635119015,
               "key_stats": "Stri:0.3 DPS:167.0",
@@ -76263,7 +76263,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1521.7688284097749,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1521.7688284097749,
               "key_stats": "Stri:0.2 DPS:442.0",
@@ -76276,7 +76276,7 @@ const leaderboardData = {
             {
               "account_name": "Bertozaur.4578",
               "composite_score": 1513.4944379358953,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 13.333333333333334,
               "glicko_rating": 1513.4944379358953,
               "key_stats": "Stri:0.2 DPS:653.7",
@@ -76289,7 +76289,7 @@ const leaderboardData = {
             {
               "account_name": "Massacremam.4358",
               "composite_score": 1512.6704649663207,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 22.5,
               "glicko_rating": 1512.6704649663207,
               "key_stats": "Stri:0.3 DPS:312.0",
@@ -76302,7 +76302,7 @@ const leaderboardData = {
             {
               "account_name": "ItalianMagik.2698",
               "composite_score": 1491.3754861958264,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.5,
               "glicko_rating": 1491.3754861958264,
               "key_stats": "Stri:0.2 DPS:239.0",
@@ -76315,7 +76315,7 @@ const leaderboardData = {
             {
               "account_name": "Jeff.7219",
               "composite_score": 1478.027724247218,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 19.0,
               "glicko_rating": 1478.027724247218,
               "key_stats": "Stri:0.1 DPS:375.5",
@@ -76328,7 +76328,7 @@ const leaderboardData = {
             {
               "account_name": "montjusk.9671",
               "composite_score": 1463.8264521790288,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 21.25,
               "glicko_rating": 1463.8264521790288,
               "key_stats": "Stri:0.1 DPS:351.0",
@@ -76341,7 +76341,7 @@ const leaderboardData = {
             {
               "account_name": "mememe.5239",
               "composite_score": 1455.1085503620411,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1455.1085503620411,
               "key_stats": "Stri:0.1 DPS:111.0",
@@ -76354,7 +76354,7 @@ const leaderboardData = {
             {
               "account_name": "filipe.2809",
               "composite_score": 1441.4635166996482,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 20.5,
               "glicko_rating": 1441.4635166996482,
               "key_stats": "Stri:0.1 DPS:314.0",
@@ -76380,7 +76380,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1858.495101707415,
-              "games_played": 25,
+              "games_played": 13,
               "average_rank_percent": 3.12,
               "glicko_rating": 1858.495101707415,
               "key_stats": "Heal:1947.8 Clea:1.2",
@@ -76393,7 +76393,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1797.122768033029,
-              "games_played": 19,
+              "games_played": 10,
               "average_rank_percent": 3.9473684210526314,
               "glicko_rating": 1797.122768033029,
               "key_stats": "Heal:1843.7 Clea:0.9",
@@ -76406,7 +76406,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1757.6188864538713,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 2.5,
               "glicko_rating": 1757.6188864538713,
               "key_stats": "Heal:1662.9 Clea:1.0",
@@ -76419,7 +76419,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1737.2194628557377,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 4.0,
               "glicko_rating": 1737.2194628557377,
               "key_stats": "Heal:1736.4 Clea:1.2",
@@ -76432,7 +76432,7 @@ const leaderboardData = {
             {
               "account_name": "Xhil.9316",
               "composite_score": 1732.518520018023,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 4.5,
               "glicko_rating": 1732.518520018023,
               "key_stats": "Heal:1407.3 Clea:0.9",
@@ -76445,7 +76445,7 @@ const leaderboardData = {
             {
               "account_name": "Johnny.5478",
               "composite_score": 1732.3201084142775,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 1.25,
               "glicko_rating": 1732.3201084142775,
               "key_stats": "Heal:1920.7 Clea:0.9",
@@ -76458,7 +76458,7 @@ const leaderboardData = {
             {
               "account_name": "Foodels.7358",
               "composite_score": 1725.2905374864843,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 1.0,
               "glicko_rating": 1725.2905374864843,
               "key_stats": "Heal:1551.9 Clea:1.0",
@@ -76471,7 +76471,7 @@ const leaderboardData = {
             {
               "account_name": "CaptainKnightfall.4378",
               "composite_score": 1710.201749317984,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 3.75,
               "glicko_rating": 1710.201749317984,
               "key_stats": "Heal:1513.5 Clea:1.5",
@@ -76484,7 +76484,7 @@ const leaderboardData = {
             {
               "account_name": "Jax Blake.7250",
               "composite_score": 1700.3643889556197,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.25,
               "glicko_rating": 1700.3643889556197,
               "key_stats": "Heal:1783.2 Clea:1.2",
@@ -76497,7 +76497,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1695.8874069022513,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 2.25,
               "glicko_rating": 1695.8874069022513,
               "key_stats": "Heal:1750.0 Clea:1.2",
@@ -76510,7 +76510,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1691.4463441212672,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 7.25,
               "glicko_rating": 1691.4463441212672,
               "key_stats": "Heal:1431.5 Clea:0.6",
@@ -76523,7 +76523,7 @@ const leaderboardData = {
             {
               "account_name": "Hiraldo.7954",
               "composite_score": 1676.1666076340236,
-              "games_played": 10,
+              "games_played": 6,
               "average_rank_percent": 5.5,
               "glicko_rating": 1676.1666076340236,
               "key_stats": "Heal:1215.0 Clea:0.9",
@@ -76536,7 +76536,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1674.1057377779714,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.75,
               "glicko_rating": 1674.1057377779714,
               "key_stats": "Heal:1429.4 Clea:0.9",
@@ -76549,7 +76549,7 @@ const leaderboardData = {
             {
               "account_name": "Igure.2063",
               "composite_score": 1670.4259506346345,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.5,
               "glicko_rating": 1670.4259506346345,
               "key_stats": "Heal:829.7 Clea:0.6",
@@ -76562,7 +76562,7 @@ const leaderboardData = {
             {
               "account_name": "Jeff.7219",
               "composite_score": 1670.3591855108557,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.0,
               "glicko_rating": 1670.3591855108557,
               "key_stats": "Heal:2048.8 Clea:0.8",
@@ -76575,7 +76575,7 @@ const leaderboardData = {
             {
               "account_name": "Guars.6409",
               "composite_score": 1666.636936795123,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.0,
               "glicko_rating": 1666.636936795123,
               "key_stats": "Heal:2845.1 Clea:1.6",
@@ -76588,7 +76588,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1664.3106932970209,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 4.833333333333333,
               "glicko_rating": 1664.3106932970209,
               "key_stats": "Heal:1097.1 Clea:0.6",
@@ -76601,7 +76601,7 @@ const leaderboardData = {
             {
               "account_name": "ThiagoW.4810",
               "composite_score": 1662.524027257961,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.5,
               "glicko_rating": 1662.524027257961,
               "key_stats": "Heal:1656.1 Clea:0.9",
@@ -76614,7 +76614,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1662.3534258798518,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 3.6666666666666665,
               "glicko_rating": 1662.3534258798518,
               "key_stats": "Heal:2051.5 Clea:0.9",
@@ -76627,7 +76627,7 @@ const leaderboardData = {
             {
               "account_name": "J WreckX.7648",
               "composite_score": 1661.753738063173,
-              "games_played": 5,
+              "games_played": 3,
               "average_rank_percent": 4.0,
               "glicko_rating": 1661.753738063173,
               "key_stats": "Heal:871.9 Clea:1.8",
@@ -76640,7 +76640,7 @@ const leaderboardData = {
             {
               "account_name": "aznsleeper.5896",
               "composite_score": 1661.6952757541617,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1661.6952757541617,
               "key_stats": "Heal:1408.5 Clea:0.6",
@@ -76653,7 +76653,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1656.5261505906808,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1656.5261505906808,
               "key_stats": "Heal:1497.1 Clea:0.9",
@@ -76666,7 +76666,7 @@ const leaderboardData = {
             {
               "account_name": "Mandar.9813",
               "composite_score": 1655.721413305399,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1655.721413305399,
               "key_stats": "Heal:2231.9 Clea:1.9",
@@ -76679,7 +76679,7 @@ const leaderboardData = {
             {
               "account_name": "amends.3469",
               "composite_score": 1653.0520645734987,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1653.0520645734987,
               "key_stats": "Heal:1611.1 Clea:1.2",
@@ -76692,7 +76692,7 @@ const leaderboardData = {
             {
               "account_name": "IronOre.7826",
               "composite_score": 1651.0297494594129,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1651.0297494594129,
               "key_stats": "Heal:2162.2 Clea:1.6",
@@ -76705,7 +76705,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1647.1192330629435,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1647.1192330629435,
               "key_stats": "Heal:1634.3 Clea:1.5",
@@ -76718,7 +76718,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1644.8637607146436,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 9.8,
               "glicko_rating": 1644.8637607146436,
               "key_stats": "Heal:1294.2 Clea:0.7",
@@ -76731,7 +76731,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1642.9480718309414,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1642.9480718309414,
               "key_stats": "Heal:1793.3 Clea:0.9",
@@ -76744,7 +76744,7 @@ const leaderboardData = {
             {
               "account_name": "Stan.9684",
               "composite_score": 1640.587280729145,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1640.587280729145,
               "key_stats": "Heal:1823.8 Clea:1.7",
@@ -76757,7 +76757,7 @@ const leaderboardData = {
             {
               "account_name": "TigerSpirit.2194",
               "composite_score": 1636.532905261913,
-              "games_played": 17,
+              "games_played": 9,
               "average_rank_percent": 7.529411764705882,
               "glicko_rating": 1636.532905261913,
               "key_stats": "Heal:713.1 Clea:0.8",
@@ -76770,7 +76770,7 @@ const leaderboardData = {
             {
               "account_name": "Mini.1786",
               "composite_score": 1635.880041171377,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1635.880041171377,
               "key_stats": "Heal:1469.9 Clea:1.4",
@@ -76783,7 +76783,7 @@ const leaderboardData = {
             {
               "account_name": "FrozenDelicious.3690",
               "composite_score": 1632.6061547829622,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1632.6061547829622,
               "key_stats": "Heal:1121.7 Clea:0.9",
@@ -76796,7 +76796,7 @@ const leaderboardData = {
             {
               "account_name": "SilverBlade Hero.8974",
               "composite_score": 1629.6819167003146,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 11.166666666666666,
               "glicko_rating": 1629.6819167003146,
               "key_stats": "Heal:1116.6 Clea:0.6",
@@ -76809,7 +76809,7 @@ const leaderboardData = {
             {
               "account_name": "Jdchil.9561",
               "composite_score": 1604.1998601907567,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 10.0,
               "glicko_rating": 1604.1998601907567,
               "key_stats": "Heal:1333.5 Clea:1.0",
@@ -76822,7 +76822,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1602.0063677550572,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 8.666666666666666,
               "glicko_rating": 1602.0063677550572,
               "key_stats": "Heal:1123.0 Clea:1.5",
@@ -76835,7 +76835,7 @@ const leaderboardData = {
             {
               "account_name": "HuMbErTerA.4253",
               "composite_score": 1559.4853614799881,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 11.0,
               "glicko_rating": 1559.4853614799881,
               "key_stats": "Heal:606.8 Clea:0.6",
@@ -76861,7 +76861,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1605.219849693035,
-              "games_played": 28,
+              "games_played": 14,
               "average_rank_percent": 15.392857142857142,
               "glicko_rating": 1605.219849693035,
               "key_stats": "Stab:6.5 DPS:297.4",
@@ -76874,7 +76874,7 @@ const leaderboardData = {
             {
               "account_name": "Huge.5891",
               "composite_score": 1578.238723892401,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1578.238723892401,
               "key_stats": "Stab:3.0 DPS:1692.0",
@@ -76902,7 +76902,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1640.3195931061177,
-              "games_played": 12,
+              "games_played": 4,
               "average_rank_percent": 11.25,
               "glicko_rating": 1640.3195931061177,
               "key_stats": "Stab:6.0 Clea:0.5 DPS:906.2",
@@ -76915,7 +76915,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1624.7376485478574,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 5.333333333333333,
               "glicko_rating": 1624.7376485478574,
               "key_stats": "Stab:5.9 Clea:0.3 DPS:1205.5",
@@ -76928,7 +76928,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1604.0192618543433,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 11.5,
               "glicko_rating": 1604.0192618543433,
               "key_stats": "Stab:4.7 Clea:0.8 DPS:1210.5",
@@ -76941,7 +76941,7 @@ const leaderboardData = {
             {
               "account_name": "Beneko.8475",
               "composite_score": 1593.6505200881807,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.333333333333334,
               "glicko_rating": 1593.6505200881807,
               "key_stats": "Stab:8.8 Clea:0.7 DPS:1947.0",
@@ -76954,7 +76954,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1584.2391343959098,
-              "games_played": 12,
+              "games_played": 4,
               "average_rank_percent": 12.916666666666666,
               "glicko_rating": 1584.2391343959098,
               "key_stats": "Stab:6.8 Clea:0.3 DPS:510.5",
@@ -76967,7 +76967,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1579.9611278123355,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 11.333333333333334,
               "glicko_rating": 1579.9611278123355,
               "key_stats": "Stab:5.5 Clea:0.6 DPS:1446.0",
@@ -76980,7 +76980,7 @@ const leaderboardData = {
             {
               "account_name": "Mortealug.6043",
               "composite_score": 1579.0771273617283,
-              "games_played": 9,
+              "games_played": 3,
               "average_rank_percent": 13.11111111111111,
               "glicko_rating": 1579.0771273617283,
               "key_stats": "Stab:6.6 Clea:0.3 DPS:629.7",
@@ -76993,7 +76993,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1574.5870678092356,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 7.666666666666667,
               "glicko_rating": 1574.5870678092356,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
@@ -77006,7 +77006,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1558.708490176252,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 12.5,
               "glicko_rating": 1558.708490176252,
               "key_stats": "Stab:6.2 Clea:0.3 DPS:1070.5",
@@ -77019,7 +77019,7 @@ const leaderboardData = {
             {
               "account_name": "Nennius.9627",
               "composite_score": 1542.5679040175855,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1542.5679040175855,
               "key_stats": "Stab:6.1 Clea:0.9 DPS:1434.0",
@@ -77032,7 +77032,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1540.7914651447422,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1540.7914651447422,
               "key_stats": "Stab:3.4 Clea:0.4 DPS:599.0",
@@ -77045,7 +77045,7 @@ const leaderboardData = {
             {
               "account_name": "Xhil.9316",
               "composite_score": 1536.0088998372073,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 6.666666666666667,
               "glicko_rating": 1536.0088998372073,
               "key_stats": "Stab:6.7 Clea:0.3 DPS:823.0",
@@ -77058,7 +77058,7 @@ const leaderboardData = {
             {
               "account_name": "Mashiro.3408",
               "composite_score": 1532.8364732748544,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 11.0,
               "glicko_rating": 1532.8364732748544,
               "key_stats": "Stab:5.8 Clea:0.9 DPS:1320.0",
@@ -77071,7 +77071,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1526.1124645816665,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1526.1124645816665,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
@@ -77084,7 +77084,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1524.110222841157,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1524.110222841157,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
@@ -77097,7 +77097,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1515.6249900706202,
-              "games_played": 21,
+              "games_played": 7,
               "average_rank_percent": 12.142857142857142,
               "glicko_rating": 1515.6249900706202,
               "key_stats": "Stab:4.9 Clea:0.3 DPS:850.4",
@@ -77110,7 +77110,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1502.8106343491665,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 10.333333333333334,
               "glicko_rating": 1502.8106343491665,
               "key_stats": "Stab:3.1 Clea:0.3 DPS:667.0",
@@ -77123,7 +77123,7 @@ const leaderboardData = {
             {
               "account_name": "Fibbs.1623",
               "composite_score": 1491.9623463666846,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 23.333333333333332,
               "glicko_rating": 1491.9623463666846,
               "key_stats": "Stab:3.4 Clea:0.1 DPS:377.5",
@@ -77153,7 +77153,7 @@ const leaderboardData = {
             {
               "account_name": "OPness.3215",
               "composite_score": 1697.8969874704262,
-              "games_played": 20,
+              "games_played": 5,
               "average_rank_percent": 8.15,
               "glicko_rating": 1697.8969874704262,
               "key_stats": "Migh:35.8 Resi:0.9 Stab:2.7",
@@ -77166,7 +77166,7 @@ const leaderboardData = {
             {
               "account_name": "Solomon Darkfury.3729",
               "composite_score": 1696.681148469888,
-              "games_played": 12,
+              "games_played": 3,
               "average_rank_percent": 7.0,
               "glicko_rating": 1696.681148469888,
               "key_stats": "Migh:36.1 Resi:1.4 Stab:4.4",
@@ -77179,7 +77179,7 @@ const leaderboardData = {
             {
               "account_name": "Raven Paradox.1860",
               "composite_score": 1623.9932914266722,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 8.75,
               "glicko_rating": 1623.9932914266722,
               "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
@@ -77192,7 +77192,7 @@ const leaderboardData = {
             {
               "account_name": "Asterisk.9730",
               "composite_score": 1621.8520876264938,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 8.25,
               "glicko_rating": 1621.8520876264938,
               "key_stats": "Migh:36.5 Resi:1.0 Stab:4.1",
@@ -77205,7 +77205,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1610.9058520418098,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 7.75,
               "glicko_rating": 1610.9058520418098,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
@@ -77218,7 +77218,7 @@ const leaderboardData = {
             {
               "account_name": "mikefmc.5961",
               "composite_score": 1601.2902434308178,
-              "games_played": 12,
+              "games_played": 3,
               "average_rank_percent": 7.25,
               "glicko_rating": 1601.2902434308178,
               "key_stats": "Migh:12.7 Resi:0.8 Stab:1.2",
@@ -77231,7 +77231,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1600.3817473409865,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 9.25,
               "glicko_rating": 1600.3817473409865,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
@@ -77244,7 +77244,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1574.3176213472943,
-              "games_played": 8,
+              "games_played": 2,
               "average_rank_percent": 8.5,
               "glicko_rating": 1574.3176213472943,
               "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
@@ -77257,7 +77257,7 @@ const leaderboardData = {
             {
               "account_name": "TehWolfman.1794",
               "composite_score": 1533.1345593079543,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 12.75,
               "glicko_rating": 1533.1345593079543,
               "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
@@ -77270,7 +77270,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1526.7181395710163,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 10.25,
               "glicko_rating": 1526.7181395710163,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
@@ -77296,7 +77296,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1632.5908199517035,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 16.5,
               "glicko_rating": 1632.5908199517035,
               "key_stats": "Prot:3.3 DPS:63.0",
@@ -77309,7 +77309,7 @@ const leaderboardData = {
             {
               "account_name": "Aein.1483",
               "composite_score": 1595.756220889361,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1595.756220889361,
               "key_stats": "Prot:1.6 DPS:1017.0",
@@ -139693,7 +139693,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1781.5013957571082,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 1.375,
               "glicko_rating": 1781.5013957571082,
               "key_stats": "Stab:8.2 Resi:1.2",
@@ -139706,7 +139706,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1750.3925916805165,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 3.5,
               "glicko_rating": 1750.3925916805165,
               "key_stats": "Stab:7.6 Resi:0.9",
@@ -139719,7 +139719,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1743.5383116046412,
-              "games_played": 12,
+              "games_played": 6,
               "average_rank_percent": 3.3333333333333335,
               "glicko_rating": 1743.5383116046412,
               "key_stats": "Stab:6.5 Resi:0.8",
@@ -139732,7 +139732,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1730.7136887833533,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 4.5,
               "glicko_rating": 1730.7136887833533,
               "key_stats": "Stab:7.1 Resi:0.9",
@@ -139745,7 +139745,7 @@ const leaderboardData = {
             {
               "account_name": "aznsleeper.5896",
               "composite_score": 1718.7268278009738,
-              "games_played": 26,
+              "games_played": 13,
               "average_rank_percent": 5.115384615384615,
               "glicko_rating": 1718.7268278009738,
               "key_stats": "Stab:6.9 Resi:0.7",
@@ -139758,7 +139758,7 @@ const leaderboardData = {
             {
               "account_name": "mikefmc.5961",
               "composite_score": 1707.179635377135,
-              "games_played": 12,
+              "games_played": 6,
               "average_rank_percent": 5.083333333333333,
               "glicko_rating": 1707.179635377135,
               "key_stats": "Stab:6.5 Resi:0.7",
@@ -139771,7 +139771,7 @@ const leaderboardData = {
             {
               "account_name": "Clarrovi.9085",
               "composite_score": 1704.9906431195966,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 3.0,
               "glicko_rating": 1704.9906431195966,
               "key_stats": "Stab:7.8 Resi:0.8",
@@ -139784,7 +139784,7 @@ const leaderboardData = {
             {
               "account_name": "BattleGalaticNinja.4508",
               "composite_score": 1689.3892691467295,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.25,
               "glicko_rating": 1689.3892691467295,
               "key_stats": "Stab:7.2 Resi:1.1",
@@ -139797,7 +139797,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1673.7479625371725,
-              "games_played": 19,
+              "games_played": 10,
               "average_rank_percent": 7.052631578947368,
               "glicko_rating": 1673.7479625371725,
               "key_stats": "Stab:6.3 Resi:0.8",
@@ -139810,7 +139810,7 @@ const leaderboardData = {
             {
               "account_name": "King Sylvari.2567",
               "composite_score": 1673.4658888357526,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 5.5,
               "glicko_rating": 1673.4658888357526,
               "key_stats": "Stab:6.1 Resi:0.5",
@@ -139823,7 +139823,7 @@ const leaderboardData = {
             {
               "account_name": "nateboyd.5682",
               "composite_score": 1653.123287914506,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1653.123287914506,
               "key_stats": "Stab:8.5 Resi:1.1",
@@ -139836,7 +139836,7 @@ const leaderboardData = {
             {
               "account_name": "Carnibaal.2140",
               "composite_score": 1651.8340522423057,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1651.8340522423057,
               "key_stats": "Stab:7.2 Resi:1.0",
@@ -139849,7 +139849,7 @@ const leaderboardData = {
             {
               "account_name": "mikerock.6187",
               "composite_score": 1651.005870864126,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1651.005870864126,
               "key_stats": "Stab:7.6 Resi:0.9",
@@ -139862,7 +139862,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1650.6084424784858,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.0,
               "glicko_rating": 1650.6084424784858,
               "key_stats": "Stab:9.3 Resi:1.1",
@@ -139875,7 +139875,7 @@ const leaderboardData = {
             {
               "account_name": "Hydrason.4612",
               "composite_score": 1643.9212184042844,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 7.5,
               "glicko_rating": 1643.9212184042844,
               "key_stats": "Stab:5.5 Resi:0.9",
@@ -139888,7 +139888,7 @@ const leaderboardData = {
             {
               "account_name": "cmkmrr.1705",
               "composite_score": 1642.396065423341,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.0,
               "glicko_rating": 1642.396065423341,
               "key_stats": "Stab:7.0 Resi:0.8",
@@ -139901,7 +139901,7 @@ const leaderboardData = {
             {
               "account_name": "The Original Barcode.7985",
               "composite_score": 1637.3384430629408,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.0,
               "glicko_rating": 1637.3384430629408,
               "key_stats": "Stab:9.1 Resi:0.9",
@@ -139914,7 +139914,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1633.9346098796693,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 4.9,
               "glicko_rating": 1633.9346098796693,
               "key_stats": "Stab:8.5 Resi:0.3",
@@ -139927,7 +139927,7 @@ const leaderboardData = {
             {
               "account_name": "Lasthope.7943",
               "composite_score": 1633.8809570003643,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1633.8809570003643,
               "key_stats": "Stab:7.6 Resi:1.2",
@@ -139940,7 +139940,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1633.6239187364163,
-              "games_played": 22,
+              "games_played": 11,
               "average_rank_percent": 5.909090909090909,
               "glicko_rating": 1633.6239187364163,
               "key_stats": "Stab:6.3 Resi:0.6",
@@ -139953,7 +139953,7 @@ const leaderboardData = {
             {
               "account_name": "Johnny.5478",
               "composite_score": 1630.8552428425155,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1630.8552428425155,
               "key_stats": "Stab:7.1 Resi:1.0",
@@ -139966,7 +139966,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1625.6587689550392,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1625.6587689550392,
               "key_stats": "Stab:6.0 Resi:1.4",
@@ -139979,7 +139979,7 @@ const leaderboardData = {
             {
               "account_name": "Sabbaah.2314",
               "composite_score": 1622.777205600507,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.5,
               "glicko_rating": 1622.777205600507,
               "key_stats": "Stab:9.7 Resi:0.7",
@@ -139992,7 +139992,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1618.588571060629,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1618.588571060629,
               "key_stats": "Stab:8.4 Resi:1.0",
@@ -140005,7 +140005,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.7284",
               "composite_score": 1617.7927041948024,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.5,
               "glicko_rating": 1617.7927041948024,
               "key_stats": "Stab:5.3 Resi:0.8",
@@ -140018,7 +140018,7 @@ const leaderboardData = {
             {
               "account_name": "BlueViolet.8263",
               "composite_score": 1617.6409052901236,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 6.5,
               "glicko_rating": 1617.6409052901236,
               "key_stats": "Stab:7.3 Resi:0.6",
@@ -140031,7 +140031,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1614.5593293254808,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.75,
               "glicko_rating": 1614.5593293254808,
               "key_stats": "Stab:7.1 Resi:0.7",
@@ -140044,7 +140044,7 @@ const leaderboardData = {
             {
               "account_name": "Mylovis.6390",
               "composite_score": 1614.540669060098,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1614.540669060098,
               "key_stats": "Stab:7.1 Resi:0.8",
@@ -140057,7 +140057,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1613.2009762558957,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 7.666666666666667,
               "glicko_rating": 1613.2009762558957,
               "key_stats": "Stab:5.3 Resi:0.6",
@@ -140070,7 +140070,7 @@ const leaderboardData = {
             {
               "account_name": "mattb.1263",
               "composite_score": 1604.805299331038,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1604.805299331038,
               "key_stats": "Stab:8.3 Resi:0.6",
@@ -140083,7 +140083,7 @@ const leaderboardData = {
             {
               "account_name": "paizin.2154",
               "composite_score": 1604.2148433664352,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.5,
               "glicko_rating": 1604.2148433664352,
               "key_stats": "Stab:7.7 Resi:0.8",
@@ -140096,7 +140096,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1602.957538122998,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 8.0,
               "glicko_rating": 1602.957538122998,
               "key_stats": "Stab:8.0 Resi:0.7",
@@ -140109,7 +140109,7 @@ const leaderboardData = {
             {
               "account_name": "PublicDisplayName.4986",
               "composite_score": 1596.8307580553665,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.0,
               "glicko_rating": 1596.8307580553665,
               "key_stats": "Stab:7.6 Resi:0.5",
@@ -140122,7 +140122,7 @@ const leaderboardData = {
             {
               "account_name": "Bronkes.1865",
               "composite_score": 1595.6875056428335,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1595.6875056428335,
               "key_stats": "Stab:9.4 Resi:0.5",
@@ -140135,7 +140135,7 @@ const leaderboardData = {
             {
               "account_name": "Full Course Meal.9540",
               "composite_score": 1590.3928297861746,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.0,
               "glicko_rating": 1590.3928297861746,
               "key_stats": "Stab:4.6 Resi:0.7",
@@ -140148,7 +140148,7 @@ const leaderboardData = {
             {
               "account_name": "Xhil.9316",
               "composite_score": 1587.7909444399008,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1587.7909444399008,
               "key_stats": "Stab:6.3 Resi:0.5",
@@ -140161,7 +140161,7 @@ const leaderboardData = {
             {
               "account_name": "Stash.8401",
               "composite_score": 1584.058691665698,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1584.058691665698,
               "key_stats": "Stab:5.4 Resi:0.6",
@@ -140174,7 +140174,7 @@ const leaderboardData = {
             {
               "account_name": "Mortealug.6043",
               "composite_score": 1577.5716130833546,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 7.666666666666667,
               "glicko_rating": 1577.5716130833546,
               "key_stats": "Stab:6.2 Resi:0.1",
@@ -140187,7 +140187,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1576.2566589833966,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 7.333333333333333,
               "glicko_rating": 1576.2566589833966,
               "key_stats": "Stab:4.2 Resi:0.9",
@@ -140200,7 +140200,7 @@ const leaderboardData = {
             {
               "account_name": "red armadillo.4593",
               "composite_score": 1572.4637893578927,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.0,
               "glicko_rating": 1572.4637893578927,
               "key_stats": "Stab:3.9 Resi:1.1",
@@ -140213,7 +140213,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1555.5371744636218,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.5,
               "glicko_rating": 1555.5371744636218,
               "key_stats": "Stab:4.5 Resi:0.8",
@@ -140226,7 +140226,7 @@ const leaderboardData = {
             {
               "account_name": "inneedoflife.5092",
               "composite_score": 1555.12350092894,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 11.5,
               "glicko_rating": 1555.12350092894,
               "key_stats": "Stab:6.9 Resi:0.1",
@@ -140239,7 +140239,7 @@ const leaderboardData = {
             {
               "account_name": "lcuocikny.3814",
               "composite_score": 1554.7848874007282,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1554.7848874007282,
               "key_stats": "Stab:5.1 Resi:0.3",
@@ -140252,7 +140252,7 @@ const leaderboardData = {
             {
               "account_name": "DareDevils.6039",
               "composite_score": 1552.9900892474186,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 9.166666666666666,
               "glicko_rating": 1552.9900892474186,
               "key_stats": "Stab:8.4 Resi:0.2",
@@ -140265,7 +140265,7 @@ const leaderboardData = {
             {
               "account_name": "Bayushi.7914",
               "composite_score": 1550.6475402756391,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1550.6475402756391,
               "key_stats": "Stab:6.5 Resi:0.6",
@@ -140278,7 +140278,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1535.4941509847167,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1535.4941509847167,
               "key_stats": "Stab:5.4 Resi:0.4",
@@ -140291,7 +140291,7 @@ const leaderboardData = {
             {
               "account_name": "Arpeggio.9730",
               "composite_score": 1531.1008866892078,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.5,
               "glicko_rating": 1531.1008866892078,
               "key_stats": "Stab:4.3 Resi:0.4",
@@ -140304,7 +140304,7 @@ const leaderboardData = {
             {
               "account_name": "Gir Rowl.7065",
               "composite_score": 1520.136765776406,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.0,
               "glicko_rating": 1520.136765776406,
               "key_stats": "Stab:5.2 Resi:0.1",
@@ -140317,7 +140317,7 @@ const leaderboardData = {
             {
               "account_name": "Azelroth.6801",
               "composite_score": 1509.906884318923,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.5,
               "glicko_rating": 1509.906884318923,
               "key_stats": "Stab:4.1 Resi:0.1",
@@ -140330,7 +140330,7 @@ const leaderboardData = {
             {
               "account_name": "Rapscallion.3571",
               "composite_score": 1475.3837306780003,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.0,
               "glicko_rating": 1475.3837306780003,
               "key_stats": "Stab:5.7 Resi:0.1",
@@ -140343,7 +140343,7 @@ const leaderboardData = {
             {
               "account_name": "SunJian.8029",
               "composite_score": 1464.280502474941,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1464.280502474941,
               "key_stats": "Stab:3.9 Resi:0.2",
@@ -140356,7 +140356,7 @@ const leaderboardData = {
             {
               "account_name": "Grizzly.1826",
               "composite_score": 1459.6560006651957,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 17.5,
               "glicko_rating": 1459.6560006651957,
               "key_stats": "Stab:3.3 Resi:0.1",
@@ -140369,7 +140369,7 @@ const leaderboardData = {
             {
               "account_name": "CallsignTundra.5963",
               "composite_score": 1444.7632298138456,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 17.0,
               "glicko_rating": 1444.7632298138456,
               "key_stats": "Stab:4.2 Resi:0.2",
@@ -140382,7 +140382,7 @@ const leaderboardData = {
             {
               "account_name": "RoyTheBoy.8693",
               "composite_score": 1434.063526761262,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.5,
               "glicko_rating": 1434.063526761262,
               "key_stats": "Stab:3.8 Resi:0.2",
@@ -140395,7 +140395,7 @@ const leaderboardData = {
             {
               "account_name": "TTRF.8473",
               "composite_score": 1397.2892386299936,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.0,
               "glicko_rating": 1397.2892386299936,
               "key_stats": "Stab:0.2 Resi:0.2",
@@ -140408,7 +140408,7 @@ const leaderboardData = {
             {
               "account_name": "pinguinox.9528",
               "composite_score": 1396.65216526832,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 21.5,
               "glicko_rating": 1396.65216526832,
               "key_stats": "Stab:1.0 Resi:0.1",
@@ -140421,7 +140421,7 @@ const leaderboardData = {
             {
               "account_name": "Ray Bell.2135",
               "composite_score": 1386.3788083878899,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 26.0,
               "glicko_rating": 1386.3788083878899,
               "key_stats": "Stab:1.3 Resi:0.1",
@@ -140434,7 +140434,7 @@ const leaderboardData = {
             {
               "account_name": "Wildcassandra.8463",
               "composite_score": 1361.326957319351,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 26.0,
               "glicko_rating": 1361.326957319351,
               "key_stats": "Stab:0.1 Resi:0.1",
@@ -140447,7 +140447,7 @@ const leaderboardData = {
             {
               "account_name": "Ronin.4501",
               "composite_score": 1359.6808244807462,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.5,
               "glicko_rating": 1359.6808244807462,
               "key_stats": "Stab:5.3 Resi:0.1",
@@ -140479,7 +140479,7 @@ const leaderboardData = {
             {
               "account_name": "Bailyen Arturius.4263",
               "composite_score": 1747.5222267808335,
-              "games_played": 50,
+              "games_played": 10,
               "average_rank_percent": 5.26,
               "glicko_rating": 1747.5222267808335,
               "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
@@ -140492,7 +140492,7 @@ const leaderboardData = {
             {
               "account_name": "Disenable.1640",
               "composite_score": 1683.40957353997,
-              "games_played": 23,
+              "games_played": 5,
               "average_rank_percent": 4.434782608695652,
               "glicko_rating": 1683.40957353997,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
@@ -140505,7 +140505,7 @@ const leaderboardData = {
             {
               "account_name": "Muted.8591",
               "composite_score": 1681.093521590186,
-              "games_played": 58,
+              "games_played": 12,
               "average_rank_percent": 7.189655172413793,
               "glicko_rating": 1681.093521590186,
               "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
@@ -140518,7 +140518,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1655.4959354530004,
-              "games_played": 23,
+              "games_played": 5,
               "average_rank_percent": 5.913043478260869,
               "glicko_rating": 1655.4959354530004,
               "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
@@ -140531,7 +140531,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1642.277676814972,
-              "games_played": 70,
+              "games_played": 14,
               "average_rank_percent": 6.942857142857143,
               "glicko_rating": 1642.277676814972,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
@@ -140544,7 +140544,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1631.2236539607934,
-              "games_played": 13,
+              "games_played": 3,
               "average_rank_percent": 6.461538461538462,
               "glicko_rating": 1631.2236539607934,
               "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
@@ -140557,7 +140557,7 @@ const leaderboardData = {
             {
               "account_name": "Degothia.7394",
               "composite_score": 1620.4655338811563,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 6.5,
               "glicko_rating": 1620.4655338811563,
               "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
@@ -140570,7 +140570,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1614.8709021048967,
-              "games_played": 35,
+              "games_played": 7,
               "average_rank_percent": 9.4,
               "glicko_rating": 1614.8709021048967,
               "key_stats": "Stab:4.9 Clea:0.9 Resi:0.3",
@@ -140583,7 +140583,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1613.0978286172567,
-              "games_played": 25,
+              "games_played": 5,
               "average_rank_percent": 8.32,
               "glicko_rating": 1613.0978286172567,
               "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
@@ -140596,7 +140596,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1610.373555731248,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 10.7,
               "glicko_rating": 1610.373555731248,
               "key_stats": "Stab:6.9 Clea:1.1 Resi:0.2",
@@ -140609,7 +140609,7 @@ const leaderboardData = {
             {
               "account_name": "Ronin.4501",
               "composite_score": 1608.326167115368,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 5.7,
               "glicko_rating": 1608.326167115368,
               "key_stats": "Stab:7.8 Clea:1.6 Resi:0.5",
@@ -140622,7 +140622,7 @@ const leaderboardData = {
             {
               "account_name": "ABC.9386",
               "composite_score": 1607.3107447609293,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.2,
               "glicko_rating": 1607.3107447609293,
               "key_stats": "Stab:8.6 Clea:0.9 Resi:1.0",
@@ -140635,7 +140635,7 @@ const leaderboardData = {
             {
               "account_name": "bernadettesurprise.3297",
               "composite_score": 1600.643468476177,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.2,
               "glicko_rating": 1600.643468476177,
               "key_stats": "Stab:5.8 Clea:1.2 Resi:0.5",
@@ -140648,7 +140648,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1599.490725250442,
-              "games_played": 15,
+              "games_played": 3,
               "average_rank_percent": 7.133333333333334,
               "glicko_rating": 1599.490725250442,
               "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
@@ -140661,7 +140661,7 @@ const leaderboardData = {
             {
               "account_name": "katoki.7869",
               "composite_score": 1597.7695302437623,
-              "games_played": 25,
+              "games_played": 5,
               "average_rank_percent": 8.32,
               "glicko_rating": 1597.7695302437623,
               "key_stats": "Stab:5.3 Clea:0.4 Resi:0.5",
@@ -140674,7 +140674,7 @@ const leaderboardData = {
             {
               "account_name": "On Fire.7602",
               "composite_score": 1596.1448391166114,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1596.1448391166114,
               "key_stats": "Stab:6.3 Clea:1.0 Resi:0.7",
@@ -140687,7 +140687,7 @@ const leaderboardData = {
             {
               "account_name": "Jim.5419",
               "composite_score": 1571.8930376453127,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1571.8930376453127,
               "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
@@ -140700,7 +140700,7 @@ const leaderboardData = {
             {
               "account_name": "Kearsarge.9357",
               "composite_score": 1571.2101961043916,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 5.8,
               "glicko_rating": 1571.2101961043916,
               "key_stats": "Stab:6.4 Clea:0.9 Resi:0.9",
@@ -140713,7 +140713,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1570.8899265121736,
-              "games_played": 20,
+              "games_played": 4,
               "average_rank_percent": 7.7,
               "glicko_rating": 1570.8899265121736,
               "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
@@ -140726,7 +140726,7 @@ const leaderboardData = {
             {
               "account_name": "Lookiey.1387",
               "composite_score": 1569.377253488313,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.6,
               "glicko_rating": 1569.377253488313,
               "key_stats": "Stab:4.3 Clea:0.9 Resi:0.3",
@@ -140739,7 +140739,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1566.4076397086146,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 7.5,
               "glicko_rating": 1566.4076397086146,
               "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
@@ -140752,7 +140752,7 @@ const leaderboardData = {
             {
               "account_name": "Igure.2063",
               "composite_score": 1561.105226409625,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 8.6,
               "glicko_rating": 1561.105226409625,
               "key_stats": "Stab:8.6 Clea:0.2 Resi:0.9",
@@ -140765,7 +140765,7 @@ const leaderboardData = {
             {
               "account_name": "Souza.1562",
               "composite_score": 1559.150676548864,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1559.150676548864,
               "key_stats": "Stab:9.8 Clea:0.4 Resi:0.9",
@@ -140778,7 +140778,7 @@ const leaderboardData = {
             {
               "account_name": "mng.1634",
               "composite_score": 1557.1820488990122,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 11.8,
               "glicko_rating": 1557.1820488990122,
               "key_stats": "Stab:6.4 Clea:0.5 Resi:0.4",
@@ -140791,7 +140791,7 @@ const leaderboardData = {
             {
               "account_name": "Mini.1786",
               "composite_score": 1554.372448475214,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.2,
               "glicko_rating": 1554.372448475214,
               "key_stats": "Stab:9.4 Clea:0.2 Resi:0.9",
@@ -140804,7 +140804,7 @@ const leaderboardData = {
             {
               "account_name": "Bleebt.4108",
               "composite_score": 1548.4053358481724,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 10.9,
               "glicko_rating": 1548.4053358481724,
               "key_stats": "Stab:6.2 Clea:0.3 Resi:0.7",
@@ -140817,7 +140817,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1538.8550902188401,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 8.6,
               "glicko_rating": 1538.8550902188401,
               "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
@@ -140830,7 +140830,7 @@ const leaderboardData = {
             {
               "account_name": "Mini.8130",
               "composite_score": 1535.9384567846635,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.2,
               "glicko_rating": 1535.9384567846635,
               "key_stats": "Stab:5.2 Clea:0.6 Resi:1.0",
@@ -140843,7 +140843,7 @@ const leaderboardData = {
             {
               "account_name": "ixJurema.8657",
               "composite_score": 1532.3769243245392,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.8,
               "glicko_rating": 1532.3769243245392,
               "key_stats": "Stab:8.6 Clea:0.3 Resi:0.8",
@@ -140856,7 +140856,7 @@ const leaderboardData = {
             {
               "account_name": "Eliare.4069",
               "composite_score": 1530.8726838159196,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.6,
               "glicko_rating": 1530.8726838159196,
               "key_stats": "Stab:5.0 Clea:0.2 Resi:0.4",
@@ -140869,7 +140869,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1525.4028792681104,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 10.6,
               "glicko_rating": 1525.4028792681104,
               "key_stats": "Stab:5.0 Clea:0.5 Resi:0.4",
@@ -140882,7 +140882,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1520.1849447110287,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.4,
               "glicko_rating": 1520.1849447110287,
               "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
@@ -140895,7 +140895,7 @@ const leaderboardData = {
             {
               "account_name": "GreatPadinski.2170",
               "composite_score": 1514.0257342663301,
-              "games_played": 13,
+              "games_played": 3,
               "average_rank_percent": 14.0,
               "glicko_rating": 1514.0257342663301,
               "key_stats": "Stab:4.6 Clea:0.3 Resi:0.6",
@@ -140908,7 +140908,7 @@ const leaderboardData = {
             {
               "account_name": "Graven.4325",
               "composite_score": 1504.20312002244,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.8,
               "glicko_rating": 1504.20312002244,
               "key_stats": "Stab:4.2 Clea:0.3 Resi:0.2",
@@ -140921,7 +140921,7 @@ const leaderboardData = {
             {
               "account_name": "Elgar.2091",
               "composite_score": 1486.5907031766594,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 7.2,
               "glicko_rating": 1486.5907031766594,
               "key_stats": "Stab:2.1 Clea:0.4 Resi:0.1",
@@ -140934,7 +140934,7 @@ const leaderboardData = {
             {
               "account_name": "CaptainKnightfall.4378",
               "composite_score": 1486.4071135766603,
-              "games_played": 9,
+              "games_played": 2,
               "average_rank_percent": 15.444444444444445,
               "glicko_rating": 1486.4071135766603,
               "key_stats": "Stab:3.2 Clea:0.1 Resi:0.3",
@@ -140947,7 +140947,7 @@ const leaderboardData = {
             {
               "account_name": "IClappBuns.2587",
               "composite_score": 1483.2032206265587,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 10.4,
               "glicko_rating": 1483.2032206265587,
               "key_stats": "Stab:3.1 Clea:0.3 Resi:0.3",
@@ -140960,7 +140960,7 @@ const leaderboardData = {
             {
               "account_name": "Bad Karma.8407",
               "composite_score": 1481.10582490726,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.6,
               "glicko_rating": 1481.10582490726,
               "key_stats": "Stab:3.2 Clea:0.2 Resi:0.4",
@@ -140973,7 +140973,7 @@ const leaderboardData = {
             {
               "account_name": "Sieia.3642",
               "composite_score": 1456.7055508652506,
-              "games_played": 13,
+              "games_played": 3,
               "average_rank_percent": 14.153846153846153,
               "glicko_rating": 1456.7055508652506,
               "key_stats": "Stab:2.7 Clea:0.1 Resi:0.3",
@@ -140999,7 +140999,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1757.9336022071586,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 5.875,
               "glicko_rating": 1757.9336022071586,
               "key_stats": "Stri:1.1 DPS:1643.0",
@@ -141012,7 +141012,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1700.715305379776,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 7.0,
               "glicko_rating": 1700.715305379776,
               "key_stats": "Stri:0.7 DPS:1157.6",
@@ -141025,7 +141025,7 @@ const leaderboardData = {
             {
               "account_name": "SilverBlade Hero.8974",
               "composite_score": 1670.1716360631135,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 7.5,
               "glicko_rating": 1670.1716360631135,
               "key_stats": "Stri:0.9 DPS:1598.5",
@@ -141038,7 +141038,7 @@ const leaderboardData = {
             {
               "account_name": "Mes.1906",
               "composite_score": 1666.070322132592,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 10.333333333333334,
               "glicko_rating": 1666.070322132592,
               "key_stats": "Stri:0.7 DPS:1270.0",
@@ -141051,7 +141051,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1663.647759060576,
-              "games_played": 20,
+              "games_played": 10,
               "average_rank_percent": 9.7,
               "glicko_rating": 1663.647759060576,
               "key_stats": "Stri:0.4 DPS:1030.0",
@@ -141064,7 +141064,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1659.44983600643,
-              "games_played": 20,
+              "games_played": 10,
               "average_rank_percent": 9.35,
               "glicko_rating": 1659.44983600643,
               "key_stats": "Stri:0.6 DPS:1209.4",
@@ -141077,7 +141077,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1657.285130799869,
-              "games_played": 16,
+              "games_played": 8,
               "average_rank_percent": 10.8125,
               "glicko_rating": 1657.285130799869,
               "key_stats": "Stri:0.4 DPS:872.6",
@@ -141090,7 +141090,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1655.53626528528,
-              "games_played": 14,
+              "games_played": 7,
               "average_rank_percent": 10.428571428571429,
               "glicko_rating": 1655.53626528528,
               "key_stats": "Stri:0.5 DPS:948.4",
@@ -141103,7 +141103,7 @@ const leaderboardData = {
             {
               "account_name": "Syde.1863",
               "composite_score": 1647.8538813412165,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 10.875,
               "glicko_rating": 1647.8538813412165,
               "key_stats": "Stri:0.7 DPS:668.5",
@@ -141116,7 +141116,7 @@ const leaderboardData = {
             {
               "account_name": "Pieswithattitude.2357",
               "composite_score": 1644.719387971661,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.5,
               "glicko_rating": 1644.719387971661,
               "key_stats": "Stri:1.0 DPS:1775.0",
@@ -141129,7 +141129,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1643.7889449672887,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 12.0,
               "glicko_rating": 1643.7889449672887,
               "key_stats": "Stri:0.6 DPS:1138.0",
@@ -141142,7 +141142,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1640.8912499530998,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 8.833333333333334,
               "glicko_rating": 1640.8912499530998,
               "key_stats": "Stri:0.6 DPS:1554.7",
@@ -141155,7 +141155,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1639.3531814432226,
-              "games_played": 20,
+              "games_played": 10,
               "average_rank_percent": 12.2,
               "glicko_rating": 1639.3531814432226,
               "key_stats": "Stri:0.4 DPS:800.6",
@@ -141168,7 +141168,7 @@ const leaderboardData = {
             {
               "account_name": "Knightmare.6849",
               "composite_score": 1638.610875575982,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 14.25,
               "glicko_rating": 1638.610875575982,
               "key_stats": "Stri:1.3 DPS:439.5",
@@ -141181,7 +141181,7 @@ const leaderboardData = {
             {
               "account_name": "Stash.8401",
               "composite_score": 1636.4047866060105,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 15.0,
               "glicko_rating": 1636.4047866060105,
               "key_stats": "Stri:0.5 DPS:328.5",
@@ -141194,7 +141194,7 @@ const leaderboardData = {
             {
               "account_name": "Daasen.3719",
               "composite_score": 1628.8163603986445,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.0,
               "glicko_rating": 1628.8163603986445,
               "key_stats": "Stri:0.8 DPS:1097.0",
@@ -141207,7 +141207,7 @@ const leaderboardData = {
             {
               "account_name": "Elgar.2091",
               "composite_score": 1623.5075308239998,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 12.5,
               "glicko_rating": 1623.5075308239998,
               "key_stats": "Stri:0.8 DPS:597.5",
@@ -141220,7 +141220,7 @@ const leaderboardData = {
             {
               "account_name": "Cruelty.9730",
               "composite_score": 1623.0851407497187,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1623.0851407497187,
               "key_stats": "Stri:1.0 DPS:1249.0",
@@ -141233,7 +141233,7 @@ const leaderboardData = {
             {
               "account_name": "Wisdom.6028",
               "composite_score": 1620.334249647321,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 12.0,
               "glicko_rating": 1620.334249647321,
               "key_stats": "Stri:0.5 DPS:903.0",
@@ -141246,7 +141246,7 @@ const leaderboardData = {
             {
               "account_name": "CrimeLordXx.3920",
               "composite_score": 1619.439399319314,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.5,
               "glicko_rating": 1619.439399319314,
               "key_stats": "Stri:0.5 DPS:1625.0",
@@ -141259,7 +141259,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1619.3487310549453,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 7.625,
               "glicko_rating": 1619.3487310549453,
               "key_stats": "Stri:0.4 DPS:1214.2",
@@ -141272,7 +141272,7 @@ const leaderboardData = {
             {
               "account_name": "limao.5968",
               "composite_score": 1619.2706017629853,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 11.75,
               "glicko_rating": 1619.2706017629853,
               "key_stats": "Stri:0.8 DPS:1055.5",
@@ -141285,7 +141285,7 @@ const leaderboardData = {
             {
               "account_name": "DanDizh.8416",
               "composite_score": 1617.5554671013033,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1617.5554671013033,
               "key_stats": "Stri:0.6 DPS:1155.0",
@@ -141298,7 +141298,7 @@ const leaderboardData = {
             {
               "account_name": "Athena.4562",
               "composite_score": 1615.5592168273774,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 13.5,
               "glicko_rating": 1615.5592168273774,
               "key_stats": "Stri:1.1 DPS:681.0",
@@ -141311,7 +141311,7 @@ const leaderboardData = {
             {
               "account_name": "arrsc.9046",
               "composite_score": 1604.754827808402,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 7.5,
               "glicko_rating": 1604.754827808402,
               "key_stats": "Stri:0.7 DPS:1430.0",
@@ -141324,7 +141324,7 @@ const leaderboardData = {
             {
               "account_name": "Fungo Maligno.4081",
               "composite_score": 1604.3050076061104,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1604.3050076061104,
               "key_stats": "Stri:0.9 DPS:873.0",
@@ -141337,7 +141337,7 @@ const leaderboardData = {
             {
               "account_name": "Basic.9204",
               "composite_score": 1604.071740768771,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 14.0,
               "glicko_rating": 1604.071740768771,
               "key_stats": "Stri:0.5 DPS:666.0",
@@ -141350,7 +141350,7 @@ const leaderboardData = {
             {
               "account_name": "Muted.8591",
               "composite_score": 1601.4716981515064,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.5,
               "glicko_rating": 1601.4716981515064,
               "key_stats": "Stri:0.6 DPS:729.0",
@@ -141363,7 +141363,7 @@ const leaderboardData = {
             {
               "account_name": "bernadettesurprise.3297",
               "composite_score": 1599.6105033985436,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1599.6105033985436,
               "key_stats": "Stri:0.9 DPS:775.0",
@@ -141376,7 +141376,7 @@ const leaderboardData = {
             {
               "account_name": "steelrage.2904",
               "composite_score": 1599.1483990956983,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 10.0,
               "glicko_rating": 1599.1483990956983,
               "key_stats": "Stri:0.5 DPS:1385.0",
@@ -141389,7 +141389,7 @@ const leaderboardData = {
             {
               "account_name": "amends.3469",
               "composite_score": 1597.0931501317755,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 16.0,
               "glicko_rating": 1597.0931501317755,
               "key_stats": "Stri:0.7 DPS:524.0",
@@ -141402,7 +141402,7 @@ const leaderboardData = {
             {
               "account_name": "Sselnoisiv.6130",
               "composite_score": 1596.0795602391504,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 17.5,
               "glicko_rating": 1596.0795602391504,
               "key_stats": "Stri:0.9 DPS:371.0",
@@ -141415,7 +141415,7 @@ const leaderboardData = {
             {
               "account_name": "Interpretor.3091",
               "composite_score": 1595.9952181640492,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1595.9952181640492,
               "key_stats": "Stri:0.4 DPS:1228.0",
@@ -141428,7 +141428,7 @@ const leaderboardData = {
             {
               "account_name": "Flames.9485",
               "composite_score": 1590.452083265779,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.5,
               "glicko_rating": 1590.452083265779,
               "key_stats": "Stri:0.7 DPS:782.0",
@@ -141441,7 +141441,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1583.4484328884048,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 16.5,
               "glicko_rating": 1583.4484328884048,
               "key_stats": "Stri:1.1 DPS:349.0",
@@ -141454,7 +141454,7 @@ const leaderboardData = {
             {
               "account_name": "Babadook.5842",
               "composite_score": 1581.548341358195,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 16.0,
               "glicko_rating": 1581.548341358195,
               "key_stats": "Stri:0.8 DPS:384.0",
@@ -141467,7 +141467,7 @@ const leaderboardData = {
             {
               "account_name": "Bouzouki.7598",
               "composite_score": 1581.0409651707375,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 20.25,
               "glicko_rating": 1581.0409651707375,
               "key_stats": "Stri:0.5 DPS:415.5",
@@ -141480,7 +141480,7 @@ const leaderboardData = {
             {
               "account_name": "Niyack.4953",
               "composite_score": 1580.4786946974543,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1580.4786946974543,
               "key_stats": "Stri:0.7 DPS:944.0",
@@ -141493,7 +141493,7 @@ const leaderboardData = {
             {
               "account_name": "Mandar.9813",
               "composite_score": 1579.040040565097,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1579.040040565097,
               "key_stats": "Stri:0.7 DPS:830.0",
@@ -141506,7 +141506,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1577.6253124868085,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 17.0,
               "glicko_rating": 1577.6253124868085,
               "key_stats": "Stri:0.4 DPS:517.6",
@@ -141519,7 +141519,7 @@ const leaderboardData = {
             {
               "account_name": "aureliocf.7324",
               "composite_score": 1576.1127843768454,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 11.0,
               "glicko_rating": 1576.1127843768454,
               "key_stats": "Stri:0.6 DPS:688.0",
@@ -141532,7 +141532,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1568.523316466702,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.5,
               "glicko_rating": 1568.523316466702,
               "key_stats": "Stri:0.4 DPS:232.0",
@@ -141545,7 +141545,7 @@ const leaderboardData = {
             {
               "account_name": "POOKIE.5621",
               "composite_score": 1567.2603172913423,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.0,
               "glicko_rating": 1567.2603172913423,
               "key_stats": "Stri:0.5 DPS:473.0",
@@ -141558,7 +141558,7 @@ const leaderboardData = {
             {
               "account_name": "pixelbox.4751",
               "composite_score": 1560.270653375826,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 19.5,
               "glicko_rating": 1560.270653375826,
               "key_stats": "Stri:0.5 DPS:568.0",
@@ -141571,7 +141571,7 @@ const leaderboardData = {
             {
               "account_name": "liloxw.4809",
               "composite_score": 1552.105236051912,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 16.833333333333332,
               "glicko_rating": 1552.105236051912,
               "key_stats": "Stri:0.4 DPS:425.7",
@@ -141584,7 +141584,7 @@ const leaderboardData = {
             {
               "account_name": "Chakkkka.2504",
               "composite_score": 1549.8181677401046,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 17.0,
               "glicko_rating": 1549.8181677401046,
               "key_stats": "Stri:0.3 DPS:286.0",
@@ -141597,7 +141597,7 @@ const leaderboardData = {
             {
               "account_name": "Disenable.1640",
               "composite_score": 1549.7415080122855,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 19.5,
               "glicko_rating": 1549.7415080122855,
               "key_stats": "Stri:0.7 DPS:543.0",
@@ -141610,7 +141610,7 @@ const leaderboardData = {
             {
               "account_name": "Sabbaah.2314",
               "composite_score": 1542.702781252311,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 18.5,
               "glicko_rating": 1542.702781252311,
               "key_stats": "Stri:0.6 DPS:1154.0",
@@ -141623,7 +141623,7 @@ const leaderboardData = {
             {
               "account_name": "shakey.6384",
               "composite_score": 1541.9392880242344,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 24.5,
               "glicko_rating": 1541.9392880242344,
               "key_stats": "Stri:0.5 DPS:185.0",
@@ -141636,7 +141636,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1525.5372635119015,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.0,
               "glicko_rating": 1525.5372635119015,
               "key_stats": "Stri:0.3 DPS:167.0",
@@ -141649,7 +141649,7 @@ const leaderboardData = {
             {
               "account_name": "Hideus.3259",
               "composite_score": 1522.689171468532,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 24.5,
               "glicko_rating": 1522.689171468532,
               "key_stats": "Stri:0.4 DPS:308.0",
@@ -141662,7 +141662,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1521.7688284097749,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1521.7688284097749,
               "key_stats": "Stri:0.2 DPS:442.0",
@@ -141675,7 +141675,7 @@ const leaderboardData = {
             {
               "account_name": "Bertozaur.4578",
               "composite_score": 1513.4944379358953,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 13.333333333333334,
               "glicko_rating": 1513.4944379358953,
               "key_stats": "Stri:0.2 DPS:653.7",
@@ -141688,7 +141688,7 @@ const leaderboardData = {
             {
               "account_name": "Massacremam.4358",
               "composite_score": 1512.6704649663207,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 22.5,
               "glicko_rating": 1512.6704649663207,
               "key_stats": "Stri:0.3 DPS:312.0",
@@ -141701,7 +141701,7 @@ const leaderboardData = {
             {
               "account_name": "blambidy.3216",
               "composite_score": 1511.878744073026,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 18.0,
               "glicko_rating": 1511.878744073026,
               "key_stats": "Stri:0.3 DPS:555.5",
@@ -141714,7 +141714,7 @@ const leaderboardData = {
             {
               "account_name": "ItalianMagik.2698",
               "composite_score": 1491.3754861958264,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.5,
               "glicko_rating": 1491.3754861958264,
               "key_stats": "Stri:0.2 DPS:239.0",
@@ -141727,7 +141727,7 @@ const leaderboardData = {
             {
               "account_name": "Jeff.7219",
               "composite_score": 1478.027724247218,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 19.0,
               "glicko_rating": 1478.027724247218,
               "key_stats": "Stri:0.1 DPS:375.5",
@@ -141740,7 +141740,7 @@ const leaderboardData = {
             {
               "account_name": "montjusk.9671",
               "composite_score": 1463.8264521790288,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 21.25,
               "glicko_rating": 1463.8264521790288,
               "key_stats": "Stri:0.1 DPS:351.0",
@@ -141753,7 +141753,7 @@ const leaderboardData = {
             {
               "account_name": "mememe.5239",
               "composite_score": 1455.1085503620411,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.0,
               "glicko_rating": 1455.1085503620411,
               "key_stats": "Stri:0.1 DPS:111.0",
@@ -141766,7 +141766,7 @@ const leaderboardData = {
             {
               "account_name": "filipe.2809",
               "composite_score": 1441.4635166996482,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 20.5,
               "glicko_rating": 1441.4635166996482,
               "key_stats": "Stri:0.1 DPS:314.0",
@@ -141792,7 +141792,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1877.9017090529906,
-              "games_played": 31,
+              "games_played": 16,
               "average_rank_percent": 2.935483870967742,
               "glicko_rating": 1877.9017090529906,
               "key_stats": "Heal:2065.7 Clea:1.2",
@@ -141805,7 +141805,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1850.0001253367786,
-              "games_played": 30,
+              "games_played": 17,
               "average_rank_percent": 3.566666666666667,
               "glicko_rating": 1850.0001253367786,
               "key_stats": "Heal:1852.5 Clea:1.2",
@@ -141818,7 +141818,7 @@ const leaderboardData = {
             {
               "account_name": "Foodels.7358",
               "composite_score": 1802.6683163910945,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 1.0,
               "glicko_rating": 1802.6683163910945,
               "key_stats": "Heal:1770.3 Clea:1.3",
@@ -141831,7 +141831,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1789.9733701911669,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 2.25,
               "glicko_rating": 1789.9733701911669,
               "key_stats": "Heal:1679.8 Clea:1.1",
@@ -141844,7 +141844,7 @@ const leaderboardData = {
             {
               "account_name": "Emily.4523",
               "composite_score": 1784.6709268359866,
-              "games_played": 8,
+              "games_played": 5,
               "average_rank_percent": 2.625,
               "glicko_rating": 1784.6709268359866,
               "key_stats": "Heal:1776.9 Clea:1.3",
@@ -141857,7 +141857,7 @@ const leaderboardData = {
             {
               "account_name": "Degothia.7394",
               "composite_score": 1782.3507014114284,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 1.5,
               "glicko_rating": 1782.3507014114284,
               "key_stats": "Heal:2259.2 Clea:1.6",
@@ -141870,7 +141870,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1769.7043228246418,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 2.9,
               "glicko_rating": 1769.7043228246418,
               "key_stats": "Heal:1582.6 Clea:1.3",
@@ -141883,7 +141883,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1737.2194628557377,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 4.0,
               "glicko_rating": 1737.2194628557377,
               "key_stats": "Heal:1736.4 Clea:1.2",
@@ -141896,7 +141896,7 @@ const leaderboardData = {
             {
               "account_name": "Xhil.9316",
               "composite_score": 1732.518520018023,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 4.5,
               "glicko_rating": 1732.518520018023,
               "key_stats": "Heal:1407.3 Clea:0.9",
@@ -141909,7 +141909,7 @@ const leaderboardData = {
             {
               "account_name": "Johnny.5478",
               "composite_score": 1732.3201084142775,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 1.25,
               "glicko_rating": 1732.3201084142775,
               "key_stats": "Heal:1920.7 Clea:0.9",
@@ -141922,7 +141922,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1729.0332003057158,
-              "games_played": 5,
+              "games_played": 3,
               "average_rank_percent": 2.6,
               "glicko_rating": 1729.0332003057158,
               "key_stats": "Heal:2842.1 Clea:1.4",
@@ -141935,7 +141935,7 @@ const leaderboardData = {
             {
               "account_name": "CaptainKnightfall.4378",
               "composite_score": 1710.201749317984,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 3.75,
               "glicko_rating": 1710.201749317984,
               "key_stats": "Heal:1513.5 Clea:1.5",
@@ -141948,7 +141948,7 @@ const leaderboardData = {
             {
               "account_name": "Jax Blake.7250",
               "composite_score": 1700.3643889556197,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.25,
               "glicko_rating": 1700.3643889556197,
               "key_stats": "Heal:1783.2 Clea:1.2",
@@ -141961,7 +141961,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1691.4463441212672,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 7.25,
               "glicko_rating": 1691.4463441212672,
               "key_stats": "Heal:1431.5 Clea:0.6",
@@ -141974,7 +141974,7 @@ const leaderboardData = {
             {
               "account_name": "Hiraldo.7954",
               "composite_score": 1676.1666076340236,
-              "games_played": 10,
+              "games_played": 6,
               "average_rank_percent": 5.5,
               "glicko_rating": 1676.1666076340236,
               "key_stats": "Heal:1215.0 Clea:0.9",
@@ -141987,7 +141987,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1674.1057377779714,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.75,
               "glicko_rating": 1674.1057377779714,
               "key_stats": "Heal:1429.4 Clea:0.9",
@@ -142000,7 +142000,7 @@ const leaderboardData = {
             {
               "account_name": "Igure.2063",
               "composite_score": 1670.4259506346345,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.5,
               "glicko_rating": 1670.4259506346345,
               "key_stats": "Heal:829.7 Clea:0.6",
@@ -142013,7 +142013,7 @@ const leaderboardData = {
             {
               "account_name": "Jeff.7219",
               "composite_score": 1670.3591855108557,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.0,
               "glicko_rating": 1670.3591855108557,
               "key_stats": "Heal:2048.8 Clea:0.8",
@@ -142026,7 +142026,7 @@ const leaderboardData = {
             {
               "account_name": "shiinty.5904",
               "composite_score": 1669.1294095301337,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.0,
               "glicko_rating": 1669.1294095301337,
               "key_stats": "Heal:1637.6 Clea:1.7",
@@ -142039,7 +142039,7 @@ const leaderboardData = {
             {
               "account_name": "Guars.6409",
               "composite_score": 1666.636936795123,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.0,
               "glicko_rating": 1666.636936795123,
               "key_stats": "Heal:2845.1 Clea:1.6",
@@ -142052,7 +142052,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1664.3106932970209,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 4.833333333333333,
               "glicko_rating": 1664.3106932970209,
               "key_stats": "Heal:1097.1 Clea:0.6",
@@ -142065,7 +142065,7 @@ const leaderboardData = {
             {
               "account_name": "ThiagoW.4810",
               "composite_score": 1662.524027257961,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 4.5,
               "glicko_rating": 1662.524027257961,
               "key_stats": "Heal:1656.1 Clea:0.9",
@@ -142078,7 +142078,7 @@ const leaderboardData = {
             {
               "account_name": "J WreckX.7648",
               "composite_score": 1661.753738063173,
-              "games_played": 5,
+              "games_played": 3,
               "average_rank_percent": 4.0,
               "glicko_rating": 1661.753738063173,
               "key_stats": "Heal:871.9 Clea:1.8",
@@ -142091,7 +142091,7 @@ const leaderboardData = {
             {
               "account_name": "aznsleeper.5896",
               "composite_score": 1661.6952757541617,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1661.6952757541617,
               "key_stats": "Heal:1408.5 Clea:0.6",
@@ -142104,7 +142104,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1656.5261505906808,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1656.5261505906808,
               "key_stats": "Heal:1497.1 Clea:0.9",
@@ -142117,7 +142117,7 @@ const leaderboardData = {
             {
               "account_name": "Mandar.9813",
               "composite_score": 1655.721413305399,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1655.721413305399,
               "key_stats": "Heal:2231.9 Clea:1.9",
@@ -142130,7 +142130,7 @@ const leaderboardData = {
             {
               "account_name": "amends.3469",
               "composite_score": 1653.0520645734987,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1653.0520645734987,
               "key_stats": "Heal:1611.1 Clea:1.2",
@@ -142143,7 +142143,7 @@ const leaderboardData = {
             {
               "account_name": "IronOre.7826",
               "composite_score": 1651.0297494594129,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1651.0297494594129,
               "key_stats": "Heal:2162.2 Clea:1.6",
@@ -142156,7 +142156,7 @@ const leaderboardData = {
             {
               "account_name": "Sselnoisiv.6130",
               "composite_score": 1650.030049138455,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1650.030049138455,
               "key_stats": "Heal:1826.7 Clea:1.9",
@@ -142169,7 +142169,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1647.1192330629435,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1647.1192330629435,
               "key_stats": "Heal:1634.3 Clea:1.5",
@@ -142182,7 +142182,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1644.8637607146436,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 9.8,
               "glicko_rating": 1644.8637607146436,
               "key_stats": "Heal:1294.2 Clea:0.7",
@@ -142195,7 +142195,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1642.9480718309414,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1642.9480718309414,
               "key_stats": "Heal:1793.3 Clea:0.9",
@@ -142208,7 +142208,7 @@ const leaderboardData = {
             {
               "account_name": "Stan.9684",
               "composite_score": 1640.587280729145,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.5,
               "glicko_rating": 1640.587280729145,
               "key_stats": "Heal:1823.8 Clea:1.7",
@@ -142221,7 +142221,7 @@ const leaderboardData = {
             {
               "account_name": "Mini.1786",
               "composite_score": 1635.880041171377,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1635.880041171377,
               "key_stats": "Heal:1469.9 Clea:1.4",
@@ -142234,7 +142234,7 @@ const leaderboardData = {
             {
               "account_name": "FrozenDelicious.3690",
               "composite_score": 1632.6061547829622,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1632.6061547829622,
               "key_stats": "Heal:1121.7 Clea:0.9",
@@ -142247,7 +142247,7 @@ const leaderboardData = {
             {
               "account_name": "TigerSpirit.2194",
               "composite_score": 1630.0154434635397,
-              "games_played": 25,
+              "games_played": 15,
               "average_rank_percent": 8.2,
               "glicko_rating": 1630.0154434635397,
               "key_stats": "Heal:655.6 Clea:0.8",
@@ -142260,7 +142260,7 @@ const leaderboardData = {
             {
               "account_name": "SilverBlade Hero.8974",
               "composite_score": 1629.6819167003146,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 11.166666666666666,
               "glicko_rating": 1629.6819167003146,
               "key_stats": "Heal:1116.6 Clea:0.6",
@@ -142273,7 +142273,7 @@ const leaderboardData = {
             {
               "account_name": "cmackoy.4973",
               "composite_score": 1611.8475929798192,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.5,
               "glicko_rating": 1611.8475929798192,
               "key_stats": "Heal:649.7 Clea:1.8",
@@ -142286,7 +142286,7 @@ const leaderboardData = {
             {
               "account_name": "Jdchil.9561",
               "composite_score": 1604.1998601907567,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 10.0,
               "glicko_rating": 1604.1998601907567,
               "key_stats": "Heal:1333.5 Clea:1.0",
@@ -142299,7 +142299,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1602.0063677550572,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 8.666666666666666,
               "glicko_rating": 1602.0063677550572,
               "key_stats": "Heal:1123.0 Clea:1.5",
@@ -142312,7 +142312,7 @@ const leaderboardData = {
             {
               "account_name": "HuMbErTerA.4253",
               "composite_score": 1559.4853614799881,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 11.0,
               "glicko_rating": 1559.4853614799881,
               "key_stats": "Heal:606.8 Clea:0.6",
@@ -142338,7 +142338,7 @@ const leaderboardData = {
             {
               "account_name": "Huge.5891",
               "composite_score": 1578.238723892401,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1578.238723892401,
               "key_stats": "Stab:3.0 DPS:1692.0",
@@ -142366,7 +142366,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1641.504052142688,
-              "games_played": 9,
+              "games_played": 3,
               "average_rank_percent": 11.0,
               "glicko_rating": 1641.504052142688,
               "key_stats": "Stab:5.0 Clea:0.8 DPS:1274.7",
@@ -142379,7 +142379,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1640.3195931061177,
-              "games_played": 12,
+              "games_played": 4,
               "average_rank_percent": 11.25,
               "glicko_rating": 1640.3195931061177,
               "key_stats": "Stab:6.0 Clea:0.5 DPS:906.2",
@@ -142392,7 +142392,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1624.7376485478574,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 5.333333333333333,
               "glicko_rating": 1624.7376485478574,
               "key_stats": "Stab:5.9 Clea:0.3 DPS:1205.5",
@@ -142405,7 +142405,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1597.793358731268,
-              "games_played": 9,
+              "games_played": 3,
               "average_rank_percent": 12.0,
               "glicko_rating": 1597.793358731268,
               "key_stats": "Stab:6.1 Clea:0.4 DPS:1084.0",
@@ -142418,7 +142418,7 @@ const leaderboardData = {
             {
               "account_name": "Beneko.8475",
               "composite_score": 1593.6505200881807,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.333333333333334,
               "glicko_rating": 1593.6505200881807,
               "key_stats": "Stab:8.8 Clea:0.7 DPS:1947.0",
@@ -142431,7 +142431,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1584.2391343959098,
-              "games_played": 12,
+              "games_played": 4,
               "average_rank_percent": 12.916666666666666,
               "glicko_rating": 1584.2391343959098,
               "key_stats": "Stab:6.8 Clea:0.3 DPS:510.5",
@@ -142444,7 +142444,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1579.9611278123355,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 11.333333333333334,
               "glicko_rating": 1579.9611278123355,
               "key_stats": "Stab:5.5 Clea:0.6 DPS:1446.0",
@@ -142457,7 +142457,7 @@ const leaderboardData = {
             {
               "account_name": "Mortealug.6043",
               "composite_score": 1579.0771273617283,
-              "games_played": 9,
+              "games_played": 3,
               "average_rank_percent": 13.11111111111111,
               "glicko_rating": 1579.0771273617283,
               "key_stats": "Stab:6.6 Clea:0.3 DPS:629.7",
@@ -142470,7 +142470,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1574.5870678092356,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 7.666666666666667,
               "glicko_rating": 1574.5870678092356,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
@@ -142483,7 +142483,7 @@ const leaderboardData = {
             {
               "account_name": "Nennius.9627",
               "composite_score": 1542.5679040175855,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1542.5679040175855,
               "key_stats": "Stab:6.1 Clea:0.9 DPS:1434.0",
@@ -142496,7 +142496,7 @@ const leaderboardData = {
             {
               "account_name": "filipe.2809",
               "composite_score": 1541.5154439924693,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 16.666666666666668,
               "glicko_rating": 1541.5154439924693,
               "key_stats": "Stab:4.5 Clea:0.4 DPS:1109.0",
@@ -142509,7 +142509,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1540.7914651447422,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1540.7914651447422,
               "key_stats": "Stab:3.4 Clea:0.4 DPS:599.0",
@@ -142522,7 +142522,7 @@ const leaderboardData = {
             {
               "account_name": "Xhil.9316",
               "composite_score": 1536.0088998372073,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 6.666666666666667,
               "glicko_rating": 1536.0088998372073,
               "key_stats": "Stab:6.7 Clea:0.3 DPS:823.0",
@@ -142535,7 +142535,7 @@ const leaderboardData = {
             {
               "account_name": "Mashiro.3408",
               "composite_score": 1532.8364732748544,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 11.0,
               "glicko_rating": 1532.8364732748544,
               "key_stats": "Stab:5.8 Clea:0.9 DPS:1320.0",
@@ -142548,7 +142548,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1526.1124645816665,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1526.1124645816665,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
@@ -142561,7 +142561,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1524.110222841157,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1524.110222841157,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
@@ -142574,7 +142574,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1515.6249900706202,
-              "games_played": 21,
+              "games_played": 7,
               "average_rank_percent": 12.142857142857142,
               "glicko_rating": 1515.6249900706202,
               "key_stats": "Stab:4.9 Clea:0.3 DPS:850.4",
@@ -142587,7 +142587,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1502.8106343491665,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 10.333333333333334,
               "glicko_rating": 1502.8106343491665,
               "key_stats": "Stab:3.1 Clea:0.3 DPS:667.0",
@@ -142600,7 +142600,7 @@ const leaderboardData = {
             {
               "account_name": "Fibbs.1623",
               "composite_score": 1491.9623463666846,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 23.333333333333332,
               "glicko_rating": 1491.9623463666846,
               "key_stats": "Stab:3.4 Clea:0.1 DPS:377.5",
@@ -142630,7 +142630,7 @@ const leaderboardData = {
             {
               "account_name": "OPness.3215",
               "composite_score": 1720.0366435478584,
-              "games_played": 28,
+              "games_played": 7,
               "average_rank_percent": 10.107142857142858,
               "glicko_rating": 1720.0366435478584,
               "key_stats": "Migh:35.6 Resi:0.9 Stab:2.9",
@@ -142643,7 +142643,7 @@ const leaderboardData = {
             {
               "account_name": "Solomon Darkfury.3729",
               "composite_score": 1696.681148469888,
-              "games_played": 12,
+              "games_played": 3,
               "average_rank_percent": 7.0,
               "glicko_rating": 1696.681148469888,
               "key_stats": "Migh:36.1 Resi:1.4 Stab:4.4",
@@ -142656,7 +142656,7 @@ const leaderboardData = {
             {
               "account_name": "Raven Paradox.1860",
               "composite_score": 1623.9932914266722,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 8.75,
               "glicko_rating": 1623.9932914266722,
               "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
@@ -142669,7 +142669,7 @@ const leaderboardData = {
             {
               "account_name": "Asterisk.9730",
               "composite_score": 1621.8520876264938,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 8.25,
               "glicko_rating": 1621.8520876264938,
               "key_stats": "Migh:36.5 Resi:1.0 Stab:4.1",
@@ -142682,7 +142682,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1611.9848882617428,
-              "games_played": 16,
+              "games_played": 4,
               "average_rank_percent": 9.125,
               "glicko_rating": 1611.9848882617428,
               "key_stats": "Migh:10.7 Resi:0.7 Stab:2.2",
@@ -142695,7 +142695,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1610.9058520418098,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 7.75,
               "glicko_rating": 1610.9058520418098,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
@@ -142708,7 +142708,7 @@ const leaderboardData = {
             {
               "account_name": "mikefmc.5961",
               "composite_score": 1601.2902434308178,
-              "games_played": 12,
+              "games_played": 3,
               "average_rank_percent": 7.25,
               "glicko_rating": 1601.2902434308178,
               "key_stats": "Migh:12.7 Resi:0.8 Stab:1.2",
@@ -142721,7 +142721,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1600.3817473409865,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 9.25,
               "glicko_rating": 1600.3817473409865,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
@@ -142734,7 +142734,7 @@ const leaderboardData = {
             {
               "account_name": "Hostile Pudding.5617",
               "composite_score": 1591.0828083891743,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 12.0,
               "glicko_rating": 1591.0828083891743,
               "key_stats": "Migh:24.5 Resi:0.7 Stab:2.5",
@@ -142747,7 +142747,7 @@ const leaderboardData = {
             {
               "account_name": "Guars.6409",
               "composite_score": 1579.1437775390687,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 10.25,
               "glicko_rating": 1579.1437775390687,
               "key_stats": "Migh:14.8 Resi:0.8 Stab:3.1",
@@ -142760,7 +142760,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1579.0299917514858,
-              "games_played": 12,
+              "games_played": 3,
               "average_rank_percent": 10.666666666666666,
               "glicko_rating": 1579.0299917514858,
               "key_stats": "Migh:8.4 Resi:0.9 Stab:3.4",
@@ -142773,7 +142773,7 @@ const leaderboardData = {
             {
               "account_name": "ixJurema.8657",
               "composite_score": 1558.9383225846173,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 15.75,
               "glicko_rating": 1558.9383225846173,
               "key_stats": "Migh:17.0 Resi:0.6 Stab:2.0",
@@ -142786,7 +142786,7 @@ const leaderboardData = {
             {
               "account_name": "TehWolfman.1794",
               "composite_score": 1533.1345593079543,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 12.75,
               "glicko_rating": 1533.1345593079543,
               "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
@@ -142799,7 +142799,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1526.7181395710163,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 10.25,
               "glicko_rating": 1526.7181395710163,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
@@ -142825,7 +142825,7 @@ const leaderboardData = {
             {
               "account_name": "Aein.1483",
               "composite_score": 1595.756220889361,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1595.756220889361,
               "key_stats": "Prot:1.6 DPS:1017.0",
@@ -142838,7 +142838,7 @@ const leaderboardData = {
             {
               "account_name": "Synders.9627",
               "composite_score": 1593.7934513840605,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 29.0,
               "glicko_rating": 1593.7934513840605,
               "key_stats": "Prot:1.8 DPS:51.0",
@@ -193830,7 +193830,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1770.8858163255709,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 1.375,
               "glicko_rating": 1770.8858163255709,
               "key_stats": "Stab:8.2 Resi:1.2",
@@ -193843,7 +193843,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1707.109806878462,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 4.0,
               "glicko_rating": 1707.109806878462,
               "key_stats": "Stab:7.6 Resi:0.9",
@@ -193856,7 +193856,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1693.5779021757198,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 5.625,
               "glicko_rating": 1693.5779021757198,
               "key_stats": "Stab:7.1 Resi:0.9",
@@ -193869,7 +193869,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1689.7690531631856,
-              "games_played": 12,
+              "games_played": 6,
               "average_rank_percent": 3.5,
               "glicko_rating": 1689.7690531631856,
               "key_stats": "Stab:6.4 Resi:0.8",
@@ -193882,7 +193882,7 @@ const leaderboardData = {
             {
               "account_name": "Clarrovi.9085",
               "composite_score": 1684.287060275732,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 3.0,
               "glicko_rating": 1684.287060275732,
               "key_stats": "Stab:7.8 Resi:0.8",
@@ -193895,7 +193895,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1667.9956877509508,
-              "games_played": 17,
+              "games_played": 10,
               "average_rank_percent": 5.117647058823529,
               "glicko_rating": 1667.9956877509508,
               "key_stats": "Stab:6.3 Resi:0.9",
@@ -193908,7 +193908,7 @@ const leaderboardData = {
             {
               "account_name": "mikefmc.5961",
               "composite_score": 1648.5323684797354,
-              "games_played": 12,
+              "games_played": 6,
               "average_rank_percent": 5.583333333333333,
               "glicko_rating": 1648.5323684797354,
               "key_stats": "Stab:6.5 Resi:0.7",
@@ -193921,7 +193921,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1641.684439831738,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.0,
               "glicko_rating": 1641.684439831738,
               "key_stats": "Stab:9.3 Resi:1.1",
@@ -193934,7 +193934,7 @@ const leaderboardData = {
             {
               "account_name": "aznsleeper.5896",
               "composite_score": 1635.7864926140232,
-              "games_played": 26,
+              "games_played": 13,
               "average_rank_percent": 5.8076923076923075,
               "glicko_rating": 1635.7864926140232,
               "key_stats": "Stab:6.9 Resi:0.7",
@@ -193947,7 +193947,7 @@ const leaderboardData = {
             {
               "account_name": "Lasthope.7943",
               "composite_score": 1624.1745886715146,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1624.1745886715146,
               "key_stats": "Stab:7.6 Resi:1.2",
@@ -193960,7 +193960,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1618.4941721182822,
-              "games_played": 18,
+              "games_played": 9,
               "average_rank_percent": 6.444444444444445,
               "glicko_rating": 1618.4941721182822,
               "key_stats": "Stab:6.9 Resi:0.8",
@@ -193973,7 +193973,7 @@ const leaderboardData = {
             {
               "account_name": "Johnny.5478",
               "composite_score": 1611.9083255961532,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1611.9083255961532,
               "key_stats": "Stab:7.1 Resi:1.0",
@@ -193986,7 +193986,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1606.7929153926266,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1606.7929153926266,
               "key_stats": "Stab:6.0 Resi:1.4",
@@ -193999,7 +193999,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1600.594940097354,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 3.0,
               "glicko_rating": 1600.594940097354,
               "key_stats": "Stab:8.4 Resi:1.0",
@@ -194012,7 +194012,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.7284",
               "composite_score": 1597.0571846046469,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.5,
               "glicko_rating": 1597.0571846046469,
               "key_stats": "Stab:5.3 Resi:0.8",
@@ -194025,7 +194025,7 @@ const leaderboardData = {
             {
               "account_name": "Hydrason.4612",
               "composite_score": 1596.4365607781751,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 7.5,
               "glicko_rating": 1596.4365607781751,
               "key_stats": "Stab:5.5 Resi:0.9",
@@ -194038,7 +194038,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1593.0960047262577,
-              "games_played": 9,
+              "games_played": 5,
               "average_rank_percent": 6.0,
               "glicko_rating": 1593.0960047262577,
               "key_stats": "Stab:8.5 Resi:0.3",
@@ -194051,7 +194051,7 @@ const leaderboardData = {
             {
               "account_name": "BlueViolet.8263",
               "composite_score": 1564.7108808972228,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 6.5,
               "glicko_rating": 1564.7108808972228,
               "key_stats": "Stab:7.3 Resi:0.6",
@@ -194064,7 +194064,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1559.555003343658,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 8.333333333333334,
               "glicko_rating": 1559.555003343658,
               "key_stats": "Stab:5.3 Resi:0.6",
@@ -194077,7 +194077,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1557.2537542215146,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 8.0,
               "glicko_rating": 1557.2537542215146,
               "key_stats": "Stab:8.0 Resi:0.7",
@@ -194090,7 +194090,7 @@ const leaderboardData = {
             {
               "account_name": "PublicDisplayName.4986",
               "composite_score": 1553.5300344554107,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 5.5,
               "glicko_rating": 1553.5300344554107,
               "key_stats": "Stab:7.6 Resi:0.5",
@@ -194103,7 +194103,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1548.9137502366211,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.0,
               "glicko_rating": 1548.9137502366211,
               "key_stats": "Stab:7.1 Resi:0.7",
@@ -194116,7 +194116,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1520.172169652832,
-              "games_played": 3,
+              "games_played": 2,
               "average_rank_percent": 7.666666666666667,
               "glicko_rating": 1520.172169652832,
               "key_stats": "Stab:4.2 Resi:0.9",
@@ -194129,7 +194129,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1496.5593506997764,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.5,
               "glicko_rating": 1496.5593506997764,
               "key_stats": "Stab:4.5 Resi:0.8",
@@ -194142,7 +194142,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1460.6285157259738,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1460.6285157259738,
               "key_stats": "Stab:5.4 Resi:0.4",
@@ -194174,7 +194174,7 @@ const leaderboardData = {
             {
               "account_name": "Bailyen Arturius.4263",
               "composite_score": 1666.3124693170746,
-              "games_played": 50,
+              "games_played": 10,
               "average_rank_percent": 5.3,
               "glicko_rating": 1666.3124693170746,
               "key_stats": "Stab:7.6 Clea:1.2 Resi:0.4",
@@ -194187,7 +194187,7 @@ const leaderboardData = {
             {
               "account_name": "Disenable.1640",
               "composite_score": 1603.3773175245788,
-              "games_played": 23,
+              "games_played": 5,
               "average_rank_percent": 4.478260869565218,
               "glicko_rating": 1603.3773175245788,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.4",
@@ -194200,7 +194200,7 @@ const leaderboardData = {
             {
               "account_name": "Muted.8591",
               "composite_score": 1595.6172703815607,
-              "games_played": 55,
+              "games_played": 12,
               "average_rank_percent": 7.072727272727272,
               "glicko_rating": 1595.6172703815607,
               "key_stats": "Stab:6.3 Clea:1.0 Resi:0.4",
@@ -194213,7 +194213,7 @@ const leaderboardData = {
             {
               "account_name": "Ronin.4501",
               "composite_score": 1578.3507931453298,
-              "games_played": 9,
+              "games_played": 2,
               "average_rank_percent": 5.222222222222222,
               "glicko_rating": 1578.3507931453298,
               "key_stats": "Stab:7.8 Clea:1.6 Resi:0.8",
@@ -194226,7 +194226,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1571.284643313535,
-              "games_played": 23,
+              "games_played": 5,
               "average_rank_percent": 6.260869565217392,
               "glicko_rating": 1571.284643313535,
               "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
@@ -194239,7 +194239,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1565.7030112521657,
-              "games_played": 9,
+              "games_played": 2,
               "average_rank_percent": 10.0,
               "glicko_rating": 1565.7030112521657,
               "key_stats": "Stab:6.9 Clea:1.1 Resi:0.3",
@@ -194252,7 +194252,7 @@ const leaderboardData = {
             {
               "account_name": "Degothia.7394",
               "composite_score": 1553.640532165705,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 6.5,
               "glicko_rating": 1553.640532165705,
               "key_stats": "Stab:5.2 Clea:1.0 Resi:0.4",
@@ -194265,7 +194265,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1542.54073001449,
-              "games_played": 29,
+              "games_played": 7,
               "average_rank_percent": 8.793103448275861,
               "glicko_rating": 1542.54073001449,
               "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
@@ -194278,7 +194278,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1537.485212679087,
-              "games_played": 18,
+              "games_played": 4,
               "average_rank_percent": 6.611111111111111,
               "glicko_rating": 1537.485212679087,
               "key_stats": "Stab:5.8 Clea:0.2 Resi:0.7",
@@ -194291,7 +194291,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1537.2304668516022,
-              "games_played": 67,
+              "games_played": 14,
               "average_rank_percent": 6.776119402985074,
               "glicko_rating": 1537.2304668516022,
               "key_stats": "Stab:5.3 Clea:0.8 Resi:0.7",
@@ -194304,7 +194304,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1531.3537722501724,
-              "games_played": 25,
+              "games_played": 5,
               "average_rank_percent": 8.44,
               "glicko_rating": 1531.3537722501724,
               "key_stats": "Stab:6.6 Clea:0.4 Resi:0.7",
@@ -194317,7 +194317,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1531.2373628287528,
-              "games_played": 13,
+              "games_played": 3,
               "average_rank_percent": 6.769230769230769,
               "glicko_rating": 1531.2373628287528,
               "key_stats": "Stab:7.9 Clea:0.6 Resi:0.8",
@@ -194330,7 +194330,7 @@ const leaderboardData = {
             {
               "account_name": "Jim.5419",
               "composite_score": 1527.6882683994913,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.2,
               "glicko_rating": 1527.6882683994913,
               "key_stats": "Stab:6.3 Clea:0.7 Resi:0.6",
@@ -194343,7 +194343,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1505.2518552251936,
-              "games_played": 13,
+              "games_played": 3,
               "average_rank_percent": 7.230769230769231,
               "glicko_rating": 1505.2518552251936,
               "key_stats": "Stab:5.9 Clea:0.5 Resi:0.8",
@@ -194356,7 +194356,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1488.3002183671197,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 8.0,
               "glicko_rating": 1488.3002183671197,
               "key_stats": "Stab:4.8 Clea:0.4 Resi:0.3",
@@ -194369,7 +194369,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1468.800721936516,
-              "games_played": 5,
+              "games_played": 1,
               "average_rank_percent": 9.4,
               "glicko_rating": 1468.800721936516,
               "key_stats": "Stab:4.0 Clea:0.5 Resi:0.5",
@@ -194382,7 +194382,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1466.7795379414895,
-              "games_played": 8,
+              "games_played": 2,
               "average_rank_percent": 9.625,
               "glicko_rating": 1466.7795379414895,
               "key_stats": "Stab:5.0 Clea:0.5 Resi:0.6",
@@ -194395,7 +194395,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1465.8245492676517,
-              "games_played": 10,
+              "games_played": 2,
               "average_rank_percent": 8.6,
               "glicko_rating": 1465.8245492676517,
               "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
@@ -194421,7 +194421,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1736.076576534455,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 5.875,
               "glicko_rating": 1736.076576534455,
               "key_stats": "Stri:1.1 DPS:1643.0",
@@ -194434,7 +194434,7 @@ const leaderboardData = {
             {
               "account_name": "Pieswithattitude.2357",
               "composite_score": 1638.9514365065465,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.5,
               "glicko_rating": 1638.9514365065465,
               "key_stats": "Stri:1.0 DPS:1775.0",
@@ -194447,7 +194447,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1617.0632270707358,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 7.0,
               "glicko_rating": 1617.0632270707358,
               "key_stats": "Stri:0.7 DPS:1157.6",
@@ -194460,7 +194460,7 @@ const leaderboardData = {
             {
               "account_name": "Degothia.7394",
               "composite_score": 1602.9944522294866,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 15.0,
               "glicko_rating": 1602.9944522294866,
               "key_stats": "Stri:0.6 DPS:271.5",
@@ -194473,7 +194473,7 @@ const leaderboardData = {
             {
               "account_name": "Syde.1863",
               "composite_score": 1584.390515322629,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 10.875,
               "glicko_rating": 1584.390515322629,
               "key_stats": "Stri:0.7 DPS:668.5",
@@ -194486,7 +194486,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1577.410286219488,
-              "games_played": 19,
+              "games_played": 10,
               "average_rank_percent": 9.421052631578947,
               "glicko_rating": 1577.410286219488,
               "key_stats": "Stri:0.6 DPS:1209.4",
@@ -194499,7 +194499,7 @@ const leaderboardData = {
             {
               "account_name": "Interpretor.3091",
               "composite_score": 1572.8329489021949,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 6.0,
               "glicko_rating": 1572.8329489021949,
               "key_stats": "Stri:0.4 DPS:1228.0",
@@ -194512,7 +194512,7 @@ const leaderboardData = {
             {
               "account_name": "Elgar.2091",
               "composite_score": 1568.226432344834,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 12.5,
               "glicko_rating": 1568.226432344834,
               "key_stats": "Stri:0.8 DPS:597.5",
@@ -194525,7 +194525,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1565.0365254096616,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 16.5,
               "glicko_rating": 1565.0365254096616,
               "key_stats": "Stri:1.1 DPS:349.0",
@@ -194538,7 +194538,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1561.7107876698217,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 8.833333333333334,
               "glicko_rating": 1561.7107876698217,
               "key_stats": "Stri:0.6 DPS:1554.7",
@@ -194551,7 +194551,7 @@ const leaderboardData = {
             {
               "account_name": "Muted.8591",
               "composite_score": 1561.1146567901794,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 12.5,
               "glicko_rating": 1561.1146567901794,
               "key_stats": "Stri:0.6 DPS:729.0",
@@ -194564,7 +194564,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1557.3907459894938,
-              "games_played": 14,
+              "games_played": 7,
               "average_rank_percent": 10.428571428571429,
               "glicko_rating": 1557.3907459894938,
               "key_stats": "Stri:0.5 DPS:948.4",
@@ -194577,7 +194577,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1556.1285666833924,
-              "games_played": 20,
+              "games_played": 10,
               "average_rank_percent": 9.8,
               "glicko_rating": 1556.1285666833924,
               "key_stats": "Stri:0.4 DPS:1030.0",
@@ -194590,7 +194590,7 @@ const leaderboardData = {
             {
               "account_name": "Blinking Router.4305",
               "composite_score": 1554.1069699901573,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 15.75,
               "glicko_rating": 1554.1069699901573,
               "key_stats": "Stri:0.6 DPS:330.0",
@@ -194603,7 +194603,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1535.1735130554628,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 15.5,
               "glicko_rating": 1535.1735130554628,
               "key_stats": "Stri:0.4 DPS:232.0",
@@ -194616,7 +194616,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1529.4980571661317,
-              "games_played": 19,
+              "games_played": 10,
               "average_rank_percent": 12.68421052631579,
               "glicko_rating": 1529.4980571661317,
               "key_stats": "Stri:0.4 DPS:800.6",
@@ -194629,7 +194629,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1528.7716068072432,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 12.333333333333334,
               "glicko_rating": 1528.7716068072432,
               "key_stats": "Stri:0.6 DPS:1138.0",
@@ -194642,7 +194642,7 @@ const leaderboardData = {
             {
               "account_name": "Crator of Fire.1796",
               "composite_score": 1525.640122670949,
-              "games_played": 9,
+              "games_played": 5,
               "average_rank_percent": 16.77777777777778,
               "glicko_rating": 1525.640122670949,
               "key_stats": "Stri:0.4 DPS:517.6",
@@ -194655,7 +194655,7 @@ const leaderboardData = {
             {
               "account_name": "Basic.9204",
               "composite_score": 1524.4614329118383,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 14.0,
               "glicko_rating": 1524.4614329118383,
               "key_stats": "Stri:0.5 DPS:666.0",
@@ -194668,7 +194668,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1516.5278477193465,
-              "games_played": 16,
+              "games_played": 8,
               "average_rank_percent": 10.8125,
               "glicko_rating": 1516.5278477193465,
               "key_stats": "Stri:0.4 DPS:872.6",
@@ -194681,7 +194681,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1506.7512141443647,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 7.75,
               "glicko_rating": 1506.7512141443647,
               "key_stats": "Stri:0.4 DPS:1214.2",
@@ -194694,7 +194694,7 @@ const leaderboardData = {
             {
               "account_name": "Disenable.1640",
               "composite_score": 1479.8736424271035,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 19.5,
               "glicko_rating": 1479.8736424271035,
               "key_stats": "Stri:0.7 DPS:543.0",
@@ -194707,7 +194707,7 @@ const leaderboardData = {
             {
               "account_name": "shakey.6384",
               "composite_score": 1467.6808226064356,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 24.5,
               "glicko_rating": 1467.6808226064356,
               "key_stats": "Stri:0.5 DPS:185.0",
@@ -194720,7 +194720,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1426.5852287106943,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 20.5,
               "glicko_rating": 1426.5852287106943,
               "key_stats": "Stri:0.3 DPS:167.0",
@@ -194733,7 +194733,7 @@ const leaderboardData = {
             {
               "account_name": "Bertozaur.4578",
               "composite_score": 1407.2268082389091,
-              "games_played": 5,
+              "games_played": 3,
               "average_rank_percent": 14.2,
               "glicko_rating": 1407.2268082389091,
               "key_stats": "Stri:0.3 DPS:653.7",
@@ -194759,7 +194759,7 @@ const leaderboardData = {
             {
               "account_name": "modus.7921",
               "composite_score": 1786.1287529072708,
-              "games_played": 31,
+              "games_played": 16,
               "average_rank_percent": 2.935483870967742,
               "glicko_rating": 1786.1287529072708,
               "key_stats": "Heal:2065.7 Clea:1.2",
@@ -194772,7 +194772,7 @@ const leaderboardData = {
             {
               "account_name": "Astro Bear.6305",
               "composite_score": 1782.749672391197,
-              "games_played": 30,
+              "games_played": 17,
               "average_rank_percent": 3.566666666666667,
               "glicko_rating": 1782.749672391197,
               "key_stats": "Heal:1852.5 Clea:1.2",
@@ -194785,7 +194785,7 @@ const leaderboardData = {
             {
               "account_name": "Degothia.7394",
               "composite_score": 1769.682693344867,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 1.5,
               "glicko_rating": 1769.682693344867,
               "key_stats": "Heal:2259.2 Clea:1.6",
@@ -194798,7 +194798,7 @@ const leaderboardData = {
             {
               "account_name": "Uriah.7082",
               "composite_score": 1754.7659242897114,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 2.25,
               "glicko_rating": 1754.7659242897114,
               "key_stats": "Heal:1679.8 Clea:1.1",
@@ -194811,7 +194811,7 @@ const leaderboardData = {
             {
               "account_name": "Emily.4523",
               "composite_score": 1745.1099661800617,
-              "games_played": 8,
+              "games_played": 5,
               "average_rank_percent": 2.625,
               "glicko_rating": 1745.1099661800617,
               "key_stats": "Heal:1776.9 Clea:1.3",
@@ -194824,7 +194824,7 @@ const leaderboardData = {
             {
               "account_name": "Soothsayer.9206",
               "composite_score": 1705.6717670106127,
-              "games_played": 5,
+              "games_played": 3,
               "average_rank_percent": 2.6,
               "glicko_rating": 1705.6717670106127,
               "key_stats": "Heal:2842.1 Clea:1.4",
@@ -194837,7 +194837,7 @@ const leaderboardData = {
             {
               "account_name": "Johnny.5478",
               "composite_score": 1704.9321365935452,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 1.25,
               "glicko_rating": 1704.9321365935452,
               "key_stats": "Heal:1920.7 Clea:0.9",
@@ -194850,7 +194850,7 @@ const leaderboardData = {
             {
               "account_name": "pariah.6937",
               "composite_score": 1689.7811186148356,
-              "games_played": 10,
+              "games_played": 5,
               "average_rank_percent": 2.9,
               "glicko_rating": 1689.7811186148356,
               "key_stats": "Heal:1582.6 Clea:1.3",
@@ -194863,7 +194863,7 @@ const leaderboardData = {
             {
               "account_name": "aznsleeper.5896",
               "composite_score": 1643.5020875227099,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1643.5020875227099,
               "key_stats": "Heal:1408.5 Clea:0.6",
@@ -194876,7 +194876,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1643.309971059889,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 1.5,
               "glicko_rating": 1643.309971059889,
               "key_stats": "Heal:2183.6 Clea:1.5",
@@ -194889,7 +194889,7 @@ const leaderboardData = {
             {
               "account_name": "Ashtonlightstone.9145",
               "composite_score": 1636.0012366845995,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 4.0,
               "glicko_rating": 1636.0012366845995,
               "key_stats": "Heal:1736.4 Clea:1.2",
@@ -194902,7 +194902,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1625.8888547398317,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 2.5,
               "glicko_rating": 1625.8888547398317,
               "key_stats": "Heal:1497.1 Clea:0.9",
@@ -194915,7 +194915,7 @@ const leaderboardData = {
             {
               "account_name": "Bother.9415",
               "composite_score": 1594.7443251024695,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1594.7443251024695,
               "key_stats": "Heal:1793.3 Clea:0.9",
@@ -194928,7 +194928,7 @@ const leaderboardData = {
             {
               "account_name": "Lozen.7623",
               "composite_score": 1572.050755739017,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 5.75,
               "glicko_rating": 1572.050755739017,
               "key_stats": "Heal:1429.4 Clea:0.9",
@@ -194941,7 +194941,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1563.435547955074,
-              "games_played": 9,
+              "games_played": 5,
               "average_rank_percent": 6.666666666666667,
               "glicko_rating": 1563.435547955074,
               "key_stats": "Heal:1294.2 Clea:0.8",
@@ -194954,7 +194954,7 @@ const leaderboardData = {
             {
               "account_name": "Hiraldo.7954",
               "composite_score": 1563.3719049768406,
-              "games_played": 10,
+              "games_played": 6,
               "average_rank_percent": 5.5,
               "glicko_rating": 1563.3719049768406,
               "key_stats": "Heal:1215.0 Clea:0.9",
@@ -194967,7 +194967,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1546.5347527263111,
-              "games_played": 6,
+              "games_played": 3,
               "average_rank_percent": 4.833333333333333,
               "glicko_rating": 1546.5347527263111,
               "key_stats": "Heal:1097.1 Clea:0.6",
@@ -194980,7 +194980,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1541.0859653897824,
-              "games_played": 8,
+              "games_played": 4,
               "average_rank_percent": 7.25,
               "glicko_rating": 1541.0859653897824,
               "key_stats": "Heal:1431.5 Clea:0.6",
@@ -194993,7 +194993,7 @@ const leaderboardData = {
             {
               "account_name": "TigerSpirit.2194",
               "composite_score": 1494.46207660033,
-              "games_played": 24,
+              "games_played": 15,
               "average_rank_percent": 8.166666666666666,
               "glicko_rating": 1494.46207660033,
               "key_stats": "Heal:668.9 Clea:0.8",
@@ -195019,7 +195019,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1559.3862807916876,
-              "games_played": 40,
+              "games_played": 20,
               "average_rank_percent": 15.85,
               "glicko_rating": 1559.3862807916876,
               "key_stats": "Stab:6.4 DPS:337.6",
@@ -195032,7 +195032,7 @@ const leaderboardData = {
             {
               "account_name": "Huge.5891",
               "composite_score": 1537.367696601963,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 4.0,
               "glicko_rating": 1537.367696601963,
               "key_stats": "Stab:3.0 DPS:1692.0",
@@ -195060,7 +195060,7 @@ const leaderboardData = {
             {
               "account_name": "Luke.9108",
               "composite_score": 1588.1083965931605,
-              "games_played": 9,
+              "games_played": 3,
               "average_rank_percent": 11.0,
               "glicko_rating": 1588.1083965931605,
               "key_stats": "Stab:5.0 Clea:0.8 DPS:1274.7",
@@ -195073,7 +195073,7 @@ const leaderboardData = {
             {
               "account_name": "Malek.9417",
               "composite_score": 1587.9593426407337,
-              "games_played": 12,
+              "games_played": 4,
               "average_rank_percent": 11.25,
               "glicko_rating": 1587.9593426407337,
               "key_stats": "Stab:6.0 Clea:0.5 DPS:906.2",
@@ -195086,7 +195086,7 @@ const leaderboardData = {
             {
               "account_name": "ParaldaWind.4523",
               "composite_score": 1575.0964828381452,
-              "games_played": 6,
+              "games_played": 2,
               "average_rank_percent": 5.333333333333333,
               "glicko_rating": 1575.0964828381452,
               "key_stats": "Stab:5.9 Clea:0.3 DPS:1205.5",
@@ -195099,7 +195099,7 @@ const leaderboardData = {
             {
               "account_name": "waschy.6093",
               "composite_score": 1558.5321224637855,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 8.0,
               "glicko_rating": 1558.5321224637855,
               "key_stats": "Stab:7.4 Clea:0.3 DPS:797.0",
@@ -195112,7 +195112,7 @@ const leaderboardData = {
             {
               "account_name": "Mellis.8451",
               "composite_score": 1535.7246424910556,
-              "games_played": 9,
+              "games_played": 3,
               "average_rank_percent": 12.0,
               "glicko_rating": 1535.7246424910556,
               "key_stats": "Stab:6.1 Clea:0.4 DPS:1084.0",
@@ -195125,7 +195125,7 @@ const leaderboardData = {
             {
               "account_name": "Steampunkengineer.7146",
               "composite_score": 1532.1800704589828,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 11.333333333333334,
               "glicko_rating": 1532.1800704589828,
               "key_stats": "Stab:5.5 Clea:0.6 DPS:1446.0",
@@ -195138,7 +195138,7 @@ const leaderboardData = {
             {
               "account_name": "adrielle.2109",
               "composite_score": 1514.3787412619092,
-              "games_played": 12,
+              "games_played": 4,
               "average_rank_percent": 13.166666666666666,
               "glicko_rating": 1514.3787412619092,
               "key_stats": "Stab:6.8 Clea:0.3 DPS:510.5",
@@ -195151,7 +195151,7 @@ const leaderboardData = {
             {
               "account_name": "Freelanced.6084",
               "composite_score": 1505.7984703137572,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 13.0,
               "glicko_rating": 1505.7984703137572,
               "key_stats": "Stab:3.4 Clea:0.4 DPS:599.0",
@@ -195164,7 +195164,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1493.5724862074244,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.0,
               "glicko_rating": 1493.5724862074244,
               "key_stats": "Stab:8.5 Clea:0.7 DPS:1418.0",
@@ -195177,7 +195177,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1489.1526377547625,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1489.1526377547625,
               "key_stats": "Stab:4.6 Clea:0.4 DPS:834.0",
@@ -195190,7 +195190,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1457.2493306252675,
-              "games_played": 3,
+              "games_played": 1,
               "average_rank_percent": 10.333333333333334,
               "glicko_rating": 1457.2493306252675,
               "key_stats": "Stab:3.1 Clea:0.3 DPS:667.0",
@@ -195203,7 +195203,7 @@ const leaderboardData = {
             {
               "account_name": "Nero.6195",
               "composite_score": 1431.5494239251288,
-              "games_played": 21,
+              "games_played": 7,
               "average_rank_percent": 12.238095238095237,
               "glicko_rating": 1431.5494239251288,
               "key_stats": "Stab:4.9 Clea:0.3 DPS:850.4",
@@ -195233,7 +195233,7 @@ const leaderboardData = {
             {
               "account_name": "OPness.3215",
               "composite_score": 1672.7055175924716,
-              "games_played": 28,
+              "games_played": 7,
               "average_rank_percent": 10.214285714285714,
               "glicko_rating": 1672.7055175924716,
               "key_stats": "Migh:35.6 Resi:0.9 Stab:2.9",
@@ -195246,7 +195246,7 @@ const leaderboardData = {
             {
               "account_name": "Solomon Darkfury.3729",
               "composite_score": 1665.789024897449,
-              "games_played": 12,
+              "games_played": 3,
               "average_rank_percent": 7.083333333333333,
               "glicko_rating": 1665.789024897449,
               "key_stats": "Migh:36.1 Resi:1.4 Stab:4.4",
@@ -195259,7 +195259,7 @@ const leaderboardData = {
             {
               "account_name": "Havocus.3682",
               "composite_score": 1587.600248966099,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 7.75,
               "glicko_rating": 1587.600248966099,
               "key_stats": "Migh:15.4 Resi:1.3 Stab:3.0",
@@ -195272,7 +195272,7 @@ const leaderboardData = {
             {
               "account_name": "mikefmc.5961",
               "composite_score": 1583.1222696566256,
-              "games_played": 10,
+              "games_played": 3,
               "average_rank_percent": 6.9,
               "glicko_rating": 1583.1222696566256,
               "key_stats": "Migh:12.7 Resi:0.8 Stab:2.1",
@@ -195285,7 +195285,7 @@ const leaderboardData = {
             {
               "account_name": "Argo.2675",
               "composite_score": 1574.7082212756925,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 9.25,
               "glicko_rating": 1574.7082212756925,
               "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
@@ -195298,7 +195298,7 @@ const leaderboardData = {
             {
               "account_name": "synco.8132",
               "composite_score": 1553.1596486544966,
-              "games_played": 16,
+              "games_played": 4,
               "average_rank_percent": 9.375,
               "glicko_rating": 1553.1596486544966,
               "key_stats": "Migh:10.7 Resi:0.7 Stab:2.2",
@@ -195311,7 +195311,7 @@ const leaderboardData = {
             {
               "account_name": "Coileddarknight.9528",
               "composite_score": 1520.110175249179,
-              "games_played": 12,
+              "games_played": 3,
               "average_rank_percent": 10.666666666666666,
               "glicko_rating": 1520.110175249179,
               "key_stats": "Migh:8.4 Resi:0.9 Stab:3.4",
@@ -195324,7 +195324,7 @@ const leaderboardData = {
             {
               "account_name": "Nictheman.9754",
               "composite_score": 1490.1583953434326,
-              "games_played": 4,
+              "games_played": 1,
               "average_rank_percent": 10.25,
               "glicko_rating": 1490.1583953434326,
               "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
@@ -195350,7 +195350,7 @@ const leaderboardData = {
             {
               "account_name": "FlawedDjinn.3217",
               "composite_score": 1631.620333193218,
-              "games_played": 4,
+              "games_played": 2,
               "average_rank_percent": 16.5,
               "glicko_rating": 1631.620333193218,
               "key_stats": "Prot:3.3 DPS:63.0",
@@ -195363,7 +195363,7 @@ const leaderboardData = {
             {
               "account_name": "Aein.1483",
               "composite_score": 1586.7824278878834,
-              "games_played": 2,
+              "games_played": 1,
               "average_rank_percent": 8.5,
               "glicko_rating": 1586.7824278878834,
               "key_stats": "Prot:1.6 DPS:1017.0",
