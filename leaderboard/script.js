@@ -1,6 +1,6 @@
 // Leaderboard data
 const leaderboardData = {
-  "generated_at": "2025-07-06T23:16:43.525631",
+  "generated_at": "2025-07-06T23:24:46.290057",
   "guild_enabled": true,
   "guild_name": "Pyromancers",
   "guild_tag": "PYRO",
@@ -30223,516 +30223,388 @@ const leaderboardData = {
       "player_stats": {
         "Most Played Professions": [
           {
-            "account_name": "Interpretor.3091",
+            "account_name": "Dextra.8162",
             "professions": [
               {
-                "profession": "Spellbreaker",
-                "session_count": 14
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 8
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 6
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 5
+                "profession": "Weaver",
+                "session_count": 9
               },
               {
                 "profession": "Catalyst",
                 "session_count": 3
               },
               {
-                "profession": "Holosmith",
+                "profession": "Soulbeast",
                 "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
               }
             ],
-            "total_sessions": 41,
+            "total_sessions": 14,
             "is_guild_member": true,
-            "primary_profession": "Spellbreaker",
-            "profession_count": 9,
+            "primary_profession": "Weaver",
+            "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Spellbreaker",
-                "session_count": 14
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 8
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 6
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 5
+                "profession": "Weaver",
+                "session_count": 9
               },
               {
                 "profession": "Catalyst",
                 "session_count": 3
               },
               {
-                "profession": "Holosmith",
+                "profession": "Soulbeast",
                 "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
               }
             ],
             "rank": 1
           },
           {
-            "account_name": "Havocus.3682",
+            "account_name": "Interpretor.3091",
             "professions": [
               {
-                "profession": "Catalyst",
-                "session_count": 10
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 8
-              },
-              {
-                "profession": "Chronomancer",
+                "profession": "Spellbreaker",
                 "session_count": 5
               },
               {
-                "profession": "Berserker",
+                "profession": "Untamed",
                 "session_count": 3
               },
               {
-                "profession": "Dragonhunter",
+                "profession": "Warrior",
                 "session_count": 2
               },
               {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
+                "profession": "Berserker",
                 "session_count": 1
               },
               {
-                "profession": "Support Spb",
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
                 "session_count": 1
               }
             ],
-            "total_sessions": 36,
+            "total_sessions": 14,
             "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 10,
+            "primary_profession": "Spellbreaker",
+            "profession_count": 7,
             "professions_played": [
               {
-                "profession": "Catalyst",
-                "session_count": 10
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 8
-              },
-              {
-                "profession": "Chronomancer",
+                "profession": "Spellbreaker",
                 "session_count": 5
               },
               {
-                "profession": "Berserker",
+                "profession": "Untamed",
                 "session_count": 3
               },
               {
-                "profession": "Dragonhunter",
+                "profession": "Warrior",
                 "session_count": 2
               },
               {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
+                "profession": "Berserker",
                 "session_count": 1
               },
               {
-                "profession": "Support Spb",
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
                 "session_count": 1
               }
             ],
             "rank": 2
           },
           {
-            "account_name": "Dextra.8162",
+            "account_name": "Havocus.3682",
             "professions": [
               {
-                "profession": "Weaver",
-                "session_count": 20
-              },
-              {
                 "profession": "Catalyst",
-                "session_count": 8
+                "session_count": 7
               },
               {
-                "profession": "Soulbeast",
+                "profession": "Scourge",
                 "session_count": 4
               },
               {
-                "profession": "Dragonhunter",
+                "profession": "Chronomancer",
                 "session_count": 1
               },
               {
-                "profession": "Thief",
+                "profession": "Support Spb",
                 "session_count": 1
               }
             ],
-            "total_sessions": 34,
+            "total_sessions": 13,
             "is_guild_member": true,
-            "primary_profession": "Weaver",
-            "profession_count": 5,
+            "primary_profession": "Catalyst",
+            "profession_count": 4,
             "professions_played": [
               {
-                "profession": "Weaver",
-                "session_count": 20
-              },
-              {
                 "profession": "Catalyst",
-                "session_count": 8
+                "session_count": 7
               },
               {
-                "profession": "Soulbeast",
+                "profession": "Scourge",
                 "session_count": 4
               },
               {
-                "profession": "Dragonhunter",
+                "profession": "Chronomancer",
                 "session_count": 1
               },
               {
-                "profession": "Thief",
+                "profession": "Support Spb",
                 "session_count": 1
               }
             ],
             "rank": 3
           },
           {
-            "account_name": "ParaldaWind.4523",
+            "account_name": "Nictheman.9754",
             "professions": [
               {
-                "profession": "China DH",
-                "session_count": 20
+                "profession": "Chronomancer",
+                "session_count": 6
               },
               {
-                "profession": "Dragonhunter",
-                "session_count": 7
-              },
-              {
-                "profession": "Condi Firebrand",
+                "profession": "Warrior",
                 "session_count": 2
               },
               {
-                "profession": "Catalyst",
+                "profession": "Holosmith",
                 "session_count": 1
               },
               {
-                "profession": "Druid",
+                "profession": "Reaper",
                 "session_count": 1
               },
               {
-                "profession": "Firebrand",
+                "profession": "Spellbreaker",
                 "session_count": 1
               },
               {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
+                "profession": "Support Spb",
                 "session_count": 1
               }
             ],
-            "total_sessions": 34,
+            "total_sessions": 12,
             "is_guild_member": true,
-            "primary_profession": "China DH",
-            "profession_count": 8,
+            "primary_profession": "Chronomancer",
+            "profession_count": 6,
             "professions_played": [
               {
-                "profession": "China DH",
-                "session_count": 20
+                "profession": "Chronomancer",
+                "session_count": 6
               },
               {
-                "profession": "Dragonhunter",
-                "session_count": 7
-              },
-              {
-                "profession": "Condi Firebrand",
+                "profession": "Warrior",
                 "session_count": 2
               },
               {
-                "profession": "Catalyst",
+                "profession": "Holosmith",
                 "session_count": 1
               },
               {
-                "profession": "Druid",
+                "profession": "Reaper",
                 "session_count": 1
               },
               {
-                "profession": "Firebrand",
+                "profession": "Spellbreaker",
                 "session_count": 1
               },
               {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
+                "profession": "Support Spb",
                 "session_count": 1
               }
             ],
             "rank": 4
           },
           {
-            "account_name": "Nictheman.9754",
+            "account_name": "ParaldaWind.4523",
             "professions": [
               {
-                "profession": "Chronomancer",
-                "session_count": 14
+                "profession": "China DH",
+                "session_count": 9
               },
               {
-                "profession": "Spellbreaker",
-                "session_count": 8
-              },
-              {
-                "profession": "Warrior",
+                "profession": "Dragonhunter",
                 "session_count": 2
               },
               {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
+                "profession": "Druid",
                 "session_count": 1
               }
             ],
-            "total_sessions": 31,
+            "total_sessions": 12,
             "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 10,
+            "primary_profession": "China DH",
+            "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Chronomancer",
-                "session_count": 14
+                "profession": "China DH",
+                "session_count": 9
               },
               {
-                "profession": "Spellbreaker",
-                "session_count": 8
-              },
-              {
-                "profession": "Warrior",
+                "profession": "Dragonhunter",
                 "session_count": 2
               },
               {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
+                "profession": "Druid",
                 "session_count": 1
               }
             ],
             "rank": 5
           },
           {
-            "account_name": "synco.8132",
+            "account_name": "Pieswithattitude.2357",
             "professions": [
               {
                 "profession": "Catalyst",
-                "session_count": 8
+                "session_count": 2
               },
               {
                 "profession": "Chronomancer",
-                "session_count": 7
+                "session_count": 2
               },
               {
                 "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Boon Cata",
                 "session_count": 2
               },
               {
-                "profession": "Vindicator",
-                "session_count": 2
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
               },
               {
                 "profession": "Reaper",
                 "session_count": 1
-              }
-            ],
-            "total_sessions": 31,
-            "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 7
-              },
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 4
               },
               {
                 "profession": "Scourge",
-                "session_count": 3
+                "session_count": 1
               },
               {
-                "profession": "Boon Cata",
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 12,
+            "is_guild_member": true,
+            "primary_profession": "Catalyst",
+            "profession_count": 9,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
                 "session_count": 2
               },
               {
-                "profession": "Vindicator",
+                "profession": "Chronomancer",
                 "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
               },
               {
                 "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
                 "session_count": 1
               }
             ],
             "rank": 6
           },
           {
-            "account_name": "Nero.6195",
+            "account_name": "FlawedDjinn.3217",
             "professions": [
               {
-                "profession": "Firebrand",
-                "session_count": 10
+                "profession": "Boon Vindi",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
               },
               {
                 "profession": "Scourge",
-                "session_count": 10
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
               },
               {
                 "profession": "Condi Firebrand",
-                "session_count": 7
-              },
-              {
-                "profession": "Reaper",
                 "session_count": 1
               }
             ],
-            "total_sessions": 28,
+            "total_sessions": 11,
             "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 4,
+            "primary_profession": "Boon Vindi",
+            "profession_count": 6,
             "professions_played": [
               {
-                "profession": "Firebrand",
-                "session_count": 10
+                "profession": "Boon Vindi",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
               },
               {
                 "profession": "Scourge",
-                "session_count": 10
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
               },
               {
                 "profession": "Condi Firebrand",
-                "session_count": 7
-              },
-              {
-                "profession": "Reaper",
                 "session_count": 1
               }
             ],
@@ -30742,28 +30614,12 @@ const leaderboardData = {
             "account_name": "Freelanced.6084",
             "professions": [
               {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
                 "profession": "Catalyst",
-                "session_count": 8
+                "session_count": 5
               },
               {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
+                "profession": "Scourge",
+                "session_count": 3
               },
               {
                 "profession": "Holosmith",
@@ -30774,38 +30630,22 @@ const leaderboardData = {
                 "session_count": 1
               },
               {
-                "profession": "Vindicator",
+                "profession": "Scrapper",
                 "session_count": 1
               }
             ],
-            "total_sessions": 27,
+            "total_sessions": 11,
             "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 9,
+            "primary_profession": "Catalyst",
+            "profession_count": 5,
             "professions_played": [
               {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
                 "profession": "Catalyst",
-                "session_count": 8
+                "session_count": 5
               },
               {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
+                "profession": "Scourge",
+                "session_count": 3
               },
               {
                 "profession": "Holosmith",
@@ -30816,1295 +30656,75 @@ const leaderboardData = {
                 "session_count": 1
               },
               {
-                "profession": "Vindicator",
+                "profession": "Scrapper",
                 "session_count": 1
               }
             ],
             "rank": 8
           },
           {
-            "account_name": "Huge.5891",
+            "account_name": "synco.8132",
             "professions": [
               {
-                "profession": "Dragonhunter",
-                "session_count": 19
+                "profession": "Catalyst",
+                "session_count": 5
               },
               {
-                "profession": "Willbender",
+                "profession": "Druid",
                 "session_count": 4
               },
               {
-                "profession": "China DH",
-                "session_count": 1
+                "profession": "Chronomancer",
+                "session_count": 2
               }
             ],
-            "total_sessions": 24,
+            "total_sessions": 11,
             "is_guild_member": true,
-            "primary_profession": "Dragonhunter",
+            "primary_profession": "Catalyst",
             "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Dragonhunter",
-                "session_count": 19
+                "profession": "Catalyst",
+                "session_count": 5
               },
               {
-                "profession": "Willbender",
+                "profession": "Druid",
                 "session_count": 4
               },
               {
-                "profession": "China DH",
-                "session_count": 1
+                "profession": "Chronomancer",
+                "session_count": 2
               }
             ],
             "rank": 9
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "professions": [
-              {
-                "profession": "Untamed",
-                "session_count": 9
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 24,
-            "is_guild_member": true,
-            "primary_profession": "Untamed",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "Untamed",
-                "session_count": 9
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "rank": 10
-          },
-          {
-            "account_name": "Uriah.7082",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 4
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Herald",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 24,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 9,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 4
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Herald",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "rank": 11
-          },
-          {
-            "account_name": "Mellis.8451",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 6
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 4
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 23,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 6,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 6
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 4
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 12
-          },
-          {
-            "account_name": "Astro Bear.6305",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 17
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 4
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 22,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 17
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 4
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              }
-            ],
-            "rank": 13
-          },
-          {
-            "account_name": "Luke.9108",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 21,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              }
-            ],
-            "rank": 14
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 5
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 3
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Boon Cata",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 21,
-            "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 12,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 5
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 3
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Boon Cata",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "rank": 15
-          },
-          {
-            "account_name": "modus.7921",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 16
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 21,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 16
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "rank": 16
-          },
-          {
-            "account_name": "FlawedDjinn.3217",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 5
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
-              },
-              {
-                "profession": "Boon Vindi",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 20,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 7,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 5
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
-              },
-              {
-                "profession": "Boon Vindi",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 17
-          },
-          {
-            "account_name": "Muted.8591",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 19,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "rank": 18
-          },
-          {
-            "account_name": "Ashtonlightstone.9145",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 18,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 10,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 19
-          },
-          {
-            "account_name": "emz.3571",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 12
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Weaver",
-                "session_count": 3
-              }
-            ],
-            "total_sessions": 18,
-            "is_guild_member": true,
-            "primary_profession": "Reaper",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 12
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Weaver",
-                "session_count": 3
-              }
-            ],
-            "rank": 20
-          },
-          {
-            "account_name": "Crator of Fire.1796",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 5
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 4
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 17,
-            "is_guild_member": true,
-            "primary_profession": "Reaper",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 5
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 4
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              }
-            ],
-            "rank": 21
-          },
-          {
-            "account_name": "Malek.9417",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 5
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 17,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 7,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 5
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 22
-          },
-          {
-            "account_name": "aznsleeper.5896",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 13
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 17,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 13
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 23
           },
           {
             "account_name": "Aein.1483",
             "professions": [
               {
                 "profession": "Vindicator",
-                "session_count": 14
+                "session_count": 9
               },
               {
                 "profession": "Boon Vindi",
                 "session_count": 1
               }
             ],
-            "total_sessions": 15,
+            "total_sessions": 10,
             "is_guild_member": true,
             "primary_profession": "Vindicator",
             "profession_count": 2,
             "professions_played": [
               {
                 "profession": "Vindicator",
-                "session_count": 14
+                "session_count": 9
               },
               {
                 "profession": "Boon Vindi",
                 "session_count": 1
               }
             ],
-            "rank": 24
-          },
-          {
-            "account_name": "Bother.9415",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
-              }
-            ],
-            "rank": 25
-          },
-          {
-            "account_name": "TigerSpirit.2194",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 15
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 15
-              }
-            ],
-            "rank": 26
-          },
-          {
-            "account_name": "adrielle.2109",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 11
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 4
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 11
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 4
-              }
-            ],
-            "rank": 27
-          },
-          {
-            "account_name": "montjusk.9671",
-            "professions": [
-              {
-                "profession": "Warrior",
-                "session_count": 9
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Mirage",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": false,
-            "primary_profession": "Warrior",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Warrior",
-                "session_count": 9
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Mirage",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 28
-          },
-          {
-            "account_name": "Bailyen Arturius.4263",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 10
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 12,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 10
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              }
-            ],
-            "rank": 29
-          },
-          {
-            "account_name": "Smile.9284",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              }
-            ],
-            "total_sessions": 12,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              }
-            ],
-            "rank": 30
-          },
-          {
-            "account_name": "Argo.2675",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 8
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 10,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 8
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 31
-          },
-          {
-            "account_name": "Elgar.2091",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 10,
-            "is_guild_member": true,
-            "primary_profession": "Reaper",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 32
-          },
-          {
-            "account_name": "Johnny.5478",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 10,
-            "is_guild_member": true,
-            "primary_profession": "Reaper",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 33
+            "rank": 10
           },
           {
             "account_name": "Lasthope.7943",
@@ -32156,7 +30776,43 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 34
+            "rank": 11
+          },
+          {
+            "account_name": "Nero.6195",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 10,
+            "is_guild_member": true,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 12
           },
           {
             "account_name": "Hiraldo.7954",
@@ -32200,323 +30856,177 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 35
+            "rank": 13
           },
           {
-            "account_name": "Jeff.7219",
+            "account_name": "Luke.9108",
             "professions": [
               {
                 "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
                 "session_count": 2
               },
               {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
+                "profession": "Untamed",
+                "session_count": 2
               },
               {
                 "profession": "Druid",
                 "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
               }
             ],
             "total_sessions": 9,
-            "is_guild_member": false,
+            "is_guild_member": true,
             "primary_profession": "Scourge",
-            "profession_count": 8,
+            "profession_count": 4,
             "professions_played": [
               {
                 "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
                 "session_count": 2
               },
               {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
+                "profession": "Untamed",
+                "session_count": 2
               },
               {
                 "profession": "Druid",
                 "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
               }
             ],
-            "rank": 36
+            "rank": 14
           },
           {
-            "account_name": "OPness.3215",
+            "account_name": "Mellis.8451",
             "professions": [
               {
-                "profession": "Support Spb",
-                "session_count": 7
+                "profession": "Scourge",
+                "session_count": 4
               },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 9,
-            "is_guild_member": true,
-            "primary_profession": "Support Spb",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Support Spb",
-                "session_count": 7
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              }
-            ],
-            "rank": 37
-          },
-          {
-            "account_name": "mikefmc.5961",
-            "professions": [
               {
                 "profession": "Firebrand",
-                "session_count": 6
+                "session_count": 2
               },
-              {
-                "profession": "Support Spb",
-                "session_count": 3
-              }
-            ],
-            "total_sessions": 9,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 6
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 3
-              }
-            ],
-            "rank": 38
-          },
-          {
-            "account_name": "CaptainKnightfall.4378",
-            "professions": [
               {
                 "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
                 "session_count": 1
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
                 "session_count": 1
               }
             ],
-            "total_sessions": 8,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
+            "total_sessions": 9,
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
             "profession_count": 5,
             "professions_played": [
               {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 39
-          },
-          {
-            "account_name": "Degothia.7394",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
                 "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Firebrand",
                 "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
               },
               {
                 "profession": "Reaper",
                 "session_count": 1
               }
             ],
-            "total_sessions": 8,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 40
+            "rank": 15
           },
           {
-            "account_name": "Disenable.1640",
+            "account_name": "Soothsayer.9206",
             "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 8,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 41
-          },
-          {
-            "account_name": "ixJurema.8657",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
               {
                 "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
                 "session_count": 1
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Untamed",
                 "session_count": 1
               },
               {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
+                "profession": "Warrior",
                 "session_count": 1
               }
             ],
-            "total_sessions": 8,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
+            "total_sessions": 9,
+            "is_guild_member": true,
+            "primary_profession": "Catalyst",
             "profession_count": 6,
             "professions_played": [
               {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
                 "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
+            "rank": 16
+          },
+          {
+            "account_name": "Uriah.7082",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
                 "session_count": 1
               },
               {
@@ -32524,15 +31034,45 @@ const leaderboardData = {
                 "session_count": 1
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Firebrand",
                 "session_count": 1
               },
               {
-                "profession": "Support Spb",
+                "profession": "Spellbreaker",
                 "session_count": 1
               }
             ],
-            "rank": 42
+            "total_sessions": 9,
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
+            "profession_count": 6,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "rank": 17
           },
           {
             "account_name": "waschy.6093",
@@ -32568,174 +31108,146 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 43
+            "rank": 18
           },
           {
-            "account_name": "Aromapaloma.3194",
-            "professions": [
-              {
-                "profession": "Tempest",
-                "session_count": 6
-              },
-              {
-                "profession": "Weaver",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 7,
-            "is_guild_member": true,
-            "primary_profession": "Tempest",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Tempest",
-                "session_count": 6
-              },
-              {
-                "profession": "Weaver",
-                "session_count": 1
-              }
-            ],
-            "rank": 44
-          },
-          {
-            "account_name": "FrozenDelicious.3690",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 6
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 7,
-            "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 6
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              }
-            ],
-            "rank": 45
-          },
-          {
-            "account_name": "SilverBlade Hero.8974",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 7,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              }
-            ],
-            "rank": 46
-          },
-          {
-            "account_name": "Steampunkengineer.7146",
+            "account_name": "Argo.2675",
             "professions": [
               {
                 "profession": "Chronomancer",
-                "session_count": 3
+                "session_count": 5
               },
               {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
+                "profession": "Scourge",
                 "session_count": 1
               },
               {
-                "profession": "Druid",
+                "profession": "Support Spb",
                 "session_count": 1
               }
             ],
             "total_sessions": 7,
             "is_guild_member": true,
             "primary_profession": "Chronomancer",
-            "profession_count": 4,
+            "profession_count": 3,
             "professions_played": [
               {
                 "profession": "Chronomancer",
-                "session_count": 3
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              }
-            ],
-            "rank": 47
-          },
-          {
-            "account_name": "Wootzies.3574",
-            "professions": [
-              {
-                "profession": "Tempest",
-                "session_count": 7
-              }
-            ],
-            "total_sessions": 7,
-            "is_guild_member": false,
-            "primary_profession": "Tempest",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Tempest",
-                "session_count": 7
-              }
-            ],
-            "rank": 48
-          },
-          {
-            "account_name": "pariah.6937",
-            "professions": [
-              {
-                "profession": "Druid",
                 "session_count": 5
               },
               {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 19
+          },
+          {
+            "account_name": "Huge.5891",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 6
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 7,
+            "is_guild_member": true,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 6
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 1
+              }
+            ],
+            "rank": 20
+          },
+          {
+            "account_name": "Muted.8591",
+            "professions": [
+              {
                 "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Reaper",
                 "session_count": 2
+              }
+            ],
+            "total_sessions": 7,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
+            "rank": 21
+          },
+          {
+            "account_name": "emz.3571",
+            "professions": [
+              {
+                "profession": "Reaper",
+                "session_count": 4
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 7,
+            "is_guild_member": true,
+            "primary_profession": "Reaper",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 4
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
+            "rank": 22
+          },
+          {
+            "account_name": "modus.7921",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 6
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
               }
             ],
             "total_sessions": 7,
@@ -32745,269 +31257,93 @@ const leaderboardData = {
             "professions_played": [
               {
                 "profession": "Druid",
+                "session_count": 6
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 23
+          },
+          {
+            "account_name": "Astro Bear.6305",
+            "professions": [
+              {
+                "profession": "Druid",
                 "session_count": 5
               },
               {
-                "profession": "Chronomancer",
-                "session_count": 2
-              }
-            ],
-            "rank": 49
-          },
-          {
-            "account_name": "Mortealug.6043",
-            "professions": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
                 "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
             "total_sessions": 6,
-            "is_guild_member": false,
-            "primary_profession": "Condi Firebrand",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 50
-          },
-          {
-            "account_name": "Xhil.9316",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 6,
-            "is_guild_member": false,
+            "is_guild_member": true,
             "primary_profession": "Druid",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "rank": 51
-          },
-          {
-            "account_name": "BlueFlame.8673",
-            "professions": [
-              {
-                "profession": "Berserker",
-                "session_count": 4
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Berserker",
             "profession_count": 2,
             "professions_played": [
               {
-                "profession": "Berserker",
-                "session_count": 4
+                "profession": "Druid",
+                "session_count": 5
               },
               {
-                "profession": "Catalyst",
+                "profession": "Firebrand",
                 "session_count": 1
               }
             ],
-            "rank": 52
+            "rank": 24
           },
           {
-            "account_name": "Bricktus.1682",
+            "account_name": "Bailyen Arturius.4263",
             "professions": [
               {
-                "profession": "Catalyst",
-                "session_count": 2
+                "profession": "Chronomancer",
+                "session_count": 5
               },
               {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 53
-          },
-          {
-            "account_name": "Chakkkka.2504",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 54
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "professions": [
-              {
-                "profession": "Support Spb",
-                "session_count": 3
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
+            "total_sessions": 6,
             "is_guild_member": true,
-            "primary_profession": "Support Spb",
-            "profession_count": 3,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
             "professions_played": [
               {
-                "profession": "Support Spb",
-                "session_count": 3
+                "profession": "Chronomancer",
+                "session_count": 5
               },
               {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
-            "rank": 55
+            "rank": 25
           },
           {
-            "account_name": "Daasen.3719",
+            "account_name": "Crator of Fire.1796",
             "professions": [
               {
                 "profession": "Reaper",
                 "session_count": 2
               },
               {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Necromancer",
-                "session_count": 1
-              },
-              {
                 "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
-            "total_sessions": 5,
-            "is_guild_member": false,
+            "total_sessions": 6,
+            "is_guild_member": true,
             "primary_profession": "Reaper",
             "profession_count": 4,
             "professions_played": [
@@ -33016,81 +31352,89 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Necromancer",
-                "session_count": 1
-              },
-              {
                 "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
-            "rank": 56
+            "rank": 26
           },
           {
-            "account_name": "Emily.4523",
+            "account_name": "adrielle.2109",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 3
+              }
+            ],
+            "total_sessions": 6,
+            "is_guild_member": true,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 3
+              }
+            ],
+            "rank": 27
+          },
+          {
+            "account_name": "Ashtonlightstone.9145",
             "professions": [
               {
                 "profession": "Druid",
-                "session_count": 5
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
               }
             ],
             "total_sessions": 5,
             "is_guild_member": true,
             "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 5
-              }
-            ],
-            "rank": 57
-          },
-          {
-            "account_name": "Igure.2063",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
             "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
                 "profession": "Druid",
-                "session_count": 2
+                "session_count": 3
               },
               {
-                "profession": "Specter",
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
                 "session_count": 1
               }
             ],
-            "rank": 58
+            "rank": 28
           },
           {
-            "account_name": "Jordan.1860",
+            "account_name": "Bother.9415",
             "professions": [
               {
-                "profession": "Virtuoso",
+                "profession": "Scourge",
                 "session_count": 2
               },
               {
@@ -33098,7 +31442,7 @@ const leaderboardData = {
                 "session_count": 1
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Druid",
                 "session_count": 1
               },
               {
@@ -33107,12 +31451,12 @@ const leaderboardData = {
               }
             ],
             "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Virtuoso",
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
             "profession_count": 4,
             "professions_played": [
               {
-                "profession": "Virtuoso",
+                "profession": "Scourge",
                 "session_count": 2
               },
               {
@@ -33120,7 +31464,7 @@ const leaderboardData = {
                 "session_count": 1
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Druid",
                 "session_count": 1
               },
               {
@@ -33128,159 +31472,43 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 59
+            "rank": 29
           },
           {
-            "account_name": "Max Danger.4031",
+            "account_name": "Malek.9417",
             "professions": [
               {
-                "profession": "Catalyst",
-                "session_count": 1
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
               },
               {
                 "profession": "Chronomancer",
                 "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
               }
             ],
             "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 5,
+            "is_guild_member": true,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Catalyst",
-                "session_count": 1
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
               },
               {
                 "profession": "Chronomancer",
                 "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
               }
             ],
-            "rank": 60
-          },
-          {
-            "account_name": "Mes.1906",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "rank": 61
-          },
-          {
-            "account_name": "Nightbringer.9845",
-            "professions": [
-              {
-                "profession": "Berserker",
-                "session_count": 3
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Berserker",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Berserker",
-                "session_count": 3
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              }
-            ],
-            "rank": 62
-          },
-          {
-            "account_name": "Stash.8401",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 63
+            "rank": 30
           },
           {
             "account_name": "Syde.1863",
@@ -33308,115 +31536,35 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 64
+            "rank": 31
           },
           {
-            "account_name": "filipe.2809",
+            "account_name": "Aromapaloma.3194",
             "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              }
-            ],
-            "rank": 65
-          },
-          {
-            "account_name": "katoki.7869",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              }
-            ],
-            "rank": 66
-          },
-          {
-            "account_name": "Azelroth.6801",
-            "professions": [
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
               {
                 "profession": "Tempest",
-                "session_count": 1
+                "session_count": 3
               },
               {
-                "profession": "Vindicator",
+                "profession": "Weaver",
                 "session_count": 1
               }
             ],
             "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Dragonhunter",
-            "profession_count": 4,
+            "is_guild_member": true,
+            "primary_profession": "Tempest",
+            "profession_count": 2,
             "professions_played": [
               {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
                 "profession": "Tempest",
-                "session_count": 1
+                "session_count": 3
               },
               {
-                "profession": "Vindicator",
+                "profession": "Weaver",
                 "session_count": 1
               }
             ],
-            "rank": 67
+            "rank": 32
           },
           {
             "account_name": "Basic.9204",
@@ -33452,7 +31600,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 68
+            "rank": 33
           },
           {
             "account_name": "Bertozaur.4578",
@@ -33480,607 +31628,123 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 69
+            "rank": 34
           },
           {
-            "account_name": "Bouzouki.7598",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              }
-            ],
-            "rank": 70
-          },
-          {
-            "account_name": "Fibbs.1623",
-            "professions": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Condi Firebrand",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              }
-            ],
-            "rank": 71
-          },
-          {
-            "account_name": "Foodels.7358",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 4
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 4
-              }
-            ],
-            "rank": 72
-          },
-          {
-            "account_name": "HuMbErTerA.4253",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 4
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 4
-              }
-            ],
-            "rank": 73
-          },
-          {
-            "account_name": "Hydrason.4612",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              }
-            ],
-            "rank": 74
-          },
-          {
-            "account_name": "JStillwater.4360",
-            "professions": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Spellbreaker",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              }
-            ],
-            "rank": 75
-          },
-          {
-            "account_name": "KaNgUs.1025",
-            "professions": [
-              {
-                "profession": "Berserker",
-                "session_count": 4
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Berserker",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Berserker",
-                "session_count": 4
-              }
-            ],
-            "rank": 76
-          },
-          {
-            "account_name": "LightspeedJack.9473",
-            "professions": [
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Holosmith",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 77
-          },
-          {
-            "account_name": "Solomon Darkfury.3729",
+            "account_name": "Coileddarknight.9528",
             "professions": [
               {
                 "profession": "Support Spb",
-                "session_count": 3
+                "session_count": 2
               },
               {
-                "profession": "Reaper",
+                "profession": "Berserker",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
                 "session_count": 1
               }
             ],
             "total_sessions": 4,
             "is_guild_member": true,
             "primary_profession": "Support Spb",
-            "profession_count": 2,
+            "profession_count": 3,
             "professions_played": [
               {
                 "profession": "Support Spb",
-                "session_count": 3
+                "session_count": 2
               },
               {
-                "profession": "Reaper",
+                "profession": "Berserker",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
                 "session_count": 1
               }
             ],
-            "rank": 78
+            "rank": 35
           },
           {
-            "account_name": "acumen.1980",
+            "account_name": "Disenable.1640",
             "professions": [
               {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
+                "profession": "Chronomancer",
+                "session_count": 4
               }
             ],
             "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 2,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
             "professions_played": [
               {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
+                "profession": "Chronomancer",
+                "session_count": 4
               }
             ],
-            "rank": 79
+            "rank": 36
           },
           {
-            "account_name": "amends.3469",
+            "account_name": "Smile.9284",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              }
+            ],
+            "total_sessions": 4,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              }
+            ],
+            "rank": 37
+          },
+          {
+            "account_name": "TigerSpirit.2194",
             "professions": [
               {
                 "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
+                "session_count": 4
               }
             ],
             "total_sessions": 4,
-            "is_guild_member": false,
+            "is_guild_member": true,
             "primary_profession": "Druid",
-            "profession_count": 4,
+            "profession_count": 1,
             "professions_played": [
               {
                 "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
+                "session_count": 4
               }
             ],
-            "rank": 80
+            "rank": 38
           },
           {
-            "account_name": "pinguinox.9528",
+            "account_name": "aznsleeper.5896",
             "professions": [
               {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
                 "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
+                "session_count": 4
               }
             ],
             "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Dragonhunter",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 81
-          },
-          {
-            "account_name": "yhanbruno.5873",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 82
-          },
-          {
-            "account_name": "ABC.9386",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              }
-            ],
-            "rank": 83
-          },
-          {
-            "account_name": "Bad Karma.8407",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Harbinger",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Harbinger",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "rank": 84
-          },
-          {
-            "account_name": "Beneko.8475",
-            "professions": [
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Holosmith",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 85
-          },
-          {
-            "account_name": "Bleebt.4108",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 86
-          },
-          {
-            "account_name": "BlueViolet.8263",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
             "is_guild_member": true,
             "primary_profession": "Firebrand",
-            "profession_count": 2,
+            "profession_count": 1,
             "professions_played": [
               {
                 "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
+                "session_count": 4
               }
             ],
-            "rank": 87
-          },
-          {
-            "account_name": "Bronkes.1865",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              }
-            ],
-            "rank": 88
-          },
-          {
-            "account_name": "CrimeLordXx.3920",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 89
+            "rank": 39
           },
           {
             "account_name": "DareDevils.6039",
@@ -34100,70 +31764,58 @@ const leaderboardData = {
                 "session_count": 3
               }
             ],
-            "rank": 90
+            "rank": 40
           },
           {
-            "account_name": "Death by Omen.1734",
+            "account_name": "Igure.2063",
             "professions": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 3
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Spellbreaker",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 3
-              }
-            ],
-            "rank": 91
-          },
-          {
-            "account_name": "Eliare.4069",
-            "professions": [
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
               {
                 "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
                 "session_count": 1
               }
             ],
             "total_sessions": 3,
             "is_guild_member": false,
-            "primary_profession": "Tempest",
-            "profession_count": 2,
+            "primary_profession": "Chronomancer",
+            "profession_count": 3,
             "professions_played": [
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
               {
                 "profession": "Chronomancer",
                 "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Specter",
+                "session_count": 1
               }
             ],
-            "rank": 92
+            "rank": 41
           },
           {
-            "account_name": "Fungo Maligno.4081",
+            "account_name": "Johnny.5478",
             "professions": [
               {
                 "profession": "Specter",
                 "session_count": 2
               },
               {
-                "profession": "Scourge",
+                "profession": "Druid",
                 "session_count": 1
               }
             ],
             "total_sessions": 3,
-            "is_guild_member": false,
+            "is_guild_member": true,
             "primary_profession": "Specter",
             "profession_count": 2,
             "professions_played": [
@@ -34172,133 +31824,21 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "rank": 93
-          },
-          {
-            "account_name": "GreatPadinski.2170",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 3
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 3
-              }
-            ],
-            "rank": 94
-          },
-          {
-            "account_name": "Guars.6409",
-            "professions": [
-              {
                 "profession": "Druid",
                 "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
               }
             ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 95
+            "rank": 42
           },
           {
-            "account_name": "Hostile Pudding.5617",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 96
-          },
-          {
-            "account_name": "J WreckX.7648",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              }
-            ],
-            "rank": 97
-          },
-          {
-            "account_name": "Kenlos.2354",
+            "account_name": "Lozen.7623",
             "professions": [
               {
                 "profession": "Druid",
                 "session_count": 2
               },
               {
-                "profession": "Catalyst",
+                "profession": "Firebrand",
                 "session_count": 1
               }
             ],
@@ -34312,55 +31852,1323 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
-                "profession": "Catalyst",
+                "profession": "Firebrand",
                 "session_count": 1
               }
             ],
-            "rank": 98
+            "rank": 43
           },
           {
-            "account_name": "King Sylvari.2567",
+            "account_name": "Mandar.9813",
             "professions": [
               {
-                "profession": "Firebrand",
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "rank": 44
+          },
+          {
+            "account_name": "Naomi.5372",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
+            "rank": 45
+          },
+          {
+            "account_name": "Solomon Darkfury.3729",
+            "professions": [
+              {
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": true,
+            "primary_profession": "Support Spb",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 46
+          },
+          {
+            "account_name": "Steampunkengineer.7146",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 47
+          },
+          {
+            "account_name": "dobbeh.7382",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": true,
+            "primary_profession": "Holosmith",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
+            "rank": 48
+          },
+          {
+            "account_name": "yhanbruno.5873",
+            "professions": [
+              {
+                "profession": "Catalyst",
                 "session_count": 3
               }
             ],
             "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              }
+            ],
+            "rank": 49
+          },
+          {
+            "account_name": "Asterisk.9730",
+            "professions": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Herald",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 50
+          },
+          {
+            "account_name": "Chakkkka.2504",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              }
+            ],
+            "rank": 51
+          },
+          {
+            "account_name": "Cruelty.9730",
+            "professions": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Reaper",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 52
+          },
+          {
+            "account_name": "Daasen.3719",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 53
+          },
+          {
+            "account_name": "DgsWolf.4790",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "rank": 54
+          },
+          {
+            "account_name": "Filipe.8492",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              }
+            ],
+            "rank": 55
+          },
+          {
+            "account_name": "Foodels.7358",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "rank": 56
+          },
+          {
+            "account_name": "General Moo.7930",
+            "professions": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Reaper",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
+            "rank": 57
+          },
+          {
+            "account_name": "Jax Blake.7250",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "rank": 58
+          },
+          {
+            "account_name": "Jordan.1860",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
+            "rank": 59
+          },
+          {
+            "account_name": "Mes.1906",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
+            "rank": 60
+          },
+          {
+            "account_name": "Mortealug.6043",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
+            "rank": 61
+          },
+          {
+            "account_name": "Niyack.4953",
+            "professions": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Herald",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 62
+          },
+          {
+            "account_name": "Noe.4360",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Holosmith",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "rank": 63
+          },
+          {
+            "account_name": "OPness.3215",
+            "professions": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Spellbreaker",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 64
+          },
+          {
+            "account_name": "Raven Paradox.1860",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 65
+          },
+          {
+            "account_name": "Ronin.4501",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 66
+          },
+          {
+            "account_name": "RoyTheBoy.8693",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 67
+          },
+          {
+            "account_name": "TopestOfKeks.5192",
+            "professions": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Berserker",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "rank": 68
+          },
+          {
+            "account_name": "amends.3469",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              }
+            ],
+            "rank": 69
+          },
+          {
+            "account_name": "bernadettesurprise.3297",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 70
+          },
+          {
+            "account_name": "freecarl.9214",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Holosmith",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "rank": 71
+          },
+          {
+            "account_name": "ixJurema.8657",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "rank": 72
+          },
+          {
+            "account_name": "pariah.6937",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 73
+          },
+          {
+            "account_name": "ABC.9386",
+            "professions": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Specter",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Specter",
+                "session_count": 1
+              }
+            ],
+            "rank": 74
+          },
+          {
+            "account_name": "Andry.2473",
+            "professions": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Reaper",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 75
+          },
+          {
+            "account_name": "Asper.2863",
+            "professions": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Boon Cata",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Boon Cata",
+                "session_count": 1
+              }
+            ],
+            "rank": 76
+          },
+          {
+            "account_name": "Avvie.9406",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
+            "rank": 77
+          },
+          {
+            "account_name": "Ayemes.5892",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Holosmith",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "rank": 78
+          },
+          {
+            "account_name": "Babadook.5842",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 79
+          },
+          {
+            "account_name": "Bayushi.7914",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
             "is_guild_member": false,
             "primary_profession": "Firebrand",
             "profession_count": 1,
             "professions_played": [
               {
                 "profession": "Firebrand",
-                "session_count": 3
+                "session_count": 1
+              }
+            ],
+            "rank": 80
+          },
+          {
+            "account_name": "Beneddar.7930",
+            "professions": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Tempest",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "rank": 81
+          },
+          {
+            "account_name": "Beneko.8475",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Holosmith",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "rank": 82
+          },
+          {
+            "account_name": "Bleebt.4108",
+            "professions": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Vindicator",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
+            "rank": 83
+          },
+          {
+            "account_name": "BlueFlame.8673",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
+            "rank": 84
+          },
+          {
+            "account_name": "BlueViolet.8263",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": true,
+            "primary_profession": "Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 85
+          },
+          {
+            "account_name": "CallsignTundra.5963",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 86
+          },
+          {
+            "account_name": "Carnibaal.2140",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              }
+            ],
+            "rank": 87
+          },
+          {
+            "account_name": "Clarrovi.9085",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": true,
+            "primary_profession": "Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 88
+          },
+          {
+            "account_name": "DanDizh.8416",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 89
+          },
+          {
+            "account_name": "Eliare.4069",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "rank": 90
+          },
+          {
+            "account_name": "Flames.9485",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 91
+          },
+          {
+            "account_name": "FrozenDelicious.3690",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 92
+          },
+          {
+            "account_name": "Fungo Maligno.4081",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 93
+          },
+          {
+            "account_name": "Gir Rowl.7065",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 94
+          },
+          {
+            "account_name": "Graven.4325",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "rank": 95
+          },
+          {
+            "account_name": "Hostile Pudding.5617",
+            "professions": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Reaper",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 96
+          },
+          {
+            "account_name": "HuMbErTerA.4253",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 97
+          },
+          {
+            "account_name": "Humblelight.9570",
+            "professions": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Vindicator",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
+            "rank": 98
+          },
+          {
+            "account_name": "Hydrason.4612",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
               }
             ],
             "rank": 99
           },
           {
-            "account_name": "Knightmare.6849",
+            "account_name": "IClappBuns.2587",
             "professions": [
               {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
+                "profession": "Chronomancer",
                 "session_count": 1
               }
             ],
-            "total_sessions": 3,
+            "total_sessions": 1,
             "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 2,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
             "professions_played": [
               {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
+                "profession": "Chronomancer",
                 "session_count": 1
               }
             ],
@@ -79321,27 +78129,71 @@ const leaderboardData = {
       "player_stats": {
         "Most Played Professions": [
           {
+            "account_name": "Dextra.8162",
+            "professions": [
+              {
+                "profession": "Weaver",
+                "session_count": 15
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Soulbeast",
+                "session_count": 2
+              },
+              {
+                "profession": "Thief",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 26,
+            "is_guild_member": true,
+            "primary_profession": "Weaver",
+            "profession_count": 4,
+            "professions_played": [
+              {
+                "profession": "Weaver",
+                "session_count": 15
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Soulbeast",
+                "session_count": 2
+              },
+              {
+                "profession": "Thief",
+                "session_count": 1
+              }
+            ],
+            "rank": 1
+          },
+          {
             "account_name": "Interpretor.3091",
             "professions": [
               {
                 "profession": "Spellbreaker",
-                "session_count": 14
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 8
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 6
+                "session_count": 7
               },
               {
                 "profession": "Untamed",
                 "session_count": 5
               },
               {
+                "profession": "Warrior",
+                "session_count": 4
+              },
+              {
                 "profession": "Catalyst",
                 "session_count": 3
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 2
               },
               {
                 "profession": "Holosmith",
@@ -79360,30 +78212,30 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "total_sessions": 41,
+            "total_sessions": 26,
             "is_guild_member": true,
             "primary_profession": "Spellbreaker",
             "profession_count": 9,
             "professions_played": [
               {
                 "profession": "Spellbreaker",
-                "session_count": 14
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 8
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 6
+                "session_count": 7
               },
               {
                 "profession": "Untamed",
                 "session_count": 5
               },
               {
+                "profession": "Warrior",
+                "session_count": 4
+              },
+              {
                 "profession": "Catalyst",
                 "session_count": 3
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 2
               },
               {
                 "profession": "Holosmith",
@@ -79402,7 +78254,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 1
+            "rank": 2
           },
           {
             "account_name": "Havocus.3682",
@@ -79413,45 +78265,29 @@ const leaderboardData = {
               },
               {
                 "profession": "Scourge",
-                "session_count": 8
+                "session_count": 7
               },
               {
                 "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 3
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
+                "session_count": 4
               },
               {
                 "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
                 "session_count": 1
               },
               {
                 "profession": "Support Spb",
                 "session_count": 1
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 1
               }
             ],
-            "total_sessions": 36,
+            "total_sessions": 24,
             "is_guild_member": true,
             "primary_profession": "Catalyst",
-            "profession_count": 10,
+            "profession_count": 6,
             "professions_played": [
               {
                 "profession": "Catalyst",
@@ -79459,90 +78295,22 @@ const leaderboardData = {
               },
               {
                 "profession": "Scourge",
-                "session_count": 8
+                "session_count": 7
               },
               {
                 "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 3
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
+                "session_count": 4
               },
               {
                 "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
                 "session_count": 1
               },
               {
                 "profession": "Support Spb",
                 "session_count": 1
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "account_name": "Dextra.8162",
-            "professions": [
-              {
-                "profession": "Weaver",
-                "session_count": 20
               },
               {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Soulbeast",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Thief",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 34,
-            "is_guild_member": true,
-            "primary_profession": "Weaver",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Weaver",
-                "session_count": 20
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Soulbeast",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Thief",
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
@@ -79553,716 +78321,52 @@ const leaderboardData = {
             "professions": [
               {
                 "profession": "China DH",
-                "session_count": 20
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 7
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 34,
-            "is_guild_member": true,
-            "primary_profession": "China DH",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "China DH",
-                "session_count": 20
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 7
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "account_name": "Nictheman.9754",
-            "professions": [
-              {
-                "profession": "Chronomancer",
                 "session_count": 14
               },
               {
-                "profession": "Spellbreaker",
-                "session_count": 8
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
+                "profession": "Dragonhunter",
+                "session_count": 4
               },
               {
                 "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 31,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 10,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 14
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 8
-              },
-              {
-                "profession": "Warrior",
                 "session_count": 2
               },
               {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
                 "profession": "Catalyst",
                 "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "account_name": "synco.8132",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 7
               },
               {
                 "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Boon Cata",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 31,
-            "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 7
-              },
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Boon Cata",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 6
-          },
-          {
-            "account_name": "Nero.6195",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 10
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 7
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 28,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 10
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 7
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 7
-          },
-          {
-            "account_name": "Freelanced.6084",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 27,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 9,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 8
-          },
-          {
-            "account_name": "Huge.5891",
-            "professions": [
-              {
-                "profession": "Dragonhunter",
-                "session_count": 19
-              },
-              {
-                "profession": "Willbender",
-                "session_count": 4
-              },
-              {
-                "profession": "China DH",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 24,
-            "is_guild_member": true,
-            "primary_profession": "Dragonhunter",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Dragonhunter",
-                "session_count": 19
-              },
-              {
-                "profession": "Willbender",
-                "session_count": 4
-              },
-              {
-                "profession": "China DH",
-                "session_count": 1
-              }
-            ],
-            "rank": 9
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "professions": [
-              {
-                "profession": "Untamed",
-                "session_count": 9
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 24,
-            "is_guild_member": true,
-            "primary_profession": "Untamed",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "Untamed",
-                "session_count": 9
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "rank": 10
-          },
-          {
-            "account_name": "Uriah.7082",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 4
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Herald",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 24,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 9,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 4
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 2
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Herald",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "rank": 11
-          },
-          {
-            "account_name": "Mellis.8451",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 6
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 4
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 23,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 6,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 6
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 4
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 12
-          },
-          {
-            "account_name": "Astro Bear.6305",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 17
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 4
-              },
-              {
-                "profession": "Catalyst",
                 "session_count": 1
               }
             ],
             "total_sessions": 22,
             "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 3,
+            "primary_profession": "China DH",
+            "profession_count": 5,
             "professions_played": [
               {
-                "profession": "Druid",
-                "session_count": 17
+                "profession": "China DH",
+                "session_count": 14
               },
               {
-                "profession": "Firebrand",
+                "profession": "Dragonhunter",
                 "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
               },
               {
                 "profession": "Catalyst",
                 "session_count": 1
-              }
-            ],
-            "rank": 13
-          },
-          {
-            "account_name": "Luke.9108",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
               },
               {
                 "profession": "Druid",
-                "session_count": 2
+                "session_count": 1
               }
             ],
-            "total_sessions": 21,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 10
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              }
-            ],
-            "rank": 14
+            "rank": 4
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -80370,43 +78474,299 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 15
+            "rank": 5
           },
           {
-            "account_name": "modus.7921",
+            "account_name": "synco.8132",
             "professions": [
               {
-                "profession": "Druid",
-                "session_count": 16
+                "profession": "Catalyst",
+                "session_count": 8
               },
               {
-                "profession": "Firebrand",
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
                 "session_count": 4
               },
               {
                 "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
             "total_sessions": 21,
             "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 3,
+            "primary_profession": "Catalyst",
+            "profession_count": 6,
             "professions_played": [
               {
-                "profession": "Druid",
-                "session_count": 16
+                "profession": "Catalyst",
+                "session_count": 8
               },
               {
-                "profession": "Firebrand",
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
                 "session_count": 4
               },
               {
                 "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
-            "rank": 16
+            "rank": 6
+          },
+          {
+            "account_name": "Nero.6195",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 8
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 7
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              }
+            ],
+            "total_sessions": 20,
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 8
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 7
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "account_name": "Nictheman.9754",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 11
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 20,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 8,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 11
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 2
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "account_name": "Freelanced.6084",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 6
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 19,
+            "is_guild_member": true,
+            "primary_profession": "Catalyst",
+            "profession_count": 7,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 6
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "account_name": "Luke.9108",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 19,
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
+            "profession_count": 5,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 10
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
+            "rank": 10
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -80416,11 +78776,11 @@ const leaderboardData = {
                 "session_count": 5
               },
               {
-                "profession": "Scourge",
-                "session_count": 5
+                "profession": "Chronomancer",
+                "session_count": 3
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Scourge",
                 "session_count": 3
               },
               {
@@ -80440,7 +78800,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "total_sessions": 20,
+            "total_sessions": 18,
             "is_guild_member": true,
             "primary_profession": "Druid",
             "profession_count": 7,
@@ -80450,11 +78810,11 @@ const leaderboardData = {
                 "session_count": 5
               },
               {
-                "profession": "Scourge",
-                "session_count": 5
+                "profession": "Chronomancer",
+                "session_count": 3
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Scourge",
                 "session_count": 3
               },
               {
@@ -80474,14 +78834,110 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 17
+            "rank": 11
+          },
+          {
+            "account_name": "Mellis.8451",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 18,
+            "is_guild_member": true,
+            "primary_profession": "Firebrand",
+            "profession_count": 6,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 5
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 5
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "account_name": "Huge.5891",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 12
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 4
+              },
+              {
+                "profession": "China DH",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 17,
+            "is_guild_member": true,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 12
+              },
+              {
+                "profession": "Willbender",
+                "session_count": 4
+              },
+              {
+                "profession": "China DH",
+                "session_count": 1
+              }
+            ],
+            "rank": 13
           },
           {
             "account_name": "Muted.8591",
             "professions": [
               {
                 "profession": "Chronomancer",
-                "session_count": 12
+                "session_count": 8
               },
               {
                 "profession": "Reaper",
@@ -80496,14 +78952,14 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "total_sessions": 19,
+            "total_sessions": 15,
             "is_guild_member": true,
             "primary_profession": "Chronomancer",
             "profession_count": 4,
             "professions_played": [
               {
                 "profession": "Chronomancer",
-                "session_count": 12
+                "session_count": 8
               },
               {
                 "profession": "Reaper",
@@ -80518,135 +78974,151 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 18
+            "rank": 14
           },
           {
-            "account_name": "Ashtonlightstone.9145",
+            "account_name": "Aein.1483",
             "professions": [
               {
-                "profession": "Druid",
+                "profession": "Vindicator",
+                "session_count": 13
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 14,
+            "is_guild_member": true,
+            "primary_profession": "Vindicator",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Vindicator",
+                "session_count": 13
+              },
+              {
+                "profession": "Boon Vindi",
+                "session_count": 1
+              }
+            ],
+            "rank": 15
+          },
+          {
+            "account_name": "Uriah.7082",
+            "professions": [
+              {
+                "profession": "Chronomancer",
                 "session_count": 4
               },
               {
-                "profession": "Dragonhunter",
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
                 "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
               },
               {
                 "profession": "Berserker",
                 "session_count": 1
               },
               {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
+                "profession": "Firebrand",
                 "session_count": 1
               },
               {
                 "profession": "Spellbreaker",
                 "session_count": 1
+              }
+            ],
+            "total_sessions": 14,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 6,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 4
               },
               {
-                "profession": "Vindicator",
+                "profession": "Scourge",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
                 "session_count": 1
               }
             ],
-            "total_sessions": 18,
+            "rank": 16
+          },
+          {
+            "account_name": "modus.7921",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 13
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 14,
             "is_guild_member": true,
             "primary_profession": "Druid",
-            "profession_count": 10,
+            "profession_count": 2,
             "professions_played": [
               {
                 "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
+                "session_count": 13
               },
               {
                 "profession": "Scourge",
                 "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
               }
             ],
-            "rank": 19
+            "rank": 17
           },
           {
-            "account_name": "emz.3571",
+            "account_name": "Astro Bear.6305",
             "professions": [
               {
-                "profession": "Reaper",
-                "session_count": 12
+                "profession": "Druid",
+                "session_count": 10
               },
               {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Weaver",
+                "profession": "Firebrand",
                 "session_count": 3
               }
             ],
-            "total_sessions": 18,
+            "total_sessions": 13,
             "is_guild_member": true,
-            "primary_profession": "Reaper",
-            "profession_count": 3,
+            "primary_profession": "Druid",
+            "profession_count": 2,
             "professions_played": [
               {
-                "profession": "Reaper",
-                "session_count": 12
+                "profession": "Druid",
+                "session_count": 10
               },
               {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Weaver",
+                "profession": "Firebrand",
                 "session_count": 3
               }
             ],
-            "rank": 20
+            "rank": 18
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -80660,22 +79132,18 @@ const leaderboardData = {
                 "session_count": 5
               },
               {
-                "profession": "Vindicator",
-                "session_count": 4
-              },
-              {
                 "profession": "Chronomancer",
-                "session_count": 2
+                "session_count": 1
               },
               {
-                "profession": "Specter",
+                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
-            "total_sessions": 17,
+            "total_sessions": 12,
             "is_guild_member": true,
             "primary_profession": "Reaper",
-            "profession_count": 5,
+            "profession_count": 4,
             "professions_played": [
               {
                 "profession": "Reaper",
@@ -80686,383 +79154,207 @@ const leaderboardData = {
                 "session_count": 5
               },
               {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
                 "profession": "Vindicator",
+                "session_count": 1
+              }
+            ],
+            "rank": 19
+          },
+          {
+            "account_name": "Malek.9417",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
                 "session_count": 4
               },
               {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
                 "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 11,
+            "is_guild_member": true,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 6,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 4
+              },
+              {
+                "profession": "Druid",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 20
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "professions": [
+              {
+                "profession": "Catalyst",
                 "session_count": 2
               },
               {
-                "profession": "Specter",
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Warrior",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 11,
+            "is_guild_member": true,
+            "primary_profession": "Catalyst",
+            "profession_count": 7,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Renegade",
+                "session_count": 1
+              },
+              {
+                "profession": "Warrior",
                 "session_count": 1
               }
             ],
             "rank": 21
           },
           {
-            "account_name": "Malek.9417",
+            "account_name": "adrielle.2109",
             "professions": [
               {
                 "profession": "Firebrand",
-                "session_count": 5
+                "session_count": 7
               },
               {
                 "profession": "Condi Firebrand",
                 "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
               }
             ],
-            "total_sessions": 17,
+            "total_sessions": 11,
             "is_guild_member": true,
             "primary_profession": "Firebrand",
-            "profession_count": 7,
+            "profession_count": 2,
             "professions_played": [
               {
                 "profession": "Firebrand",
-                "session_count": 5
+                "session_count": 7
               },
               {
                 "profession": "Condi Firebrand",
                 "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
               }
             ],
             "rank": 22
           },
           {
-            "account_name": "aznsleeper.5896",
+            "account_name": "emz.3571",
             "professions": [
               {
-                "profession": "Firebrand",
-                "session_count": 13
+                "profession": "Reaper",
+                "session_count": 6
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Weaver",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
                 "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
               }
             ],
-            "total_sessions": 17,
+            "total_sessions": 11,
             "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 4,
+            "primary_profession": "Reaper",
+            "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Firebrand",
-                "session_count": 13
+                "profession": "Reaper",
+                "session_count": 6
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Weaver",
+                "session_count": 3
+              },
+              {
+                "profession": "Catalyst",
                 "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
               }
             ],
             "rank": 23
-          },
-          {
-            "account_name": "Aein.1483",
-            "professions": [
-              {
-                "profession": "Vindicator",
-                "session_count": 14
-              },
-              {
-                "profession": "Boon Vindi",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": true,
-            "primary_profession": "Vindicator",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Vindicator",
-                "session_count": 14
-              },
-              {
-                "profession": "Boon Vindi",
-                "session_count": 1
-              }
-            ],
-            "rank": 24
-          },
-          {
-            "account_name": "Bother.9415",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 3
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
-              }
-            ],
-            "rank": 25
-          },
-          {
-            "account_name": "TigerSpirit.2194",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 15
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 15
-              }
-            ],
-            "rank": 26
-          },
-          {
-            "account_name": "adrielle.2109",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 11
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 4
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 11
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 4
-              }
-            ],
-            "rank": 27
-          },
-          {
-            "account_name": "montjusk.9671",
-            "professions": [
-              {
-                "profession": "Warrior",
-                "session_count": 9
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Mirage",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 15,
-            "is_guild_member": false,
-            "primary_profession": "Warrior",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Warrior",
-                "session_count": 9
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Mirage",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 28
-          },
-          {
-            "account_name": "Bailyen Arturius.4263",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 10
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 12,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 10
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 2
-              }
-            ],
-            "rank": 29
-          },
-          {
-            "account_name": "Smile.9284",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              }
-            ],
-            "total_sessions": 12,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              }
-            ],
-            "rank": 30
           },
           {
             "account_name": "Argo.2675",
@@ -81098,111 +79390,35 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 31
+            "rank": 24
           },
           {
-            "account_name": "Elgar.2091",
+            "account_name": "Bailyen Arturius.4263",
             "professions": [
               {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
                 "profession": "Chronomancer",
-                "session_count": 1
+                "session_count": 8
               },
               {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
+                "profession": "Vindicator",
+                "session_count": 2
               }
             ],
             "total_sessions": 10,
             "is_guild_member": true,
-            "primary_profession": "Reaper",
-            "profession_count": 5,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
             "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
               {
                 "profession": "Chronomancer",
-                "session_count": 1
+                "session_count": 8
               },
               {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
+                "profession": "Vindicator",
+                "session_count": 2
               }
             ],
-            "rank": 32
-          },
-          {
-            "account_name": "Johnny.5478",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 10,
-            "is_guild_member": true,
-            "primary_profession": "Reaper",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 4
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 33
+            "rank": 25
           },
           {
             "account_name": "Lasthope.7943",
@@ -81254,7 +79470,103 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 34
+            "rank": 26
+          },
+          {
+            "account_name": "Ashtonlightstone.9145",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 9,
+            "is_guild_member": true,
+            "primary_profession": "Druid",
+            "profession_count": 5,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 4
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 27
+          },
+          {
+            "account_name": "Bother.9415",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 9,
+            "is_guild_member": true,
+            "primary_profession": "Catalyst",
+            "profession_count": 4,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 28
           },
           {
             "account_name": "Hiraldo.7954",
@@ -81298,339 +79610,83 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 35
+            "rank": 29
           },
           {
-            "account_name": "Jeff.7219",
+            "account_name": "TigerSpirit.2194",
             "professions": [
               {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
                 "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 9,
-            "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 8,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 36
-          },
-          {
-            "account_name": "OPness.3215",
-            "professions": [
-              {
-                "profession": "Support Spb",
-                "session_count": 7
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
+                "session_count": 9
               }
             ],
             "total_sessions": 9,
             "is_guild_member": true,
-            "primary_profession": "Support Spb",
-            "profession_count": 2,
+            "primary_profession": "Druid",
+            "profession_count": 1,
             "professions_played": [
               {
-                "profession": "Support Spb",
-                "session_count": 7
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
+                "profession": "Druid",
+                "session_count": 9
               }
             ],
-            "rank": 37
+            "rank": 30
           },
           {
-            "account_name": "mikefmc.5961",
+            "account_name": "aznsleeper.5896",
             "professions": [
               {
                 "profession": "Firebrand",
                 "session_count": 6
               },
               {
-                "profession": "Support Spb",
-                "session_count": 3
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
               }
             ],
             "total_sessions": 9,
             "is_guild_member": true,
             "primary_profession": "Firebrand",
-            "profession_count": 2,
+            "profession_count": 3,
             "professions_played": [
               {
                 "profession": "Firebrand",
                 "session_count": 6
               },
               {
-                "profession": "Support Spb",
-                "session_count": 3
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
               }
             ],
-            "rank": 38
+            "rank": 31
           },
           {
-            "account_name": "CaptainKnightfall.4378",
+            "account_name": "Smile.9284",
             "professions": [
               {
                 "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 8,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 39
-          },
-          {
-            "account_name": "Degothia.7394",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 8,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 40
-          },
-          {
-            "account_name": "Disenable.1640",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
+                "session_count": 8
               }
             ],
             "total_sessions": 8,
             "is_guild_member": true,
             "primary_profession": "Chronomancer",
-            "profession_count": 4,
+            "profession_count": 1,
             "professions_played": [
               {
                 "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
+                "session_count": 8
               }
             ],
-            "rank": 41
-          },
-          {
-            "account_name": "ixJurema.8657",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 8,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 6,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 42
+            "rank": 32
           },
           {
             "account_name": "waschy.6093",
@@ -81666,63 +79722,51 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 43
+            "rank": 33
           },
           {
-            "account_name": "Aromapaloma.3194",
+            "account_name": "Disenable.1640",
             "professions": [
               {
-                "profession": "Tempest",
-                "session_count": 6
+                "profession": "Chronomancer",
+                "session_count": 4
               },
               {
-                "profession": "Weaver",
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
                 "session_count": 1
               }
             ],
             "total_sessions": 7,
             "is_guild_member": true,
-            "primary_profession": "Tempest",
-            "profession_count": 2,
+            "primary_profession": "Chronomancer",
+            "profession_count": 4,
             "professions_played": [
               {
-                "profession": "Tempest",
-                "session_count": 6
+                "profession": "Chronomancer",
+                "session_count": 4
               },
-              {
-                "profession": "Weaver",
-                "session_count": 1
-              }
-            ],
-            "rank": 44
-          },
-          {
-            "account_name": "FrozenDelicious.3690",
-            "professions": [
               {
                 "profession": "Scourge",
-                "session_count": 6
+                "session_count": 1
               },
               {
-                "profession": "Druid",
+                "profession": "Scrapper",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
                 "session_count": 1
               }
             ],
-            "total_sessions": 7,
-            "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 6
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              }
-            ],
-            "rank": 45
+            "rank": 34
           },
           {
             "account_name": "SilverBlade Hero.8974",
@@ -81758,7 +79802,143 @@ const leaderboardData = {
                 "session_count": 2
               }
             ],
-            "rank": 46
+            "rank": 35
+          },
+          {
+            "account_name": "montjusk.9671",
+            "professions": [
+              {
+                "profession": "Warrior",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 7,
+            "is_guild_member": false,
+            "primary_profession": "Warrior",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Warrior",
+                "session_count": 3
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              }
+            ],
+            "rank": 36
+          },
+          {
+            "account_name": "Aromapaloma.3194",
+            "professions": [
+              {
+                "profession": "Tempest",
+                "session_count": 5
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 6,
+            "is_guild_member": true,
+            "primary_profession": "Tempest",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 5
+              },
+              {
+                "profession": "Weaver",
+                "session_count": 1
+              }
+            ],
+            "rank": 37
+          },
+          {
+            "account_name": "Johnny.5478",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 6,
+            "is_guild_member": true,
+            "primary_profession": "Druid",
+            "profession_count": 4,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 38
+          },
+          {
+            "account_name": "OPness.3215",
+            "professions": [
+              {
+                "profession": "Support Spb",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 6,
+            "is_guild_member": true,
+            "primary_profession": "Support Spb",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 5
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "rank": 39
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -81768,19 +79948,19 @@ const leaderboardData = {
                 "session_count": 3
               },
               {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
                 "profession": "Condi Firebrand",
                 "session_count": 1
               },
               {
                 "profession": "Druid",
                 "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
               }
             ],
-            "total_sessions": 7,
+            "total_sessions": 6,
             "is_guild_member": true,
             "primary_profession": "Chronomancer",
             "profession_count": 4,
@@ -81790,103 +79970,19 @@ const leaderboardData = {
                 "session_count": 3
               },
               {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
                 "profession": "Condi Firebrand",
                 "session_count": 1
               },
               {
                 "profession": "Druid",
                 "session_count": 1
-              }
-            ],
-            "rank": 47
-          },
-          {
-            "account_name": "Wootzies.3574",
-            "professions": [
-              {
-                "profession": "Tempest",
-                "session_count": 7
-              }
-            ],
-            "total_sessions": 7,
-            "is_guild_member": false,
-            "primary_profession": "Tempest",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Tempest",
-                "session_count": 7
-              }
-            ],
-            "rank": 48
-          },
-          {
-            "account_name": "pariah.6937",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 5
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 7,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 5
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              }
-            ],
-            "rank": 49
-          },
-          {
-            "account_name": "Mortealug.6043",
-            "professions": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
               },
               {
                 "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
                 "session_count": 1
               }
             ],
-            "total_sessions": 6,
-            "is_guild_member": false,
-            "primary_profession": "Condi Firebrand",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 50
+            "rank": 40
           },
           {
             "account_name": "Xhil.9316",
@@ -81930,226 +80026,10 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 51
+            "rank": 41
           },
           {
-            "account_name": "BlueFlame.8673",
-            "professions": [
-              {
-                "profession": "Berserker",
-                "session_count": 4
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Berserker",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Berserker",
-                "session_count": 4
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              }
-            ],
-            "rank": 52
-          },
-          {
-            "account_name": "Bricktus.1682",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 53
-          },
-          {
-            "account_name": "Chakkkka.2504",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 54
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "professions": [
-              {
-                "profession": "Support Spb",
-                "session_count": 3
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": true,
-            "primary_profession": "Support Spb",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Support Spb",
-                "session_count": 3
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 55
-          },
-          {
-            "account_name": "Daasen.3719",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Necromancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Necromancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "rank": 56
-          },
-          {
-            "account_name": "Emily.4523",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 5
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 5
-              }
-            ],
-            "rank": 57
-          },
-          {
-            "account_name": "Igure.2063",
+            "account_name": "CaptainKnightfall.4378",
             "professions": [
               {
                 "profession": "Chronomancer",
@@ -82160,7 +80040,7 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
-                "profession": "Specter",
+                "profession": "Tempest",
                 "session_count": 1
               }
             ],
@@ -82178,11 +80058,55 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
-                "profession": "Specter",
+                "profession": "Tempest",
                 "session_count": 1
               }
             ],
-            "rank": 58
+            "rank": 42
+          },
+          {
+            "account_name": "Jeff.7219",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 5,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 4,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 43
           },
           {
             "account_name": "Jordan.1860",
@@ -82226,123 +80150,35 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 59
+            "rank": 44
           },
           {
-            "account_name": "Max Danger.4031",
+            "account_name": "Mortealug.6043",
             "professions": [
               {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Catalyst",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Virtuoso",
-                "session_count": 1
-              }
-            ],
-            "rank": 60
-          },
-          {
-            "account_name": "Mes.1906",
-            "professions": [
-              {
-                "profession": "Scourge",
+                "profession": "Condi Firebrand",
                 "session_count": 3
               },
               {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Specter",
-                "session_count": 1
-              },
-              {
-                "profession": "Warrior",
-                "session_count": 1
-              }
-            ],
-            "rank": 61
-          },
-          {
-            "account_name": "Nightbringer.9845",
-            "professions": [
-              {
-                "profession": "Berserker",
-                "session_count": 3
-              },
-              {
-                "profession": "Holosmith",
+                "profession": "Firebrand",
                 "session_count": 2
               }
             ],
             "total_sessions": 5,
             "is_guild_member": false,
-            "primary_profession": "Berserker",
+            "primary_profession": "Condi Firebrand",
             "profession_count": 2,
             "professions_played": [
               {
-                "profession": "Berserker",
+                "profession": "Condi Firebrand",
                 "session_count": 3
               },
               {
-                "profession": "Holosmith",
+                "profession": "Firebrand",
                 "session_count": 2
               }
             ],
-            "rank": 62
+            "rank": 45
           },
           {
             "account_name": "Stash.8401",
@@ -82378,7 +80214,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 63
+            "rank": 46
           },
           {
             "account_name": "Syde.1863",
@@ -82406,115 +80242,35 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 64
+            "rank": 47
           },
           {
-            "account_name": "filipe.2809",
+            "account_name": "mikefmc.5961",
             "professions": [
               {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Scourge",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
-              }
-            ],
-            "rank": 65
-          },
-          {
-            "account_name": "katoki.7869",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              }
-            ],
-            "total_sessions": 5,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              }
-            ],
-            "rank": 66
-          },
-          {
-            "account_name": "Azelroth.6801",
-            "professions": [
-              {
-                "profession": "Dragonhunter",
-                "session_count": 1
+                "profession": "Support Spb",
+                "session_count": 3
               },
               {
                 "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
+                "session_count": 2
               }
             ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Dragonhunter",
-            "profession_count": 4,
+            "total_sessions": 5,
+            "is_guild_member": true,
+            "primary_profession": "Support Spb",
+            "profession_count": 2,
             "professions_played": [
               {
-                "profession": "Dragonhunter",
-                "session_count": 1
+                "profession": "Support Spb",
+                "session_count": 3
               },
               {
                 "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
+                "session_count": 2
               }
             ],
-            "rank": 67
+            "rank": 48
           },
           {
             "account_name": "Basic.9204",
@@ -82550,7 +80306,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 68
+            "rank": 49
           },
           {
             "account_name": "Bertozaur.4578",
@@ -82578,83 +80334,79 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 69
+            "rank": 50
           },
           {
-            "account_name": "Bouzouki.7598",
+            "account_name": "Chakkkka.2504",
             "professions": [
               {
-                "profession": "Reaper",
+                "profession": "Catalyst",
                 "session_count": 2
               },
               {
                 "profession": "Scourge",
-                "session_count": 2
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
               }
             ],
             "total_sessions": 4,
             "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 2,
+            "primary_profession": "Catalyst",
+            "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Reaper",
+                "profession": "Catalyst",
                 "session_count": 2
               },
               {
                 "profession": "Scourge",
-                "session_count": 2
-              }
-            ],
-            "rank": 70
-          },
-          {
-            "account_name": "Fibbs.1623",
-            "professions": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
+                "session_count": 1
               },
               {
                 "profession": "Tempest",
-                "session_count": 2
+                "session_count": 1
               }
             ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Condi Firebrand",
-            "profession_count": 2,
-            "professions_played": [
+            "rank": 51
+          },
+          {
+            "account_name": "Coileddarknight.9528",
+            "professions": [
               {
-                "profession": "Condi Firebrand",
+                "profession": "Support Spb",
                 "session_count": 2
               },
               {
-                "profession": "Tempest",
-                "session_count": 2
-              }
-            ],
-            "rank": 71
-          },
-          {
-            "account_name": "Foodels.7358",
-            "professions": [
+                "profession": "Berserker",
+                "session_count": 1
+              },
               {
-                "profession": "Druid",
-                "session_count": 4
+                "profession": "Condi Firebrand",
+                "session_count": 1
               }
             ],
             "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 1,
+            "is_guild_member": true,
+            "primary_profession": "Support Spb",
+            "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Druid",
-                "session_count": 4
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
               }
             ],
-            "rank": 72
+            "rank": 52
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -82674,119 +80426,43 @@ const leaderboardData = {
                 "session_count": 4
               }
             ],
-            "rank": 73
+            "rank": 53
           },
           {
-            "account_name": "Hydrason.4612",
+            "account_name": "Igure.2063",
             "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
               {
                 "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              }
-            ],
-            "rank": 74
-          },
-          {
-            "account_name": "JStillwater.4360",
-            "professions": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Spellbreaker",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              }
-            ],
-            "rank": 75
-          },
-          {
-            "account_name": "KaNgUs.1025",
-            "professions": [
-              {
-                "profession": "Berserker",
-                "session_count": 4
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Berserker",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Berserker",
-                "session_count": 4
-              }
-            ],
-            "rank": 76
-          },
-          {
-            "account_name": "LightspeedJack.9473",
-            "professions": [
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
                 "session_count": 1
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Specter",
                 "session_count": 1
               }
             ],
             "total_sessions": 4,
             "is_guild_member": false,
-            "primary_profession": "Holosmith",
+            "primary_profession": "Druid",
             "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Holosmith",
+                "profession": "Druid",
                 "session_count": 2
               },
               {
-                "profession": "Berserker",
+                "profession": "Chronomancer",
                 "session_count": 1
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Specter",
                 "session_count": 1
               }
             ],
-            "rank": 77
+            "rank": 54
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -82814,7 +80490,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 78
+            "rank": 55
           },
           {
             "account_name": "acumen.1980",
@@ -82842,87 +80518,107 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 79
+            "rank": 56
           },
           {
-            "account_name": "amends.3469",
+            "account_name": "filipe.2809",
             "professions": [
               {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
                 "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Renegade",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 80
-          },
-          {
-            "account_name": "pinguinox.9528",
-            "professions": [
-              {
-                "profession": "Dragonhunter",
                 "session_count": 2
               },
               {
-                "profession": "Firebrand",
+                "profession": "Catalyst",
                 "session_count": 1
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Dragonhunter",
                 "session_count": 1
               }
             ],
             "total_sessions": 4,
             "is_guild_member": false,
-            "primary_profession": "Dragonhunter",
+            "primary_profession": "Scourge",
             "profession_count": 3,
             "professions_played": [
               {
-                "profession": "Dragonhunter",
+                "profession": "Scourge",
                 "session_count": 2
               },
               {
-                "profession": "Firebrand",
+                "profession": "Catalyst",
                 "session_count": 1
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Dragonhunter",
                 "session_count": 1
               }
             ],
-            "rank": 81
+            "rank": 57
+          },
+          {
+            "account_name": "ixJurema.8657",
+            "professions": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 4,
+            "is_guild_member": false,
+            "primary_profession": "Tempest",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "rank": 58
+          },
+          {
+            "account_name": "pariah.6937",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 4,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "rank": 59
           },
           {
             "account_name": "yhanbruno.5873",
@@ -82950,7 +80646,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 82
+            "rank": 60
           },
           {
             "account_name": "ABC.9386",
@@ -82986,199 +80682,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 83
-          },
-          {
-            "account_name": "Bad Karma.8407",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Harbinger",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Harbinger",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "rank": 84
-          },
-          {
-            "account_name": "Beneko.8475",
-            "professions": [
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Holosmith",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Holosmith",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 85
-          },
-          {
-            "account_name": "Bleebt.4108",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 86
-          },
-          {
-            "account_name": "BlueViolet.8263",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "rank": 87
-          },
-          {
-            "account_name": "Bronkes.1865",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              }
-            ],
-            "rank": 88
-          },
-          {
-            "account_name": "CrimeLordXx.3920",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 89
+            "rank": 61
           },
           {
             "account_name": "DareDevils.6039",
@@ -83198,175 +80702,35 @@ const leaderboardData = {
                 "session_count": 3
               }
             ],
-            "rank": 90
+            "rank": 62
           },
           {
-            "account_name": "Death by Omen.1734",
-            "professions": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 3
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Spellbreaker",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 3
-              }
-            ],
-            "rank": 91
-          },
-          {
-            "account_name": "Eliare.4069",
-            "professions": [
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Tempest",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Tempest",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              }
-            ],
-            "rank": 92
-          },
-          {
-            "account_name": "Fungo Maligno.4081",
-            "professions": [
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Specter",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 1
-              }
-            ],
-            "rank": 93
-          },
-          {
-            "account_name": "GreatPadinski.2170",
+            "account_name": "Hydrason.4612",
             "professions": [
               {
                 "profession": "Chronomancer",
-                "session_count": 3
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
               }
             ],
             "total_sessions": 3,
-            "is_guild_member": false,
+            "is_guild_member": true,
             "primary_profession": "Chronomancer",
-            "profession_count": 1,
+            "profession_count": 2,
             "professions_played": [
               {
                 "profession": "Chronomancer",
-                "session_count": 3
-              }
-            ],
-            "rank": 94
-          },
-          {
-            "account_name": "Guars.6409",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 1
+                "session_count": 2
               },
               {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
+                "profession": "Firebrand",
                 "session_count": 1
               }
             ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 95
-          },
-          {
-            "account_name": "Hostile Pudding.5617",
-            "professions": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Reaper",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 96
+            "rank": 63
           },
           {
             "account_name": "J WreckX.7648",
@@ -83386,17 +80750,17 @@ const leaderboardData = {
                 "session_count": 3
               }
             ],
-            "rank": 97
+            "rank": 64
           },
           {
-            "account_name": "Kenlos.2354",
+            "account_name": "Lozen.7623",
             "professions": [
               {
                 "profession": "Druid",
                 "session_count": 2
               },
               {
-                "profession": "Catalyst",
+                "profession": "Firebrand",
                 "session_count": 1
               }
             ],
@@ -83410,55 +80774,891 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 65
+          },
+          {
+            "account_name": "Mandar.9813",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "rank": 66
+          },
+          {
+            "account_name": "Mes.1906",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
+            "rank": 67
+          },
+          {
+            "account_name": "Naomi.5372",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Mirage",
+                "session_count": 1
+              },
+              {
+                "profession": "Virtuoso",
+                "session_count": 1
+              }
+            ],
+            "rank": 68
+          },
+          {
+            "account_name": "Raven Paradox.1860",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 69
+          },
+          {
+            "account_name": "Sabbaah.2314",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Firebrand",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 70
+          },
+          {
+            "account_name": "Sieia.3642",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 3
+              }
+            ],
+            "rank": 71
+          },
+          {
+            "account_name": "Wootzies.3574",
+            "professions": [
+              {
+                "profession": "Tempest",
+                "session_count": 3
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Tempest",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 3
+              }
+            ],
+            "rank": 72
+          },
+          {
+            "account_name": "dobbeh.7382",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": true,
+            "primary_profession": "Holosmith",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              },
+              {
+                "profession": "Berserker",
+                "session_count": 1
+              }
+            ],
+            "rank": 73
+          },
+          {
+            "account_name": "liloxw.4809",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              }
+            ],
+            "rank": 74
+          },
+          {
+            "account_name": "limbrose.3079",
+            "professions": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Scrapper",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Scrapper",
+                "session_count": 2
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "rank": 75
+          },
+          {
+            "account_name": "pinguinox.9528",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": false,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 76
+          },
+          {
+            "account_name": "Asterisk.9730",
+            "professions": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Herald",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 77
+          },
+          {
+            "account_name": "Beneko.8475",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Holosmith",
+                "session_count": 1
+              }
+            ],
+            "rank": 78
+          },
+          {
+            "account_name": "BlueViolet.8263",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
+            "rank": 79
+          },
+          {
+            "account_name": "Bricktus.1682",
+            "professions": [
+              {
                 "profession": "Catalyst",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 2
+              }
+            ],
+            "rank": 80
+          },
+          {
+            "account_name": "Cruelty.9730",
+            "professions": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Reaper",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 81
+          },
+          {
+            "account_name": "Daasen.3719",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 82
+          },
+          {
+            "account_name": "DgsWolf.4790",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "rank": 83
+          },
+          {
+            "account_name": "Fibbs.1623",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              }
+            ],
+            "rank": 84
+          },
+          {
+            "account_name": "Filipe.8492",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              }
+            ],
+            "rank": 85
+          },
+          {
+            "account_name": "Foodels.7358",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "rank": 86
+          },
+          {
+            "account_name": "General Moo.7930",
+            "professions": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Reaper",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              }
+            ],
+            "rank": 87
+          },
+          {
+            "account_name": "Guars.6409",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "rank": 88
+          },
+          {
+            "account_name": "Jax Blake.7250",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "rank": 89
+          },
+          {
+            "account_name": "Kenlos.2354",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 2
+              }
+            ],
+            "rank": 90
+          },
+          {
+            "account_name": "LightspeedJack.9473",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Holosmith",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "rank": 91
+          },
+          {
+            "account_name": "Mini.1786",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 92
+          },
+          {
+            "account_name": "Niyack.4953",
+            "professions": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Herald",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Herald",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 93
+          },
+          {
+            "account_name": "Noe.4360",
+            "professions": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Holosmith",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Holosmith",
+                "session_count": 2
+              }
+            ],
+            "rank": 94
+          },
+          {
+            "account_name": "PelloJello.8241",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "rank": 95
+          },
+          {
+            "account_name": "Ronin.4501",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 96
+          },
+          {
+            "account_name": "RoyTheBoy.8693",
+            "professions": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Dragonhunter",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Dragonhunter",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 97
+          },
+          {
+            "account_name": "Shaaaads.1856",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Catalyst",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Tempest",
                 "session_count": 1
               }
             ],
             "rank": 98
           },
           {
-            "account_name": "King Sylvari.2567",
+            "account_name": "ThiagoW.4810",
             "professions": [
               {
-                "profession": "Firebrand",
-                "session_count": 3
+                "profession": "Druid",
+                "session_count": 2
               }
             ],
-            "total_sessions": 3,
+            "total_sessions": 2,
             "is_guild_member": false,
-            "primary_profession": "Firebrand",
+            "primary_profession": "Druid",
             "profession_count": 1,
             "professions_played": [
               {
-                "profession": "Firebrand",
-                "session_count": 3
+                "profession": "Druid",
+                "session_count": 2
               }
             ],
             "rank": 99
           },
           {
-            "account_name": "Knightmare.6849",
+            "account_name": "TopestOfKeks.5192",
             "professions": [
               {
-                "profession": "Scourge",
-                "session_count": 2
+                "profession": "Berserker",
+                "session_count": 1
               },
               {
-                "profession": "Scrapper",
+                "profession": "Spellbreaker",
                 "session_count": 1
               }
             ],
-            "total_sessions": 3,
+            "total_sessions": 2,
             "is_guild_member": false,
-            "primary_profession": "Scourge",
+            "primary_profession": "Berserker",
             "profession_count": 2,
             "professions_played": [
               {
-                "profession": "Scourge",
-                "session_count": 2
+                "profession": "Berserker",
+                "session_count": 1
               },
               {
-                "profession": "Scrapper",
+                "profession": "Spellbreaker",
                 "session_count": 1
               }
             ],
