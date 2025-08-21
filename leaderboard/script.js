@@ -1,6 +1,6 @@
 // Leaderboard data
 const leaderboardData = {
-  "generated_at": "2025-08-18T23:03:18.683021",
+  "generated_at": "2025-08-21T13:02:13.089379",
   "guild_enabled": true,
   "guild_name": "Pyromancers",
   "guild_tag": "PYRO",
@@ -14836,9 +14836,9 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "glicko_rating": 1658.154847353051,
               "key_stats": "Stab:11.6 Resi:1.0",
-              "apm_total": 50.0,
-              "apm_no_auto": 46.0,
-              "apm": "50.0/46.0",
+              "apm_total": 33.0,
+              "apm_no_auto": 31.0,
+              "apm": "33.0/31.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15050,9 +15050,9 @@ const leaderboardData = {
               "average_rank_percent": 2.2,
               "glicko_rating": 1643.8644716808199,
               "key_stats": "Stab:8.6 Clea:0.7 Resi:1.1",
-              "apm_total": 51.0,
-              "apm_no_auto": 42.0,
-              "apm": "51.0/42.0",
+              "apm_total": 45.0,
+              "apm_no_auto": 40.0,
+              "apm": "45.0/40.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15141,9 +15141,9 @@ const leaderboardData = {
               "average_rank_percent": 5.5,
               "glicko_rating": 1690.0599236864157,
               "key_stats": "Stri:1.5 DPS:1787.5",
-              "apm_total": 61.5,
-              "apm_no_auto": 48.5,
-              "apm": "61.5/48.5",
+              "apm_total": 58.5,
+              "apm_no_auto": 47.5,
+              "apm": "58.5/47.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15167,9 +15167,9 @@ const leaderboardData = {
               "average_rank_percent": 9.833333333333334,
               "glicko_rating": 1667.468111246977,
               "key_stats": "Stri:1.0 DPS:1538.3",
-              "apm_total": 50.3,
-              "apm_no_auto": 35.3,
-              "apm": "50.3/35.3",
+              "apm_total": 53.0,
+              "apm_no_auto": 35.7,
+              "apm": "53.0/35.7",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15180,9 +15180,9 @@ const leaderboardData = {
               "average_rank_percent": 8.0,
               "glicko_rating": 1616.6271699921617,
               "key_stats": "Stri:1.2 DPS:2685.0",
-              "apm_total": 59.0,
-              "apm_no_auto": 39.0,
-              "apm": "59.0/39.0",
+              "apm_total": 49.0,
+              "apm_no_auto": 36.0,
+              "apm": "49.0/36.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15193,9 +15193,9 @@ const leaderboardData = {
               "average_rank_percent": 13.25,
               "glicko_rating": 1595.7524973097034,
               "key_stats": "Stri:0.7 DPS:828.0",
-              "apm_total": 41.0,
-              "apm_no_auto": 23.5,
-              "apm": "41.0/23.5",
+              "apm_total": 49.5,
+              "apm_no_auto": 27.5,
+              "apm": "49.5/27.5",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -15245,9 +15245,9 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "glicko_rating": 1558.290643052959,
               "key_stats": "Stri:0.5 DPS:1418.0",
-              "apm_total": 47.0,
-              "apm_no_auto": 34.0,
-              "apm": "47.0/34.0",
+              "apm_total": 51.0,
+              "apm_no_auto": 25.0,
+              "apm": "51.0/25.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15258,9 +15258,9 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "glicko_rating": 1553.3869802295721,
               "key_stats": "Stri:0.5 DPS:897.0",
-              "apm_total": 57.0,
-              "apm_no_auto": 33.0,
-              "apm": "57.0/33.0",
+              "apm_total": 43.0,
+              "apm_no_auto": 24.0,
+              "apm": "43.0/24.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15310,9 +15310,9 @@ const leaderboardData = {
               "average_rank_percent": 4.6,
               "glicko_rating": 1729.7956825138015,
               "key_stats": "Heal:1155.9 Clea:1.0",
-              "apm_total": 57.2,
-              "apm_no_auto": 44.0,
-              "apm": "57.2/44.0",
+              "apm_total": 64.0,
+              "apm_no_auto": 49.8,
+              "apm": "64.0/49.8",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15336,9 +15336,9 @@ const leaderboardData = {
               "average_rank_percent": 2.75,
               "glicko_rating": 1718.7357400144042,
               "key_stats": "Heal:2181.7 Clea:1.3",
-              "apm_total": 86.0,
-              "apm_no_auto": 63.5,
-              "apm": "86.0/63.5",
+              "apm_total": 72.0,
+              "apm_no_auto": 47.5,
+              "apm": "72.0/47.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15362,9 +15362,9 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "glicko_rating": 1659.7285273118935,
               "key_stats": "Heal:2156.9 Clea:1.6",
-              "apm_total": 100.0,
-              "apm_no_auto": 69.0,
-              "apm": "100.0/69.0",
+              "apm_total": 88.0,
+              "apm_no_auto": 70.0,
+              "apm": "88.0/70.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -15504,39 +15504,28 @@ const leaderboardData = {
         },
         "Support Spb": {
           "metrics": [
+            "Strips",
             "Might",
             "Resistance",
             "Stability",
             "Cleanses"
           ],
           "weights": [
-            0.4,
-            0.3,
-            0.2,
-            0.1
+            0.35,
+            0.26,
+            0.195,
+            0.13,
+            0.065
           ],
           "key_stats_format": "Stats: {}",
           "leaderboard": [
             {
-              "account_name": "Pieswithattitude.2357",
-              "composite_score": 1705.0197499360531,
-              "games_played": 2,
-              "average_rank_percent": 3.875,
-              "glicko_rating": 1705.0197499360531,
-              "key_stats": "Migh:24.9 Resi:1.4 Stab:6.8",
-              "apm_total": 90.0,
-              "apm_no_auto": 60.0,
-              "apm": "90.0/60.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
               "account_name": "Solomon Darkfury.3729",
-              "composite_score": 1683.1996009993816,
+              "composite_score": 1696.116691967258,
               "games_played": 4,
-              "average_rank_percent": 7.625,
-              "glicko_rating": 1683.1996009993816,
-              "key_stats": "Migh:37.8 Resi:1.1 Stab:4.2",
+              "average_rank_percent": 6.85,
+              "glicko_rating": 1696.116691967258,
+              "key_stats": "Stri:0.7 Migh:37.8 Resi:1.1",
               "apm_total": 68.0,
               "apm_no_auto": 34.0,
               "apm": "68.0/34.0",
@@ -15544,12 +15533,25 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
+              "account_name": "Pieswithattitude.2357",
+              "composite_score": 1694.4848181546272,
+              "games_played": 2,
+              "average_rank_percent": 3.7,
+              "glicko_rating": 1694.4848181546272,
+              "key_stats": "Stri:0.7 Migh:24.9 Resi:1.4",
+              "apm_total": 84.0,
+              "apm_no_auto": 60.5,
+              "apm": "84.0/60.5",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
               "account_name": "ParaldaWind.4523",
-              "composite_score": 1677.3033019827785,
+              "composite_score": 1680.6681909155382,
               "games_played": 4,
-              "average_rank_percent": 7.4375,
-              "glicko_rating": 1677.3033019827785,
-              "key_stats": "Migh:30.1 Resi:1.1 Stab:3.3",
+              "average_rank_percent": 7.2,
+              "glicko_rating": 1680.6681909155382,
+              "key_stats": "Stri:0.6 Migh:30.1 Resi:1.1",
               "apm_total": 65.0,
               "apm_no_auto": 26.5,
               "apm": "65.0/26.5",
@@ -15558,50 +15560,24 @@ const leaderboardData = {
             },
             {
               "account_name": "OPness.3215",
-              "composite_score": 1619.993519009424,
+              "composite_score": 1608.1127293934653,
               "games_played": 2,
-              "average_rank_percent": 8.75,
-              "glicko_rating": 1619.993519009424,
-              "key_stats": "Migh:31.5 Resi:1.0 Stab:3.0",
-              "apm_total": 53.0,
-              "apm_no_auto": 42.5,
-              "apm": "53.0/42.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Uriah.7082",
-              "composite_score": 1591.1040200501682,
-              "games_played": 1,
-              "average_rank_percent": 6.0,
-              "glicko_rating": 1591.1040200501682,
-              "key_stats": "Migh:14.2 Resi:1.1 Stab:5.1",
-              "apm_total": 71.0,
-              "apm_no_auto": 37.0,
-              "apm": "71.0/37.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Havocus.3682",
-              "composite_score": 1585.0934742980548,
-              "games_played": 1,
-              "average_rank_percent": 9.25,
-              "glicko_rating": 1585.0934742980548,
-              "key_stats": "Migh:12.6 Resi:1.2 Stab:3.3",
-              "apm_total": 54.0,
-              "apm_no_auto": 42.0,
-              "apm": "54.0/42.0",
+              "average_rank_percent": 8.7,
+              "glicko_rating": 1608.1127293934653,
+              "key_stats": "Stri:0.5 Migh:31.5 Resi:1.0",
+              "apm_total": 44.5,
+              "apm_no_auto": 35.0,
+              "apm": "44.5/35.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "Ouji.7839",
-              "composite_score": 1580.341275419777,
+              "composite_score": 1598.7845987562514,
               "games_played": 1,
-              "average_rank_percent": 9.5,
-              "glicko_rating": 1580.341275419777,
-              "key_stats": "Migh:31.1 Resi:0.9 Stab:3.1",
+              "average_rank_percent": 8.4,
+              "glicko_rating": 1598.7845987562514,
+              "key_stats": "Stri:0.6 Migh:31.1 Resi:0.9",
               "apm_total": 58.0,
               "apm_no_auto": 27.0,
               "apm": "58.0/27.0",
@@ -15609,28 +15585,54 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "Smile.9284",
-              "composite_score": 1567.8065394607668,
+              "account_name": "Nero.6195",
+              "composite_score": 1594.5619345294808,
               "games_played": 1,
-              "average_rank_percent": 10.0,
-              "glicko_rating": 1567.8065394607668,
-              "key_stats": "Migh:26.4 Resi:0.8 Stab:2.3",
-              "apm_total": 46.0,
-              "apm_no_auto": 25.0,
-              "apm": "46.0/25.0",
+              "average_rank_percent": 3.4,
+              "glicko_rating": 1594.5619345294808,
+              "key_stats": "Stri:0.8 Migh:12.2 Resi:1.2",
+              "apm_total": 76.0,
+              "apm_no_auto": 45.0,
+              "apm": "76.0/45.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
-              "account_name": "Nero.6195",
-              "composite_score": 1559.4673986958796,
+              "account_name": "Havocus.3682",
+              "composite_score": 1588.313175432779,
               "games_played": 1,
-              "average_rank_percent": 4.0,
-              "glicko_rating": 1559.4673986958796,
-              "key_stats": "Migh:12.2 Resi:1.2 Stab:4.8",
-              "apm_total": 76.0,
-              "apm_no_auto": 45.0,
-              "apm": "76.0/45.0",
+              "average_rank_percent": 8.8,
+              "glicko_rating": 1588.313175432779,
+              "key_stats": "Stri:0.7 Migh:12.6 Resi:1.2",
+              "apm_total": 54.0,
+              "apm_no_auto": 42.0,
+              "apm": "54.0/42.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Uriah.7082",
+              "composite_score": 1587.7755325757728,
+              "games_played": 1,
+              "average_rank_percent": 6.0,
+              "glicko_rating": 1587.7755325757728,
+              "key_stats": "Stri:0.4 Migh:14.2 Resi:1.1",
+              "apm_total": 71.0,
+              "apm_no_auto": 37.0,
+              "apm": "71.0/37.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Smile.9284",
+              "composite_score": 1570.8795450407913,
+              "games_played": 1,
+              "average_rank_percent": 9.8,
+              "glicko_rating": 1570.8795450407913,
+              "key_stats": "Stri:0.4 Migh:26.4 Resi:0.8",
+              "apm_total": 46.0,
+              "apm_no_auto": 25.0,
+              "apm": "46.0/25.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             }
@@ -15654,9 +15656,9 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "glicko_rating": 1554.0782366208305,
               "key_stats": "Prot:1.3 DPS:62.0",
-              "apm_total": 67.0,
-              "apm_no_auto": 47.0,
-              "apm": "67.0/47.0",
+              "apm_total": 53.0,
+              "apm_no_auto": 44.0,
+              "apm": "53.0/44.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -20002,6 +20004,18 @@ const leaderboardData = {
       "individual_metrics": {
         "DPS": [
           {
+            "account_name": "Havocus.3682",
+            "profession": "Catalyst",
+            "glicko_rating": 1840.268037410281,
+            "composite_score": 1840.268037410281,
+            "games_played": 10,
+            "average_rank_percent": 3.1,
+            "average_stat_value": 3504.5,
+            "is_guild_member": true,
+            "rating_delta": 3.721686212862096,
+            "rank": 1
+          },
+          {
             "account_name": "Interpretor.3091",
             "profession": "Holosmith",
             "glicko_rating": 1836.4622924481623,
@@ -20011,18 +20025,6 @@ const leaderboardData = {
             "average_stat_value": 3115.5714285714284,
             "is_guild_member": true,
             "rating_delta": 9.013041618532043,
-            "rank": 1
-          },
-          {
-            "account_name": "Havocus.3682",
-            "profession": "Catalyst",
-            "glicko_rating": 1828.7008912253623,
-            "composite_score": 1828.7008912253623,
-            "games_played": 11,
-            "average_rank_percent": 3.3636363636363638,
-            "average_stat_value": 3402.3636363636365,
-            "is_guild_member": true,
-            "rating_delta": 3.721686212862096,
             "rank": 2
           },
           {
@@ -20052,11 +20054,11 @@ const leaderboardData = {
           {
             "account_name": "Dextra.8162",
             "profession": "Weaver",
-            "glicko_rating": 1789.96772283485,
-            "composite_score": 1789.96772283485,
-            "games_played": 13,
-            "average_rank_percent": 5.6923076923076925,
-            "average_stat_value": 2736.0,
+            "glicko_rating": 1780.0193172924696,
+            "composite_score": 1780.0193172924696,
+            "games_played": 12,
+            "average_rank_percent": 6.0,
+            "average_stat_value": 2691.1666666666665,
             "is_guild_member": true,
             "rating_delta": -9.220927869564775,
             "rank": 5
@@ -20086,18 +20088,6 @@ const leaderboardData = {
             "rank": 7
           },
           {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1747.8785458249145,
-            "composite_score": 1747.8785458249145,
-            "games_played": 3,
-            "average_rank_percent": 1.6666666666666667,
-            "average_stat_value": 3823.0,
-            "is_guild_member": true,
-            "rating_delta": 23.65137193976898,
-            "rank": 8
-          },
-          {
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "glicko_rating": 1742.89719076294,
@@ -20107,7 +20097,7 @@ const leaderboardData = {
             "average_stat_value": 2780.5714285714284,
             "is_guild_member": true,
             "rating_delta": 7.769692455248105,
-            "rank": 9
+            "rank": 8
           },
           {
             "account_name": "Luke.9108",
@@ -20119,7 +20109,7 @@ const leaderboardData = {
             "average_stat_value": 2289.5,
             "is_guild_member": false,
             "rating_delta": 12.98877132632083,
-            "rank": 10
+            "rank": 9
           },
           {
             "account_name": "Lasthope.7943",
@@ -20131,19 +20121,19 @@ const leaderboardData = {
             "average_stat_value": 2592.8,
             "is_guild_member": true,
             "rating_delta": 15.22382445424796,
-            "rank": 11
+            "rank": 10
           },
           {
-            "account_name": "Pieswithattitude.2357",
+            "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
-            "glicko_rating": 1724.5918461821043,
-            "composite_score": 1724.5918461821043,
+            "glicko_rating": 1734.5055966127684,
+            "composite_score": 1734.5055966127684,
             "games_played": 2,
-            "average_rank_percent": 1.5,
-            "average_stat_value": 4198.5,
+            "average_rank_percent": 1.0,
+            "average_stat_value": 4374.5,
             "is_guild_member": true,
-            "rating_delta": 75.62776534754812,
-            "rank": 12
+            "rating_delta": 23.65137193976898,
+            "rank": 11
           },
           {
             "account_name": "Interpretor.3091",
@@ -20155,7 +20145,7 @@ const leaderboardData = {
             "average_stat_value": 2553.2,
             "is_guild_member": true,
             "rating_delta": 9.683409473641177,
-            "rank": 13
+            "rank": 12
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -20167,6 +20157,18 @@ const leaderboardData = {
             "average_stat_value": 4244.0,
             "is_guild_member": true,
             "rating_delta": 11.866722260504957,
+            "rank": 13
+          },
+          {
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "glicko_rating": 1712.5241591635106,
+            "composite_score": 1712.5241591635106,
+            "games_played": 2,
+            "average_rank_percent": 3.0,
+            "average_stat_value": 3277.5,
+            "is_guild_member": true,
+            "rating_delta": 9.168706111448955,
             "rank": 14
           },
           {
@@ -20194,18 +20196,6 @@ const leaderboardData = {
             "rank": 16
           },
           {
-            "account_name": "Aein.1483",
-            "profession": "Vindicator",
-            "glicko_rating": 1672.9588434394732,
-            "composite_score": 1672.9588434394732,
-            "games_played": 3,
-            "average_rank_percent": 5.333333333333333,
-            "average_stat_value": 2740.0,
-            "is_guild_member": true,
-            "rating_delta": 9.168706111448955,
-            "rank": 17
-          },
-          {
             "account_name": "zectra.6978",
             "profession": "Dragonhunter",
             "glicko_rating": 1672.2633459840802,
@@ -20215,7 +20205,7 @@ const leaderboardData = {
             "average_stat_value": 3377.0,
             "is_guild_member": false,
             "rating_delta": 49.17202513961661,
-            "rank": 18
+            "rank": 17
           },
           {
             "account_name": "Havocus.3682",
@@ -20227,7 +20217,7 @@ const leaderboardData = {
             "average_stat_value": 2186.5,
             "is_guild_member": true,
             "rating_delta": 27.038126182922042,
-            "rank": 19
+            "rank": 18
           },
           {
             "account_name": "Bother.9415",
@@ -20239,6 +20229,18 @@ const leaderboardData = {
             "average_stat_value": 2107.0,
             "is_guild_member": true,
             "rating_delta": -13.663007760879282,
+            "rank": 19
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1669.3972527586973,
+            "composite_score": 1669.3972527586973,
+            "games_played": 1,
+            "average_rank_percent": 2.0,
+            "average_stat_value": 5082.0,
+            "is_guild_member": true,
+            "rating_delta": 75.62776534754812,
             "rank": 20
           },
           {
@@ -20470,18 +20472,6 @@ const leaderboardData = {
             "rank": 39
           },
           {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1618.6681985926189,
-            "composite_score": 1618.6681985926189,
-            "games_played": 4,
-            "average_rank_percent": 6.25,
-            "average_stat_value": 3014.5,
-            "is_guild_member": true,
-            "rating_delta": 18.530507524379573,
-            "rank": 40
-          },
-          {
             "account_name": "Solomon Darkfury.3729",
             "profession": "Warrior",
             "glicko_rating": 1615.3156339228794,
@@ -20491,19 +20481,7 @@ const leaderboardData = {
             "average_stat_value": 1489.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 41
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1614.6637862979183,
-            "composite_score": 1614.6637862979183,
-            "games_played": 2,
-            "average_rank_percent": 8.0,
-            "average_stat_value": 2047.0,
-            "is_guild_member": true,
-            "rating_delta": 7.330100614166895,
-            "rank": 42
+            "rank": 40
           },
           {
             "account_name": "Uriah.7082",
@@ -20515,19 +20493,7 @@ const leaderboardData = {
             "average_stat_value": 2124.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 43
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1612.3256354444882,
-            "composite_score": 1612.3256354444882,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 2580.0,
-            "is_guild_member": true,
-            "rating_delta": 44.40607588728585,
-            "rank": 44
+            "rank": 41
           },
           {
             "account_name": "Nictheman.9754",
@@ -20539,7 +20505,7 @@ const leaderboardData = {
             "average_stat_value": 1531.6666666666667,
             "is_guild_member": true,
             "rating_delta": 9.42379554904619,
-            "rank": 45
+            "rank": 42
           },
           {
             "account_name": "yhanbruno.5873",
@@ -20551,7 +20517,7 @@ const leaderboardData = {
             "average_stat_value": 1613.0,
             "is_guild_member": false,
             "rating_delta": 86.09158156062745,
-            "rank": 46
+            "rank": 43
           },
           {
             "account_name": "defeater.3186",
@@ -20563,7 +20529,7 @@ const leaderboardData = {
             "average_stat_value": 4067.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 47
+            "rank": 44
           },
           {
             "account_name": "Hiraldo.7954",
@@ -20575,7 +20541,7 @@ const leaderboardData = {
             "average_stat_value": 1749.0,
             "is_guild_member": true,
             "rating_delta": 15.475050084324266,
-            "rank": 48
+            "rank": 45
           },
           {
             "account_name": "Fibbs.1623",
@@ -20587,7 +20553,7 @@ const leaderboardData = {
             "average_stat_value": 2041.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 49
+            "rank": 46
           },
           {
             "account_name": "Freelanced.6084",
@@ -20599,7 +20565,7 @@ const leaderboardData = {
             "average_stat_value": 1312.0,
             "is_guild_member": true,
             "rating_delta": 64.7208879573709,
-            "rank": 50
+            "rank": 47
           },
           {
             "account_name": "Nictheman.9754",
@@ -20611,7 +20577,7 @@ const leaderboardData = {
             "average_stat_value": 1615.8333333333333,
             "is_guild_member": true,
             "rating_delta": -44.917939437774976,
-            "rank": 51
+            "rank": 48
           },
           {
             "account_name": "Malek.9417",
@@ -20623,7 +20589,7 @@ const leaderboardData = {
             "average_stat_value": 2852.0,
             "is_guild_member": true,
             "rating_delta": -18.297411239090252,
-            "rank": 52
+            "rank": 49
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -20635,7 +20601,7 @@ const leaderboardData = {
             "average_stat_value": 2089.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 53
+            "rank": 50
           },
           {
             "account_name": "Lasthope.7943",
@@ -20647,7 +20613,7 @@ const leaderboardData = {
             "average_stat_value": 1874.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 54
+            "rank": 51
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -20659,7 +20625,7 @@ const leaderboardData = {
             "average_stat_value": 2084.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 55
+            "rank": 52
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -20671,7 +20637,19 @@ const leaderboardData = {
             "average_stat_value": 1401.0,
             "is_guild_member": true,
             "rating_delta": -24.665087290139354,
-            "rank": 56
+            "rank": 53
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1584.4366392911238,
+            "composite_score": 1584.4366392911238,
+            "games_played": 3,
+            "average_rank_percent": 7.0,
+            "average_stat_value": 3146.3333333333335,
+            "is_guild_member": true,
+            "rating_delta": 18.530507524379573,
+            "rank": 54
           },
           {
             "account_name": "Naomi.5372",
@@ -20683,7 +20661,7 @@ const leaderboardData = {
             "average_stat_value": 1783.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 57
+            "rank": 55
           },
           {
             "account_name": "emz.3571",
@@ -20695,7 +20673,7 @@ const leaderboardData = {
             "average_stat_value": 1383.25,
             "is_guild_member": true,
             "rating_delta": 5.689432501830197,
-            "rank": 58
+            "rank": 56
           },
           {
             "account_name": "Interpretor.3091",
@@ -20707,7 +20685,7 @@ const leaderboardData = {
             "average_stat_value": 1536.0,
             "is_guild_member": true,
             "rating_delta": -11.312713688792655,
-            "rank": 59
+            "rank": 57
           },
           {
             "account_name": "acumen.1980",
@@ -20719,7 +20697,7 @@ const leaderboardData = {
             "average_stat_value": 1742.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 60
+            "rank": 58
           },
           {
             "account_name": "emz.3571",
@@ -20731,7 +20709,7 @@ const leaderboardData = {
             "average_stat_value": 1729.0,
             "is_guild_member": true,
             "rating_delta": 27.12298262072204,
-            "rank": 61
+            "rank": 59
           },
           {
             "account_name": "Nictheman.9754",
@@ -20743,7 +20721,7 @@ const leaderboardData = {
             "average_stat_value": 1567.0,
             "is_guild_member": true,
             "rating_delta": 21.365551567492275,
-            "rank": 62
+            "rank": 60
           },
           {
             "account_name": "Nictheman.9754",
@@ -20755,7 +20733,19 @@ const leaderboardData = {
             "average_stat_value": 1854.75,
             "is_guild_member": true,
             "rating_delta": 32.024156878031135,
-            "rank": 63
+            "rank": 61
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1579.4596234417643,
+            "composite_score": 1579.4596234417643,
+            "games_played": 1,
+            "average_rank_percent": 9.0,
+            "average_stat_value": 1842.0,
+            "is_guild_member": true,
+            "rating_delta": 7.330100614166895,
+            "rank": 62
           },
           {
             "account_name": "zectra.6978",
@@ -20767,7 +20757,7 @@ const leaderboardData = {
             "average_stat_value": 2968.0,
             "is_guild_member": false,
             "rating_delta": 36.77628093252724,
-            "rank": 64
+            "rank": 63
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -20779,7 +20769,7 @@ const leaderboardData = {
             "average_stat_value": 1102.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 65
+            "rank": 64
           },
           {
             "account_name": "dobbeh.7382",
@@ -20791,7 +20781,7 @@ const leaderboardData = {
             "average_stat_value": 1411.6666666666667,
             "is_guild_member": true,
             "rating_delta": -14.04996715090897,
-            "rank": 66
+            "rank": 65
           },
           {
             "account_name": "Uriah.7082",
@@ -20803,7 +20793,7 @@ const leaderboardData = {
             "average_stat_value": 1613.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 66
           },
           {
             "account_name": "Kuwat.4703",
@@ -20815,7 +20805,7 @@ const leaderboardData = {
             "average_stat_value": 1078.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "Sygyt.5190",
@@ -20827,7 +20817,7 @@ const leaderboardData = {
             "average_stat_value": 1038.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "Malek.9417",
@@ -20839,7 +20829,7 @@ const leaderboardData = {
             "average_stat_value": 933.5,
             "is_guild_member": true,
             "rating_delta": -11.7481549540596,
-            "rank": 70
+            "rank": 69
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -20851,7 +20841,7 @@ const leaderboardData = {
             "average_stat_value": 1672.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 71
+            "rank": 70
           },
           {
             "account_name": "CarlJunior.7832",
@@ -20863,7 +20853,7 @@ const leaderboardData = {
             "average_stat_value": 1696.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 72
+            "rank": 71
           },
           {
             "account_name": "Freelanced.6084",
@@ -20875,7 +20865,7 @@ const leaderboardData = {
             "average_stat_value": 1454.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 73
+            "rank": 72
           },
           {
             "account_name": "Naomi.5372",
@@ -20887,7 +20877,7 @@ const leaderboardData = {
             "average_stat_value": 1461.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 74
+            "rank": 73
           },
           {
             "account_name": "Mellis.8451",
@@ -20899,7 +20889,7 @@ const leaderboardData = {
             "average_stat_value": 1084.5,
             "is_guild_member": true,
             "rating_delta": 17.536302328034708,
-            "rank": 75
+            "rank": 74
           },
           {
             "account_name": "Luke.9108",
@@ -20911,7 +20901,7 @@ const leaderboardData = {
             "average_stat_value": 1580.0,
             "is_guild_member": false,
             "rating_delta": 2.9535071947675533,
-            "rank": 76
+            "rank": 75
           },
           {
             "account_name": "Niko.8425",
@@ -20923,7 +20913,7 @@ const leaderboardData = {
             "average_stat_value": 1615.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 77
+            "rank": 76
           },
           {
             "account_name": "Lasthope.7943",
@@ -20935,7 +20925,7 @@ const leaderboardData = {
             "average_stat_value": 1418.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 78
+            "rank": 77
           },
           {
             "account_name": "Gismor.8407",
@@ -20947,7 +20937,7 @@ const leaderboardData = {
             "average_stat_value": 2874.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 79
+            "rank": 78
           },
           {
             "account_name": "Bother.9415",
@@ -20959,7 +20949,7 @@ const leaderboardData = {
             "average_stat_value": 1390.0,
             "is_guild_member": true,
             "rating_delta": -5.725951192729099,
-            "rank": 80
+            "rank": 79
           },
           {
             "account_name": "Uriah.7082",
@@ -20971,7 +20961,7 @@ const leaderboardData = {
             "average_stat_value": 1304.142857142857,
             "is_guild_member": true,
             "rating_delta": -9.222148925863394,
-            "rank": 81
+            "rank": 80
           },
           {
             "account_name": "dobbeh.7382",
@@ -20983,7 +20973,7 @@ const leaderboardData = {
             "average_stat_value": 1367.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 82
+            "rank": 81
           },
           {
             "account_name": "Huge.5891",
@@ -20995,7 +20985,7 @@ const leaderboardData = {
             "average_stat_value": 1267.3333333333333,
             "is_guild_member": true,
             "rating_delta": -3.734145525005715,
-            "rank": 83
+            "rank": 82
           },
           {
             "account_name": "Muted.8591",
@@ -21007,7 +20997,7 @@ const leaderboardData = {
             "average_stat_value": 1517.0,
             "is_guild_member": true,
             "rating_delta": -18.75394622042313,
-            "rank": 84
+            "rank": 83
           },
           {
             "account_name": "Astro Bear.6305",
@@ -21019,7 +21009,7 @@ const leaderboardData = {
             "average_stat_value": 1633.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 85
+            "rank": 84
           },
           {
             "account_name": "Beneko.8475",
@@ -21031,7 +21021,7 @@ const leaderboardData = {
             "average_stat_value": 898.0,
             "is_guild_member": false,
             "rating_delta": -1.9044744243449259,
-            "rank": 86
+            "rank": 85
           },
           {
             "account_name": "acumen.1980",
@@ -21043,7 +21033,7 @@ const leaderboardData = {
             "average_stat_value": 1626.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 87
+            "rank": 86
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -21055,19 +21045,7 @@ const leaderboardData = {
             "average_stat_value": 1932.0,
             "is_guild_member": true,
             "rating_delta": 1.599993593379395,
-            "rank": 88
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Reaper",
-            "glicko_rating": 1534.5777823716558,
-            "composite_score": 1534.5777823716558,
-            "games_played": 1,
-            "average_rank_percent": 8.0,
-            "average_stat_value": 1762.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 89
+            "rank": 87
           },
           {
             "account_name": "Mellis.8451",
@@ -21079,7 +21057,7 @@ const leaderboardData = {
             "average_stat_value": 1001.5,
             "is_guild_member": true,
             "rating_delta": 13.329272879612972,
-            "rank": 90
+            "rank": 88
           },
           {
             "account_name": "Mes.1906",
@@ -21091,7 +21069,7 @@ const leaderboardData = {
             "average_stat_value": 1229.0,
             "is_guild_member": false,
             "rating_delta": -6.07568639733995,
-            "rank": 91
+            "rank": 89
           },
           {
             "account_name": "Freelanced.6084",
@@ -21103,19 +21081,19 @@ const leaderboardData = {
             "average_stat_value": 1122.6666666666667,
             "is_guild_member": true,
             "rating_delta": -7.212074077080388,
-            "rank": 92
+            "rank": 90
           },
           {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1529.1119325349298,
-            "composite_score": 1529.1119325349298,
+            "account_name": "Freelanced.6084",
+            "profession": "Catalyst",
+            "glicko_rating": 1530.0421688878507,
+            "composite_score": 1530.0421688878507,
             "games_played": 1,
-            "average_rank_percent": 9.0,
-            "average_stat_value": 1715.0,
+            "average_rank_percent": 17.0,
+            "average_stat_value": 1274.0,
             "is_guild_member": true,
-            "rating_delta": -7.103562155739155,
-            "rank": 93
+            "rating_delta": -10.22321207589107,
+            "rank": 91
           },
           {
             "account_name": "dobbeh.7382",
@@ -21127,7 +21105,7 @@ const leaderboardData = {
             "average_stat_value": 1272.0,
             "is_guild_member": true,
             "rating_delta": 90.3533160095376,
-            "rank": 94
+            "rank": 92
           },
           {
             "account_name": "Dextra.8162",
@@ -21139,7 +21117,7 @@ const leaderboardData = {
             "average_stat_value": 1374.0,
             "is_guild_member": true,
             "rating_delta": -39.140128083989566,
-            "rank": 95
+            "rank": 93
           },
           {
             "account_name": "acumen.1980",
@@ -21151,7 +21129,7 @@ const leaderboardData = {
             "average_stat_value": 2474.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 94
           },
           {
             "account_name": "Hiraldo.7954",
@@ -21163,7 +21141,7 @@ const leaderboardData = {
             "average_stat_value": 1298.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 95
           },
           {
             "account_name": "Sleepy.5367",
@@ -21175,7 +21153,7 @@ const leaderboardData = {
             "average_stat_value": 870.5,
             "is_guild_member": true,
             "rating_delta": 38.61750343666745,
-            "rank": 98
+            "rank": 96
           },
           {
             "account_name": "Dextra.8162",
@@ -21187,7 +21165,7 @@ const leaderboardData = {
             "average_stat_value": 2387.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 97
           },
           {
             "account_name": "Bother.9415",
@@ -21199,7 +21177,7 @@ const leaderboardData = {
             "average_stat_value": 1097.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 100
+            "rank": 98
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -21211,7 +21189,7 @@ const leaderboardData = {
             "average_stat_value": 1142.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 99
           },
           {
             "account_name": "Dextra.8162",
@@ -21223,19 +21201,7 @@ const leaderboardData = {
             "average_stat_value": 1114.0,
             "is_guild_member": true,
             "rating_delta": -23.264131925852553,
-            "rank": 102
-          },
-          {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1504.5365134684237,
-            "composite_score": 1504.5365134684237,
-            "games_played": 2,
-            "average_rank_percent": 14.5,
-            "average_stat_value": 1274.0,
-            "is_guild_member": true,
-            "rating_delta": -10.22321207589107,
-            "rank": 103
+            "rank": 100
           },
           {
             "account_name": "Lenorellei.9815",
@@ -21247,7 +21213,7 @@ const leaderboardData = {
             "average_stat_value": 1031.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 104
+            "rank": 101
           },
           {
             "account_name": "Havocus.3682",
@@ -21259,7 +21225,7 @@ const leaderboardData = {
             "average_stat_value": 1089.0,
             "is_guild_member": true,
             "rating_delta": -6.1090637368529315,
-            "rank": 105
+            "rank": 102
           },
           {
             "account_name": "Lord.7561",
@@ -21271,7 +21237,7 @@ const leaderboardData = {
             "average_stat_value": 1059.5,
             "is_guild_member": true,
             "rating_delta": 19.581823457188193,
-            "rank": 106
+            "rank": 103
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -21283,7 +21249,7 @@ const leaderboardData = {
             "average_stat_value": 1030.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 104
           },
           {
             "account_name": "acumen.1980",
@@ -21295,7 +21261,7 @@ const leaderboardData = {
             "average_stat_value": 1190.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 108
+            "rank": 105
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -21307,7 +21273,7 @@ const leaderboardData = {
             "average_stat_value": 621.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 106
           },
           {
             "account_name": "Muted.8591",
@@ -21319,7 +21285,7 @@ const leaderboardData = {
             "average_stat_value": 906.0,
             "is_guild_member": true,
             "rating_delta": -3.726006067533035,
-            "rank": 110
+            "rank": 107
           },
           {
             "account_name": "zectra.6978",
@@ -21331,7 +21297,7 @@ const leaderboardData = {
             "average_stat_value": 1144.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 108
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -21343,19 +21309,7 @@ const leaderboardData = {
             "average_stat_value": 900.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 112
-          },
-          {
-            "account_name": "Mellis.8451",
-            "profession": "Reaper",
-            "glicko_rating": 1491.7326268331406,
-            "composite_score": 1491.7326268331406,
-            "games_played": 1,
-            "average_rank_percent": 11.0,
-            "average_stat_value": 1402.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 113
+            "rank": 109
           },
           {
             "account_name": "emz.3571",
@@ -21367,7 +21321,7 @@ const leaderboardData = {
             "average_stat_value": 600.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 114
+            "rank": 110
           },
           {
             "account_name": "Lord.7561",
@@ -21379,7 +21333,7 @@ const leaderboardData = {
             "average_stat_value": 1987.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 115
+            "rank": 111
           },
           {
             "account_name": "acumen.1980",
@@ -21391,7 +21345,7 @@ const leaderboardData = {
             "average_stat_value": 897.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 116
+            "rank": 112
           },
           {
             "account_name": "Stash.8401",
@@ -21403,7 +21357,7 @@ const leaderboardData = {
             "average_stat_value": 597.0,
             "is_guild_member": false,
             "rating_delta": 5.877592650485212,
-            "rank": 117
+            "rank": 113
           },
           {
             "account_name": "Lord.7561",
@@ -21415,7 +21369,7 @@ const leaderboardData = {
             "average_stat_value": 995.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 118
+            "rank": 114
           },
           {
             "account_name": "Nictheman.9754",
@@ -21427,7 +21381,7 @@ const leaderboardData = {
             "average_stat_value": 1073.0,
             "is_guild_member": true,
             "rating_delta": -31.59616584240871,
-            "rank": 119
+            "rank": 115
           },
           {
             "account_name": "DareDevils.6039",
@@ -21439,7 +21393,7 @@ const leaderboardData = {
             "average_stat_value": 577.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 120
+            "rank": 116
           },
           {
             "account_name": "Bertozaur.4578",
@@ -21451,7 +21405,7 @@ const leaderboardData = {
             "average_stat_value": 969.0,
             "is_guild_member": true,
             "rating_delta": 4.834236263331377,
-            "rank": 121
+            "rank": 117
           },
           {
             "account_name": "Drigan.7382",
@@ -21463,7 +21417,7 @@ const leaderboardData = {
             "average_stat_value": 563.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 118
           },
           {
             "account_name": "Nero.6195",
@@ -21475,7 +21429,7 @@ const leaderboardData = {
             "average_stat_value": 914.5,
             "is_guild_member": true,
             "rating_delta": -6.087875654935715,
-            "rank": 123
+            "rank": 119
           },
           {
             "account_name": "MasterScrub.1396",
@@ -21487,7 +21441,7 @@ const leaderboardData = {
             "average_stat_value": 2776.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 120
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -21499,7 +21453,7 @@ const leaderboardData = {
             "average_stat_value": 838.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 121
           },
           {
             "account_name": "Uriah.7082",
@@ -21511,7 +21465,7 @@ const leaderboardData = {
             "average_stat_value": 2736.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 122
           },
           {
             "account_name": "Huge.5891",
@@ -21523,7 +21477,7 @@ const leaderboardData = {
             "average_stat_value": 531.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 123
           },
           {
             "account_name": "Uriah.7082",
@@ -21535,7 +21489,7 @@ const leaderboardData = {
             "average_stat_value": 864.0,
             "is_guild_member": true,
             "rating_delta": 1.5293778326370102,
-            "rank": 128
+            "rank": 124
           },
           {
             "account_name": "Lord.7561",
@@ -21547,7 +21501,7 @@ const leaderboardData = {
             "average_stat_value": 2575.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "Nero.6195",
@@ -21559,7 +21513,7 @@ const leaderboardData = {
             "average_stat_value": 826.0,
             "is_guild_member": true,
             "rating_delta": -2.0909249076416927,
-            "rank": 130
+            "rank": 126
           },
           {
             "account_name": "red armadillo.4593",
@@ -21571,7 +21525,7 @@ const leaderboardData = {
             "average_stat_value": 795.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 131
+            "rank": 127
           },
           {
             "account_name": "Hiraldo.7954",
@@ -21583,7 +21537,7 @@ const leaderboardData = {
             "average_stat_value": 794.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 132
+            "rank": 128
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -21595,7 +21549,7 @@ const leaderboardData = {
             "average_stat_value": 791.0,
             "is_guild_member": true,
             "rating_delta": -28.697912178911565,
-            "rank": 133
+            "rank": 129
           },
           {
             "account_name": "arrsc.9046",
@@ -21607,7 +21561,7 @@ const leaderboardData = {
             "average_stat_value": 461.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 134
+            "rank": 130
           },
           {
             "account_name": "I R R Y.9128",
@@ -21619,7 +21573,7 @@ const leaderboardData = {
             "average_stat_value": 828.0,
             "is_guild_member": false,
             "rating_delta": -13.88185215759654,
-            "rank": 135
+            "rank": 131
           },
           {
             "account_name": "Mellis.8451",
@@ -21631,7 +21585,7 @@ const leaderboardData = {
             "average_stat_value": 832.0,
             "is_guild_member": true,
             "rating_delta": -2.957464056331901,
-            "rank": 136
+            "rank": 132
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -21643,19 +21597,7 @@ const leaderboardData = {
             "average_stat_value": 665.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 137
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "profession": "Berserker",
-            "glicko_rating": 1454.6512035828869,
-            "composite_score": 1454.6512035828869,
-            "games_played": 1,
-            "average_rank_percent": 13.0,
-            "average_stat_value": 1085.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 138
+            "rank": 133
           },
           {
             "account_name": "Yeek.2976",
@@ -21667,7 +21609,7 @@ const leaderboardData = {
             "average_stat_value": 378.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 139
+            "rank": 134
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -21679,7 +21621,19 @@ const leaderboardData = {
             "average_stat_value": 695.3333333333334,
             "is_guild_member": true,
             "rating_delta": -7.106379952166435,
-            "rank": 140
+            "rank": 135
+          },
+          {
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1448.18301163392,
+            "composite_score": 1448.18301163392,
+            "games_played": 10,
+            "average_rank_percent": 16.9,
+            "average_stat_value": 1018.1,
+            "is_guild_member": true,
+            "rating_delta": 0.7892941549707757,
+            "rank": 136
           },
           {
             "account_name": "mikefmc.5961",
@@ -21691,7 +21645,7 @@ const leaderboardData = {
             "average_stat_value": 593.0,
             "is_guild_member": true,
             "rating_delta": -19.572851438387715,
-            "rank": 141
+            "rank": 137
           },
           {
             "account_name": "Elgar.2091",
@@ -21703,7 +21657,7 @@ const leaderboardData = {
             "average_stat_value": 482.0,
             "is_guild_member": true,
             "rating_delta": -22.440184042428427,
-            "rank": 142
+            "rank": 138
           },
           {
             "account_name": "Huge.5891",
@@ -21715,7 +21669,7 @@ const leaderboardData = {
             "average_stat_value": 880.25,
             "is_guild_member": true,
             "rating_delta": -2.473230047661218,
-            "rank": 143
+            "rank": 139
           },
           {
             "account_name": "Hund.6875",
@@ -21727,19 +21681,7 @@ const leaderboardData = {
             "average_stat_value": 532.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 144
-          },
-          {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1443.3082441740862,
-            "composite_score": 1443.3082441740862,
-            "games_played": 11,
-            "average_rank_percent": 16.636363636363637,
-            "average_stat_value": 1020.0909090909091,
-            "is_guild_member": true,
-            "rating_delta": 0.7892941549707757,
-            "rank": 145
+            "rank": 140
           },
           {
             "account_name": "Astro Bear.6305",
@@ -21751,7 +21693,7 @@ const leaderboardData = {
             "average_stat_value": 556.5,
             "is_guild_member": true,
             "rating_delta": -21.826451762673287,
-            "rank": 146
+            "rank": 141
           },
           {
             "account_name": "Asper.2863",
@@ -21763,7 +21705,7 @@ const leaderboardData = {
             "average_stat_value": 458.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 147
+            "rank": 142
           },
           {
             "account_name": "Malek.9417",
@@ -21775,7 +21717,7 @@ const leaderboardData = {
             "average_stat_value": 583.5,
             "is_guild_member": true,
             "rating_delta": 0.5523337496938439,
-            "rank": 148
+            "rank": 143
           },
           {
             "account_name": "Rapscallion.3571",
@@ -21787,7 +21729,19 @@ const leaderboardData = {
             "average_stat_value": 430.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 149
+            "rank": 144
+          },
+          {
+            "account_name": "Syde.1863",
+            "profession": "Scourge",
+            "glicko_rating": 1430.4749037311524,
+            "composite_score": 1430.4749037311524,
+            "games_played": 3,
+            "average_rank_percent": 23.0,
+            "average_stat_value": 583.6666666666666,
+            "is_guild_member": true,
+            "rating_delta": 1.8624108271249042,
+            "rank": 145
           },
           {
             "account_name": "adrielle.2109",
@@ -21799,7 +21753,7 @@ const leaderboardData = {
             "average_stat_value": 546.0,
             "is_guild_member": true,
             "rating_delta": 2.1948682685133463,
-            "rank": 150
+            "rank": 146
           },
           {
             "account_name": "neven.3785",
@@ -21811,7 +21765,7 @@ const leaderboardData = {
             "average_stat_value": 437.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 151
+            "rank": 147
           },
           {
             "account_name": "Mortealug.6043",
@@ -21823,7 +21777,7 @@ const leaderboardData = {
             "average_stat_value": 303.0,
             "is_guild_member": false,
             "rating_delta": -21.61380817838767,
-            "rank": 152
+            "rank": 148
           },
           {
             "account_name": "Nero.6195",
@@ -21835,7 +21789,7 @@ const leaderboardData = {
             "average_stat_value": 796.5,
             "is_guild_member": true,
             "rating_delta": -1.3866857014481866,
-            "rank": 153
+            "rank": 149
           },
           {
             "account_name": "Basic.9204",
@@ -21847,7 +21801,7 @@ const leaderboardData = {
             "average_stat_value": 653.5,
             "is_guild_member": true,
             "rating_delta": 5.7280727120230495,
-            "rank": 154
+            "rank": 150
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -21859,7 +21813,7 @@ const leaderboardData = {
             "average_stat_value": 393.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 151
           },
           {
             "account_name": "banana.9637",
@@ -21871,7 +21825,7 @@ const leaderboardData = {
             "average_stat_value": 311.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 156
+            "rank": 152
           },
           {
             "account_name": "harasho.4281",
@@ -21883,7 +21837,7 @@ const leaderboardData = {
             "average_stat_value": 307.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 157
+            "rank": 153
           },
           {
             "account_name": "Ouji.7839",
@@ -21895,7 +21849,7 @@ const leaderboardData = {
             "average_stat_value": 246.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 158
+            "rank": 154
           },
           {
             "account_name": "modus.7921",
@@ -21907,7 +21861,7 @@ const leaderboardData = {
             "average_stat_value": 334.0,
             "is_guild_member": true,
             "rating_delta": -16.397831898412278,
-            "rank": 159
+            "rank": 155
           },
           {
             "account_name": "aureliocf.7324",
@@ -21919,7 +21873,7 @@ const leaderboardData = {
             "average_stat_value": 149.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 160
+            "rank": 156
           },
           {
             "account_name": "Uriah.7082",
@@ -21931,7 +21885,7 @@ const leaderboardData = {
             "average_stat_value": 215.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 161
+            "rank": 157
           },
           {
             "account_name": "Lasthope.7943",
@@ -21943,7 +21897,7 @@ const leaderboardData = {
             "average_stat_value": 253.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 162
+            "rank": 158
           },
           {
             "account_name": "Havocus.3682",
@@ -21955,7 +21909,7 @@ const leaderboardData = {
             "average_stat_value": 228.0,
             "is_guild_member": true,
             "rating_delta": -31.32817717002831,
-            "rank": 163
+            "rank": 159
           },
           {
             "account_name": "I R R Y.9128",
@@ -21967,7 +21921,7 @@ const leaderboardData = {
             "average_stat_value": 310.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 164
+            "rank": 160
           },
           {
             "account_name": "OPness.3215",
@@ -21979,7 +21933,7 @@ const leaderboardData = {
             "average_stat_value": 206.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 165
+            "rank": 161
           },
           {
             "account_name": "aznsleeper.5896",
@@ -21991,7 +21945,7 @@ const leaderboardData = {
             "average_stat_value": 717.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 166
+            "rank": 162
           },
           {
             "account_name": "synco.8132",
@@ -22003,7 +21957,7 @@ const leaderboardData = {
             "average_stat_value": 255.0,
             "is_guild_member": true,
             "rating_delta": -9.514636660885571,
-            "rank": 167
+            "rank": 163
           },
           {
             "account_name": "Smile.9284",
@@ -22015,7 +21969,7 @@ const leaderboardData = {
             "average_stat_value": 168.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 168
+            "rank": 164
           },
           {
             "account_name": "Nero.6195",
@@ -22027,7 +21981,7 @@ const leaderboardData = {
             "average_stat_value": 103.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 169
+            "rank": 165
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -22039,7 +21993,7 @@ const leaderboardData = {
             "average_stat_value": 183.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 170
+            "rank": 166
           },
           {
             "account_name": "Trail.8614",
@@ -22051,7 +22005,7 @@ const leaderboardData = {
             "average_stat_value": 129.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 171
+            "rank": 167
           },
           {
             "account_name": "tCut.7856",
@@ -22063,7 +22017,7 @@ const leaderboardData = {
             "average_stat_value": 138.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 172
+            "rank": 168
           },
           {
             "account_name": "Bricktus.1682",
@@ -22075,7 +22029,7 @@ const leaderboardData = {
             "average_stat_value": 85.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 173
+            "rank": 169
           },
           {
             "account_name": "LilJoker.2658",
@@ -22087,7 +22041,7 @@ const leaderboardData = {
             "average_stat_value": 194.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 174
+            "rank": 170
           },
           {
             "account_name": "Pseven.4867",
@@ -22099,7 +22053,7 @@ const leaderboardData = {
             "average_stat_value": 132.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 175
+            "rank": 171
           },
           {
             "account_name": "modus.7921",
@@ -22111,7 +22065,7 @@ const leaderboardData = {
             "average_stat_value": 80.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 176
+            "rank": 172
           },
           {
             "account_name": "Mini.1786",
@@ -22123,7 +22077,7 @@ const leaderboardData = {
             "average_stat_value": 119.0,
             "is_guild_member": false,
             "rating_delta": -32.88176851701314,
-            "rank": 177
+            "rank": 173
           },
           {
             "account_name": "enKoDed.1563",
@@ -22135,7 +22089,7 @@ const leaderboardData = {
             "average_stat_value": 75.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 178
+            "rank": 174
           },
           {
             "account_name": "modus.7921",
@@ -22147,7 +22101,7 @@ const leaderboardData = {
             "average_stat_value": 101.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 179
+            "rank": 175
           },
           {
             "account_name": "Theweemon.8459",
@@ -22159,19 +22113,7 @@ const leaderboardData = {
             "average_stat_value": 109.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 180
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Scourge",
-            "glicko_rating": 1409.134118453987,
-            "composite_score": 1409.134118453987,
-            "games_played": 4,
-            "average_rank_percent": 21.0,
-            "average_stat_value": 625.25,
-            "is_guild_member": true,
-            "rating_delta": 1.8624108271249042,
-            "rank": 181
+            "rank": 176
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -22183,19 +22125,7 @@ const leaderboardData = {
             "average_stat_value": 173.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 182
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1408.9370952061963,
-            "composite_score": 1408.9370952061963,
-            "games_played": 1,
-            "average_rank_percent": 16.0,
-            "average_stat_value": 631.0,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 183
+            "rank": 177
           },
           {
             "account_name": "asdfghjk.8241",
@@ -22207,7 +22137,19 @@ const leaderboardData = {
             "average_stat_value": 133.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 184
+            "rank": 178
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Chronomancer",
+            "glicko_rating": 1408.4148925243505,
+            "composite_score": 1408.4148925243505,
+            "games_played": 1,
+            "average_rank_percent": 22.0,
+            "average_stat_value": 163.0,
+            "is_guild_member": true,
+            "rating_delta": -10.189306793032074,
+            "rank": 179
           },
           {
             "account_name": "aznsleeper.5896",
@@ -22219,7 +22161,7 @@ const leaderboardData = {
             "average_stat_value": 412.5,
             "is_guild_member": true,
             "rating_delta": -0.4711885368424191,
-            "rank": 185
+            "rank": 180
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -22231,7 +22173,7 @@ const leaderboardData = {
             "average_stat_value": 123.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 186
+            "rank": 181
           },
           {
             "account_name": "Luke.9108",
@@ -22243,7 +22185,7 @@ const leaderboardData = {
             "average_stat_value": 119.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 187
+            "rank": 182
           },
           {
             "account_name": "Shy.3108",
@@ -22255,7 +22197,7 @@ const leaderboardData = {
             "average_stat_value": 77.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 188
+            "rank": 183
           },
           {
             "account_name": "Naomi.5372",
@@ -22267,7 +22209,7 @@ const leaderboardData = {
             "average_stat_value": 115.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 189
+            "rank": 184
           },
           {
             "account_name": "Bayushi.7914",
@@ -22279,7 +22221,7 @@ const leaderboardData = {
             "average_stat_value": 48.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 190
+            "rank": 185
           },
           {
             "account_name": "Argo.2675",
@@ -22291,7 +22233,7 @@ const leaderboardData = {
             "average_stat_value": 130.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 191
+            "rank": 186
           },
           {
             "account_name": "CarlJunior.7832",
@@ -22303,7 +22245,7 @@ const leaderboardData = {
             "average_stat_value": 62.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 192
+            "rank": 187
           },
           {
             "account_name": "Narizinho.3052",
@@ -22315,7 +22257,7 @@ const leaderboardData = {
             "average_stat_value": 42.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 193
+            "rank": 188
           },
           {
             "account_name": "rob.7042",
@@ -22327,7 +22269,7 @@ const leaderboardData = {
             "average_stat_value": 97.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 194
+            "rank": 189
           },
           {
             "account_name": "bielzin.5084",
@@ -22339,7 +22281,7 @@ const leaderboardData = {
             "average_stat_value": 67.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 195
+            "rank": 190
           },
           {
             "account_name": "Chakkkka.2504",
@@ -22351,7 +22293,7 @@ const leaderboardData = {
             "average_stat_value": 37.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 196
+            "rank": 191
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -22363,7 +22305,7 @@ const leaderboardData = {
             "average_stat_value": 402.0,
             "is_guild_member": true,
             "rating_delta": -17.622383454873216,
-            "rank": 197
+            "rank": 192
           },
           {
             "account_name": "Sselnoisiv.6130",
@@ -22375,7 +22317,7 @@ const leaderboardData = {
             "average_stat_value": 45.0,
             "is_guild_member": false,
             "rating_delta": -34.67286310092777,
-            "rank": 198
+            "rank": 193
           },
           {
             "account_name": "phobos.5290",
@@ -22387,7 +22329,7 @@ const leaderboardData = {
             "average_stat_value": 48.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 199
+            "rank": 194
           },
           {
             "account_name": "Souza.1562",
@@ -22399,7 +22341,7 @@ const leaderboardData = {
             "average_stat_value": 32.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 200
+            "rank": 195
           },
           {
             "account_name": "freecarl.1320",
@@ -22411,7 +22353,7 @@ const leaderboardData = {
             "average_stat_value": 102.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 201
+            "rank": 196
           },
           {
             "account_name": "Havocus.3682",
@@ -22423,7 +22365,7 @@ const leaderboardData = {
             "average_stat_value": 78.0,
             "is_guild_member": true,
             "rating_delta": -9.515216670616155,
-            "rank": 202
+            "rank": 197
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -22435,7 +22377,7 @@ const leaderboardData = {
             "average_stat_value": 29.0,
             "is_guild_member": false,
             "rating_delta": -11.685560807560933,
-            "rank": 203
+            "rank": 198
           },
           {
             "account_name": "Malek.9417",
@@ -22447,7 +22389,7 @@ const leaderboardData = {
             "average_stat_value": 83.0,
             "is_guild_member": true,
             "rating_delta": -32.724898735310944,
-            "rank": 204
+            "rank": 199
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -22459,7 +22401,7 @@ const leaderboardData = {
             "average_stat_value": 23.0,
             "is_guild_member": false,
             "rating_delta": -18.616175631003898,
-            "rank": 205
+            "rank": 200
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -22471,7 +22413,7 @@ const leaderboardData = {
             "average_stat_value": 21.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 206
+            "rank": 201
           },
           {
             "account_name": "Nictheman.9754",
@@ -22483,7 +22425,7 @@ const leaderboardData = {
             "average_stat_value": 78.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 207
+            "rank": 202
           },
           {
             "account_name": "San.9704",
@@ -22495,7 +22437,7 @@ const leaderboardData = {
             "average_stat_value": 48.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 208
+            "rank": 203
           },
           {
             "account_name": "Mona.9180",
@@ -22507,7 +22449,7 @@ const leaderboardData = {
             "average_stat_value": 69.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 209
+            "rank": 204
           },
           {
             "account_name": "Nero.6195",
@@ -22519,7 +22461,7 @@ const leaderboardData = {
             "average_stat_value": 78.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 210
+            "rank": 205
           },
           {
             "account_name": "Lozen.7623",
@@ -22531,7 +22473,7 @@ const leaderboardData = {
             "average_stat_value": 405.5,
             "is_guild_member": true,
             "rating_delta": -23.938763559069912,
-            "rank": 211
+            "rank": 206
           },
           {
             "account_name": "Soothsayer.9206",
@@ -22543,7 +22485,7 @@ const leaderboardData = {
             "average_stat_value": 43.0,
             "is_guild_member": true,
             "rating_delta": -19.520055959479805,
-            "rank": 212
+            "rank": 207
           },
           {
             "account_name": "DareDevils.6039",
@@ -22555,7 +22497,7 @@ const leaderboardData = {
             "average_stat_value": 184.0,
             "is_guild_member": false,
             "rating_delta": -43.29407104293796,
-            "rank": 213
+            "rank": 208
           },
           {
             "account_name": "Mini.1786",
@@ -22567,7 +22509,7 @@ const leaderboardData = {
             "average_stat_value": 33.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 214
+            "rank": 209
           },
           {
             "account_name": "Jdchil.9561",
@@ -22579,7 +22521,7 @@ const leaderboardData = {
             "average_stat_value": 38.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 215
+            "rank": 210
           },
           {
             "account_name": "Generic Player.4067",
@@ -22591,7 +22533,7 @@ const leaderboardData = {
             "average_stat_value": 27.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 216
+            "rank": 211
           },
           {
             "account_name": "Freelanced.6084",
@@ -22603,7 +22545,7 @@ const leaderboardData = {
             "average_stat_value": 141.0,
             "is_guild_member": true,
             "rating_delta": -42.10124920273256,
-            "rank": 217
+            "rank": 212
           },
           {
             "account_name": "Wildcassandra.8463",
@@ -22615,7 +22557,7 @@ const leaderboardData = {
             "average_stat_value": 27.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 218
+            "rank": 213
           },
           {
             "account_name": "synco.8132",
@@ -22627,7 +22569,7 @@ const leaderboardData = {
             "average_stat_value": 157.0,
             "is_guild_member": true,
             "rating_delta": -8.245125228949746,
-            "rank": 219
+            "rank": 214
           },
           {
             "account_name": "Morg.3084",
@@ -22639,7 +22581,7 @@ const leaderboardData = {
             "average_stat_value": 99.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 220
+            "rank": 215
           },
           {
             "account_name": "Krounen.7028",
@@ -22651,7 +22593,7 @@ const leaderboardData = {
             "average_stat_value": 140.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 221
+            "rank": 216
           },
           {
             "account_name": "TripleCorndog.1923",
@@ -22663,7 +22605,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 222
+            "rank": 217
           },
           {
             "account_name": "Lasthope.7943",
@@ -22675,7 +22617,7 @@ const leaderboardData = {
             "average_stat_value": 137.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 223
+            "rank": 218
           },
           {
             "account_name": "Drigan.7382",
@@ -22687,7 +22629,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 224
+            "rank": 219
           },
           {
             "account_name": "Azel.4786",
@@ -22699,7 +22641,7 @@ const leaderboardData = {
             "average_stat_value": 85.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 225
+            "rank": 220
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -22711,7 +22653,7 @@ const leaderboardData = {
             "average_stat_value": 61.0,
             "is_guild_member": true,
             "rating_delta": -24.74184292602058,
-            "rank": 226
+            "rank": 221
           },
           {
             "account_name": "Uriah.7082",
@@ -22723,7 +22665,7 @@ const leaderboardData = {
             "average_stat_value": 107.0,
             "is_guild_member": true,
             "rating_delta": -12.429970814085891,
-            "rank": 227
+            "rank": 222
           },
           {
             "account_name": "phobos.5290",
@@ -22735,7 +22677,7 @@ const leaderboardData = {
             "average_stat_value": 242.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 228
+            "rank": 223
           },
           {
             "account_name": "acumen.1980",
@@ -22747,7 +22689,7 @@ const leaderboardData = {
             "average_stat_value": 48.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 229
+            "rank": 224
           },
           {
             "account_name": "phobos.5290",
@@ -22759,7 +22701,7 @@ const leaderboardData = {
             "average_stat_value": 38.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 230
+            "rank": 225
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -22771,7 +22713,7 @@ const leaderboardData = {
             "average_stat_value": 50.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 231
+            "rank": 226
           },
           {
             "account_name": "Malek.9417",
@@ -22783,7 +22725,19 @@ const leaderboardData = {
             "average_stat_value": 41.0,
             "is_guild_member": true,
             "rating_delta": -25.533436172721167,
-            "rank": 232
+            "rank": 227
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1391.5795396171584,
+            "composite_score": 1391.5795396171584,
+            "games_played": 1,
+            "average_rank_percent": 33.0,
+            "average_stat_value": 33.0,
+            "is_guild_member": false,
+            "rating_delta": -19.51932929548343,
+            "rank": 228
           },
           {
             "account_name": "Xarahait.8051",
@@ -22795,7 +22749,7 @@ const leaderboardData = {
             "average_stat_value": 126.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 233
+            "rank": 229
           },
           {
             "account_name": "acumen.1980",
@@ -22807,7 +22761,7 @@ const leaderboardData = {
             "average_stat_value": 87.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 234
+            "rank": 230
           },
           {
             "account_name": "Nero.6195",
@@ -22819,7 +22773,7 @@ const leaderboardData = {
             "average_stat_value": 426.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 235
+            "rank": 231
           },
           {
             "account_name": "acumen.1980",
@@ -22831,7 +22785,7 @@ const leaderboardData = {
             "average_stat_value": 389.0,
             "is_guild_member": true,
             "rating_delta": -118.48363533321572,
-            "rank": 236
+            "rank": 232
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -22843,7 +22797,7 @@ const leaderboardData = {
             "average_stat_value": 132.0,
             "is_guild_member": true,
             "rating_delta": -33.79669193961058,
-            "rank": 237
+            "rank": 233
           },
           {
             "account_name": "OPness.3215",
@@ -22855,19 +22809,7 @@ const leaderboardData = {
             "average_stat_value": 137.5,
             "is_guild_member": true,
             "rating_delta": -2.043324521440809,
-            "rank": 238
-          },
-          {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1372.7382581704308,
-            "composite_score": 1372.7382581704308,
-            "games_played": 1,
-            "average_rank_percent": 18.0,
-            "average_stat_value": 125.0,
-            "is_guild_member": true,
-            "rating_delta": -21.81515009332361,
-            "rank": 239
+            "rank": 234
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -22879,7 +22821,7 @@ const leaderboardData = {
             "average_stat_value": 139.0,
             "is_guild_member": true,
             "rating_delta": -21.073196071697566,
-            "rank": 240
+            "rank": 235
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -22891,7 +22833,7 @@ const leaderboardData = {
             "average_stat_value": 81.5,
             "is_guild_member": true,
             "rating_delta": -7.773817852036473,
-            "rank": 241
+            "rank": 236
           },
           {
             "account_name": "Elgar.2091",
@@ -22903,7 +22845,7 @@ const leaderboardData = {
             "average_stat_value": 102.5,
             "is_guild_member": true,
             "rating_delta": -17.493872180794142,
-            "rank": 242
+            "rank": 237
           },
           {
             "account_name": "Basic.9204",
@@ -22915,7 +22857,7 @@ const leaderboardData = {
             "average_stat_value": 62.5,
             "is_guild_member": true,
             "rating_delta": -35.8210836324904,
-            "rank": 243
+            "rank": 238
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -22927,7 +22869,7 @@ const leaderboardData = {
             "average_stat_value": 62.5,
             "is_guild_member": true,
             "rating_delta": -10.388015471065728,
-            "rank": 244
+            "rank": 239
           },
           {
             "account_name": "Lozen.7623",
@@ -22939,7 +22881,7 @@ const leaderboardData = {
             "average_stat_value": 42.0,
             "is_guild_member": true,
             "rating_delta": -35.828476128888724,
-            "rank": 245
+            "rank": 240
           },
           {
             "account_name": "synco.8132",
@@ -22951,7 +22893,7 @@ const leaderboardData = {
             "average_stat_value": 143.33333333333334,
             "is_guild_member": true,
             "rating_delta": -21.40188082579857,
-            "rank": 246
+            "rank": 241
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -22963,7 +22905,7 @@ const leaderboardData = {
             "average_stat_value": 90.5,
             "is_guild_member": true,
             "rating_delta": -26.046984232433942,
-            "rank": 247
+            "rank": 242
           },
           {
             "account_name": "Aein.1483",
@@ -22975,7 +22917,7 @@ const leaderboardData = {
             "average_stat_value": 255.83333333333334,
             "is_guild_member": true,
             "rating_delta": -12.359095408527537,
-            "rank": 248
+            "rank": 243
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -22987,7 +22929,7 @@ const leaderboardData = {
             "average_stat_value": 112.0,
             "is_guild_member": false,
             "rating_delta": -25.168155767640656,
-            "rank": 249
+            "rank": 244
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -22999,7 +22941,7 @@ const leaderboardData = {
             "average_stat_value": 315.625,
             "is_guild_member": true,
             "rating_delta": 0.17941294266051955,
-            "rank": 250
+            "rank": 245
           },
           {
             "account_name": "Syde.1863",
@@ -23011,7 +22953,31 @@ const leaderboardData = {
             "average_stat_value": 92.5,
             "is_guild_member": true,
             "rating_delta": -44.085824200936486,
-            "rank": 251
+            "rank": 246
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1349.1599559376916,
+            "composite_score": 1349.1599559376916,
+            "games_played": 2,
+            "average_rank_percent": 36.0,
+            "average_stat_value": 50.0,
+            "is_guild_member": true,
+            "rating_delta": -8.612479108400294,
+            "rank": 247
+          },
+          {
+            "account_name": "Aromapaloma.3194",
+            "profession": "Tempest",
+            "glicko_rating": 1348.2068538080018,
+            "composite_score": 1348.2068538080018,
+            "games_played": 5,
+            "average_rank_percent": 24.0,
+            "average_stat_value": 224.0,
+            "is_guild_member": true,
+            "rating_delta": 3.4272040479938823,
+            "rank": 248
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -23023,19 +22989,7 @@ const leaderboardData = {
             "average_stat_value": 321.8,
             "is_guild_member": true,
             "rating_delta": -11.576764796903035,
-            "rank": 252
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Chronomancer",
-            "glicko_rating": 1345.9131040278578,
-            "composite_score": 1345.9131040278578,
-            "games_played": 2,
-            "average_rank_percent": 20.5,
-            "average_stat_value": 128.5,
-            "is_guild_member": true,
-            "rating_delta": -10.189306793032074,
-            "rank": 253
+            "rank": 249
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -23047,7 +23001,7 @@ const leaderboardData = {
             "average_stat_value": 40.666666666666664,
             "is_guild_member": true,
             "rating_delta": -18.936062025816682,
-            "rank": 254
+            "rank": 250
           },
           {
             "account_name": "aznsleeper.5896",
@@ -23059,7 +23013,7 @@ const leaderboardData = {
             "average_stat_value": 109.25,
             "is_guild_member": true,
             "rating_delta": -7.111739685892871,
-            "rank": 255
+            "rank": 251
           },
           {
             "account_name": "Bother.9415",
@@ -23071,7 +23025,7 @@ const leaderboardData = {
             "average_stat_value": 48.333333333333336,
             "is_guild_member": true,
             "rating_delta": -18.59796730705125,
-            "rank": 256
+            "rank": 252
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -23083,7 +23037,7 @@ const leaderboardData = {
             "average_stat_value": 268.0,
             "is_guild_member": true,
             "rating_delta": -6.741079634278549,
-            "rank": 257
+            "rank": 253
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -23095,19 +23049,7 @@ const leaderboardData = {
             "average_stat_value": 315.3333333333333,
             "is_guild_member": true,
             "rating_delta": -22.989536573616533,
-            "rank": 258
-          },
-          {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1331.2028916325678,
-            "composite_score": 1331.2028916325678,
-            "games_played": 2,
-            "average_rank_percent": 27.0,
-            "average_stat_value": 28.0,
-            "is_guild_member": false,
-            "rating_delta": -19.51932929548343,
-            "rank": 259
+            "rank": 254
           },
           {
             "account_name": "BlueViolet.8263",
@@ -23119,7 +23061,7 @@ const leaderboardData = {
             "average_stat_value": 124.5,
             "is_guild_member": true,
             "rating_delta": -16.430658042515006,
-            "rank": 260
+            "rank": 255
           },
           {
             "account_name": "Nictheman.9754",
@@ -23131,19 +23073,7 @@ const leaderboardData = {
             "average_stat_value": 112.25,
             "is_guild_member": true,
             "rating_delta": -0.35297005338361487,
-            "rank": 261
-          },
-          {
-            "account_name": "Aromapaloma.3194",
-            "profession": "Tempest",
-            "glicko_rating": 1326.8610597797954,
-            "composite_score": 1326.8610597797954,
-            "games_played": 6,
-            "average_rank_percent": 22.833333333333332,
-            "average_stat_value": 209.0,
-            "is_guild_member": true,
-            "rating_delta": 3.4272040479938823,
-            "rank": 262
+            "rank": 256
           },
           {
             "account_name": "synco.8132",
@@ -23155,7 +23085,7 @@ const leaderboardData = {
             "average_stat_value": 31.0,
             "is_guild_member": true,
             "rating_delta": -4.889811394566323,
-            "rank": 263
+            "rank": 257
           },
           {
             "account_name": "Lozen.7623",
@@ -23167,7 +23097,7 @@ const leaderboardData = {
             "average_stat_value": 38.0,
             "is_guild_member": true,
             "rating_delta": -12.880128280799,
-            "rank": 264
+            "rank": 258
           },
           {
             "account_name": "Mellis.8451",
@@ -23179,7 +23109,7 @@ const leaderboardData = {
             "average_stat_value": 138.2,
             "is_guild_member": true,
             "rating_delta": -11.130181259771462,
-            "rank": 265
+            "rank": 259
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -23191,19 +23121,7 @@ const leaderboardData = {
             "average_stat_value": 97.2,
             "is_guild_member": true,
             "rating_delta": -2.8391045446232965,
-            "rank": 266
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1311.5297904613801,
-            "composite_score": 1311.5297904613801,
-            "games_played": 3,
-            "average_rank_percent": 30.666666666666668,
-            "average_stat_value": 48.333333333333336,
-            "is_guild_member": true,
-            "rating_delta": -8.612479108400294,
-            "rank": 267
+            "rank": 260
           },
           {
             "account_name": "Johnny.5478",
@@ -23215,7 +23133,7 @@ const leaderboardData = {
             "average_stat_value": 156.11111111111111,
             "is_guild_member": true,
             "rating_delta": -6.883462318020975,
-            "rank": 268
+            "rank": 261
           },
           {
             "account_name": "Muted.8591",
@@ -23227,7 +23145,7 @@ const leaderboardData = {
             "average_stat_value": 142.0,
             "is_guild_member": true,
             "rating_delta": -3.0799757857269014,
-            "rank": 269
+            "rank": 262
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -23239,7 +23157,7 @@ const leaderboardData = {
             "average_stat_value": 121.66666666666667,
             "is_guild_member": true,
             "rating_delta": -2.65690743907885,
-            "rank": 270
+            "rank": 263
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -23251,7 +23169,7 @@ const leaderboardData = {
             "average_stat_value": 55.42857142857143,
             "is_guild_member": true,
             "rating_delta": -9.502094912409575,
-            "rank": 271
+            "rank": 264
           },
           {
             "account_name": "Argo.2675",
@@ -23263,7 +23181,7 @@ const leaderboardData = {
             "average_stat_value": 158.66666666666666,
             "is_guild_member": true,
             "rating_delta": -3.0006720260571456,
-            "rank": 272
+            "rank": 265
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -23275,7 +23193,7 @@ const leaderboardData = {
             "average_stat_value": 38.142857142857146,
             "is_guild_member": true,
             "rating_delta": -2.5794555353738815,
-            "rank": 273
+            "rank": 266
           },
           {
             "account_name": "Smile.9284",
@@ -23287,7 +23205,7 @@ const leaderboardData = {
             "average_stat_value": 80.18181818181819,
             "is_guild_member": true,
             "rating_delta": -2.27379157766336,
-            "rank": 274
+            "rank": 267
           },
           {
             "account_name": "Astro Bear.6305",
@@ -23299,7 +23217,7 @@ const leaderboardData = {
             "average_stat_value": 61.9,
             "is_guild_member": true,
             "rating_delta": -2.0034660760925362,
-            "rank": 275
+            "rank": 268
           },
           {
             "account_name": "modus.7921",
@@ -23311,7 +23229,7 @@ const leaderboardData = {
             "average_stat_value": 48.81818181818182,
             "is_guild_member": true,
             "rating_delta": -1.980845680085622,
-            "rank": 276
+            "rank": 269
           }
         ],
         "Healing": [
@@ -23400,18 +23318,6 @@ const leaderboardData = {
             "rank": 7
           },
           {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1722.1804995506286,
-            "composite_score": 1722.1804995506286,
-            "games_played": 2,
-            "average_rank_percent": 1.0,
-            "average_stat_value": 1551.895,
-            "is_guild_member": false,
-            "rating_delta": 45.925309262999235,
-            "rank": 8
-          },
-          {
             "account_name": "Bailyen Arturius.4263",
             "profession": "Druid",
             "glicko_rating": 1719.9664351658287,
@@ -23421,19 +23327,7 @@ const leaderboardData = {
             "average_stat_value": 1185.7433333333333,
             "is_guild_member": true,
             "rating_delta": 22.72660019272371,
-            "rank": 9
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1692.9743217006185,
-            "composite_score": 1692.9743217006185,
-            "games_played": 3,
-            "average_rank_percent": 3.6666666666666665,
-            "average_stat_value": 1405.7733333333333,
-            "is_guild_member": true,
-            "rating_delta": 61.3841856795932,
-            "rank": 10
+            "rank": 8
           },
           {
             "account_name": "Lozen.7623",
@@ -23445,7 +23339,7 @@ const leaderboardData = {
             "average_stat_value": 1356.08,
             "is_guild_member": true,
             "rating_delta": -8.618607298452616,
-            "rank": 11
+            "rank": 9
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -23457,7 +23351,7 @@ const leaderboardData = {
             "average_stat_value": 1298.3444444444444,
             "is_guild_member": true,
             "rating_delta": -12.382704022616736,
-            "rank": 12
+            "rank": 10
           },
           {
             "account_name": "Lozen.7623",
@@ -23469,7 +23363,7 @@ const leaderboardData = {
             "average_stat_value": 1358.8600000000001,
             "is_guild_member": true,
             "rating_delta": 31.684268913187225,
-            "rank": 13
+            "rank": 11
           },
           {
             "account_name": "synco.8132",
@@ -23481,6 +23375,30 @@ const leaderboardData = {
             "average_stat_value": 1420.4533333333331,
             "is_guild_member": true,
             "rating_delta": -106.87154076940055,
+            "rank": 12
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1661.4416502061315,
+            "composite_score": 1661.4416502061315,
+            "games_played": 1,
+            "average_rank_percent": 1.0,
+            "average_stat_value": 1846.26,
+            "is_guild_member": false,
+            "rating_delta": 45.925309262999235,
+            "rank": 13
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1661.216848553554,
+            "composite_score": 1661.216848553554,
+            "games_played": 2,
+            "average_rank_percent": 4.0,
+            "average_stat_value": 1637.51,
+            "is_guild_member": true,
+            "rating_delta": 61.3841856795932,
             "rank": 14
           },
           {
@@ -23580,18 +23498,6 @@ const leaderboardData = {
             "rank": 22
           },
           {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1644.5737011531198,
-            "composite_score": 1644.5737011531198,
-            "games_played": 1,
-            "average_rank_percent": 2.0,
-            "average_stat_value": 1132.49,
-            "is_guild_member": true,
-            "rating_delta": 29.867742579047444,
-            "rank": 23
-          },
-          {
             "account_name": "Sselnoisiv.6130",
             "profession": "Druid",
             "glicko_rating": 1642.7731235325484,
@@ -23601,7 +23507,7 @@ const leaderboardData = {
             "average_stat_value": 1228.81,
             "is_guild_member": false,
             "rating_delta": 64.89045531861166,
-            "rank": 24
+            "rank": 23
           },
           {
             "account_name": "Muted.8591",
@@ -23613,7 +23519,7 @@ const leaderboardData = {
             "average_stat_value": 1119.5842857142857,
             "is_guild_member": true,
             "rating_delta": 7.181100559235574,
-            "rank": 25
+            "rank": 24
           },
           {
             "account_name": "Freelanced.6084",
@@ -23625,7 +23531,7 @@ const leaderboardData = {
             "average_stat_value": 1267.61,
             "is_guild_member": true,
             "rating_delta": -10.208930382127164,
-            "rank": 26
+            "rank": 25
           },
           {
             "account_name": "modus.7921",
@@ -23637,7 +23543,7 @@ const leaderboardData = {
             "average_stat_value": 1200.82,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 27
+            "rank": 26
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -23649,7 +23555,7 @@ const leaderboardData = {
             "average_stat_value": 1050.52,
             "is_guild_member": true,
             "rating_delta": -28.22530942725507,
-            "rank": 28
+            "rank": 27
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -23661,7 +23567,7 @@ const leaderboardData = {
             "average_stat_value": 1541.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 29
+            "rank": 28
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -23673,7 +23579,7 @@ const leaderboardData = {
             "average_stat_value": 812.12,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 30
+            "rank": 29
           },
           {
             "account_name": "CarlJunior.7832",
@@ -23685,7 +23591,7 @@ const leaderboardData = {
             "average_stat_value": 1402.66,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 31
+            "rank": 30
           },
           {
             "account_name": "asdfghjk.8241",
@@ -23697,7 +23603,7 @@ const leaderboardData = {
             "average_stat_value": 1478.25,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 32
+            "rank": 31
           },
           {
             "account_name": "Mini.1786",
@@ -23709,7 +23615,7 @@ const leaderboardData = {
             "average_stat_value": 1056.22,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 33
+            "rank": 32
           },
           {
             "account_name": "Generic Player.4067",
@@ -23721,7 +23627,7 @@ const leaderboardData = {
             "average_stat_value": 1056.12,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 34
+            "rank": 33
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -23733,7 +23639,7 @@ const leaderboardData = {
             "average_stat_value": 1142.27,
             "is_guild_member": true,
             "rating_delta": -48.01079203607242,
-            "rank": 35
+            "rank": 34
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -23745,7 +23651,7 @@ const leaderboardData = {
             "average_stat_value": 1239.42,
             "is_guild_member": false,
             "rating_delta": -36.391164839214525,
-            "rank": 36
+            "rank": 35
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -23757,7 +23663,7 @@ const leaderboardData = {
             "average_stat_value": 1155.835,
             "is_guild_member": true,
             "rating_delta": 4.710173197432368,
-            "rank": 37
+            "rank": 36
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -23769,7 +23675,7 @@ const leaderboardData = {
             "average_stat_value": 1201.57,
             "is_guild_member": false,
             "rating_delta": 0.6944658496968259,
-            "rank": 38
+            "rank": 37
           },
           {
             "account_name": "Elgar.2091",
@@ -23781,7 +23687,7 @@ const leaderboardData = {
             "average_stat_value": 737.775,
             "is_guild_member": true,
             "rating_delta": 24.704614797098657,
-            "rank": 39
+            "rank": 38
           },
           {
             "account_name": "Jdchil.9561",
@@ -23793,7 +23699,7 @@ const leaderboardData = {
             "average_stat_value": 1333.53,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 40
+            "rank": 39
           },
           {
             "account_name": "freecarl.1320",
@@ -23805,7 +23711,7 @@ const leaderboardData = {
             "average_stat_value": 1388.29,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 40
           },
           {
             "account_name": "phobos.5290",
@@ -23817,7 +23723,7 @@ const leaderboardData = {
             "average_stat_value": 1184.53,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 41
           },
           {
             "account_name": "phobos.5290",
@@ -23829,7 +23735,7 @@ const leaderboardData = {
             "average_stat_value": 1145.66,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 43
+            "rank": 42
           },
           {
             "account_name": "Nictheman.9754",
@@ -23841,7 +23747,7 @@ const leaderboardData = {
             "average_stat_value": 1026.3,
             "is_guild_member": true,
             "rating_delta": 4.867670742004748,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "Trail.8614",
@@ -23853,7 +23759,7 @@ const leaderboardData = {
             "average_stat_value": 827.63,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "Bricktus.1682",
@@ -23865,7 +23771,7 @@ const leaderboardData = {
             "average_stat_value": 1105.56,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "Malek.9417",
@@ -23877,7 +23783,7 @@ const leaderboardData = {
             "average_stat_value": 951.44,
             "is_guild_member": true,
             "rating_delta": -44.12161389694211,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -23889,7 +23795,7 @@ const leaderboardData = {
             "average_stat_value": 614.22,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 48
+            "rank": 47
           },
           {
             "account_name": "Mellis.8451",
@@ -23901,7 +23807,7 @@ const leaderboardData = {
             "average_stat_value": 962.682,
             "is_guild_member": true,
             "rating_delta": 31.268527550181034,
-            "rank": 49
+            "rank": 48
           },
           {
             "account_name": "synco.8132",
@@ -23913,7 +23819,7 @@ const leaderboardData = {
             "average_stat_value": 1228.44,
             "is_guild_member": true,
             "rating_delta": -23.941727053665545,
-            "rank": 50
+            "rank": 49
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -23925,7 +23831,7 @@ const leaderboardData = {
             "average_stat_value": 951.076,
             "is_guild_member": true,
             "rating_delta": -4.293685986933269,
-            "rank": 51
+            "rank": 50
           },
           {
             "account_name": "modus.7921",
@@ -23937,7 +23843,7 @@ const leaderboardData = {
             "average_stat_value": 951.25,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 52
+            "rank": 51
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -23949,7 +23855,7 @@ const leaderboardData = {
             "average_stat_value": 721.5566666666667,
             "is_guild_member": true,
             "rating_delta": 14.698965737359003,
-            "rank": 53
+            "rank": 52
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -23961,7 +23867,7 @@ const leaderboardData = {
             "average_stat_value": 823.1,
             "is_guild_member": false,
             "rating_delta": -60.544537199048364,
-            "rank": 54
+            "rank": 53
           },
           {
             "account_name": "Uriah.7082",
@@ -23973,7 +23879,7 @@ const leaderboardData = {
             "average_stat_value": 1118.21,
             "is_guild_member": true,
             "rating_delta": -26.85440108968419,
-            "rank": 55
+            "rank": 54
           },
           {
             "account_name": "Bayushi.7914",
@@ -23985,7 +23891,7 @@ const leaderboardData = {
             "average_stat_value": 862.74,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 56
+            "rank": 55
           },
           {
             "account_name": "Havocus.3682",
@@ -23997,7 +23903,7 @@ const leaderboardData = {
             "average_stat_value": 875.02,
             "is_guild_member": true,
             "rating_delta": -13.22665157584106,
-            "rank": 57
+            "rank": 56
           },
           {
             "account_name": "aznsleeper.5896",
@@ -24009,7 +23915,7 @@ const leaderboardData = {
             "average_stat_value": 676.58,
             "is_guild_member": true,
             "rating_delta": 13.68599672967207,
-            "rank": 58
+            "rank": 57
           },
           {
             "account_name": "acumen.1980",
@@ -24021,7 +23927,7 @@ const leaderboardData = {
             "average_stat_value": 930.07,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 59
+            "rank": 58
           },
           {
             "account_name": "acumen.1980",
@@ -24033,7 +23939,7 @@ const leaderboardData = {
             "average_stat_value": 903.37,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 60
+            "rank": 59
           },
           {
             "account_name": "Nero.6195",
@@ -24045,7 +23951,7 @@ const leaderboardData = {
             "average_stat_value": 845.05,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 61
+            "rank": 60
           },
           {
             "account_name": "Souza.1562",
@@ -24057,7 +23963,7 @@ const leaderboardData = {
             "average_stat_value": 698.28,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 62
+            "rank": 61
           },
           {
             "account_name": "phobos.5290",
@@ -24069,7 +23975,7 @@ const leaderboardData = {
             "average_stat_value": 818.87,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 63
+            "rank": 62
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -24081,7 +23987,7 @@ const leaderboardData = {
             "average_stat_value": 622.01,
             "is_guild_member": true,
             "rating_delta": -48.14402339544563,
-            "rank": 64
+            "rank": 63
           },
           {
             "account_name": "Havocus.3682",
@@ -24093,7 +23999,7 @@ const leaderboardData = {
             "average_stat_value": 612.93,
             "is_guild_member": true,
             "rating_delta": -42.91245675606865,
-            "rank": 65
+            "rank": 64
           },
           {
             "account_name": "neven.3785",
@@ -24105,7 +24011,7 @@ const leaderboardData = {
             "average_stat_value": 249.87,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 66
+            "rank": 65
           },
           {
             "account_name": "Astro Bear.6305",
@@ -24117,7 +24023,7 @@ const leaderboardData = {
             "average_stat_value": 244.56,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 66
           },
           {
             "account_name": "modus.7921",
@@ -24129,7 +24035,7 @@ const leaderboardData = {
             "average_stat_value": 210.8,
             "is_guild_member": true,
             "rating_delta": -13.7836122182091,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "Malek.9417",
@@ -24141,7 +24047,7 @@ const leaderboardData = {
             "average_stat_value": 494.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "aznsleeper.5896",
@@ -24153,7 +24059,7 @@ const leaderboardData = {
             "average_stat_value": 444.73,
             "is_guild_member": true,
             "rating_delta": -21.355936588920713,
-            "rank": 70
+            "rank": 69
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -24165,7 +24071,7 @@ const leaderboardData = {
             "average_stat_value": 332.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 71
+            "rank": 70
           },
           {
             "account_name": "OPness.3215",
@@ -24177,7 +24083,7 @@ const leaderboardData = {
             "average_stat_value": 293.855,
             "is_guild_member": true,
             "rating_delta": -16.317420737136445,
-            "rank": 72
+            "rank": 71
           },
           {
             "account_name": "synco.8132",
@@ -24189,7 +24095,7 @@ const leaderboardData = {
             "average_stat_value": 455.92,
             "is_guild_member": true,
             "rating_delta": 33.39468056027408,
-            "rank": 73
+            "rank": 72
           },
           {
             "account_name": "OPness.3215",
@@ -24201,7 +24107,7 @@ const leaderboardData = {
             "average_stat_value": 283.15,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 74
+            "rank": 73
           },
           {
             "account_name": "Nictheman.9754",
@@ -24213,19 +24119,7 @@ const leaderboardData = {
             "average_stat_value": 430.31875,
             "is_guild_member": true,
             "rating_delta": -33.95614847227944,
-            "rank": 75
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1429.2930381524548,
-            "composite_score": 1429.2930381524548,
-            "games_played": 1,
-            "average_rank_percent": 6.0,
-            "average_stat_value": 58.7,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 76
+            "rank": 74
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -24237,7 +24131,7 @@ const leaderboardData = {
             "average_stat_value": 355.2025,
             "is_guild_member": true,
             "rating_delta": -15.075860813285317,
-            "rank": 77
+            "rank": 75
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -24249,7 +24143,7 @@ const leaderboardData = {
             "average_stat_value": 104.34,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 78
+            "rank": 76
           },
           {
             "account_name": "CarlJunior.7832",
@@ -24261,19 +24155,7 @@ const leaderboardData = {
             "average_stat_value": 226.61,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 79
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1426.5044075575227,
-            "composite_score": 1426.5044075575227,
-            "games_played": 1,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 45.88,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 80
+            "rank": 77
           },
           {
             "account_name": "defeater.3186",
@@ -24285,7 +24167,7 @@ const leaderboardData = {
             "average_stat_value": 118.68,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 81
+            "rank": 78
           },
           {
             "account_name": "Bother.9415",
@@ -24297,19 +24179,7 @@ const leaderboardData = {
             "average_stat_value": 114.58,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 82
-          },
-          {
-            "account_name": "Mellis.8451",
-            "profession": "Reaper",
-            "glicko_rating": 1423.1169139095207,
-            "composite_score": 1423.1169139095207,
-            "games_played": 1,
-            "average_rank_percent": 10.0,
-            "average_stat_value": 30.02,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 83
+            "rank": 79
           },
           {
             "account_name": "Morg.3084",
@@ -24321,7 +24191,7 @@ const leaderboardData = {
             "average_stat_value": 338.31,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 84
+            "rank": 80
           },
           {
             "account_name": "Uriah.7082",
@@ -24333,7 +24203,7 @@ const leaderboardData = {
             "average_stat_value": 217.83,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 85
+            "rank": 81
           },
           {
             "account_name": "Lenorellei.9815",
@@ -24345,7 +24215,19 @@ const leaderboardData = {
             "average_stat_value": 73.51,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 86
+            "rank": 82
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1420.7376542898123,
+            "composite_score": 1420.7376542898123,
+            "games_played": 2,
+            "average_rank_percent": 11.0,
+            "average_stat_value": 199.185,
+            "is_guild_member": true,
+            "rating_delta": -27.286673630049563,
+            "rank": 83
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -24357,7 +24239,7 @@ const leaderboardData = {
             "average_stat_value": 142.49,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 87
+            "rank": 84
           },
           {
             "account_name": "acumen.1980",
@@ -24369,7 +24251,7 @@ const leaderboardData = {
             "average_stat_value": 52.16,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 88
+            "rank": 85
           },
           {
             "account_name": "Uriah.7082",
@@ -24381,7 +24263,7 @@ const leaderboardData = {
             "average_stat_value": 165.41,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 89
+            "rank": 86
           },
           {
             "account_name": "acumen.1980",
@@ -24393,7 +24275,7 @@ const leaderboardData = {
             "average_stat_value": 29.23,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 90
+            "rank": 87
           },
           {
             "account_name": "acumen.1980",
@@ -24405,7 +24287,7 @@ const leaderboardData = {
             "average_stat_value": 40.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 88
           },
           {
             "account_name": "acumen.1980",
@@ -24417,7 +24299,7 @@ const leaderboardData = {
             "average_stat_value": 38.37,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 92
+            "rank": 89
           },
           {
             "account_name": "Uriah.7082",
@@ -24429,7 +24311,7 @@ const leaderboardData = {
             "average_stat_value": 24.7,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 90
           },
           {
             "account_name": "Bother.9415",
@@ -24441,19 +24323,7 @@ const leaderboardData = {
             "average_stat_value": 140.93,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 94
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1411.3042869915466,
-            "composite_score": 1411.3042869915466,
-            "games_played": 3,
-            "average_rank_percent": 8.666666666666666,
-            "average_stat_value": 178.13,
-            "is_guild_member": true,
-            "rating_delta": -27.286673630049563,
-            "rank": 95
+            "rank": 91
           },
           {
             "account_name": "aureliocf.7324",
@@ -24465,7 +24335,7 @@ const leaderboardData = {
             "average_stat_value": 146.71,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 92
           },
           {
             "account_name": "Nictheman.9754",
@@ -24477,7 +24347,7 @@ const leaderboardData = {
             "average_stat_value": 25.85,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 93
           },
           {
             "account_name": "Nictheman.9754",
@@ -24489,7 +24359,7 @@ const leaderboardData = {
             "average_stat_value": 248.83,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 94
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -24501,7 +24371,7 @@ const leaderboardData = {
             "average_stat_value": 92.19,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 95
           },
           {
             "account_name": "Nictheman.9754",
@@ -24513,7 +24383,7 @@ const leaderboardData = {
             "average_stat_value": 109.52,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 100
+            "rank": 96
           },
           {
             "account_name": "aznsleeper.5896",
@@ -24525,7 +24395,7 @@ const leaderboardData = {
             "average_stat_value": 3.64,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 97
           },
           {
             "account_name": "acumen.1980",
@@ -24537,7 +24407,7 @@ const leaderboardData = {
             "average_stat_value": 4.22,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 98
           },
           {
             "account_name": "harasho.4281",
@@ -24549,7 +24419,7 @@ const leaderboardData = {
             "average_stat_value": 288.04,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 99
           },
           {
             "account_name": "Niko.8425",
@@ -24561,7 +24431,7 @@ const leaderboardData = {
             "average_stat_value": 84.64,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 104
+            "rank": 100
           },
           {
             "account_name": "freecarl.9214",
@@ -24573,7 +24443,7 @@ const leaderboardData = {
             "average_stat_value": 89.47,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 105
+            "rank": 101
           },
           {
             "account_name": "Hiraldo.7954",
@@ -24585,7 +24455,7 @@ const leaderboardData = {
             "average_stat_value": 34.91,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 102
           },
           {
             "account_name": "CarlJunior.7832",
@@ -24597,7 +24467,7 @@ const leaderboardData = {
             "average_stat_value": 57.03,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 103
           },
           {
             "account_name": "Muted.8591",
@@ -24609,7 +24479,7 @@ const leaderboardData = {
             "average_stat_value": 52.86,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 108
+            "rank": 104
           },
           {
             "account_name": "Bother.9415",
@@ -24621,7 +24491,7 @@ const leaderboardData = {
             "average_stat_value": 23.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 105
           },
           {
             "account_name": "Mini.1786",
@@ -24633,7 +24503,19 @@ const leaderboardData = {
             "average_stat_value": 21.73,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 106
+          },
+          {
+            "account_name": "Freelanced.6084",
+            "profession": "Catalyst",
+            "glicko_rating": 1403.0949044929025,
+            "composite_score": 1403.0949044929025,
+            "games_played": 1,
+            "average_rank_percent": 19.0,
+            "average_stat_value": 64.65,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 107
           },
           {
             "account_name": "mikefmc.5961",
@@ -24645,7 +24527,7 @@ const leaderboardData = {
             "average_stat_value": 94.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 108
           },
           {
             "account_name": "Chakkkka.2504",
@@ -24657,7 +24539,7 @@ const leaderboardData = {
             "average_stat_value": 6.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 112
+            "rank": 109
           },
           {
             "account_name": "Muted.8591",
@@ -24669,7 +24551,7 @@ const leaderboardData = {
             "average_stat_value": 3.76,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 113
+            "rank": 110
           },
           {
             "account_name": "Freelanced.6084",
@@ -24681,7 +24563,7 @@ const leaderboardData = {
             "average_stat_value": 38.35,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 114
+            "rank": 111
           },
           {
             "account_name": "Freelanced.6084",
@@ -24693,7 +24575,7 @@ const leaderboardData = {
             "average_stat_value": 56.64,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 115
+            "rank": 112
           },
           {
             "account_name": "mikerock.6187",
@@ -24705,7 +24587,7 @@ const leaderboardData = {
             "average_stat_value": 85.62,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 116
+            "rank": 113
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -24717,7 +24599,7 @@ const leaderboardData = {
             "average_stat_value": 16.04,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 117
+            "rank": 114
           },
           {
             "account_name": "Sygyt.5190",
@@ -24729,7 +24611,7 @@ const leaderboardData = {
             "average_stat_value": 43.42,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 118
+            "rank": 115
           },
           {
             "account_name": "Hiraldo.7954",
@@ -24741,7 +24623,7 @@ const leaderboardData = {
             "average_stat_value": 8.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 119
+            "rank": 116
           },
           {
             "account_name": "Luke.9108",
@@ -24753,7 +24635,7 @@ const leaderboardData = {
             "average_stat_value": 5.57,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 120
+            "rank": 117
           },
           {
             "account_name": "arrsc.9046",
@@ -24765,7 +24647,7 @@ const leaderboardData = {
             "average_stat_value": 27.55,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 121
+            "rank": 118
           },
           {
             "account_name": "Daasen.3719",
@@ -24777,7 +24659,7 @@ const leaderboardData = {
             "average_stat_value": 32.56,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 119
           },
           {
             "account_name": "Stash.8401",
@@ -24789,7 +24671,7 @@ const leaderboardData = {
             "average_stat_value": 14.41,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 120
           },
           {
             "account_name": "Fibbs.1623",
@@ -24801,7 +24683,7 @@ const leaderboardData = {
             "average_stat_value": 26.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 121
           },
           {
             "account_name": "Chakkkka.2504",
@@ -24813,7 +24695,7 @@ const leaderboardData = {
             "average_stat_value": 26.13,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 122
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -24825,7 +24707,7 @@ const leaderboardData = {
             "average_stat_value": 25.43,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 123
           },
           {
             "account_name": "Malek.9417",
@@ -24837,7 +24719,7 @@ const leaderboardData = {
             "average_stat_value": 212.14999999999998,
             "is_guild_member": true,
             "rating_delta": -22.10240582265942,
-            "rank": 127
+            "rank": 124
           },
           {
             "account_name": "Elgar.2091",
@@ -24849,7 +24731,7 @@ const leaderboardData = {
             "average_stat_value": 14.73,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 128
+            "rank": 125
           },
           {
             "account_name": "Nero.6195",
@@ -24861,7 +24743,7 @@ const leaderboardData = {
             "average_stat_value": 1.94,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 126
           },
           {
             "account_name": "Astro Bear.6305",
@@ -24873,19 +24755,19 @@ const leaderboardData = {
             "average_stat_value": 176.79,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 130
+            "rank": 127
           },
           {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1381.3337894248739,
-            "composite_score": 1381.3337894248739,
-            "games_played": 2,
-            "average_rank_percent": 13.5,
-            "average_stat_value": 53.400000000000006,
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1381.7350164755628,
+            "composite_score": 1381.7350164755628,
+            "games_played": 1,
+            "average_rank_percent": 13.0,
+            "average_stat_value": 15.57,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 131
+            "rank": 128
           },
           {
             "account_name": "Lozen.7623",
@@ -24897,7 +24779,7 @@ const leaderboardData = {
             "average_stat_value": 167.115,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 132
+            "rank": 129
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -24909,7 +24791,19 @@ const leaderboardData = {
             "average_stat_value": 52.81,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 133
+            "rank": 130
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1372.362996673789,
+            "composite_score": 1372.362996673789,
+            "games_played": 3,
+            "average_rank_percent": 11.333333333333334,
+            "average_stat_value": 144.33,
+            "is_guild_member": true,
+            "rating_delta": -7.834521038546654,
+            "rank": 131
           },
           {
             "account_name": "Malek.9417",
@@ -24921,7 +24815,7 @@ const leaderboardData = {
             "average_stat_value": 46.795,
             "is_guild_member": true,
             "rating_delta": -22.974142253576247,
-            "rank": 134
+            "rank": 132
           },
           {
             "account_name": "Mellis.8451",
@@ -24933,19 +24827,7 @@ const leaderboardData = {
             "average_stat_value": 94.86,
             "is_guild_member": true,
             "rating_delta": -49.49891857602074,
-            "rank": 135
-          },
-          {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1368.04250514931,
-            "composite_score": 1368.04250514931,
-            "games_played": 4,
-            "average_rank_percent": 9.75,
-            "average_stat_value": 128.3325,
-            "is_guild_member": true,
-            "rating_delta": -7.834521038546654,
-            "rank": 136
+            "rank": 133
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -24957,19 +24839,7 @@ const leaderboardData = {
             "average_stat_value": 308.01625,
             "is_guild_member": true,
             "rating_delta": -9.370706452994455,
-            "rank": 137
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1364.3815906172765,
-            "composite_score": 1364.3815906172765,
-            "games_played": 2,
-            "average_rank_percent": 12.0,
-            "average_stat_value": 22.064999999999998,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 138
+            "rank": 134
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -24981,7 +24851,7 @@ const leaderboardData = {
             "average_stat_value": 223.21800000000002,
             "is_guild_member": true,
             "rating_delta": -48.47246896808019,
-            "rank": 139
+            "rank": 135
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -24993,7 +24863,7 @@ const leaderboardData = {
             "average_stat_value": 57.385,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 140
+            "rank": 136
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -25005,7 +24875,7 @@ const leaderboardData = {
             "average_stat_value": 8.755,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 141
+            "rank": 137
           },
           {
             "account_name": "Malek.9417",
@@ -25017,7 +24887,7 @@ const leaderboardData = {
             "average_stat_value": 59.185,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 142
+            "rank": 138
           },
           {
             "account_name": "Mes.1906",
@@ -25029,7 +24899,7 @@ const leaderboardData = {
             "average_stat_value": 26.115000000000002,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 143
+            "rank": 139
           },
           {
             "account_name": "Mellis.8451",
@@ -25041,7 +24911,7 @@ const leaderboardData = {
             "average_stat_value": 41.495,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 144
+            "rank": 140
           },
           {
             "account_name": "Havocus.3682",
@@ -25053,7 +24923,7 @@ const leaderboardData = {
             "average_stat_value": 37.495000000000005,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 145
+            "rank": 141
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -25065,7 +24935,7 @@ const leaderboardData = {
             "average_stat_value": 25.323333333333334,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 146
+            "rank": 142
           },
           {
             "account_name": "Nictheman.9754",
@@ -25077,7 +24947,7 @@ const leaderboardData = {
             "average_stat_value": 48.745,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 147
+            "rank": 143
           },
           {
             "account_name": "Uriah.7082",
@@ -25089,7 +24959,7 @@ const leaderboardData = {
             "average_stat_value": 17.76,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 148
+            "rank": 144
           },
           {
             "account_name": "Nictheman.9754",
@@ -25101,7 +24971,7 @@ const leaderboardData = {
             "average_stat_value": 78.41166666666666,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 149
+            "rank": 145
           },
           {
             "account_name": "synco.8132",
@@ -25113,7 +24983,7 @@ const leaderboardData = {
             "average_stat_value": 111.065,
             "is_guild_member": true,
             "rating_delta": -18.49047485234769,
-            "rank": 150
+            "rank": 146
           },
           {
             "account_name": "Freelanced.6084",
@@ -25125,7 +24995,7 @@ const leaderboardData = {
             "average_stat_value": 5.156666666666667,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 151
+            "rank": 147
           },
           {
             "account_name": "Nictheman.9754",
@@ -25137,7 +25007,7 @@ const leaderboardData = {
             "average_stat_value": 23.34,
             "is_guild_member": true,
             "rating_delta": -31.319239601530626,
-            "rank": 152
+            "rank": 148
           },
           {
             "account_name": "Nero.6195",
@@ -25149,7 +25019,7 @@ const leaderboardData = {
             "average_stat_value": 65.194,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 153
+            "rank": 149
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -25161,7 +25031,7 @@ const leaderboardData = {
             "average_stat_value": 5.946666666666666,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 154
+            "rank": 150
           },
           {
             "account_name": "Havocus.3682",
@@ -25173,7 +25043,7 @@ const leaderboardData = {
             "average_stat_value": 8.040000000000001,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 151
           },
           {
             "account_name": "Hiraldo.7954",
@@ -25185,7 +25055,7 @@ const leaderboardData = {
             "average_stat_value": 16.646666666666665,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 156
+            "rank": 152
           },
           {
             "account_name": "Freelanced.6084",
@@ -25197,7 +25067,7 @@ const leaderboardData = {
             "average_stat_value": 57.896,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 157
+            "rank": 153
           },
           {
             "account_name": "Luke.9108",
@@ -25209,7 +25079,7 @@ const leaderboardData = {
             "average_stat_value": 19.25,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 158
+            "rank": 154
           },
           {
             "account_name": "Soothsayer.9206",
@@ -25221,19 +25091,7 @@ const leaderboardData = {
             "average_stat_value": 67.10375,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 159
-          },
-          {
-            "account_name": "Havocus.3682",
-            "profession": "Catalyst",
-            "glicko_rating": 1304.2641821149512,
-            "composite_score": 1304.2641821149512,
-            "games_played": 9,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 48.745555555555555,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 160
+            "rank": 155
           },
           {
             "account_name": "Bother.9415",
@@ -25245,7 +25103,19 @@ const leaderboardData = {
             "average_stat_value": 22.214000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 161
+            "rank": 156
+          },
+          {
+            "account_name": "Havocus.3682",
+            "profession": "Catalyst",
+            "glicko_rating": 1301.7738105455321,
+            "composite_score": 1301.7738105455321,
+            "games_played": 8,
+            "average_rank_percent": 15.75,
+            "average_stat_value": 50.32125,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 157
           },
           {
             "account_name": "Mellis.8451",
@@ -25257,7 +25127,7 @@ const leaderboardData = {
             "average_stat_value": 9.488333333333333,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 162
+            "rank": 158
           }
         ],
         "Barrier": [
@@ -25382,18 +25252,6 @@ const leaderboardData = {
             "rank": 10
           },
           {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1603.7780392033887,
-            "composite_score": 1603.7780392033887,
-            "games_played": 1,
-            "average_rank_percent": 2.0,
-            "average_stat_value": 350.9,
-            "is_guild_member": true,
-            "rating_delta": -46.754291140227224,
-            "rank": 11
-          },
-          {
             "account_name": "Lozen.7623",
             "profession": "Scrapper",
             "glicko_rating": 1596.472064279984,
@@ -25403,7 +25261,7 @@ const leaderboardData = {
             "average_stat_value": 967.01,
             "is_guild_member": true,
             "rating_delta": -21.219584171114093,
-            "rank": 12
+            "rank": 11
           },
           {
             "account_name": "phobos.5290",
@@ -25415,7 +25273,7 @@ const leaderboardData = {
             "average_stat_value": 1330.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 13
+            "rank": 12
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -25427,7 +25285,7 @@ const leaderboardData = {
             "average_stat_value": 291.76,
             "is_guild_member": true,
             "rating_delta": 66.79323695773905,
-            "rank": 14
+            "rank": 13
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -25439,7 +25297,7 @@ const leaderboardData = {
             "average_stat_value": 554.07,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 15
+            "rank": 14
           },
           {
             "account_name": "Freelanced.6084",
@@ -25451,19 +25309,7 @@ const leaderboardData = {
             "average_stat_value": 824.33,
             "is_guild_member": true,
             "rating_delta": -53.09461432713829,
-            "rank": 16
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1560.2803046133365,
-            "composite_score": 1560.2803046133365,
-            "games_played": 2,
-            "average_rank_percent": 3.0,
-            "average_stat_value": 392.215,
-            "is_guild_member": true,
-            "rating_delta": -30.493005983849343,
-            "rank": 17
+            "rank": 15
           },
           {
             "account_name": "CarlJunior.7832",
@@ -25475,7 +25321,7 @@ const leaderboardData = {
             "average_stat_value": 592.88,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 18
+            "rank": 16
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -25487,7 +25333,7 @@ const leaderboardData = {
             "average_stat_value": 484.03499999999997,
             "is_guild_member": true,
             "rating_delta": 28.446463359945255,
-            "rank": 19
+            "rank": 17
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -25499,7 +25345,7 @@ const leaderboardData = {
             "average_stat_value": 343.70222222222225,
             "is_guild_member": true,
             "rating_delta": -6.6730247591044645,
-            "rank": 20
+            "rank": 18
           },
           {
             "account_name": "Nictheman.9754",
@@ -25511,7 +25357,7 @@ const leaderboardData = {
             "average_stat_value": 325.305,
             "is_guild_member": true,
             "rating_delta": -3.836551709553987,
-            "rank": 21
+            "rank": 19
           },
           {
             "account_name": "Muted.8591",
@@ -25523,7 +25369,7 @@ const leaderboardData = {
             "average_stat_value": 315.8914285714286,
             "is_guild_member": true,
             "rating_delta": -11.24660250735542,
-            "rank": 22
+            "rank": 20
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -25535,7 +25381,7 @@ const leaderboardData = {
             "average_stat_value": 447.53999999999996,
             "is_guild_member": true,
             "rating_delta": -4.23951612808969,
-            "rank": 23
+            "rank": 21
           },
           {
             "account_name": "Aein.1483",
@@ -25547,7 +25393,7 @@ const leaderboardData = {
             "average_stat_value": 631.9200000000001,
             "is_guild_member": true,
             "rating_delta": 13.512351710025769,
-            "rank": 24
+            "rank": 22
           },
           {
             "account_name": "Nictheman.9754",
@@ -25559,7 +25405,7 @@ const leaderboardData = {
             "average_stat_value": 516.1725,
             "is_guild_member": true,
             "rating_delta": -5.249791055523701,
-            "rank": 25
+            "rank": 23
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -25571,7 +25417,7 @@ const leaderboardData = {
             "average_stat_value": 533.5816666666666,
             "is_guild_member": true,
             "rating_delta": -8.669268780957282,
-            "rank": 26
+            "rank": 24
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -25583,7 +25429,7 @@ const leaderboardData = {
             "average_stat_value": 439.655,
             "is_guild_member": true,
             "rating_delta": -12.636282886616527,
-            "rank": 27
+            "rank": 25
           },
           {
             "account_name": "synco.8132",
@@ -25595,7 +25441,7 @@ const leaderboardData = {
             "average_stat_value": 429.88,
             "is_guild_member": true,
             "rating_delta": 21.1008104045236,
-            "rank": 28
+            "rank": 26
           },
           {
             "account_name": "phobos.5290",
@@ -25607,7 +25453,7 @@ const leaderboardData = {
             "average_stat_value": 450.99,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 29
+            "rank": 27
           },
           {
             "account_name": "Chakkkka.2504",
@@ -25619,7 +25465,7 @@ const leaderboardData = {
             "average_stat_value": 531.04,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 30
+            "rank": 28
           },
           {
             "account_name": "phobos.5290",
@@ -25631,7 +25477,7 @@ const leaderboardData = {
             "average_stat_value": 367.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 31
+            "rank": 29
           },
           {
             "account_name": "acumen.1980",
@@ -25643,7 +25489,7 @@ const leaderboardData = {
             "average_stat_value": 345.08,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 32
+            "rank": 30
           },
           {
             "account_name": "Souza.1562",
@@ -25655,7 +25501,7 @@ const leaderboardData = {
             "average_stat_value": 577.74,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 33
+            "rank": 31
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -25667,7 +25513,7 @@ const leaderboardData = {
             "average_stat_value": 374.77,
             "is_guild_member": false,
             "rating_delta": -53.12564862478234,
-            "rank": 34
+            "rank": 32
           },
           {
             "account_name": "Trail.8614",
@@ -25679,7 +25525,7 @@ const leaderboardData = {
             "average_stat_value": 325.28,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 35
+            "rank": 33
           },
           {
             "account_name": "Mellis.8451",
@@ -25691,7 +25537,7 @@ const leaderboardData = {
             "average_stat_value": 366.938,
             "is_guild_member": true,
             "rating_delta": -25.796005500463707,
-            "rank": 36
+            "rank": 34
           },
           {
             "account_name": "Malek.9417",
@@ -25703,7 +25549,7 @@ const leaderboardData = {
             "average_stat_value": 225.0,
             "is_guild_member": true,
             "rating_delta": 5.307693126560935,
-            "rank": 37
+            "rank": 35
           },
           {
             "account_name": "Niko.8425",
@@ -25715,7 +25561,7 @@ const leaderboardData = {
             "average_stat_value": 302.78,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 38
+            "rank": 36
           },
           {
             "account_name": "Luke.9108",
@@ -25727,7 +25573,7 @@ const leaderboardData = {
             "average_stat_value": 124.01,
             "is_guild_member": false,
             "rating_delta": 1.7664192841168642,
-            "rank": 39
+            "rank": 37
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -25739,7 +25585,7 @@ const leaderboardData = {
             "average_stat_value": 237.495,
             "is_guild_member": true,
             "rating_delta": -4.905817270647503,
-            "rank": 40
+            "rank": 38
           },
           {
             "account_name": "Bricktus.1682",
@@ -25751,7 +25597,7 @@ const leaderboardData = {
             "average_stat_value": 456.71,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 39
           },
           {
             "account_name": "Morg.3084",
@@ -25763,7 +25609,7 @@ const leaderboardData = {
             "average_stat_value": 229.23,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 40
           },
           {
             "account_name": "asdfghjk.8241",
@@ -25775,7 +25621,7 @@ const leaderboardData = {
             "average_stat_value": 156.49,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 43
+            "rank": 41
           },
           {
             "account_name": "Mes.1906",
@@ -25787,7 +25633,19 @@ const leaderboardData = {
             "average_stat_value": 149.185,
             "is_guild_member": false,
             "rating_delta": -18.336596493574234,
-            "rank": 44
+            "rank": 42
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1460.535423884244,
+            "composite_score": 1460.535423884244,
+            "games_played": 1,
+            "average_rank_percent": 5.0,
+            "average_stat_value": 366.15,
+            "is_guild_member": true,
+            "rating_delta": -30.493005983849343,
+            "rank": 43
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -25799,7 +25657,7 @@ const leaderboardData = {
             "average_stat_value": 167.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "modus.7921",
@@ -25811,7 +25669,7 @@ const leaderboardData = {
             "average_stat_value": 363.75,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "aureliocf.7324",
@@ -25823,7 +25681,7 @@ const leaderboardData = {
             "average_stat_value": 345.09,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "Havocus.3682",
@@ -25835,7 +25693,7 @@ const leaderboardData = {
             "average_stat_value": 206.23,
             "is_guild_member": true,
             "rating_delta": -43.76167063558023,
-            "rank": 48
+            "rank": 47
           },
           {
             "account_name": "Luke.9108",
@@ -25847,7 +25705,7 @@ const leaderboardData = {
             "average_stat_value": 61.79,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 49
+            "rank": 48
           },
           {
             "account_name": "Nero.6195",
@@ -25859,7 +25717,7 @@ const leaderboardData = {
             "average_stat_value": 59.37,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 50
+            "rank": 49
           },
           {
             "account_name": "acumen.1980",
@@ -25871,7 +25729,7 @@ const leaderboardData = {
             "average_stat_value": 114.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 51
+            "rank": 50
           },
           {
             "account_name": "acumen.1980",
@@ -25883,7 +25741,7 @@ const leaderboardData = {
             "average_stat_value": 214.48,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 52
+            "rank": 51
           },
           {
             "account_name": "Jdchil.9561",
@@ -25895,7 +25753,7 @@ const leaderboardData = {
             "average_stat_value": 47.56,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 53
+            "rank": 52
           },
           {
             "account_name": "Stash.8401",
@@ -25907,7 +25765,7 @@ const leaderboardData = {
             "average_stat_value": 295.2,
             "is_guild_member": false,
             "rating_delta": 56.375568482247445,
-            "rank": 54
+            "rank": 53
           },
           {
             "account_name": "freecarl.9214",
@@ -25919,7 +25777,7 @@ const leaderboardData = {
             "average_stat_value": 80.44,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 55
+            "rank": 54
           },
           {
             "account_name": "Freelanced.6084",
@@ -25931,7 +25789,7 @@ const leaderboardData = {
             "average_stat_value": 120.54,
             "is_guild_member": true,
             "rating_delta": 3.2542089085943644,
-            "rank": 56
+            "rank": 55
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -25943,7 +25801,7 @@ const leaderboardData = {
             "average_stat_value": 230.905,
             "is_guild_member": true,
             "rating_delta": -34.56832682574009,
-            "rank": 57
+            "rank": 56
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -25955,7 +25813,7 @@ const leaderboardData = {
             "average_stat_value": 251.615,
             "is_guild_member": true,
             "rating_delta": -10.126664052375645,
-            "rank": 58
+            "rank": 57
           },
           {
             "account_name": "Sselnoisiv.6130",
@@ -25967,7 +25825,7 @@ const leaderboardData = {
             "average_stat_value": 78.13,
             "is_guild_member": false,
             "rating_delta": -10.533557772082759,
-            "rank": 59
+            "rank": 58
           },
           {
             "account_name": "arrsc.9046",
@@ -25979,7 +25837,7 @@ const leaderboardData = {
             "average_stat_value": 266.88,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 60
+            "rank": 59
           },
           {
             "account_name": "Nero.6195",
@@ -25991,7 +25849,7 @@ const leaderboardData = {
             "average_stat_value": 138.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 61
+            "rank": 60
           },
           {
             "account_name": "Malek.9417",
@@ -26003,7 +25861,7 @@ const leaderboardData = {
             "average_stat_value": 46.99,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 62
+            "rank": 61
           },
           {
             "account_name": "freecarl.1320",
@@ -26015,7 +25873,7 @@ const leaderboardData = {
             "average_stat_value": 70.64,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 63
+            "rank": 62
           },
           {
             "account_name": "OPness.3215",
@@ -26027,7 +25885,7 @@ const leaderboardData = {
             "average_stat_value": 207.53,
             "is_guild_member": true,
             "rating_delta": -16.48885262616409,
-            "rank": 64
+            "rank": 63
           },
           {
             "account_name": "Muted.8591",
@@ -26039,7 +25897,7 @@ const leaderboardData = {
             "average_stat_value": 90.86,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 65
+            "rank": 64
           },
           {
             "account_name": "Nictheman.9754",
@@ -26051,7 +25909,7 @@ const leaderboardData = {
             "average_stat_value": 1.76,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 66
+            "rank": 65
           },
           {
             "account_name": "CarlJunior.7832",
@@ -26063,7 +25921,7 @@ const leaderboardData = {
             "average_stat_value": 135.55,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 66
           },
           {
             "account_name": "aznsleeper.5896",
@@ -26075,7 +25933,7 @@ const leaderboardData = {
             "average_stat_value": 220.7925,
             "is_guild_member": true,
             "rating_delta": 0.17028199335231875,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "Nictheman.9754",
@@ -26087,7 +25945,7 @@ const leaderboardData = {
             "average_stat_value": 39.32,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "harasho.4281",
@@ -26099,7 +25957,7 @@ const leaderboardData = {
             "average_stat_value": 163.17,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 70
+            "rank": 69
           },
           {
             "account_name": "Mini.1786",
@@ -26111,7 +25969,7 @@ const leaderboardData = {
             "average_stat_value": 67.74,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 71
+            "rank": 70
           },
           {
             "account_name": "Malek.9417",
@@ -26123,7 +25981,7 @@ const leaderboardData = {
             "average_stat_value": 1.35,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 72
+            "rank": 71
           },
           {
             "account_name": "Uriah.7082",
@@ -26135,7 +25993,7 @@ const leaderboardData = {
             "average_stat_value": 0.91,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 73
+            "rank": 72
           },
           {
             "account_name": "Mellis.8451",
@@ -26147,7 +26005,7 @@ const leaderboardData = {
             "average_stat_value": 237.34333333333333,
             "is_guild_member": true,
             "rating_delta": -6.604124239429666,
-            "rank": 74
+            "rank": 73
           },
           {
             "account_name": "Generic Player.4067",
@@ -26159,7 +26017,7 @@ const leaderboardData = {
             "average_stat_value": 33.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 75
+            "rank": 74
           },
           {
             "account_name": "Soothsayer.9206",
@@ -26171,7 +26029,7 @@ const leaderboardData = {
             "average_stat_value": 3.26,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 75
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -26183,7 +26041,7 @@ const leaderboardData = {
             "average_stat_value": 147.12666666666667,
             "is_guild_member": true,
             "rating_delta": -1.5019290157461,
-            "rank": 77
+            "rank": 76
           },
           {
             "account_name": "Havocus.3682",
@@ -26195,7 +26053,7 @@ const leaderboardData = {
             "average_stat_value": 92.45666666666666,
             "is_guild_member": true,
             "rating_delta": -3.466186607576219,
-            "rank": 78
+            "rank": 77
           },
           {
             "account_name": "Uriah.7082",
@@ -26207,7 +26065,7 @@ const leaderboardData = {
             "average_stat_value": 202.57333333333335,
             "is_guild_member": true,
             "rating_delta": -4.4171294283714815,
-            "rank": 79
+            "rank": 78
           },
           {
             "account_name": "acumen.1980",
@@ -26219,7 +26077,7 @@ const leaderboardData = {
             "average_stat_value": 4.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 80
+            "rank": 79
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -26231,7 +26089,7 @@ const leaderboardData = {
             "average_stat_value": 70.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 81
+            "rank": 80
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -26243,7 +26101,7 @@ const leaderboardData = {
             "average_stat_value": 56.07,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 82
+            "rank": 81
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -26255,7 +26113,7 @@ const leaderboardData = {
             "average_stat_value": 5.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 83
+            "rank": 82
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -26267,7 +26125,7 @@ const leaderboardData = {
             "average_stat_value": 63.885,
             "is_guild_member": true,
             "rating_delta": -14.584190609788493,
-            "rank": 84
+            "rank": 83
           },
           {
             "account_name": "Hiraldo.7954",
@@ -26279,7 +26137,7 @@ const leaderboardData = {
             "average_stat_value": 0.635,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 85
+            "rank": 84
           },
           {
             "account_name": "Soothsayer.9206",
@@ -26289,6 +26147,18 @@ const leaderboardData = {
             "games_played": 1,
             "average_rank_percent": 13.0,
             "average_stat_value": 37.77,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 85
+          },
+          {
+            "account_name": "Freelanced.6084",
+            "profession": "Catalyst",
+            "glicko_rating": 1399.6522153695096,
+            "composite_score": 1399.6522153695096,
+            "games_played": 1,
+            "average_rank_percent": 15.0,
+            "average_stat_value": 28.08,
             "is_guild_member": true,
             "rating_delta": 0.0,
             "rank": 86
@@ -26318,6 +26188,18 @@ const leaderboardData = {
             "rank": 88
           },
           {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1395.500437200649,
+            "composite_score": 1395.500437200649,
+            "games_played": 2,
+            "average_rank_percent": 12.0,
+            "average_stat_value": 33.64,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 89
+          },
+          {
             "account_name": "Freelanced.6084",
             "profession": "Holosmith",
             "glicko_rating": 1395.4395385455339,
@@ -26327,7 +26209,7 @@ const leaderboardData = {
             "average_stat_value": 0.61,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 89
+            "rank": 90
           },
           {
             "account_name": "Lozen.7623",
@@ -26339,7 +26221,7 @@ const leaderboardData = {
             "average_stat_value": 71.065,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 90
+            "rank": 91
           },
           {
             "account_name": "Luke.9108",
@@ -26350,18 +26232,6 @@ const leaderboardData = {
             "average_rank_percent": 15.0,
             "average_stat_value": 0.695,
             "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 91
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1379.7346897767559,
-            "composite_score": 1379.7346897767559,
-            "games_played": 3,
-            "average_rank_percent": 9.0,
-            "average_stat_value": 38.50333333333333,
-            "is_guild_member": true,
             "rating_delta": 0.0,
             "rank": 92
           },
@@ -26402,18 +26272,6 @@ const leaderboardData = {
             "rank": 95
           },
           {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1366.5613658797915,
-            "composite_score": 1366.5613658797915,
-            "games_played": 2,
-            "average_rank_percent": 10.0,
-            "average_stat_value": 22.095,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 96
-          },
-          {
             "account_name": "FlawedDjinn.3217",
             "profession": "Druid",
             "glicko_rating": 1366.3015156814379,
@@ -26423,7 +26281,7 @@ const leaderboardData = {
             "average_stat_value": 54.14,
             "is_guild_member": true,
             "rating_delta": -32.17387860027793,
-            "rank": 97
+            "rank": 96
           },
           {
             "account_name": "Bother.9415",
@@ -26435,7 +26293,7 @@ const leaderboardData = {
             "average_stat_value": 0.97,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 97
           },
           {
             "account_name": "Nictheman.9754",
@@ -26447,7 +26305,7 @@ const leaderboardData = {
             "average_stat_value": 2.8099999999999996,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 98
           },
           {
             "account_name": "modus.7921",
@@ -26459,7 +26317,7 @@ const leaderboardData = {
             "average_stat_value": 69.39,
             "is_guild_member": true,
             "rating_delta": -4.712242461330106,
-            "rank": 100
+            "rank": 99
           },
           {
             "account_name": "synco.8132",
@@ -26471,19 +26329,19 @@ const leaderboardData = {
             "average_stat_value": 43.542500000000004,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 100
           },
           {
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
-            "glicko_rating": 1337.9036179472826,
-            "composite_score": 1337.9036179472826,
-            "games_played": 8,
-            "average_rank_percent": 11.5,
-            "average_stat_value": 25.99125,
+            "glicko_rating": 1344.398161163151,
+            "composite_score": 1344.398161163151,
+            "games_played": 7,
+            "average_rank_percent": 12.571428571428571,
+            "average_stat_value": 27.25857142857143,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 101
           }
         ],
         "Cleanses": [
@@ -26596,18 +26454,6 @@ const leaderboardData = {
             "rank": 9
           },
           {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1729.9555943902678,
-            "composite_score": 1729.9555943902678,
-            "games_played": 2,
-            "average_rank_percent": 1.0,
-            "average_stat_value": 1.045,
-            "is_guild_member": false,
-            "rating_delta": 36.66800780757717,
-            "rank": 10
-          },
-          {
             "account_name": "aznsleeper.5896",
             "profession": "Chronomancer",
             "glicko_rating": 1727.7297540257193,
@@ -26617,7 +26463,7 @@ const leaderboardData = {
             "average_stat_value": 1.055,
             "is_guild_member": true,
             "rating_delta": 33.41062440665337,
-            "rank": 11
+            "rank": 10
           },
           {
             "account_name": "Lozen.7623",
@@ -26629,7 +26475,7 @@ const leaderboardData = {
             "average_stat_value": 0.9575,
             "is_guild_member": true,
             "rating_delta": -11.352347639906839,
-            "rank": 12
+            "rank": 11
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -26641,19 +26487,7 @@ const leaderboardData = {
             "average_stat_value": 1.46,
             "is_guild_member": true,
             "rating_delta": 44.23259867944694,
-            "rank": 13
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1707.5969349194902,
-            "composite_score": 1707.5969349194902,
-            "games_played": 3,
-            "average_rank_percent": 6.333333333333333,
-            "average_stat_value": 0.83,
-            "is_guild_member": true,
-            "rating_delta": 9.869603887087578,
-            "rank": 14
+            "rank": 12
           },
           {
             "account_name": "Lozen.7623",
@@ -26665,19 +26499,7 @@ const leaderboardData = {
             "average_stat_value": 0.985,
             "is_guild_member": true,
             "rating_delta": 53.05894134845494,
-            "rank": 15
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Chronomancer",
-            "glicko_rating": 1699.7025779678272,
-            "composite_score": 1699.7025779678272,
-            "games_played": 2,
-            "average_rank_percent": 3.0,
-            "average_stat_value": 0.6950000000000001,
-            "is_guild_member": true,
-            "rating_delta": 18.136704653518336,
-            "rank": 16
+            "rank": 13
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -26689,19 +26511,7 @@ const leaderboardData = {
             "average_stat_value": 0.7914285714285715,
             "is_guild_member": true,
             "rating_delta": 6.317447763014798,
-            "rank": 17
-          },
-          {
-            "account_name": "Aromapaloma.3194",
-            "profession": "Tempest",
-            "glicko_rating": 1687.1480186385097,
-            "composite_score": 1687.1480186385097,
-            "games_played": 6,
-            "average_rank_percent": 6.5,
-            "average_stat_value": 0.7783333333333333,
-            "is_guild_member": true,
-            "rating_delta": -4.34857747817091,
-            "rank": 18
+            "rank": 14
           },
           {
             "account_name": "synco.8132",
@@ -26713,7 +26523,7 @@ const leaderboardData = {
             "average_stat_value": 0.8966666666666666,
             "is_guild_member": true,
             "rating_delta": -1.7318553213231098,
-            "rank": 19
+            "rank": 15
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -26725,7 +26535,31 @@ const leaderboardData = {
             "average_stat_value": 0.8779999999999999,
             "is_guild_member": true,
             "rating_delta": -6.335537750165031,
-            "rank": 20
+            "rank": 16
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1673.4377651934356,
+            "composite_score": 1673.4377651934356,
+            "games_played": 2,
+            "average_rank_percent": 7.5,
+            "average_stat_value": 0.9249999999999999,
+            "is_guild_member": true,
+            "rating_delta": 9.869603887087578,
+            "rank": 17
+          },
+          {
+            "account_name": "Aromapaloma.3194",
+            "profession": "Tempest",
+            "glicko_rating": 1672.2888576444332,
+            "composite_score": 1672.2888576444332,
+            "games_played": 5,
+            "average_rank_percent": 6.8,
+            "average_stat_value": 0.8219999999999998,
+            "is_guild_member": true,
+            "rating_delta": -4.34857747817091,
+            "rank": 18
           },
           {
             "account_name": "asdfghjk.8241",
@@ -26737,7 +26571,7 @@ const leaderboardData = {
             "average_stat_value": 1.86,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 21
+            "rank": 19
           },
           {
             "account_name": "Theweemon.8459",
@@ -26749,7 +26583,7 @@ const leaderboardData = {
             "average_stat_value": 1.69,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 22
+            "rank": 20
           },
           {
             "account_name": "Soothsayer.9206",
@@ -26761,7 +26595,7 @@ const leaderboardData = {
             "average_stat_value": 1.25,
             "is_guild_member": true,
             "rating_delta": 51.65265871857491,
-            "rank": 23
+            "rank": 21
           },
           {
             "account_name": "Sselnoisiv.6130",
@@ -26773,7 +26607,7 @@ const leaderboardData = {
             "average_stat_value": 1.34,
             "is_guild_member": false,
             "rating_delta": 66.90039909251595,
-            "rank": 24
+            "rank": 22
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -26785,7 +26619,7 @@ const leaderboardData = {
             "average_stat_value": 1.57,
             "is_guild_member": true,
             "rating_delta": 43.51384964833437,
-            "rank": 25
+            "rank": 23
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -26797,7 +26631,19 @@ const leaderboardData = {
             "average_stat_value": 0.76,
             "is_guild_member": true,
             "rating_delta": -4.28006389367215,
-            "rank": 26
+            "rank": 24
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1664.4889499970038,
+            "composite_score": 1664.4889499970038,
+            "games_played": 1,
+            "average_rank_percent": 1.0,
+            "average_stat_value": 1.21,
+            "is_guild_member": false,
+            "rating_delta": 36.66800780757717,
+            "rank": 25
           },
           {
             "account_name": "Freelanced.6084",
@@ -26809,7 +26655,7 @@ const leaderboardData = {
             "average_stat_value": 1.19,
             "is_guild_member": true,
             "rating_delta": 59.031260493718946,
-            "rank": 27
+            "rank": 26
           },
           {
             "account_name": "Nictheman.9754",
@@ -26821,7 +26667,7 @@ const leaderboardData = {
             "average_stat_value": 0.86,
             "is_guild_member": true,
             "rating_delta": 7.697686360325633,
-            "rank": 28
+            "rank": 27
           },
           {
             "account_name": "acumen.1980",
@@ -26833,7 +26679,7 @@ const leaderboardData = {
             "average_stat_value": 1.47,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 29
+            "rank": 28
           },
           {
             "account_name": "freecarl.1320",
@@ -26845,7 +26691,7 @@ const leaderboardData = {
             "average_stat_value": 1.68,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 30
+            "rank": 29
           },
           {
             "account_name": "Luke.9108",
@@ -26857,7 +26703,7 @@ const leaderboardData = {
             "average_stat_value": 1.46,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 31
+            "rank": 30
           },
           {
             "account_name": "Bricktus.1682",
@@ -26869,19 +26715,7 @@ const leaderboardData = {
             "average_stat_value": 1.17,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 32
-          },
-          {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1656.2302369908452,
-            "composite_score": 1656.2302369908452,
-            "games_played": 1,
-            "average_rank_percent": 2.0,
-            "average_stat_value": 0.82,
-            "is_guild_member": true,
-            "rating_delta": 16.67657109832021,
-            "rank": 33
+            "rank": 31
           },
           {
             "account_name": "Generic Player.4067",
@@ -26893,7 +26727,7 @@ const leaderboardData = {
             "average_stat_value": 1.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 34
+            "rank": 32
           },
           {
             "account_name": "Aein.1483",
@@ -26905,7 +26739,7 @@ const leaderboardData = {
             "average_stat_value": 0.765,
             "is_guild_member": true,
             "rating_delta": 1.195023441542162,
-            "rank": 35
+            "rank": 33
           },
           {
             "account_name": "Mini.1786",
@@ -26917,7 +26751,7 @@ const leaderboardData = {
             "average_stat_value": 1.05,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 36
+            "rank": 34
           },
           {
             "account_name": "synco.8132",
@@ -26929,7 +26763,7 @@ const leaderboardData = {
             "average_stat_value": 1.33,
             "is_guild_member": true,
             "rating_delta": 12.62912975526001,
-            "rank": 37
+            "rank": 35
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -26941,7 +26775,7 @@ const leaderboardData = {
             "average_stat_value": 0.93,
             "is_guild_member": true,
             "rating_delta": -34.875929163659976,
-            "rank": 38
+            "rank": 36
           },
           {
             "account_name": "Chakkkka.2504",
@@ -26953,7 +26787,7 @@ const leaderboardData = {
             "average_stat_value": 1.04,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 39
+            "rank": 37
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -26965,7 +26799,7 @@ const leaderboardData = {
             "average_stat_value": 0.865,
             "is_guild_member": true,
             "rating_delta": 88.6307689076034,
-            "rank": 40
+            "rank": 38
           },
           {
             "account_name": "Trail.8614",
@@ -26977,7 +26811,19 @@ const leaderboardData = {
             "average_stat_value": 0.93,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 39
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Chronomancer",
+            "glicko_rating": 1638.2127946171847,
+            "composite_score": 1638.2127946171847,
+            "games_played": 1,
+            "average_rank_percent": 3.0,
+            "average_stat_value": 0.67,
+            "is_guild_member": true,
+            "rating_delta": 18.136704653518336,
+            "rank": 40
           },
           {
             "account_name": "Nero.6195",
@@ -26989,7 +26835,7 @@ const leaderboardData = {
             "average_stat_value": 0.66,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 41
           },
           {
             "account_name": "Uriah.7082",
@@ -27001,7 +26847,7 @@ const leaderboardData = {
             "average_stat_value": 1.16,
             "is_guild_member": true,
             "rating_delta": 25.353244863604232,
-            "rank": 43
+            "rank": 42
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -27013,7 +26859,7 @@ const leaderboardData = {
             "average_stat_value": 0.95,
             "is_guild_member": false,
             "rating_delta": 39.89638156830233,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "Malek.9417",
@@ -27025,7 +26871,7 @@ const leaderboardData = {
             "average_stat_value": 0.83,
             "is_guild_member": true,
             "rating_delta": 25.684294849683056,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "synco.8132",
@@ -27037,7 +26883,7 @@ const leaderboardData = {
             "average_stat_value": 0.6475,
             "is_guild_member": true,
             "rating_delta": -2.7289059058048224,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "modus.7921",
@@ -27049,7 +26895,7 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "modus.7921",
@@ -27061,7 +26907,7 @@ const leaderboardData = {
             "average_stat_value": 0.85,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 48
+            "rank": 47
           },
           {
             "account_name": "Shy.3108",
@@ -27073,7 +26919,7 @@ const leaderboardData = {
             "average_stat_value": 0.96,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 49
+            "rank": 48
           },
           {
             "account_name": "Jdchil.9561",
@@ -27085,7 +26931,7 @@ const leaderboardData = {
             "average_stat_value": 1.04,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 50
+            "rank": 49
           },
           {
             "account_name": "Krounen.7028",
@@ -27097,7 +26943,7 @@ const leaderboardData = {
             "average_stat_value": 1.04,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 51
+            "rank": 50
           },
           {
             "account_name": "Havocus.3682",
@@ -27109,7 +26955,7 @@ const leaderboardData = {
             "average_stat_value": 0.71,
             "is_guild_member": true,
             "rating_delta": 28.91550022523961,
-            "rank": 52
+            "rank": 51
           },
           {
             "account_name": "Argo.2675",
@@ -27121,7 +26967,7 @@ const leaderboardData = {
             "average_stat_value": 0.6133333333333333,
             "is_guild_member": true,
             "rating_delta": 5.888950413604789,
-            "rank": 53
+            "rank": 52
           },
           {
             "account_name": "Freelanced.6084",
@@ -27133,7 +26979,7 @@ const leaderboardData = {
             "average_stat_value": 0.78,
             "is_guild_member": true,
             "rating_delta": 48.230083552701444,
-            "rank": 54
+            "rank": 53
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -27145,7 +26991,7 @@ const leaderboardData = {
             "average_stat_value": 0.77,
             "is_guild_member": false,
             "rating_delta": -3.222297427675585,
-            "rank": 55
+            "rank": 54
           },
           {
             "account_name": "Nero.6195",
@@ -27157,7 +27003,7 @@ const leaderboardData = {
             "average_stat_value": 0.77,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 56
+            "rank": 55
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -27169,7 +27015,7 @@ const leaderboardData = {
             "average_stat_value": 0.735,
             "is_guild_member": true,
             "rating_delta": 20.626486953407948,
-            "rank": 57
+            "rank": 56
           },
           {
             "account_name": "Elgar.2091",
@@ -27181,7 +27027,7 @@ const leaderboardData = {
             "average_stat_value": 0.55,
             "is_guild_member": true,
             "rating_delta": 38.75539049685449,
-            "rank": 58
+            "rank": 57
           },
           {
             "account_name": "Nero.6195",
@@ -27193,7 +27039,7 @@ const leaderboardData = {
             "average_stat_value": 0.69,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 59
+            "rank": 58
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -27205,7 +27051,7 @@ const leaderboardData = {
             "average_stat_value": 0.6100000000000001,
             "is_guild_member": false,
             "rating_delta": -17.782474292002007,
-            "rank": 60
+            "rank": 59
           },
           {
             "account_name": "Basic.9204",
@@ -27217,7 +27063,7 @@ const leaderboardData = {
             "average_stat_value": 0.595,
             "is_guild_member": true,
             "rating_delta": 16.307870221606436,
-            "rank": 61
+            "rank": 60
           },
           {
             "account_name": "synco.8132",
@@ -27229,7 +27075,7 @@ const leaderboardData = {
             "average_stat_value": 0.92,
             "is_guild_member": true,
             "rating_delta": -13.294972426524737,
-            "rank": 62
+            "rank": 61
           },
           {
             "account_name": "phobos.5290",
@@ -27241,7 +27087,7 @@ const leaderboardData = {
             "average_stat_value": 0.72,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 63
+            "rank": 62
           },
           {
             "account_name": "Havocus.3682",
@@ -27253,7 +27099,7 @@ const leaderboardData = {
             "average_stat_value": 0.69,
             "is_guild_member": true,
             "rating_delta": 19.454811534940063,
-            "rank": 64
+            "rank": 63
           },
           {
             "account_name": "LilJoker.2658",
@@ -27265,7 +27111,7 @@ const leaderboardData = {
             "average_stat_value": 0.79,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 65
+            "rank": 64
           },
           {
             "account_name": "CarlJunior.7832",
@@ -27277,7 +27123,7 @@ const leaderboardData = {
             "average_stat_value": 0.68,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 66
+            "rank": 65
           },
           {
             "account_name": "phobos.5290",
@@ -27289,7 +27135,7 @@ const leaderboardData = {
             "average_stat_value": 0.67,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 66
           },
           {
             "account_name": "acumen.1980",
@@ -27301,7 +27147,7 @@ const leaderboardData = {
             "average_stat_value": 0.54,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "Smile.9284",
@@ -27313,7 +27159,7 @@ const leaderboardData = {
             "average_stat_value": 0.4936363636363636,
             "is_guild_member": true,
             "rating_delta": -6.168157507263686,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "San.9704",
@@ -27325,7 +27171,7 @@ const leaderboardData = {
             "average_stat_value": 0.54,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 70
+            "rank": 69
           },
           {
             "account_name": "Pseven.4867",
@@ -27337,7 +27183,7 @@ const leaderboardData = {
             "average_stat_value": 0.64,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 71
+            "rank": 70
           },
           {
             "account_name": "Argo.2675",
@@ -27349,7 +27195,7 @@ const leaderboardData = {
             "average_stat_value": 0.72,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 72
+            "rank": 71
           },
           {
             "account_name": "acumen.1980",
@@ -27361,7 +27207,7 @@ const leaderboardData = {
             "average_stat_value": 0.58,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 73
+            "rank": 72
           },
           {
             "account_name": "Mellis.8451",
@@ -27373,7 +27219,7 @@ const leaderboardData = {
             "average_stat_value": 0.584,
             "is_guild_member": true,
             "rating_delta": 29.69335688484557,
-            "rank": 74
+            "rank": 73
           },
           {
             "account_name": "Uriah.7082",
@@ -27385,7 +27231,7 @@ const leaderboardData = {
             "average_stat_value": 0.49,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 75
+            "rank": 74
           },
           {
             "account_name": "Naomi.5372",
@@ -27397,7 +27243,7 @@ const leaderboardData = {
             "average_stat_value": 0.57,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 75
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -27409,7 +27255,7 @@ const leaderboardData = {
             "average_stat_value": 0.51,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 77
+            "rank": 76
           },
           {
             "account_name": "Morg.3084",
@@ -27421,7 +27267,7 @@ const leaderboardData = {
             "average_stat_value": 0.53,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 78
+            "rank": 77
           },
           {
             "account_name": "Huge.5891",
@@ -27433,7 +27279,7 @@ const leaderboardData = {
             "average_stat_value": 0.48,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 79
+            "rank": 78
           },
           {
             "account_name": "Azel.4786",
@@ -27445,7 +27291,7 @@ const leaderboardData = {
             "average_stat_value": 0.51,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 80
+            "rank": 79
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -27457,7 +27303,7 @@ const leaderboardData = {
             "average_stat_value": 0.36,
             "is_guild_member": true,
             "rating_delta": -47.73090404955428,
-            "rank": 81
+            "rank": 80
           },
           {
             "account_name": "Asper.2863",
@@ -27469,7 +27315,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 82
+            "rank": 81
           },
           {
             "account_name": "Lasthope.7943",
@@ -27481,7 +27327,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 83
+            "rank": 82
           },
           {
             "account_name": "Bayushi.7914",
@@ -27493,7 +27339,7 @@ const leaderboardData = {
             "average_stat_value": 0.46,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 84
+            "rank": 83
           },
           {
             "account_name": "aznsleeper.5896",
@@ -27505,7 +27351,7 @@ const leaderboardData = {
             "average_stat_value": 0.39,
             "is_guild_member": true,
             "rating_delta": -12.608640529854029,
-            "rank": 85
+            "rank": 84
           },
           {
             "account_name": "Malek.9417",
@@ -27517,7 +27363,7 @@ const leaderboardData = {
             "average_stat_value": 0.45,
             "is_guild_member": true,
             "rating_delta": -65.81041957110392,
-            "rank": 86
+            "rank": 85
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -27529,7 +27375,7 @@ const leaderboardData = {
             "average_stat_value": 0.454,
             "is_guild_member": true,
             "rating_delta": -7.1341346442550275,
-            "rank": 87
+            "rank": 86
           },
           {
             "account_name": "Mellis.8451",
@@ -27541,7 +27387,7 @@ const leaderboardData = {
             "average_stat_value": 0.365,
             "is_guild_member": true,
             "rating_delta": -16.370681944549005,
-            "rank": 88
+            "rank": 87
           },
           {
             "account_name": "neven.3785",
@@ -27553,7 +27399,7 @@ const leaderboardData = {
             "average_stat_value": 0.24,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 89
+            "rank": 88
           },
           {
             "account_name": "Nictheman.9754",
@@ -27565,7 +27411,7 @@ const leaderboardData = {
             "average_stat_value": 0.51,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 90
+            "rank": 89
           },
           {
             "account_name": "phobos.5290",
@@ -27577,7 +27423,7 @@ const leaderboardData = {
             "average_stat_value": 0.41,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 90
           },
           {
             "account_name": "Nictheman.9754",
@@ -27589,7 +27435,7 @@ const leaderboardData = {
             "average_stat_value": 0.495,
             "is_guild_member": true,
             "rating_delta": 51.36084889111862,
-            "rank": 92
+            "rank": 91
           },
           {
             "account_name": "rob.7042",
@@ -27601,7 +27447,7 @@ const leaderboardData = {
             "average_stat_value": 0.27,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 92
           },
           {
             "account_name": "Uriah.7082",
@@ -27613,7 +27459,7 @@ const leaderboardData = {
             "average_stat_value": 0.26,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 94
+            "rank": 93
           },
           {
             "account_name": "adrielle.2109",
@@ -27625,7 +27471,7 @@ const leaderboardData = {
             "average_stat_value": 0.31666666666666665,
             "is_guild_member": true,
             "rating_delta": -5.262916706763917,
-            "rank": 95
+            "rank": 94
           },
           {
             "account_name": "Smile.9284",
@@ -27637,7 +27483,7 @@ const leaderboardData = {
             "average_stat_value": 0.32,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 95
           },
           {
             "account_name": "tCut.7856",
@@ -27649,7 +27495,7 @@ const leaderboardData = {
             "average_stat_value": 0.36,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 96
           },
           {
             "account_name": "red armadillo.4593",
@@ -27661,7 +27507,7 @@ const leaderboardData = {
             "average_stat_value": 0.42,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 97
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -27673,7 +27519,7 @@ const leaderboardData = {
             "average_stat_value": 0.16,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 98
           },
           {
             "account_name": "Lasthope.7943",
@@ -27685,19 +27531,7 @@ const leaderboardData = {
             "average_stat_value": 0.32,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 100
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1462.5312306322567,
-            "composite_score": 1462.5312306322567,
-            "games_played": 2,
-            "average_rank_percent": 11.0,
-            "average_stat_value": 0.26,
-            "is_guild_member": true,
-            "rating_delta": -15.031821106618963,
-            "rank": 101
+            "rank": 99
           },
           {
             "account_name": "OPness.3215",
@@ -27709,7 +27543,7 @@ const leaderboardData = {
             "average_stat_value": 0.33,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 100
           },
           {
             "account_name": "DareDevils.6039",
@@ -27721,7 +27555,7 @@ const leaderboardData = {
             "average_stat_value": 0.28,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 101
           },
           {
             "account_name": "Lenorellei.9815",
@@ -27733,7 +27567,7 @@ const leaderboardData = {
             "average_stat_value": 0.26,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 104
+            "rank": 102
           },
           {
             "account_name": "modus.7921",
@@ -27745,7 +27579,7 @@ const leaderboardData = {
             "average_stat_value": 0.14,
             "is_guild_member": true,
             "rating_delta": -3.0349702745879767,
-            "rank": 105
+            "rank": 103
           },
           {
             "account_name": "OPness.3215",
@@ -27757,7 +27591,7 @@ const leaderboardData = {
             "average_stat_value": 0.315,
             "is_guild_member": true,
             "rating_delta": -13.411536016296623,
-            "rank": 106
+            "rank": 104
           },
           {
             "account_name": "Hund.6875",
@@ -27769,7 +27603,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 105
           },
           {
             "account_name": "Mortealug.6043",
@@ -27781,7 +27615,7 @@ const leaderboardData = {
             "average_stat_value": 0.25,
             "is_guild_member": false,
             "rating_delta": -47.07049960148629,
-            "rank": 108
+            "rank": 106
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -27793,7 +27627,7 @@ const leaderboardData = {
             "average_stat_value": 0.21,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 107
           },
           {
             "account_name": "Nero.6195",
@@ -27805,7 +27639,7 @@ const leaderboardData = {
             "average_stat_value": 0.29000000000000004,
             "is_guild_member": true,
             "rating_delta": -20.43416168302133,
-            "rank": 110
+            "rank": 108
           },
           {
             "account_name": "Xarahait.8051",
@@ -27817,7 +27651,7 @@ const leaderboardData = {
             "average_stat_value": 0.25,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 109
           },
           {
             "account_name": "Malek.9417",
@@ -27829,7 +27663,7 @@ const leaderboardData = {
             "average_stat_value": 0.27,
             "is_guild_member": true,
             "rating_delta": -14.332816759068919,
-            "rank": 112
+            "rank": 110
           },
           {
             "account_name": "CarlJunior.7832",
@@ -27841,7 +27675,7 @@ const leaderboardData = {
             "average_stat_value": 0.26,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 113
+            "rank": 111
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -27853,7 +27687,7 @@ const leaderboardData = {
             "average_stat_value": 0.22,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 114
+            "rank": 112
           },
           {
             "account_name": "Astro Bear.6305",
@@ -27865,7 +27699,7 @@ const leaderboardData = {
             "average_stat_value": 0.23,
             "is_guild_member": true,
             "rating_delta": -10.380216498284653,
-            "rank": 115
+            "rank": 113
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -27877,7 +27711,7 @@ const leaderboardData = {
             "average_stat_value": 0.14,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 116
+            "rank": 114
           },
           {
             "account_name": "Uriah.7082",
@@ -27889,7 +27723,7 @@ const leaderboardData = {
             "average_stat_value": 0.275,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 117
+            "rank": 115
           },
           {
             "account_name": "Nictheman.9754",
@@ -27901,7 +27735,7 @@ const leaderboardData = {
             "average_stat_value": 0.14,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 118
+            "rank": 116
           },
           {
             "account_name": "Souza.1562",
@@ -27913,7 +27747,7 @@ const leaderboardData = {
             "average_stat_value": 0.21,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 119
+            "rank": 117
           },
           {
             "account_name": "arrsc.9046",
@@ -27925,7 +27759,7 @@ const leaderboardData = {
             "average_stat_value": 0.21,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 120
+            "rank": 118
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -27937,7 +27771,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 121
+            "rank": 119
           },
           {
             "account_name": "zectra.6978",
@@ -27949,7 +27783,7 @@ const leaderboardData = {
             "average_stat_value": 0.08,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 120
           },
           {
             "account_name": "Mona.9180",
@@ -27961,7 +27795,7 @@ const leaderboardData = {
             "average_stat_value": 0.15,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 121
           },
           {
             "account_name": "Bother.9415",
@@ -27973,7 +27807,7 @@ const leaderboardData = {
             "average_stat_value": 0.19,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 122
           },
           {
             "account_name": "Syde.1863",
@@ -27985,7 +27819,7 @@ const leaderboardData = {
             "average_stat_value": 0.255,
             "is_guild_member": true,
             "rating_delta": -63.24988203810449,
-            "rank": 125
+            "rank": 123
           },
           {
             "account_name": "Astro Bear.6305",
@@ -27997,7 +27831,7 @@ const leaderboardData = {
             "average_stat_value": 0.07,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 124
           },
           {
             "account_name": "I R R Y.9128",
@@ -28009,7 +27843,19 @@ const leaderboardData = {
             "average_stat_value": 0.17,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 125
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1432.606377368657,
+            "composite_score": 1432.606377368657,
+            "games_played": 1,
+            "average_rank_percent": 16.0,
+            "average_stat_value": 0.26,
+            "is_guild_member": true,
+            "rating_delta": -15.031821106618963,
+            "rank": 126
           },
           {
             "account_name": "Lozen.7623",
@@ -28021,7 +27867,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 128
+            "rank": 127
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -28033,7 +27879,7 @@ const leaderboardData = {
             "average_stat_value": 0.21,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 128
           },
           {
             "account_name": "Dextra.8162",
@@ -28045,7 +27891,7 @@ const leaderboardData = {
             "average_stat_value": 0.15,
             "is_guild_member": true,
             "rating_delta": -19.23218742897211,
-            "rank": 130
+            "rank": 129
           },
           {
             "account_name": "Ouji.7839",
@@ -28057,19 +27903,7 @@ const leaderboardData = {
             "average_stat_value": 0.16,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 131
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1427.6498426836033,
-            "composite_score": 1427.6498426836033,
-            "games_played": 1,
-            "average_rank_percent": 12.0,
-            "average_stat_value": 0.05,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 132
+            "rank": 130
           },
           {
             "account_name": "Lasthope.7943",
@@ -28081,7 +27915,7 @@ const leaderboardData = {
             "average_stat_value": 0.14,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 133
+            "rank": 131
           },
           {
             "account_name": "Narizinho.3052",
@@ -28093,7 +27927,7 @@ const leaderboardData = {
             "average_stat_value": 0.16,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 134
+            "rank": 132
           },
           {
             "account_name": "Lord.7561",
@@ -28105,7 +27939,7 @@ const leaderboardData = {
             "average_stat_value": 0.15,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 135
+            "rank": 133
           },
           {
             "account_name": "Mellis.8451",
@@ -28117,7 +27951,7 @@ const leaderboardData = {
             "average_stat_value": 0.22999999999999998,
             "is_guild_member": true,
             "rating_delta": -11.619134222197772,
-            "rank": 136
+            "rank": 134
           },
           {
             "account_name": "Astro Bear.6305",
@@ -28129,7 +27963,7 @@ const leaderboardData = {
             "average_stat_value": 0.08,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 137
+            "rank": 135
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -28141,7 +27975,7 @@ const leaderboardData = {
             "average_stat_value": 0.275,
             "is_guild_member": true,
             "rating_delta": -0.7889824711137408,
-            "rank": 138
+            "rank": 136
           },
           {
             "account_name": "acumen.1980",
@@ -28153,7 +27987,7 @@ const leaderboardData = {
             "average_stat_value": 0.04,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 139
+            "rank": 137
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -28165,19 +27999,7 @@ const leaderboardData = {
             "average_stat_value": 0.12,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 140
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1421.0377808131364,
-            "composite_score": 1421.0377808131364,
-            "games_played": 2,
-            "average_rank_percent": 15.5,
-            "average_stat_value": 0.09,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 141
+            "rank": 138
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -28189,7 +28011,7 @@ const leaderboardData = {
             "average_stat_value": 0.13,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 142
+            "rank": 139
           },
           {
             "account_name": "aureliocf.7324",
@@ -28201,19 +28023,7 @@ const leaderboardData = {
             "average_stat_value": 0.14,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 143
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "profession": "Berserker",
-            "glicko_rating": 1420.6966867215983,
-            "composite_score": 1420.6966867215983,
-            "games_played": 1,
-            "average_rank_percent": 13.0,
-            "average_stat_value": 0.03,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 144
+            "rank": 140
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -28225,7 +28035,19 @@ const leaderboardData = {
             "average_stat_value": 0.08,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 145
+            "rank": 141
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1419.211356751514,
+            "composite_score": 1419.211356751514,
+            "games_played": 1,
+            "average_rank_percent": 24.0,
+            "average_stat_value": 0.03,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 142
           },
           {
             "account_name": "acumen.1980",
@@ -28237,7 +28059,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 146
+            "rank": 143
           },
           {
             "account_name": "harasho.4281",
@@ -28249,43 +28071,7 @@ const leaderboardData = {
             "average_stat_value": 0.19,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 147
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1417.333490829986,
-            "composite_score": 1417.333490829986,
-            "games_played": 1,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 0.02,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 148
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Reaper",
-            "glicko_rating": 1417.333490829986,
-            "composite_score": 1417.333490829986,
-            "games_played": 1,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 0.02,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 149
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1417.333490829986,
-            "composite_score": 1417.333490829986,
-            "games_played": 1,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 0.02,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 150
+            "rank": 144
           },
           {
             "account_name": "Luke.9108",
@@ -28297,7 +28083,7 @@ const leaderboardData = {
             "average_stat_value": 0.06,
             "is_guild_member": false,
             "rating_delta": -10.272903598963012,
-            "rank": 151
+            "rank": 145
           },
           {
             "account_name": "mikerock.6187",
@@ -28309,7 +28095,7 @@ const leaderboardData = {
             "average_stat_value": 0.06,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 152
+            "rank": 146
           },
           {
             "account_name": "Nictheman.9754",
@@ -28321,7 +28107,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 153
+            "rank": 147
           },
           {
             "account_name": "mikefmc.5961",
@@ -28333,7 +28119,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": true,
             "rating_delta": 10.136142957829634,
-            "rank": 154
+            "rank": 148
           },
           {
             "account_name": "Rapscallion.3571",
@@ -28345,7 +28131,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 149
           },
           {
             "account_name": "CarlJunior.7832",
@@ -28357,31 +28143,7 @@ const leaderboardData = {
             "average_stat_value": 0.14,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 156
-          },
-          {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1414.047881747883,
-            "composite_score": 1414.047881747883,
-            "games_played": 1,
-            "average_rank_percent": 18.0,
-            "average_stat_value": 0.01,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 157
-          },
-          {
-            "account_name": "Mellis.8451",
-            "profession": "Reaper",
-            "glicko_rating": 1414.047881747883,
-            "composite_score": 1414.047881747883,
-            "games_played": 1,
-            "average_rank_percent": 18.0,
-            "average_stat_value": 0.01,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 158
+            "rank": 150
           },
           {
             "account_name": "Drigan.7382",
@@ -28393,7 +28155,7 @@ const leaderboardData = {
             "average_stat_value": 0.11,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 159
+            "rank": 151
           },
           {
             "account_name": "DareDevils.6039",
@@ -28405,7 +28167,7 @@ const leaderboardData = {
             "average_stat_value": 0.07,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 160
+            "rank": 152
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -28417,7 +28179,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 161
+            "rank": 153
           },
           {
             "account_name": "bielzin.5084",
@@ -28429,7 +28191,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 162
+            "rank": 154
           },
           {
             "account_name": "Lord.7561",
@@ -28441,7 +28203,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 163
+            "rank": 155
           },
           {
             "account_name": "Chakkkka.2504",
@@ -28453,7 +28215,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 164
+            "rank": 156
           },
           {
             "account_name": "Daasen.3719",
@@ -28465,7 +28227,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 165
+            "rank": 157
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -28477,7 +28239,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 166
+            "rank": 158
           },
           {
             "account_name": "Dextra.8162",
@@ -28489,7 +28251,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 167
+            "rank": 159
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -28501,7 +28263,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 168
+            "rank": 160
           },
           {
             "account_name": "Kuwat.4703",
@@ -28513,7 +28275,7 @@ const leaderboardData = {
             "average_stat_value": 0.09,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 169
+            "rank": 161
           },
           {
             "account_name": "MasterScrub.1396",
@@ -28525,7 +28287,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 170
+            "rank": 162
           },
           {
             "account_name": "Naomi.5372",
@@ -28537,7 +28299,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 171
+            "rank": 163
           },
           {
             "account_name": "Naomi.5372",
@@ -28549,7 +28311,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 172
+            "rank": 164
           },
           {
             "account_name": "dobbeh.7382",
@@ -28561,7 +28323,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 173
+            "rank": 165
           },
           {
             "account_name": "CptNacho.1249",
@@ -28573,7 +28335,7 @@ const leaderboardData = {
             "average_stat_value": 0.13,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 174
+            "rank": 166
           },
           {
             "account_name": "zectra.6978",
@@ -28585,7 +28347,7 @@ const leaderboardData = {
             "average_stat_value": 0.17333333333333334,
             "is_guild_member": false,
             "rating_delta": -37.120435725100606,
-            "rank": 175
+            "rank": 167
           },
           {
             "account_name": "Hiraldo.7954",
@@ -28597,7 +28359,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 176
+            "rank": 168
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -28609,7 +28371,19 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 177
+            "rank": 169
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1405.613212861259,
+            "composite_score": 1405.613212861259,
+            "games_played": 2,
+            "average_rank_percent": 16.0,
+            "average_stat_value": 0.105,
+            "is_guild_member": true,
+            "rating_delta": -11.765666022110281,
+            "rank": 170
           },
           {
             "account_name": "Muted.8591",
@@ -28621,7 +28395,7 @@ const leaderboardData = {
             "average_stat_value": 0.06,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 178
+            "rank": 171
           },
           {
             "account_name": "Lasthope.7943",
@@ -28633,7 +28407,7 @@ const leaderboardData = {
             "average_stat_value": 0.24857142857142858,
             "is_guild_member": true,
             "rating_delta": -7.086965029219755,
-            "rank": 179
+            "rank": 172
           },
           {
             "account_name": "Interpretor.3091",
@@ -28645,7 +28419,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 180
+            "rank": 173
           },
           {
             "account_name": "emz.3571",
@@ -28657,7 +28431,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 181
+            "rank": 174
           },
           {
             "account_name": "acumen.1980",
@@ -28669,7 +28443,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 182
+            "rank": 175
           },
           {
             "account_name": "Niko.8425",
@@ -28681,7 +28455,7 @@ const leaderboardData = {
             "average_stat_value": 0.09,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 183
+            "rank": 176
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -28693,7 +28467,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 184
+            "rank": 177
           },
           {
             "account_name": "Freelanced.6084",
@@ -28705,7 +28479,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 185
+            "rank": 178
           },
           {
             "account_name": "dobbeh.7382",
@@ -28717,7 +28491,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 186
+            "rank": 179
           },
           {
             "account_name": "freecarl.9214",
@@ -28729,7 +28503,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 187
+            "rank": 180
           },
           {
             "account_name": "Stash.8401",
@@ -28741,7 +28515,7 @@ const leaderboardData = {
             "average_stat_value": 0.07,
             "is_guild_member": false,
             "rating_delta": -56.95797213566084,
-            "rank": 188
+            "rank": 181
           },
           {
             "account_name": "Bother.9415",
@@ -28753,7 +28527,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 189
+            "rank": 182
           },
           {
             "account_name": "Interpretor.3091",
@@ -28765,7 +28539,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 190
+            "rank": 183
           },
           {
             "account_name": "Chakkkka.2504",
@@ -28777,7 +28551,7 @@ const leaderboardData = {
             "average_stat_value": 0.04,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 191
+            "rank": 184
           },
           {
             "account_name": "Yeek.2976",
@@ -28789,7 +28563,7 @@ const leaderboardData = {
             "average_stat_value": 0.06,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 192
+            "rank": 185
           },
           {
             "account_name": "Lasthope.7943",
@@ -28801,7 +28575,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 193
+            "rank": 186
           },
           {
             "account_name": "Malek.9417",
@@ -28813,7 +28587,7 @@ const leaderboardData = {
             "average_stat_value": 0.12000000000000001,
             "is_guild_member": true,
             "rating_delta": -42.5885294736554,
-            "rank": 194
+            "rank": 187
           },
           {
             "account_name": "Lord.7561",
@@ -28825,7 +28599,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 195
+            "rank": 188
           },
           {
             "account_name": "emz.3571",
@@ -28837,7 +28611,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 196
+            "rank": 189
           },
           {
             "account_name": "Dextra.8162",
@@ -28849,7 +28623,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 197
+            "rank": 190
           },
           {
             "account_name": "Gismor.8407",
@@ -28861,7 +28635,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 198
+            "rank": 191
           },
           {
             "account_name": "defeater.3186",
@@ -28873,7 +28647,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 199
+            "rank": 192
           },
           {
             "account_name": "enKoDed.1563",
@@ -28885,7 +28659,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 200
+            "rank": 193
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -28897,7 +28671,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 201
+            "rank": 194
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -28909,7 +28683,7 @@ const leaderboardData = {
             "average_stat_value": 0.13,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 202
+            "rank": 195
           },
           {
             "account_name": "Fibbs.1623",
@@ -28921,7 +28695,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 203
+            "rank": 196
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -28933,7 +28707,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 204
+            "rank": 197
           },
           {
             "account_name": "Uriah.7082",
@@ -28945,19 +28719,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 205
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1397.2466803929142,
-            "composite_score": 1397.2466803929142,
-            "games_played": 3,
-            "average_rank_percent": 13.666666666666666,
-            "average_stat_value": 0.09999999999999999,
-            "is_guild_member": true,
-            "rating_delta": -11.765666022110281,
-            "rank": 206
+            "rank": 198
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -28969,7 +28731,7 @@ const leaderboardData = {
             "average_stat_value": 0.04,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 207
+            "rank": 199
           },
           {
             "account_name": "Elgar.2091",
@@ -28981,7 +28743,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 208
+            "rank": 200
           },
           {
             "account_name": "acumen.1980",
@@ -28993,7 +28755,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 209
+            "rank": 201
           },
           {
             "account_name": "Sygyt.5190",
@@ -29005,7 +28767,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 210
+            "rank": 202
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -29017,7 +28779,7 @@ const leaderboardData = {
             "average_stat_value": 0.04,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 211
+            "rank": 203
           },
           {
             "account_name": "Mes.1906",
@@ -29029,7 +28791,7 @@ const leaderboardData = {
             "average_stat_value": 0.095,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 212
+            "rank": 204
           },
           {
             "account_name": "Sleepy.5367",
@@ -29041,7 +28803,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 213
+            "rank": 205
           },
           {
             "account_name": "Malek.9417",
@@ -29053,7 +28815,7 @@ const leaderboardData = {
             "average_stat_value": 0.12,
             "is_guild_member": true,
             "rating_delta": -16.992928741212154,
-            "rank": 214
+            "rank": 206
           },
           {
             "account_name": "willtehthrill.4218",
@@ -29065,7 +28827,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 215
+            "rank": 207
           },
           {
             "account_name": "Muted.8591",
@@ -29077,7 +28839,19 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 216
+            "rank": 208
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1388.787966188462,
+            "composite_score": 1388.787966188462,
+            "games_played": 3,
+            "average_rank_percent": 16.666666666666668,
+            "average_stat_value": 0.10333333333333333,
+            "is_guild_member": true,
+            "rating_delta": -11.01847104731337,
+            "rank": 209
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -29089,19 +28863,7 @@ const leaderboardData = {
             "average_stat_value": 0.21,
             "is_guild_member": true,
             "rating_delta": -14.284762928192094,
-            "rank": 217
-          },
-          {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1383.4375194738343,
-            "composite_score": 1383.4375194738343,
-            "games_played": 4,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 0.0975,
-            "is_guild_member": true,
-            "rating_delta": -11.01847104731337,
-            "rank": 218
+            "rank": 210
           },
           {
             "account_name": "Nero.6195",
@@ -29113,7 +28875,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": true,
             "rating_delta": -44.72032418686604,
-            "rank": 219
+            "rank": 211
           },
           {
             "account_name": "Nero.6195",
@@ -29125,7 +28887,7 @@ const leaderboardData = {
             "average_stat_value": 0.20750000000000002,
             "is_guild_member": true,
             "rating_delta": -3.939924871276844,
-            "rank": 220
+            "rank": 212
           },
           {
             "account_name": "MasterScrub.1396",
@@ -29137,7 +28899,7 @@ const leaderboardData = {
             "average_stat_value": 0.07500000000000001,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 221
+            "rank": 213
           },
           {
             "account_name": "Bertozaur.4578",
@@ -29149,7 +28911,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 222
+            "rank": 214
           },
           {
             "account_name": "zectra.6978",
@@ -29161,7 +28923,7 @@ const leaderboardData = {
             "average_stat_value": 0.034999999999999996,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 223
+            "rank": 215
           },
           {
             "account_name": "Aein.1483",
@@ -29173,7 +28935,7 @@ const leaderboardData = {
             "average_stat_value": 0.025,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 224
+            "rank": 216
           },
           {
             "account_name": "Freelanced.6084",
@@ -29185,19 +28947,7 @@ const leaderboardData = {
             "average_stat_value": 0.09333333333333334,
             "is_guild_member": true,
             "rating_delta": -23.00085263333358,
-            "rank": 225
-          },
-          {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1371.5655505082252,
-            "composite_score": 1371.5655505082252,
-            "games_played": 11,
-            "average_rank_percent": 18.363636363636363,
-            "average_stat_value": 0.16363636363636364,
-            "is_guild_member": true,
-            "rating_delta": -6.608733337487365,
-            "rank": 226
+            "rank": 217
           },
           {
             "account_name": "I R R Y.9128",
@@ -29209,7 +28959,19 @@ const leaderboardData = {
             "average_stat_value": 0.07500000000000001,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 227
+            "rank": 218
+          },
+          {
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1369.6058828850048,
+            "composite_score": 1369.6058828850048,
+            "games_played": 10,
+            "average_rank_percent": 19.4,
+            "average_stat_value": 0.168,
+            "is_guild_member": true,
+            "rating_delta": -6.608733337487365,
+            "rank": 219
           },
           {
             "account_name": "emz.3571",
@@ -29221,7 +28983,7 @@ const leaderboardData = {
             "average_stat_value": 0.025,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 228
+            "rank": 220
           },
           {
             "account_name": "Interpretor.3091",
@@ -29233,7 +28995,7 @@ const leaderboardData = {
             "average_stat_value": 0.09666666666666666,
             "is_guild_member": true,
             "rating_delta": -10.55306097070752,
-            "rank": 229
+            "rank": 221
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -29245,7 +29007,7 @@ const leaderboardData = {
             "average_stat_value": 0.015,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 230
+            "rank": 222
           },
           {
             "account_name": "Interpretor.3091",
@@ -29257,7 +29019,7 @@ const leaderboardData = {
             "average_stat_value": 0.035,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 231
+            "rank": 223
           },
           {
             "account_name": "dobbeh.7382",
@@ -29269,7 +29031,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 232
+            "rank": 224
           },
           {
             "account_name": "Nictheman.9754",
@@ -29281,7 +29043,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 233
+            "rank": 225
           },
           {
             "account_name": "yhanbruno.5873",
@@ -29293,7 +29055,7 @@ const leaderboardData = {
             "average_stat_value": 0.015,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 234
+            "rank": 226
           },
           {
             "account_name": "Huge.5891",
@@ -29305,7 +29067,7 @@ const leaderboardData = {
             "average_stat_value": 0.049999999999999996,
             "is_guild_member": true,
             "rating_delta": -5.114249932629718,
-            "rank": 235
+            "rank": 227
           },
           {
             "account_name": "Havocus.3682",
@@ -29317,7 +29079,7 @@ const leaderboardData = {
             "average_stat_value": 0.035,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 236
+            "rank": 228
           },
           {
             "account_name": "synco.8132",
@@ -29329,7 +29091,7 @@ const leaderboardData = {
             "average_stat_value": 0.08750000000000001,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 237
+            "rank": 229
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -29341,7 +29103,7 @@ const leaderboardData = {
             "average_stat_value": 0.08666666666666667,
             "is_guild_member": true,
             "rating_delta": -39.65616008531924,
-            "rank": 238
+            "rank": 230
           },
           {
             "account_name": "Lord.7561",
@@ -29353,7 +29115,19 @@ const leaderboardData = {
             "average_stat_value": 0.035,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 239
+            "rank": 231
+          },
+          {
+            "account_name": "Syde.1863",
+            "profession": "Scourge",
+            "glicko_rating": 1356.3167367881579,
+            "composite_score": 1356.3167367881579,
+            "games_played": 3,
+            "average_rank_percent": 25.666666666666668,
+            "average_stat_value": 0.06333333333333334,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 232
           },
           {
             "account_name": "Mellis.8451",
@@ -29365,7 +29139,7 @@ const leaderboardData = {
             "average_stat_value": 0.13166666666666668,
             "is_guild_member": true,
             "rating_delta": -27.19953563170452,
-            "rank": 240
+            "rank": 233
           },
           {
             "account_name": "BlueViolet.8263",
@@ -29377,19 +29151,7 @@ const leaderboardData = {
             "average_stat_value": 0.11750000000000001,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 241
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Scourge",
-            "glicko_rating": 1355.4268283648717,
-            "composite_score": 1355.4268283648717,
-            "games_played": 4,
-            "average_rank_percent": 22.0,
-            "average_stat_value": 0.065,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 242
+            "rank": 234
           },
           {
             "account_name": "Hiraldo.7954",
@@ -29401,7 +29163,7 @@ const leaderboardData = {
             "average_stat_value": 0.035,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 243
+            "rank": 235
           },
           {
             "account_name": "Interpretor.3091",
@@ -29413,7 +29175,7 @@ const leaderboardData = {
             "average_stat_value": 0.068,
             "is_guild_member": true,
             "rating_delta": -11.333010829736395,
-            "rank": 244
+            "rank": 236
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -29425,7 +29187,7 @@ const leaderboardData = {
             "average_stat_value": 0.025,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 245
+            "rank": 237
           },
           {
             "account_name": "Havocus.3682",
@@ -29437,7 +29199,7 @@ const leaderboardData = {
             "average_stat_value": 0.043333333333333335,
             "is_guild_member": true,
             "rating_delta": -25.8032661877412,
-            "rank": 246
+            "rank": 238
           },
           {
             "account_name": "Nictheman.9754",
@@ -29449,7 +29211,7 @@ const leaderboardData = {
             "average_stat_value": 0.05000000000000001,
             "is_guild_member": true,
             "rating_delta": -1.1520277613803955,
-            "rank": 247
+            "rank": 239
           },
           {
             "account_name": "Huge.5891",
@@ -29461,7 +29223,7 @@ const leaderboardData = {
             "average_stat_value": 0.14875,
             "is_guild_member": true,
             "rating_delta": -16.025478648849912,
-            "rank": 248
+            "rank": 240
           },
           {
             "account_name": "Nictheman.9754",
@@ -29473,7 +29235,7 @@ const leaderboardData = {
             "average_stat_value": 0.06,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 249
+            "rank": 241
           },
           {
             "account_name": "Uriah.7082",
@@ -29485,7 +29247,7 @@ const leaderboardData = {
             "average_stat_value": 0.11857142857142858,
             "is_guild_member": true,
             "rating_delta": -5.05597613565601,
-            "rank": 250
+            "rank": 242
           },
           {
             "account_name": "Hiraldo.7954",
@@ -29497,7 +29259,7 @@ const leaderboardData = {
             "average_stat_value": 0.013333333333333334,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 251
+            "rank": 243
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -29509,7 +29271,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 252
+            "rank": 244
           },
           {
             "account_name": "Lasthope.7943",
@@ -29521,7 +29283,7 @@ const leaderboardData = {
             "average_stat_value": 0.076,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 253
+            "rank": 245
           },
           {
             "account_name": "Bother.9415",
@@ -29533,7 +29295,7 @@ const leaderboardData = {
             "average_stat_value": 0.013333333333333334,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 254
+            "rank": 246
           },
           {
             "account_name": "Freelanced.6084",
@@ -29545,7 +29307,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 255
+            "rank": 247
           },
           {
             "account_name": "Basic.9204",
@@ -29557,7 +29319,7 @@ const leaderboardData = {
             "average_stat_value": 0.0375,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 256
+            "rank": 248
           },
           {
             "account_name": "emz.3571",
@@ -29569,7 +29331,7 @@ const leaderboardData = {
             "average_stat_value": 0.0225,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 257
+            "rank": 249
           },
           {
             "account_name": "Luke.9108",
@@ -29581,7 +29343,7 @@ const leaderboardData = {
             "average_stat_value": 0.0175,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 258
+            "rank": 250
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -29593,7 +29355,7 @@ const leaderboardData = {
             "average_stat_value": 0.051250000000000004,
             "is_guild_member": true,
             "rating_delta": -3.647343661255036,
-            "rank": 259
+            "rank": 251
           },
           {
             "account_name": "Soothsayer.9206",
@@ -29605,7 +29367,7 @@ const leaderboardData = {
             "average_stat_value": 0.0175,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 260
+            "rank": 252
           },
           {
             "account_name": "Interpretor.3091",
@@ -29617,31 +29379,31 @@ const leaderboardData = {
             "average_stat_value": 0.04857142857142858,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 261
+            "rank": 253
           },
           {
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
-            "glicko_rating": 1296.7378880088743,
-            "composite_score": 1296.7378880088743,
-            "games_played": 10,
-            "average_rank_percent": 25.7,
-            "average_stat_value": 0.034999999999999996,
+            "glicko_rating": 1294.9727913670388,
+            "composite_score": 1294.9727913670388,
+            "games_played": 9,
+            "average_rank_percent": 27.11111111111111,
+            "average_stat_value": 0.035555555555555556,
             "is_guild_member": true,
             "rating_delta": -45.42035893428124,
-            "rank": 262
+            "rank": 254
           },
           {
             "account_name": "Dextra.8162",
             "profession": "Weaver",
-            "glicko_rating": 1290.7808906224159,
-            "composite_score": 1290.7808906224159,
-            "games_played": 12,
-            "average_rank_percent": 30.25,
-            "average_stat_value": 0.02666666666666667,
+            "glicko_rating": 1290.506057086816,
+            "composite_score": 1290.506057086816,
+            "games_played": 11,
+            "average_rank_percent": 31.363636363636363,
+            "average_stat_value": 0.028181818181818183,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 263
+            "rank": 255
           }
         ],
         "Strips": [
@@ -29670,18 +29432,6 @@ const leaderboardData = {
             "rank": 2
           },
           {
-            "account_name": "Syde.1863",
-            "profession": "Scourge",
-            "glicko_rating": 1753.3178930745194,
-            "composite_score": 1753.3178930745194,
-            "games_played": 4,
-            "average_rank_percent": 1.75,
-            "average_stat_value": 0.7125,
-            "is_guild_member": true,
-            "rating_delta": 5.176678065902479,
-            "rank": 3
-          },
-          {
             "account_name": "Uriah.7082",
             "profession": "Scourge",
             "glicko_rating": 1744.2257387575037,
@@ -29691,6 +29441,18 @@ const leaderboardData = {
             "average_stat_value": 0.74,
             "is_guild_member": true,
             "rating_delta": 15.221638681922968,
+            "rank": 3
+          },
+          {
+            "account_name": "Syde.1863",
+            "profession": "Scourge",
+            "glicko_rating": 1743.7373997645,
+            "composite_score": 1743.7373997645,
+            "games_played": 3,
+            "average_rank_percent": 1.6666666666666667,
+            "average_stat_value": 0.6666666666666666,
+            "is_guild_member": true,
+            "rating_delta": 5.176678065902479,
             "rank": 4
           },
           {
@@ -29706,18 +29468,6 @@ const leaderboardData = {
             "rank": 5
           },
           {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1725.6807348319792,
-            "composite_score": 1725.6807348319792,
-            "games_played": 2,
-            "average_rank_percent": 1.5,
-            "average_stat_value": 1.1600000000000001,
-            "is_guild_member": true,
-            "rating_delta": 7.9536135272715,
-            "rank": 6
-          },
-          {
             "account_name": "dobbeh.7382",
             "profession": "Reaper",
             "glicko_rating": 1719.7406064493337,
@@ -29727,7 +29477,7 @@ const leaderboardData = {
             "average_stat_value": 0.7366666666666667,
             "is_guild_member": true,
             "rating_delta": -77.30353977301297,
-            "rank": 7
+            "rank": 6
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -29739,7 +29489,7 @@ const leaderboardData = {
             "average_stat_value": 0.6666666666666666,
             "is_guild_member": true,
             "rating_delta": -47.33385683436927,
-            "rank": 8
+            "rank": 7
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -29751,7 +29501,7 @@ const leaderboardData = {
             "average_stat_value": 0.9099999999999999,
             "is_guild_member": true,
             "rating_delta": 17.99894292741078,
-            "rank": 9
+            "rank": 8
           },
           {
             "account_name": "Mes.1906",
@@ -29763,7 +29513,7 @@ const leaderboardData = {
             "average_stat_value": 0.615,
             "is_guild_member": false,
             "rating_delta": 14.982066799350832,
-            "rank": 10
+            "rank": 9
           },
           {
             "account_name": "Nictheman.9754",
@@ -29775,7 +29525,7 @@ const leaderboardData = {
             "average_stat_value": 0.6266666666666667,
             "is_guild_member": true,
             "rating_delta": 15.074138558229379,
-            "rank": 11
+            "rank": 10
           },
           {
             "account_name": "Havocus.3682",
@@ -29787,7 +29537,7 @@ const leaderboardData = {
             "average_stat_value": 0.835,
             "is_guild_member": true,
             "rating_delta": 34.02598564762047,
-            "rank": 12
+            "rank": 11
           },
           {
             "account_name": "Interpretor.3091",
@@ -29799,7 +29549,7 @@ const leaderboardData = {
             "average_stat_value": 0.8700000000000001,
             "is_guild_member": true,
             "rating_delta": 20.04701910511335,
-            "rank": 13
+            "rank": 12
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -29811,7 +29561,7 @@ const leaderboardData = {
             "average_stat_value": 0.612,
             "is_guild_member": true,
             "rating_delta": 16.739234580092216,
-            "rank": 14
+            "rank": 13
           },
           {
             "account_name": "emz.3571",
@@ -29823,7 +29573,7 @@ const leaderboardData = {
             "average_stat_value": 0.605,
             "is_guild_member": true,
             "rating_delta": -20.6177552346021,
-            "rank": 15
+            "rank": 14
           },
           {
             "account_name": "Havocus.3682",
@@ -29835,7 +29585,7 @@ const leaderboardData = {
             "average_stat_value": 0.6066666666666667,
             "is_guild_member": true,
             "rating_delta": -8.46428878763777,
-            "rank": 16
+            "rank": 15
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -29847,7 +29597,7 @@ const leaderboardData = {
             "average_stat_value": 0.705,
             "is_guild_member": true,
             "rating_delta": -68.43360503328881,
-            "rank": 17
+            "rank": 16
           },
           {
             "account_name": "Luke.9108",
@@ -29859,7 +29609,7 @@ const leaderboardData = {
             "average_stat_value": 0.4925,
             "is_guild_member": false,
             "rating_delta": -63.831544987825055,
-            "rank": 18
+            "rank": 17
           },
           {
             "account_name": "Hiraldo.7954",
@@ -29871,7 +29621,7 @@ const leaderboardData = {
             "average_stat_value": 0.635,
             "is_guild_member": true,
             "rating_delta": 63.95592683380505,
-            "rank": 19
+            "rank": 18
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -29883,7 +29633,7 @@ const leaderboardData = {
             "average_stat_value": 0.79,
             "is_guild_member": true,
             "rating_delta": 21.32742203233829,
-            "rank": 20
+            "rank": 19
           },
           {
             "account_name": "Freelanced.6084",
@@ -29895,7 +29645,7 @@ const leaderboardData = {
             "average_stat_value": 0.44333333333333336,
             "is_guild_member": true,
             "rating_delta": -25.875740016978398,
-            "rank": 21
+            "rank": 20
           },
           {
             "account_name": "Nero.6195",
@@ -29907,7 +29657,7 @@ const leaderboardData = {
             "average_stat_value": 0.78,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 22
+            "rank": 21
           },
           {
             "account_name": "Stash.8401",
@@ -29919,7 +29669,7 @@ const leaderboardData = {
             "average_stat_value": 0.77,
             "is_guild_member": false,
             "rating_delta": 24.313994863754715,
-            "rank": 23
+            "rank": 22
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -29931,6 +29681,18 @@ const leaderboardData = {
             "average_stat_value": 0.84,
             "is_guild_member": true,
             "rating_delta": 14.268630189588976,
+            "rank": 23
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1655.6734286405526,
+            "composite_score": 1655.6734286405526,
+            "games_played": 1,
+            "average_rank_percent": 2.0,
+            "average_stat_value": 0.95,
+            "is_guild_member": true,
+            "rating_delta": 7.9536135272715,
             "rank": 24
           },
           {
@@ -30126,18 +29888,6 @@ const leaderboardData = {
             "rank": 40
           },
           {
-            "account_name": "Syde.1863",
-            "profession": "Reaper",
-            "glicko_rating": 1618.9649227546736,
-            "composite_score": 1618.9649227546736,
-            "games_played": 1,
-            "average_rank_percent": 3.0,
-            "average_stat_value": 0.84,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 41
-          },
-          {
             "account_name": "Bother.9415",
             "profession": "Reaper",
             "glicko_rating": 1617.4371589663178,
@@ -30147,7 +29897,7 @@ const leaderboardData = {
             "average_stat_value": 0.57,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 41
           },
           {
             "account_name": "Lord.7561",
@@ -30159,7 +29909,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 43
+            "rank": 42
           },
           {
             "account_name": "acumen.1980",
@@ -30171,7 +29921,7 @@ const leaderboardData = {
             "average_stat_value": 0.84,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "Bother.9415",
@@ -30183,7 +29933,7 @@ const leaderboardData = {
             "average_stat_value": 0.492,
             "is_guild_member": true,
             "rating_delta": 23.68650457343847,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "Muted.8591",
@@ -30195,7 +29945,7 @@ const leaderboardData = {
             "average_stat_value": 0.76,
             "is_guild_member": true,
             "rating_delta": -24.300056323161243,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "Drigan.7382",
@@ -30207,7 +29957,7 @@ const leaderboardData = {
             "average_stat_value": 0.41,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "Muted.8591",
@@ -30219,19 +29969,7 @@ const leaderboardData = {
             "average_stat_value": 0.54,
             "is_guild_member": true,
             "rating_delta": -30.146945329932578,
-            "rank": 48
-          },
-          {
-            "account_name": "Mellis.8451",
-            "profession": "Reaper",
-            "glicko_rating": 1607.195203179455,
-            "composite_score": 1607.195203179455,
-            "games_played": 1,
-            "average_rank_percent": 4.0,
-            "average_stat_value": 0.77,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 49
+            "rank": 47
           },
           {
             "account_name": "Elgar.2091",
@@ -30243,7 +29981,7 @@ const leaderboardData = {
             "average_stat_value": 0.46,
             "is_guild_member": true,
             "rating_delta": -6.389564255795904,
-            "rank": 50
+            "rank": 48
           },
           {
             "account_name": "Luke.9108",
@@ -30255,7 +29993,7 @@ const leaderboardData = {
             "average_stat_value": 0.42,
             "is_guild_member": false,
             "rating_delta": 0.03769709393213816,
-            "rank": 51
+            "rank": 49
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -30267,7 +30005,7 @@ const leaderboardData = {
             "average_stat_value": 0.62,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 52
+            "rank": 50
           },
           {
             "account_name": "acumen.1980",
@@ -30279,7 +30017,7 @@ const leaderboardData = {
             "average_stat_value": 0.54,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 53
+            "rank": 51
           },
           {
             "account_name": "Bertozaur.4578",
@@ -30291,7 +30029,7 @@ const leaderboardData = {
             "average_stat_value": 0.43499999999999994,
             "is_guild_member": true,
             "rating_delta": 10.006111511226209,
-            "rank": 54
+            "rank": 52
           },
           {
             "account_name": "Havocus.3682",
@@ -30303,7 +30041,7 @@ const leaderboardData = {
             "average_stat_value": 0.68,
             "is_guild_member": true,
             "rating_delta": 19.723083779539138,
-            "rank": 55
+            "rank": 53
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -30315,7 +30053,7 @@ const leaderboardData = {
             "average_stat_value": 0.37,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 56
+            "rank": 54
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -30327,7 +30065,7 @@ const leaderboardData = {
             "average_stat_value": 0.45333333333333337,
             "is_guild_member": true,
             "rating_delta": -20.134247666026113,
-            "rank": 57
+            "rank": 55
           },
           {
             "account_name": "LilJoker.2658",
@@ -30339,7 +30077,7 @@ const leaderboardData = {
             "average_stat_value": 0.72,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 58
+            "rank": 56
           },
           {
             "account_name": "arrsc.9046",
@@ -30351,7 +30089,7 @@ const leaderboardData = {
             "average_stat_value": 0.43,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 59
+            "rank": 57
           },
           {
             "account_name": "OPness.3215",
@@ -30363,7 +30101,7 @@ const leaderboardData = {
             "average_stat_value": 0.475,
             "is_guild_member": true,
             "rating_delta": -6.864664501229981,
-            "rank": 60
+            "rank": 58
           },
           {
             "account_name": "Uriah.7082",
@@ -30375,7 +30113,7 @@ const leaderboardData = {
             "average_stat_value": 0.39,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 61
+            "rank": 59
           },
           {
             "account_name": "acumen.1980",
@@ -30387,7 +30125,7 @@ const leaderboardData = {
             "average_stat_value": 0.48,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 62
+            "rank": 60
           },
           {
             "account_name": "CarlJunior.7832",
@@ -30399,7 +30137,7 @@ const leaderboardData = {
             "average_stat_value": 0.62,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 63
+            "rank": 61
           },
           {
             "account_name": "Smile.9284",
@@ -30411,7 +30149,7 @@ const leaderboardData = {
             "average_stat_value": 0.44,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 64
+            "rank": 62
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -30423,7 +30161,7 @@ const leaderboardData = {
             "average_stat_value": 0.58,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 65
+            "rank": 63
           },
           {
             "account_name": "aznsleeper.5896",
@@ -30435,7 +30173,7 @@ const leaderboardData = {
             "average_stat_value": 0.61,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 66
+            "rank": 64
           },
           {
             "account_name": "Lasthope.7943",
@@ -30447,7 +30185,7 @@ const leaderboardData = {
             "average_stat_value": 0.49,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 65
           },
           {
             "account_name": "Lord.7561",
@@ -30459,7 +30197,7 @@ const leaderboardData = {
             "average_stat_value": 0.41000000000000003,
             "is_guild_member": true,
             "rating_delta": 9.890100680471278,
-            "rank": 68
+            "rank": 66
           },
           {
             "account_name": "emz.3571",
@@ -30471,7 +30209,7 @@ const leaderboardData = {
             "average_stat_value": 0.28,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 67
           },
           {
             "account_name": "Uriah.7082",
@@ -30483,7 +30221,7 @@ const leaderboardData = {
             "average_stat_value": 0.39,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 70
+            "rank": 68
           },
           {
             "account_name": "Hiraldo.7954",
@@ -30495,7 +30233,7 @@ const leaderboardData = {
             "average_stat_value": 0.3066666666666667,
             "is_guild_member": true,
             "rating_delta": -27.95326136888889,
-            "rank": 71
+            "rank": 69
           },
           {
             "account_name": "Interpretor.3091",
@@ -30507,19 +30245,7 @@ const leaderboardData = {
             "average_stat_value": 0.24000000000000002,
             "is_guild_member": true,
             "rating_delta": 10.0320850835692,
-            "rank": 72
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1539.828811823322,
-            "composite_score": 1539.828811823322,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 0.48,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 73
+            "rank": 70
           },
           {
             "account_name": "Fibbs.1623",
@@ -30531,7 +30257,7 @@ const leaderboardData = {
             "average_stat_value": 0.29,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 74
+            "rank": 71
           },
           {
             "account_name": "Hiraldo.7954",
@@ -30543,7 +30269,7 @@ const leaderboardData = {
             "average_stat_value": 0.21,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 75
+            "rank": 72
           },
           {
             "account_name": "Naomi.5372",
@@ -30555,19 +30281,7 @@ const leaderboardData = {
             "average_stat_value": 0.18,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 76
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1499.7920791211975,
-            "composite_score": 1499.7920791211975,
-            "games_played": 1,
-            "average_rank_percent": 6.0,
-            "average_stat_value": 0.34,
-            "is_guild_member": true,
-            "rating_delta": -55.707542271437205,
-            "rank": 77
+            "rank": 73
           },
           {
             "account_name": "Mini.1786",
@@ -30579,7 +30293,7 @@ const leaderboardData = {
             "average_stat_value": 0.25,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 78
+            "rank": 74
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -30591,7 +30305,7 @@ const leaderboardData = {
             "average_stat_value": 0.19,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 79
+            "rank": 75
           },
           {
             "account_name": "Uriah.7082",
@@ -30603,7 +30317,7 @@ const leaderboardData = {
             "average_stat_value": 0.18,
             "is_guild_member": true,
             "rating_delta": -36.31023563405347,
-            "rank": 80
+            "rank": 76
           },
           {
             "account_name": "I R R Y.9128",
@@ -30615,7 +30329,7 @@ const leaderboardData = {
             "average_stat_value": 0.22,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 81
+            "rank": 77
           },
           {
             "account_name": "Morg.3084",
@@ -30627,7 +30341,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 82
+            "rank": 78
           },
           {
             "account_name": "Pseven.4867",
@@ -30639,7 +30353,7 @@ const leaderboardData = {
             "average_stat_value": 0.19,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 83
+            "rank": 79
           },
           {
             "account_name": "Naomi.5372",
@@ -30651,7 +30365,7 @@ const leaderboardData = {
             "average_stat_value": 0.08,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 84
+            "rank": 80
           },
           {
             "account_name": "aureliocf.7324",
@@ -30663,7 +30377,7 @@ const leaderboardData = {
             "average_stat_value": 0.12,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 85
+            "rank": 81
           },
           {
             "account_name": "Lasthope.7943",
@@ -30675,7 +30389,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 86
+            "rank": 82
           },
           {
             "account_name": "Havocus.3682",
@@ -30687,7 +30401,7 @@ const leaderboardData = {
             "average_stat_value": 0.09,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 87
+            "rank": 83
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -30699,7 +30413,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 88
+            "rank": 84
           },
           {
             "account_name": "modus.7921",
@@ -30711,7 +30425,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 89
+            "rank": 85
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -30723,7 +30437,7 @@ const leaderboardData = {
             "average_stat_value": 0.105,
             "is_guild_member": true,
             "rating_delta": -66.95488130719741,
-            "rank": 90
+            "rank": 86
           },
           {
             "account_name": "Nictheman.9754",
@@ -30735,7 +30449,7 @@ const leaderboardData = {
             "average_stat_value": 0.07,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 87
           },
           {
             "account_name": "Bricktus.1682",
@@ -30747,7 +30461,7 @@ const leaderboardData = {
             "average_stat_value": 0.08,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 92
+            "rank": 88
           },
           {
             "account_name": "Nero.6195",
@@ -30759,7 +30473,7 @@ const leaderboardData = {
             "average_stat_value": 0.08,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 89
           },
           {
             "account_name": "modus.7921",
@@ -30771,7 +30485,7 @@ const leaderboardData = {
             "average_stat_value": 0.08,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 94
+            "rank": 90
           },
           {
             "account_name": "Astro Bear.6305",
@@ -30783,7 +30497,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 95
+            "rank": 91
           },
           {
             "account_name": "Lord.7561",
@@ -30795,7 +30509,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 92
           },
           {
             "account_name": "Malek.9417",
@@ -30807,7 +30521,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 93
           },
           {
             "account_name": "Uriah.7082",
@@ -30819,7 +30533,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 94
           },
           {
             "account_name": "zectra.6978",
@@ -30831,7 +30545,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 95
           },
           {
             "account_name": "Malek.9417",
@@ -30843,7 +30557,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": -52.58232270826966,
-            "rank": 100
+            "rank": 96
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -30855,7 +30569,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 97
           },
           {
             "account_name": "Bother.9415",
@@ -30867,7 +30581,7 @@ const leaderboardData = {
             "average_stat_value": 0.04,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 98
           },
           {
             "account_name": "synco.8132",
@@ -30879,7 +30593,7 @@ const leaderboardData = {
             "average_stat_value": 0.04,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 99
           },
           {
             "account_name": "Chakkkka.2504",
@@ -30891,7 +30605,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 104
+            "rank": 100
           },
           {
             "account_name": "Interpretor.3091",
@@ -30903,7 +30617,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 105
+            "rank": 101
           },
           {
             "account_name": "Lasthope.7943",
@@ -30915,7 +30629,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 102
           },
           {
             "account_name": "Luke.9108",
@@ -30927,7 +30641,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 103
           },
           {
             "account_name": "Naomi.5372",
@@ -30939,7 +30653,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 108
+            "rank": 104
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -30951,7 +30665,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 105
           },
           {
             "account_name": "adrielle.2109",
@@ -30963,7 +30677,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 106
           },
           {
             "account_name": "asdfghjk.8241",
@@ -30975,7 +30689,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 107
           },
           {
             "account_name": "aznsleeper.5896",
@@ -30987,7 +30701,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 112
+            "rank": 108
           },
           {
             "account_name": "mikerock.6187",
@@ -30999,7 +30713,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 113
+            "rank": 109
           },
           {
             "account_name": "synco.8132",
@@ -31011,7 +30725,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 114
+            "rank": 110
           },
           {
             "account_name": "yhanbruno.5873",
@@ -31023,19 +30737,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 115
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1421.4528395462119,
-            "composite_score": 1421.4528395462119,
-            "games_played": 1,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 0.05,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 116
+            "rank": 111
           },
           {
             "account_name": "Dextra.8162",
@@ -31047,7 +30749,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": -51.71782681775767,
-            "rank": 117
+            "rank": 112
           },
           {
             "account_name": "Krounen.7028",
@@ -31059,7 +30761,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 118
+            "rank": 113
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -31071,7 +30773,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 119
+            "rank": 114
           },
           {
             "account_name": "Dextra.8162",
@@ -31083,7 +30785,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 120
+            "rank": 115
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -31095,7 +30797,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 121
+            "rank": 116
           },
           {
             "account_name": "DareDevils.6039",
@@ -31107,7 +30809,19 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 117
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1415.3504034851976,
+            "composite_score": 1415.3504034851976,
+            "games_played": 1,
+            "average_rank_percent": 18.0,
+            "average_stat_value": 0.01,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 118
           },
           {
             "account_name": "Mellis.8451",
@@ -31119,7 +30833,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 119
           },
           {
             "account_name": "freecarl.9214",
@@ -31131,7 +30845,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 120
           },
           {
             "account_name": "Gismor.8407",
@@ -31143,7 +30857,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 121
           },
           {
             "account_name": "acumen.1980",
@@ -31155,7 +30869,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 122
           },
           {
             "account_name": "defeater.3186",
@@ -31167,7 +30881,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 123
           },
           {
             "account_name": "phobos.5290",
@@ -31179,7 +30893,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 128
+            "rank": 124
           },
           {
             "account_name": "Huge.5891",
@@ -31191,7 +30905,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "OPness.3215",
@@ -31203,19 +30917,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 130
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1412.4579509493021,
-            "composite_score": 1412.4579509493021,
-            "games_played": 1,
-            "average_rank_percent": 8.0,
-            "average_stat_value": 0.01,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 131
+            "rank": 126
           },
           {
             "account_name": "Argo.2675",
@@ -31227,7 +30929,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 132
+            "rank": 127
           },
           {
             "account_name": "Nero.6195",
@@ -31239,7 +30941,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 133
+            "rank": 128
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -31251,7 +30953,19 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 134
+            "rank": 129
+          },
+          {
+            "account_name": "Aromapaloma.3194",
+            "profession": "Tempest",
+            "glicko_rating": 1411.4863745167656,
+            "composite_score": 1411.4863745167656,
+            "games_played": 1,
+            "average_rank_percent": 11.0,
+            "average_stat_value": 0.01,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 130
           },
           {
             "account_name": "Lozen.7623",
@@ -31263,7 +30977,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 135
+            "rank": 131
           },
           {
             "account_name": "Basic.9204",
@@ -31275,7 +30989,7 @@ const leaderboardData = {
             "average_stat_value": 0.09,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 136
+            "rank": 132
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -31287,7 +31001,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 137
+            "rank": 133
           },
           {
             "account_name": "Astro Bear.6305",
@@ -31299,7 +31013,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 138
+            "rank": 134
           },
           {
             "account_name": "Dextra.8162",
@@ -31311,7 +31025,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 139
+            "rank": 135
           },
           {
             "account_name": "rob.7042",
@@ -31323,7 +31037,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 140
+            "rank": 136
           },
           {
             "account_name": "Malek.9417",
@@ -31335,7 +31049,7 @@ const leaderboardData = {
             "average_stat_value": 0.05,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 141
+            "rank": 137
           },
           {
             "account_name": "Beneko.8475",
@@ -31347,7 +31061,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 142
+            "rank": 138
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -31359,7 +31073,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 143
+            "rank": 139
           },
           {
             "account_name": "Lozen.7623",
@@ -31371,7 +31085,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 144
+            "rank": 140
           },
           {
             "account_name": "enKoDed.1563",
@@ -31383,7 +31097,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 145
+            "rank": 141
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -31395,7 +31109,7 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 146
+            "rank": 142
           },
           {
             "account_name": "Trail.8614",
@@ -31407,7 +31121,19 @@ const leaderboardData = {
             "average_stat_value": 0.02,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 147
+            "rank": 143
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1405.677671680863,
+            "composite_score": 1405.677671680863,
+            "games_played": 1,
+            "average_rank_percent": 13.0,
+            "average_stat_value": 0.01,
+            "is_guild_member": false,
+            "rating_delta": 0.0,
+            "rank": 144
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -31419,7 +31145,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 148
+            "rank": 145
           },
           {
             "account_name": "Lasthope.7943",
@@ -31431,7 +31157,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 149
+            "rank": 146
           },
           {
             "account_name": "Freelanced.6084",
@@ -31443,7 +31169,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 150
+            "rank": 147
           },
           {
             "account_name": "Generic Player.4067",
@@ -31455,7 +31181,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 151
+            "rank": 148
           },
           {
             "account_name": "Mini.1786",
@@ -31467,7 +31193,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 152
+            "rank": 149
           },
           {
             "account_name": "modus.7921",
@@ -31479,7 +31205,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 153
+            "rank": 150
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -31491,7 +31217,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 154
+            "rank": 151
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -31503,7 +31229,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 152
           },
           {
             "account_name": "zectra.6978",
@@ -31515,7 +31241,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 156
+            "rank": 153
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -31527,7 +31253,7 @@ const leaderboardData = {
             "average_stat_value": 0.06,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 157
+            "rank": 154
           },
           {
             "account_name": "Elgar.2091",
@@ -31539,7 +31265,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 158
+            "rank": 155
           },
           {
             "account_name": "Shy.3108",
@@ -31551,7 +31277,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 159
+            "rank": 156
           },
           {
             "account_name": "Nictheman.9754",
@@ -31563,7 +31289,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 160
+            "rank": 157
           },
           {
             "account_name": "emz.3571",
@@ -31575,7 +31301,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 161
+            "rank": 158
           },
           {
             "account_name": "Mellis.8451",
@@ -31587,7 +31313,7 @@ const leaderboardData = {
             "average_stat_value": 0.016666666666666666,
             "is_guild_member": true,
             "rating_delta": -42.52489598647003,
-            "rank": 162
+            "rank": 159
           },
           {
             "account_name": "aznsleeper.5896",
@@ -31599,7 +31325,7 @@ const leaderboardData = {
             "average_stat_value": 0.095,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 163
+            "rank": 160
           },
           {
             "account_name": "Malek.9417",
@@ -31611,19 +31337,7 @@ const leaderboardData = {
             "average_stat_value": 0.030000000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 164
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1380.494591038594,
-            "composite_score": 1380.494591038594,
-            "games_played": 2,
-            "average_rank_percent": 13.0,
-            "average_stat_value": 0.01,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 165
+            "rank": 161
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -31635,31 +31349,7 @@ const leaderboardData = {
             "average_stat_value": 0.015,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 166
-          },
-          {
-            "account_name": "Aromapaloma.3194",
-            "profession": "Tempest",
-            "glicko_rating": 1377.7900041031946,
-            "composite_score": 1377.7900041031946,
-            "games_played": 2,
-            "average_rank_percent": 9.5,
-            "average_stat_value": 0.01,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 167
-          },
-          {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1373.7242628962972,
-            "composite_score": 1373.7242628962972,
-            "games_played": 2,
-            "average_rank_percent": 10.5,
-            "average_stat_value": 0.01,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 168
+            "rank": 162
           },
           {
             "account_name": "Syde.1863",
@@ -31671,7 +31361,7 @@ const leaderboardData = {
             "average_stat_value": 0.015,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 169
+            "rank": 163
           },
           {
             "account_name": "Uriah.7082",
@@ -31683,7 +31373,7 @@ const leaderboardData = {
             "average_stat_value": 0.015,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 170
+            "rank": 164
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -31695,7 +31385,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 171
+            "rank": 165
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -31707,7 +31397,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 172
+            "rank": 166
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -31719,7 +31409,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 173
+            "rank": 167
           },
           {
             "account_name": "synco.8132",
@@ -31731,7 +31421,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 174
+            "rank": 168
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -31743,7 +31433,7 @@ const leaderboardData = {
             "average_stat_value": 0.013333333333333334,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 175
+            "rank": 169
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -31755,7 +31445,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 176
+            "rank": 170
           },
           {
             "account_name": "Aein.1483",
@@ -31767,7 +31457,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 177
+            "rank": 171
           },
           {
             "account_name": "Bother.9415",
@@ -31779,7 +31469,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 178
+            "rank": 172
           },
           {
             "account_name": "BlueViolet.8263",
@@ -31791,7 +31481,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 179
+            "rank": 173
           },
           {
             "account_name": "synco.8132",
@@ -31803,7 +31493,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 180
+            "rank": 174
           },
           {
             "account_name": "Freelanced.6084",
@@ -31815,7 +31505,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 181
+            "rank": 175
           },
           {
             "account_name": "Nictheman.9754",
@@ -31827,7 +31517,7 @@ const leaderboardData = {
             "average_stat_value": 0.03,
             "is_guild_member": true,
             "rating_delta": -13.663448100096502,
-            "rank": 182
+            "rank": 176
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -31839,7 +31529,7 @@ const leaderboardData = {
             "average_stat_value": 0.04375,
             "is_guild_member": true,
             "rating_delta": -24.610986801754734,
-            "rank": 183
+            "rank": 177
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -31851,7 +31541,7 @@ const leaderboardData = {
             "average_stat_value": 0.012,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 184
+            "rank": 178
           },
           {
             "account_name": "Muted.8591",
@@ -31863,7 +31553,7 @@ const leaderboardData = {
             "average_stat_value": 0.032857142857142856,
             "is_guild_member": true,
             "rating_delta": -40.76790014224457,
-            "rank": 185
+            "rank": 179
           },
           {
             "account_name": "Lasthope.7943",
@@ -31875,7 +31565,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 186
+            "rank": 180
           },
           {
             "account_name": "Soothsayer.9206",
@@ -31887,7 +31577,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 187
+            "rank": 181
           },
           {
             "account_name": "modus.7921",
@@ -31899,7 +31589,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 188
+            "rank": 182
           },
           {
             "account_name": "Johnny.5478",
@@ -31911,7 +31601,7 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 189
+            "rank": 183
           },
           {
             "account_name": "Astro Bear.6305",
@@ -31923,7 +31613,19 @@ const leaderboardData = {
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 190
+            "rank": 184
+          },
+          {
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1323.2381377491724,
+            "composite_score": 1323.2381377491724,
+            "games_played": 6,
+            "average_rank_percent": 14.833333333333334,
+            "average_stat_value": 0.013333333333333334,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 185
           },
           {
             "account_name": "Argo.2675",
@@ -31935,31 +31637,19 @@ const leaderboardData = {
             "average_stat_value": 0.021111111111111112,
             "is_guild_member": true,
             "rating_delta": -40.79284364156683,
-            "rank": 191
-          },
-          {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1319.477728040638,
-            "composite_score": 1319.477728040638,
-            "games_played": 7,
-            "average_rank_percent": 13.857142857142858,
-            "average_stat_value": 0.012857142857142857,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 192
+            "rank": 186
           },
           {
             "account_name": "Dextra.8162",
             "profession": "Weaver",
-            "glicko_rating": 1316.540815831641,
-            "composite_score": 1316.540815831641,
-            "games_played": 10,
-            "average_rank_percent": 15.6,
+            "glicko_rating": 1319.0953948051267,
+            "composite_score": 1319.0953948051267,
+            "games_played": 9,
+            "average_rank_percent": 16.444444444444443,
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 193
+            "rank": 187
           },
           {
             "account_name": "Nero.6195",
@@ -31971,19 +31661,19 @@ const leaderboardData = {
             "average_stat_value": 0.015,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 194
+            "rank": 188
           },
           {
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
-            "glicko_rating": 1312.6963764747888,
-            "composite_score": 1312.6963764747888,
-            "games_played": 10,
-            "average_rank_percent": 13.0,
+            "glicko_rating": 1314.7768742738633,
+            "composite_score": 1314.7768742738633,
+            "games_played": 9,
+            "average_rank_percent": 13.555555555555555,
             "average_stat_value": 0.01,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 195
+            "rank": 189
           },
           {
             "account_name": "Smile.9284",
@@ -31995,7 +31685,7 @@ const leaderboardData = {
             "average_stat_value": 0.014444444444444446,
             "is_guild_member": true,
             "rating_delta": -22.978998502475406,
-            "rank": 196
+            "rank": 190
           }
         ],
         "Stability": [
@@ -32026,11 +31716,11 @@ const leaderboardData = {
           {
             "account_name": "waschy.6093",
             "profession": "Firebrand",
-            "glicko_rating": 1784.0116975276994,
-            "composite_score": 1784.0116975276994,
-            "games_played": 11,
-            "average_rank_percent": 2.3636363636363638,
-            "average_stat_value": 8.409090909090908,
+            "glicko_rating": 1768.6282290927145,
+            "composite_score": 1768.6282290927145,
+            "games_played": 10,
+            "average_rank_percent": 2.5,
+            "average_stat_value": 8.559999999999999,
             "is_guild_member": true,
             "rating_delta": 1.1999606975764436,
             "rank": 3
@@ -32060,18 +31750,6 @@ const leaderboardData = {
             "rank": 5
           },
           {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Chronomancer",
-            "glicko_rating": 1679.5682635274168,
-            "composite_score": 1679.5682635274168,
-            "games_played": 2,
-            "average_rank_percent": 2.0,
-            "average_stat_value": 6.35,
-            "is_guild_member": true,
-            "rating_delta": 35.59441981300779,
-            "rank": 6
-          },
-          {
             "account_name": "Syde.1863",
             "profession": "Firebrand",
             "glicko_rating": 1678.4926790403906,
@@ -32081,7 +31759,7 @@ const leaderboardData = {
             "average_stat_value": 8.7,
             "is_guild_member": true,
             "rating_delta": 72.30046467348143,
-            "rank": 7
+            "rank": 6
           },
           {
             "account_name": "Argo.2675",
@@ -32093,7 +31771,7 @@ const leaderboardData = {
             "average_stat_value": 7.199999999999999,
             "is_guild_member": true,
             "rating_delta": 12.30510281380657,
-            "rank": 8
+            "rank": 7
           },
           {
             "account_name": "Astro Bear.6305",
@@ -32105,7 +31783,7 @@ const leaderboardData = {
             "average_stat_value": 7.699999999999999,
             "is_guild_member": true,
             "rating_delta": -3.5795492623383325,
-            "rank": 9
+            "rank": 8
           },
           {
             "account_name": "OPness.3215",
@@ -32117,19 +31795,19 @@ const leaderboardData = {
             "average_stat_value": 11.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 10
+            "rank": 9
           },
           {
-            "account_name": "Disenable.1640",
+            "account_name": "Pieswithattitude.2357",
             "profession": "Chronomancer",
-            "glicko_rating": 1654.3769902891706,
-            "composite_score": 1654.3769902891706,
+            "glicko_rating": 1657.7072112285764,
+            "composite_score": 1657.7072112285764,
             "games_played": 1,
-            "average_rank_percent": 2.0,
-            "average_stat_value": 6.2,
+            "average_rank_percent": 1.0,
+            "average_stat_value": 8.6,
             "is_guild_member": true,
-            "rating_delta": 43.98242234114923,
-            "rank": 11
+            "rating_delta": 35.59441981300779,
+            "rank": 10
           },
           {
             "account_name": "Uriah.7082",
@@ -32141,7 +31819,7 @@ const leaderboardData = {
             "average_stat_value": 8.4,
             "is_guild_member": true,
             "rating_delta": 42.12886871272735,
-            "rank": 12
+            "rank": 11
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -32153,7 +31831,7 @@ const leaderboardData = {
             "average_stat_value": 6.875,
             "is_guild_member": true,
             "rating_delta": -2.645861922099357,
-            "rank": 13
+            "rank": 12
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -32165,7 +31843,7 @@ const leaderboardData = {
             "average_stat_value": 6.7,
             "is_guild_member": true,
             "rating_delta": -5.793390562349259,
-            "rank": 14
+            "rank": 13
           },
           {
             "account_name": "Trail.8614",
@@ -32177,7 +31855,7 @@ const leaderboardData = {
             "average_stat_value": 8.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 15
+            "rank": 14
           },
           {
             "account_name": "Muted.8591",
@@ -32189,7 +31867,7 @@ const leaderboardData = {
             "average_stat_value": 6.871428571428572,
             "is_guild_member": true,
             "rating_delta": 5.316075248912739,
-            "rank": 16
+            "rank": 15
           },
           {
             "account_name": "modus.7921",
@@ -32201,7 +31879,7 @@ const leaderboardData = {
             "average_stat_value": 7.3,
             "is_guild_member": true,
             "rating_delta": 20.85481168680485,
-            "rank": 17
+            "rank": 16
           },
           {
             "account_name": "Uriah.7082",
@@ -32213,7 +31891,7 @@ const leaderboardData = {
             "average_stat_value": 10.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 18
+            "rank": 17
           },
           {
             "account_name": "Bricktus.1682",
@@ -32225,7 +31903,7 @@ const leaderboardData = {
             "average_stat_value": 9.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 19
+            "rank": 18
           },
           {
             "account_name": "Xarahait.8051",
@@ -32237,7 +31915,7 @@ const leaderboardData = {
             "average_stat_value": 9.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 20
+            "rank": 19
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -32249,7 +31927,7 @@ const leaderboardData = {
             "average_stat_value": 6.800000000000001,
             "is_guild_member": true,
             "rating_delta": 22.200390099716287,
-            "rank": 21
+            "rank": 20
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -32261,7 +31939,7 @@ const leaderboardData = {
             "average_stat_value": 7.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 22
+            "rank": 21
           },
           {
             "account_name": "BlueViolet.8263",
@@ -32273,7 +31951,7 @@ const leaderboardData = {
             "average_stat_value": 7.325,
             "is_guild_member": true,
             "rating_delta": -39.85973008679002,
-            "rank": 23
+            "rank": 22
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -32285,7 +31963,7 @@ const leaderboardData = {
             "average_stat_value": 9.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 24
+            "rank": 23
           },
           {
             "account_name": "aznsleeper.5896",
@@ -32297,7 +31975,7 @@ const leaderboardData = {
             "average_stat_value": 6.6,
             "is_guild_member": true,
             "rating_delta": -3.3375213246085877,
-            "rank": 25
+            "rank": 24
           },
           {
             "account_name": "Mellis.8451",
@@ -32309,7 +31987,7 @@ const leaderboardData = {
             "average_stat_value": 7.65,
             "is_guild_member": true,
             "rating_delta": -13.639989589585184,
-            "rank": 26
+            "rank": 25
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -32321,7 +31999,7 @@ const leaderboardData = {
             "average_stat_value": 7.45,
             "is_guild_member": false,
             "rating_delta": -36.729999432937575,
-            "rank": 27
+            "rank": 26
           },
           {
             "account_name": "modus.7921",
@@ -32333,7 +32011,7 @@ const leaderboardData = {
             "average_stat_value": 8.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 28
+            "rank": 27
           },
           {
             "account_name": "Mellis.8451",
@@ -32345,7 +32023,7 @@ const leaderboardData = {
             "average_stat_value": 6.7,
             "is_guild_member": true,
             "rating_delta": 19.596015800323357,
-            "rank": 29
+            "rank": 28
           },
           {
             "account_name": "acumen.1980",
@@ -32357,7 +32035,7 @@ const leaderboardData = {
             "average_stat_value": 7.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 30
+            "rank": 29
           },
           {
             "account_name": "mikefmc.5961",
@@ -32369,7 +32047,7 @@ const leaderboardData = {
             "average_stat_value": 7.8,
             "is_guild_member": true,
             "rating_delta": 15.026003652453255,
-            "rank": 31
+            "rank": 30
           },
           {
             "account_name": "CarlJunior.7832",
@@ -32381,7 +32059,7 @@ const leaderboardData = {
             "average_stat_value": 8.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 32
+            "rank": 31
           },
           {
             "account_name": "Lenorellei.9815",
@@ -32393,7 +32071,7 @@ const leaderboardData = {
             "average_stat_value": 7.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 33
+            "rank": 32
           },
           {
             "account_name": "Lasthope.7943",
@@ -32405,7 +32083,7 @@ const leaderboardData = {
             "average_stat_value": 7.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 34
+            "rank": 33
           },
           {
             "account_name": "adrielle.2109",
@@ -32417,7 +32095,7 @@ const leaderboardData = {
             "average_stat_value": 6.466666666666666,
             "is_guild_member": true,
             "rating_delta": -34.11659650241677,
-            "rank": 35
+            "rank": 34
           },
           {
             "account_name": "phobos.5290",
@@ -32429,7 +32107,7 @@ const leaderboardData = {
             "average_stat_value": 7.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 36
+            "rank": 35
           },
           {
             "account_name": "Huge.5891",
@@ -32441,7 +32119,7 @@ const leaderboardData = {
             "average_stat_value": 6.3625,
             "is_guild_member": true,
             "rating_delta": 13.279456254307206,
-            "rank": 37
+            "rank": 36
           },
           {
             "account_name": "Nero.6195",
@@ -32453,7 +32131,7 @@ const leaderboardData = {
             "average_stat_value": 6.633333333333333,
             "is_guild_member": true,
             "rating_delta": 16.222220370652394,
-            "rank": 38
+            "rank": 37
           },
           {
             "account_name": "Malek.9417",
@@ -32465,7 +32143,7 @@ const leaderboardData = {
             "average_stat_value": 6.550000000000001,
             "is_guild_member": true,
             "rating_delta": -27.130055145751157,
-            "rank": 39
+            "rank": 38
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -32477,7 +32155,7 @@ const leaderboardData = {
             "average_stat_value": 6.45,
             "is_guild_member": true,
             "rating_delta": -35.39433649772741,
-            "rank": 40
+            "rank": 39
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -32489,7 +32167,7 @@ const leaderboardData = {
             "average_stat_value": 7.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 40
           },
           {
             "account_name": "neven.3785",
@@ -32501,7 +32179,7 @@ const leaderboardData = {
             "average_stat_value": 5.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 41
           },
           {
             "account_name": "synco.8132",
@@ -32513,7 +32191,7 @@ const leaderboardData = {
             "average_stat_value": 7.9,
             "is_guild_member": true,
             "rating_delta": 16.982278639412016,
-            "rank": 43
+            "rank": 42
           },
           {
             "account_name": "DareDevils.6039",
@@ -32525,7 +32203,7 @@ const leaderboardData = {
             "average_stat_value": 7.8,
             "is_guild_member": false,
             "rating_delta": -9.990537683374669,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "Havocus.3682",
@@ -32537,7 +32215,7 @@ const leaderboardData = {
             "average_stat_value": 5.9,
             "is_guild_member": true,
             "rating_delta": -11.010896426503905,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "Huge.5891",
@@ -32549,7 +32227,7 @@ const leaderboardData = {
             "average_stat_value": 6.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "Lasthope.7943",
@@ -32561,7 +32239,7 @@ const leaderboardData = {
             "average_stat_value": 7.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "Lozen.7623",
@@ -32573,7 +32251,7 @@ const leaderboardData = {
             "average_stat_value": 6.45,
             "is_guild_member": true,
             "rating_delta": -14.778624274073763,
-            "rank": 48
+            "rank": 47
           },
           {
             "account_name": "Mini.1786",
@@ -32585,7 +32263,7 @@ const leaderboardData = {
             "average_stat_value": 6.6,
             "is_guild_member": false,
             "rating_delta": -18.494954751708065,
-            "rank": 49
+            "rank": 48
           },
           {
             "account_name": "Narizinho.3052",
@@ -32597,7 +32275,7 @@ const leaderboardData = {
             "average_stat_value": 6.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 50
+            "rank": 49
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -32609,7 +32287,7 @@ const leaderboardData = {
             "average_stat_value": 5.5,
             "is_guild_member": true,
             "rating_delta": -61.148559847464185,
-            "rank": 51
+            "rank": 50
           },
           {
             "account_name": "Uriah.7082",
@@ -32621,7 +32299,7 @@ const leaderboardData = {
             "average_stat_value": 7.0,
             "is_guild_member": true,
             "rating_delta": -19.584914294325472,
-            "rank": 52
+            "rank": 51
           },
           {
             "account_name": "aznsleeper.5896",
@@ -32633,7 +32311,7 @@ const leaderboardData = {
             "average_stat_value": 5.55,
             "is_guild_member": true,
             "rating_delta": 43.10522201608046,
-            "rank": 53
+            "rank": 52
           },
           {
             "account_name": "Nictheman.9754",
@@ -32645,7 +32323,7 @@ const leaderboardData = {
             "average_stat_value": 6.05,
             "is_guild_member": true,
             "rating_delta": 6.240819461347428,
-            "rank": 54
+            "rank": 53
           },
           {
             "account_name": "Rapscallion.3571",
@@ -32657,7 +32335,7 @@ const leaderboardData = {
             "average_stat_value": 5.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 55
+            "rank": 54
           },
           {
             "account_name": "Hund.6875",
@@ -32669,7 +32347,7 @@ const leaderboardData = {
             "average_stat_value": 5.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 56
+            "rank": 55
           },
           {
             "account_name": "Basic.9204",
@@ -32681,7 +32359,7 @@ const leaderboardData = {
             "average_stat_value": 5.25,
             "is_guild_member": true,
             "rating_delta": 1.4553548337407847,
-            "rank": 57
+            "rank": 56
           },
           {
             "account_name": "Naomi.5372",
@@ -32693,7 +32371,7 @@ const leaderboardData = {
             "average_stat_value": 5.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 58
+            "rank": 57
           },
           {
             "account_name": "Uriah.7082",
@@ -32705,7 +32383,7 @@ const leaderboardData = {
             "average_stat_value": 5.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 59
+            "rank": 58
           },
           {
             "account_name": "Mortealug.6043",
@@ -32717,7 +32395,7 @@ const leaderboardData = {
             "average_stat_value": 5.6,
             "is_guild_member": false,
             "rating_delta": -52.830909602095744,
-            "rank": 60
+            "rank": 59
           },
           {
             "account_name": "Mellis.8451",
@@ -32729,7 +32407,7 @@ const leaderboardData = {
             "average_stat_value": 5.1,
             "is_guild_member": true,
             "rating_delta": -27.26877460721812,
-            "rank": 61
+            "rank": 60
           },
           {
             "account_name": "Pseven.4867",
@@ -32741,7 +32419,7 @@ const leaderboardData = {
             "average_stat_value": 5.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 62
+            "rank": 61
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -32753,7 +32431,7 @@ const leaderboardData = {
             "average_stat_value": 5.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 63
+            "rank": 62
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -32765,7 +32443,7 @@ const leaderboardData = {
             "average_stat_value": 5.5,
             "is_guild_member": true,
             "rating_delta": 7.599535079005818,
-            "rank": 64
+            "rank": 63
           },
           {
             "account_name": "Malek.9417",
@@ -32777,7 +32455,7 @@ const leaderboardData = {
             "average_stat_value": 5.3,
             "is_guild_member": true,
             "rating_delta": -17.414257518831164,
-            "rank": 65
+            "rank": 64
           },
           {
             "account_name": "DareDevils.6039",
@@ -32789,7 +32467,7 @@ const leaderboardData = {
             "average_stat_value": 5.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 66
+            "rank": 65
           },
           {
             "account_name": "Morg.3084",
@@ -32801,7 +32479,7 @@ const leaderboardData = {
             "average_stat_value": 5.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 66
           },
           {
             "account_name": "Freelanced.6084",
@@ -32813,7 +32491,7 @@ const leaderboardData = {
             "average_stat_value": 5.1,
             "is_guild_member": true,
             "rating_delta": -23.007011333454784,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "phobos.5290",
@@ -32825,7 +32503,7 @@ const leaderboardData = {
             "average_stat_value": 4.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "Smile.9284",
@@ -32837,19 +32515,7 @@ const leaderboardData = {
             "average_stat_value": 4.818181818181818,
             "is_guild_member": true,
             "rating_delta": -1.7664692190262485,
-            "rank": 70
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "profession": "Berserker",
-            "glicko_rating": 1488.8905312218083,
-            "composite_score": 1488.8905312218083,
-            "games_played": 1,
-            "average_rank_percent": 6.0,
-            "average_stat_value": 2.1,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 71
+            "rank": 69
           },
           {
             "account_name": "Nero.6195",
@@ -32861,7 +32527,7 @@ const leaderboardData = {
             "average_stat_value": 4.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 72
+            "rank": 70
           },
           {
             "account_name": "modus.7921",
@@ -32873,19 +32539,7 @@ const leaderboardData = {
             "average_stat_value": 4.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 73
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1479.4375067833862,
-            "composite_score": 1479.4375067833862,
-            "games_played": 2,
-            "average_rank_percent": 7.5,
-            "average_stat_value": 2.4,
-            "is_guild_member": true,
-            "rating_delta": -73.52790333938151,
-            "rank": 74
+            "rank": 71
           },
           {
             "account_name": "Malek.9417",
@@ -32897,7 +32551,7 @@ const leaderboardData = {
             "average_stat_value": 4.300000000000001,
             "is_guild_member": true,
             "rating_delta": -9.23154527171232,
-            "rank": 75
+            "rank": 72
           },
           {
             "account_name": "Nero.6195",
@@ -32909,7 +32563,7 @@ const leaderboardData = {
             "average_stat_value": 3.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 73
           },
           {
             "account_name": "enKoDed.1563",
@@ -32921,7 +32575,7 @@ const leaderboardData = {
             "average_stat_value": 3.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 77
+            "rank": 74
           },
           {
             "account_name": "Gismor.8407",
@@ -32933,7 +32587,7 @@ const leaderboardData = {
             "average_stat_value": 4.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 78
+            "rank": 75
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -32945,7 +32599,7 @@ const leaderboardData = {
             "average_stat_value": 4.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 79
+            "rank": 76
           },
           {
             "account_name": "Souza.1562",
@@ -32957,31 +32611,7 @@ const leaderboardData = {
             "average_stat_value": 3.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 80
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1470.4736009178364,
-            "composite_score": 1470.4736009178364,
-            "games_played": 1,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 1.8,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 81
-          },
-          {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1468.3726193836571,
-            "composite_score": 1468.3726193836571,
-            "games_played": 4,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 3.3,
-            "is_guild_member": true,
-            "rating_delta": -15.77966862241965,
-            "rank": 82
+            "rank": 77
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -32993,7 +32623,7 @@ const leaderboardData = {
             "average_stat_value": 3.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 83
+            "rank": 78
           },
           {
             "account_name": "LilJoker.2658",
@@ -33005,7 +32635,19 @@ const leaderboardData = {
             "average_stat_value": 5.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 84
+            "rank": 79
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1453.6901434083873,
+            "composite_score": 1453.6901434083873,
+            "games_played": 3,
+            "average_rank_percent": 7.666666666666667,
+            "average_stat_value": 3.5666666666666664,
+            "is_guild_member": true,
+            "rating_delta": -15.77966862241965,
+            "rank": 80
           },
           {
             "account_name": "phobos.5290",
@@ -33017,7 +32659,7 @@ const leaderboardData = {
             "average_stat_value": 3.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 85
+            "rank": 81
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -33029,7 +32671,7 @@ const leaderboardData = {
             "average_stat_value": 4.216666666666666,
             "is_guild_member": true,
             "rating_delta": -6.391382870602001,
-            "rank": 86
+            "rank": 82
           },
           {
             "account_name": "synco.8132",
@@ -33041,7 +32683,7 @@ const leaderboardData = {
             "average_stat_value": 4.9,
             "is_guild_member": true,
             "rating_delta": -34.00395240939861,
-            "rank": 87
+            "rank": 83
           },
           {
             "account_name": "Havocus.3682",
@@ -33053,7 +32695,7 @@ const leaderboardData = {
             "average_stat_value": 3.3,
             "is_guild_member": true,
             "rating_delta": -62.31182993797688,
-            "rank": 88
+            "rank": 84
           },
           {
             "account_name": "Ouji.7839",
@@ -33065,19 +32707,7 @@ const leaderboardData = {
             "average_stat_value": 3.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 89
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1435.949495283752,
-            "composite_score": 1435.949495283752,
-            "games_played": 1,
-            "average_rank_percent": 8.0,
-            "average_stat_value": 1.2,
-            "is_guild_member": true,
-            "rating_delta": -19.727378023538677,
-            "rank": 90
+            "rank": 85
           },
           {
             "account_name": "Bayushi.7914",
@@ -33089,7 +32719,7 @@ const leaderboardData = {
             "average_stat_value": 2.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 86
           },
           {
             "account_name": "Johnny.5478",
@@ -33101,7 +32731,19 @@ const leaderboardData = {
             "average_stat_value": 4.044444444444444,
             "is_guild_member": true,
             "rating_delta": -2.1414597802547632,
-            "rank": 92
+            "rank": 87
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1432.331488459847,
+            "composite_score": 1432.331488459847,
+            "games_played": 1,
+            "average_rank_percent": 11.0,
+            "average_stat_value": 1.9,
+            "is_guild_member": true,
+            "rating_delta": -73.52790333938151,
+            "rank": 88
           },
           {
             "account_name": "Astro Bear.6305",
@@ -33113,7 +32755,7 @@ const leaderboardData = {
             "average_stat_value": 1.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 89
           },
           {
             "account_name": "Argo.2675",
@@ -33125,7 +32767,7 @@ const leaderboardData = {
             "average_stat_value": 4.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 94
+            "rank": 90
           },
           {
             "account_name": "synco.8132",
@@ -33137,19 +32779,7 @@ const leaderboardData = {
             "average_stat_value": 3.5,
             "is_guild_member": true,
             "rating_delta": -29.56551185301919,
-            "rank": 95
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1425.4656917534078,
-            "composite_score": 1425.4656917534078,
-            "games_played": 1,
-            "average_rank_percent": 9.0,
-            "average_stat_value": 1.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 96
+            "rank": 91
           },
           {
             "account_name": "red armadillo.4593",
@@ -33161,7 +32791,7 @@ const leaderboardData = {
             "average_stat_value": 2.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 92
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -33173,7 +32803,7 @@ const leaderboardData = {
             "average_stat_value": 2.7,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 93
           },
           {
             "account_name": "harasho.4281",
@@ -33185,7 +32815,7 @@ const leaderboardData = {
             "average_stat_value": 2.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 94
           },
           {
             "account_name": "bielzin.5084",
@@ -33197,7 +32827,19 @@ const leaderboardData = {
             "average_stat_value": 2.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 100
+            "rank": 95
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1419.0758848624419,
+            "composite_score": 1419.0758848624419,
+            "games_played": 2,
+            "average_rank_percent": 12.5,
+            "average_stat_value": 2.5,
+            "is_guild_member": true,
+            "rating_delta": 18.227979267976707,
+            "rank": 96
           },
           {
             "account_name": "Interpretor.3091",
@@ -33209,7 +32851,7 @@ const leaderboardData = {
             "average_stat_value": 1.4,
             "is_guild_member": true,
             "rating_delta": -8.133255827711537,
-            "rank": 101
+            "rank": 97
           },
           {
             "account_name": "Smile.9284",
@@ -33221,7 +32863,7 @@ const leaderboardData = {
             "average_stat_value": 2.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 98
           },
           {
             "account_name": "Bother.9415",
@@ -33233,7 +32875,7 @@ const leaderboardData = {
             "average_stat_value": 2.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 99
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -33245,7 +32887,7 @@ const leaderboardData = {
             "average_stat_value": 3.05,
             "is_guild_member": true,
             "rating_delta": -36.07644505848975,
-            "rank": 104
+            "rank": 100
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -33257,7 +32899,7 @@ const leaderboardData = {
             "average_stat_value": 1.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 105
+            "rank": 101
           },
           {
             "account_name": "rob.7042",
@@ -33269,7 +32911,7 @@ const leaderboardData = {
             "average_stat_value": 2.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 102
           },
           {
             "account_name": "asdfghjk.8241",
@@ -33281,19 +32923,7 @@ const leaderboardData = {
             "average_stat_value": 2.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1398.442621082045,
-            "composite_score": 1398.442621082045,
-            "games_played": 3,
-            "average_rank_percent": 11.333333333333334,
-            "average_stat_value": 2.0,
-            "is_guild_member": true,
-            "rating_delta": 18.227979267976707,
-            "rank": 108
+            "rank": 103
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -33305,7 +32935,7 @@ const leaderboardData = {
             "average_stat_value": 1.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 104
           },
           {
             "account_name": "acumen.1980",
@@ -33317,7 +32947,7 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 105
           },
           {
             "account_name": "Malek.9417",
@@ -33329,7 +32959,7 @@ const leaderboardData = {
             "average_stat_value": 3.0,
             "is_guild_member": true,
             "rating_delta": -50.892242541049654,
-            "rank": 111
+            "rank": 106
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -33341,7 +32971,7 @@ const leaderboardData = {
             "average_stat_value": 1.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 112
+            "rank": 107
           },
           {
             "account_name": "zectra.6978",
@@ -33353,7 +32983,7 @@ const leaderboardData = {
             "average_stat_value": 2.6999999999999997,
             "is_guild_member": false,
             "rating_delta": -37.76092926180195,
-            "rank": 113
+            "rank": 108
           },
           {
             "account_name": "Kuwat.4703",
@@ -33365,7 +32995,7 @@ const leaderboardData = {
             "average_stat_value": 1.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 114
+            "rank": 109
           },
           {
             "account_name": "acumen.1980",
@@ -33377,7 +33007,7 @@ const leaderboardData = {
             "average_stat_value": 1.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 115
+            "rank": 110
           },
           {
             "account_name": "tCut.7856",
@@ -33389,7 +33019,7 @@ const leaderboardData = {
             "average_stat_value": 1.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 116
+            "rank": 111
           },
           {
             "account_name": "OPness.3215",
@@ -33401,7 +33031,7 @@ const leaderboardData = {
             "average_stat_value": 3.0,
             "is_guild_member": true,
             "rating_delta": -11.981493069974476,
-            "rank": 117
+            "rank": 112
           },
           {
             "account_name": "Freelanced.6084",
@@ -33413,7 +33043,7 @@ const leaderboardData = {
             "average_stat_value": 1.7,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 118
+            "rank": 113
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -33425,7 +33055,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 119
+            "rank": 114
           },
           {
             "account_name": "aureliocf.7324",
@@ -33437,7 +33067,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 120
+            "rank": 115
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -33449,7 +33079,7 @@ const leaderboardData = {
             "average_stat_value": 3.28,
             "is_guild_member": true,
             "rating_delta": -14.199513470454804,
-            "rank": 121
+            "rank": 116
           },
           {
             "account_name": "CarlJunior.7832",
@@ -33461,7 +33091,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 117
           },
           {
             "account_name": "I R R Y.9128",
@@ -33473,7 +33103,7 @@ const leaderboardData = {
             "average_stat_value": 1.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 118
           },
           {
             "account_name": "arrsc.9046",
@@ -33485,7 +33115,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 119
           },
           {
             "account_name": "Drigan.7382",
@@ -33497,7 +33127,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 120
           },
           {
             "account_name": "Lord.7561",
@@ -33509,7 +33139,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 121
           },
           {
             "account_name": "Stash.8401",
@@ -33521,7 +33151,19 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 122
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1373.1075332001221,
+            "composite_score": 1373.1075332001221,
+            "games_played": 1,
+            "average_rank_percent": 17.0,
+            "average_stat_value": 0.9,
+            "is_guild_member": true,
+            "rating_delta": -33.207168374640105,
+            "rank": 123
           },
           {
             "account_name": "Lord.7561",
@@ -33533,7 +33175,7 @@ const leaderboardData = {
             "average_stat_value": 1.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 128
+            "rank": 124
           },
           {
             "account_name": "Nictheman.9754",
@@ -33545,7 +33187,7 @@ const leaderboardData = {
             "average_stat_value": 1.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -33557,7 +33199,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 130
+            "rank": 126
           },
           {
             "account_name": "Generic Player.4067",
@@ -33569,7 +33211,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 131
+            "rank": 127
           },
           {
             "account_name": "Lozen.7623",
@@ -33581,7 +33223,7 @@ const leaderboardData = {
             "average_stat_value": 2.0,
             "is_guild_member": true,
             "rating_delta": -44.945061424549294,
-            "rank": 132
+            "rank": 128
           },
           {
             "account_name": "Shy.3108",
@@ -33593,7 +33235,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 133
+            "rank": 129
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -33605,7 +33247,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 134
+            "rank": 130
           },
           {
             "account_name": "Krounen.7028",
@@ -33617,7 +33259,7 @@ const leaderboardData = {
             "average_stat_value": 1.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 135
+            "rank": 131
           },
           {
             "account_name": "Hiraldo.7954",
@@ -33629,7 +33271,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 136
+            "rank": 132
           },
           {
             "account_name": "Dextra.8162",
@@ -33641,7 +33283,7 @@ const leaderboardData = {
             "average_stat_value": 1.3,
             "is_guild_member": true,
             "rating_delta": -46.0283586806479,
-            "rank": 137
+            "rank": 133
           },
           {
             "account_name": "Mona.9180",
@@ -33653,7 +33295,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 138
+            "rank": 134
           },
           {
             "account_name": "Astro Bear.6305",
@@ -33665,7 +33307,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 139
+            "rank": 135
           },
           {
             "account_name": "Asper.2863",
@@ -33677,19 +33319,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 140
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1353.1906931294234,
-            "composite_score": 1353.1906931294234,
-            "games_played": 2,
-            "average_rank_percent": 14.0,
-            "average_stat_value": 0.8500000000000001,
-            "is_guild_member": true,
-            "rating_delta": -33.207168374640105,
-            "rank": 141
+            "rank": 136
           },
           {
             "account_name": "Mes.1906",
@@ -33701,7 +33331,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 142
+            "rank": 137
           },
           {
             "account_name": "Wildcassandra.8463",
@@ -33713,7 +33343,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 143
+            "rank": 138
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -33725,7 +33355,7 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 144
+            "rank": 139
           },
           {
             "account_name": "MasterScrub.1396",
@@ -33737,7 +33367,19 @@ const leaderboardData = {
             "average_stat_value": 1.85,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 145
+            "rank": 140
+          },
+          {
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "glicko_rating": 1340.8178445800584,
+            "composite_score": 1340.8178445800584,
+            "games_played": 2,
+            "average_rank_percent": 17.5,
+            "average_stat_value": 1.7,
+            "is_guild_member": true,
+            "rating_delta": -16.137838046858406,
+            "rank": 141
           },
           {
             "account_name": "Elgar.2091",
@@ -33749,7 +33391,7 @@ const leaderboardData = {
             "average_stat_value": 1.45,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 146
+            "rank": 142
           },
           {
             "account_name": "Nictheman.9754",
@@ -33761,7 +33403,7 @@ const leaderboardData = {
             "average_stat_value": 1.7,
             "is_guild_member": true,
             "rating_delta": -13.251290958083246,
-            "rank": 147
+            "rank": 143
           },
           {
             "account_name": "I R R Y.9128",
@@ -33773,19 +33415,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 148
-          },
-          {
-            "account_name": "Aein.1483",
-            "profession": "Vindicator",
-            "glicko_rating": 1322.2042873587552,
-            "composite_score": 1322.2042873587552,
-            "games_played": 3,
-            "average_rank_percent": 16.0,
-            "average_stat_value": 1.2666666666666666,
-            "is_guild_member": true,
-            "rating_delta": -16.137838046858406,
-            "rank": 149
+            "rank": 144
           },
           {
             "account_name": "Nictheman.9754",
@@ -33797,7 +33427,7 @@ const leaderboardData = {
             "average_stat_value": 1.625,
             "is_guild_member": true,
             "rating_delta": -57.86466144045403,
-            "rank": 150
+            "rank": 145
           },
           {
             "account_name": "Huge.5891",
@@ -33809,7 +33439,7 @@ const leaderboardData = {
             "average_stat_value": 1.9666666666666666,
             "is_guild_member": true,
             "rating_delta": -9.502037541818254,
-            "rank": 151
+            "rank": 146
           },
           {
             "account_name": "Lasthope.7943",
@@ -33821,19 +33451,19 @@ const leaderboardData = {
             "average_stat_value": 2.16,
             "is_guild_member": true,
             "rating_delta": -23.713998100688514,
-            "rank": 152
+            "rank": 147
           },
           {
             "account_name": "Syde.1863",
             "profession": "Scourge",
-            "glicko_rating": 1276.7953023749626,
-            "composite_score": 1276.7953023749626,
-            "games_played": 4,
-            "average_rank_percent": 17.25,
-            "average_stat_value": 0.8,
+            "glicko_rating": 1281.276980560955,
+            "composite_score": 1281.276980560955,
+            "games_played": 3,
+            "average_rank_percent": 18.666666666666668,
+            "average_stat_value": 0.9333333333333332,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 153
+            "rank": 148
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -33845,19 +33475,19 @@ const leaderboardData = {
             "average_stat_value": 1.3666666666666665,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 154
+            "rank": 149
           },
           {
             "account_name": "Aromapaloma.3194",
             "profession": "Tempest",
-            "glicko_rating": 1264.9143586501532,
-            "composite_score": 1264.9143586501532,
-            "games_played": 6,
-            "average_rank_percent": 18.833333333333332,
-            "average_stat_value": 0.8666666666666667,
+            "glicko_rating": 1262.9657476795142,
+            "composite_score": 1262.9657476795142,
+            "games_played": 5,
+            "average_rank_percent": 20.2,
+            "average_stat_value": 0.9199999999999999,
             "is_guild_member": true,
             "rating_delta": -44.169854068408995,
-            "rank": 155
+            "rank": 150
           },
           {
             "account_name": "Uriah.7082",
@@ -33869,7 +33499,7 @@ const leaderboardData = {
             "average_stat_value": 1.3333333333333333,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 156
+            "rank": 151
           },
           {
             "account_name": "Mellis.8451",
@@ -33881,7 +33511,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 157
+            "rank": 152
           },
           {
             "account_name": "Lasthope.7943",
@@ -33893,7 +33523,7 @@ const leaderboardData = {
             "average_stat_value": 0.8714285714285713,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 158
+            "rank": 153
           }
         ],
         "Resistance": [
@@ -33946,18 +33576,6 @@ const leaderboardData = {
             "rank": 4
           },
           {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Chronomancer",
-            "glicko_rating": 1733.6237011052149,
-            "composite_score": 1733.6237011052149,
-            "games_played": 2,
-            "average_rank_percent": 1.0,
-            "average_stat_value": 0.75,
-            "is_guild_member": true,
-            "rating_delta": 52.17669201881267,
-            "rank": 5
-          },
-          {
             "account_name": "Nero.6195",
             "profession": "Firebrand",
             "glicko_rating": 1724.9384340052575,
@@ -33967,7 +33585,7 @@ const leaderboardData = {
             "average_stat_value": 0.875,
             "is_guild_member": true,
             "rating_delta": 13.421776537751384,
-            "rank": 6
+            "rank": 5
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -33979,7 +33597,7 @@ const leaderboardData = {
             "average_stat_value": 0.95,
             "is_guild_member": true,
             "rating_delta": 67.82787149012188,
-            "rank": 7
+            "rank": 6
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -33991,7 +33609,7 @@ const leaderboardData = {
             "average_stat_value": 1.1333333333333335,
             "is_guild_member": true,
             "rating_delta": 47.309105270417604,
-            "rank": 8
+            "rank": 7
           },
           {
             "account_name": "Uriah.7082",
@@ -34003,7 +33621,7 @@ const leaderboardData = {
             "average_stat_value": 1.1,
             "is_guild_member": true,
             "rating_delta": 65.49845977051154,
-            "rank": 9
+            "rank": 8
           },
           {
             "account_name": "Mellis.8451",
@@ -34015,7 +33633,7 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": true,
             "rating_delta": 21.557822041613235,
-            "rank": 10
+            "rank": 9
           },
           {
             "account_name": "Nictheman.9754",
@@ -34027,7 +33645,7 @@ const leaderboardData = {
             "average_stat_value": 0.75,
             "is_guild_member": true,
             "rating_delta": 7.106468629042183,
-            "rank": 11
+            "rank": 10
           },
           {
             "account_name": "OPness.3215",
@@ -34039,7 +33657,7 @@ const leaderboardData = {
             "average_stat_value": 0.9500000000000001,
             "is_guild_member": true,
             "rating_delta": 0.10066170313371003,
-            "rank": 12
+            "rank": 11
           },
           {
             "account_name": "synco.8132",
@@ -34051,7 +33669,7 @@ const leaderboardData = {
             "average_stat_value": 0.7333333333333334,
             "is_guild_member": true,
             "rating_delta": -49.31794536408347,
-            "rank": 13
+            "rank": 12
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -34063,6 +33681,18 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": false,
             "rating_delta": 1.6022500526935346,
+            "rank": 13
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Chronomancer",
+            "glicko_rating": 1669.4213408417584,
+            "composite_score": 1669.4213408417584,
+            "games_played": 1,
+            "average_rank_percent": 1.0,
+            "average_stat_value": 1.1,
+            "is_guild_member": true,
+            "rating_delta": 52.17669201881267,
             "rank": 14
           },
           {
@@ -34222,18 +33852,6 @@ const leaderboardData = {
             "rank": 27
           },
           {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1621.2823140096832,
-            "composite_score": 1621.2823140096832,
-            "games_played": 2,
-            "average_rank_percent": 3.0,
-            "average_stat_value": 0.4,
-            "is_guild_member": true,
-            "rating_delta": 53.888133262216115,
-            "rank": 28
-          },
-          {
             "account_name": "Ouji.7839",
             "profession": "Support Spb",
             "glicko_rating": 1616.6485971614234,
@@ -34243,7 +33861,7 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 29
+            "rank": 28
           },
           {
             "account_name": "Havocus.3682",
@@ -34255,7 +33873,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": true,
             "rating_delta": 0.2769542794198969,
-            "rank": 30
+            "rank": 29
           },
           {
             "account_name": "Mellis.8451",
@@ -34267,7 +33885,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": true,
             "rating_delta": -41.5100270497403,
-            "rank": 31
+            "rank": 30
           },
           {
             "account_name": "Uriah.7082",
@@ -34279,19 +33897,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": true,
             "rating_delta": 6.6556776651623295,
-            "rank": 32
-          },
-          {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1598.7308494704585,
-            "composite_score": 1598.7308494704585,
-            "games_played": 1,
-            "average_rank_percent": 2.0,
-            "average_stat_value": 0.3,
-            "is_guild_member": true,
-            "rating_delta": -18.351701487059245,
-            "rank": 33
+            "rank": 31
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -34303,7 +33909,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 34
+            "rank": 32
           },
           {
             "account_name": "modus.7921",
@@ -34315,7 +33921,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 35
+            "rank": 33
           },
           {
             "account_name": "Xarahait.8051",
@@ -34327,7 +33933,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 36
+            "rank": 34
           },
           {
             "account_name": "Morg.3084",
@@ -34339,7 +33945,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 37
+            "rank": 35
           },
           {
             "account_name": "Smile.9284",
@@ -34351,7 +33957,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 38
+            "rank": 36
           },
           {
             "account_name": "Narizinho.3052",
@@ -34363,7 +33969,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 39
+            "rank": 37
           },
           {
             "account_name": "Nero.6195",
@@ -34375,7 +33981,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 40
+            "rank": 38
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -34387,7 +33993,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 39
           },
           {
             "account_name": "rob.7042",
@@ -34399,7 +34005,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 40
           },
           {
             "account_name": "Lenorellei.9815",
@@ -34411,7 +34017,19 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 43
+            "rank": 41
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1575.8520396455233,
+            "composite_score": 1575.8520396455233,
+            "games_played": 1,
+            "average_rank_percent": 4.0,
+            "average_stat_value": 0.5,
+            "is_guild_member": true,
+            "rating_delta": 53.888133262216115,
+            "rank": 42
           },
           {
             "account_name": "Malek.9417",
@@ -34423,7 +34041,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "Argo.2675",
@@ -34435,7 +34053,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -34447,7 +34065,7 @@ const leaderboardData = {
             "average_stat_value": 0.5444444444444445,
             "is_guild_member": true,
             "rating_delta": -3.15544182171152,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "Argo.2675",
@@ -34459,7 +34077,7 @@ const leaderboardData = {
             "average_stat_value": 0.6000000000000001,
             "is_guild_member": true,
             "rating_delta": -7.696136470133752,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "Malek.9417",
@@ -34471,7 +34089,7 @@ const leaderboardData = {
             "average_stat_value": 0.55,
             "is_guild_member": true,
             "rating_delta": -38.41438713442494,
-            "rank": 48
+            "rank": 47
           },
           {
             "account_name": "Pseven.4867",
@@ -34483,7 +34101,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 49
+            "rank": 48
           },
           {
             "account_name": "Huge.5891",
@@ -34495,7 +34113,7 @@ const leaderboardData = {
             "average_stat_value": 0.5625,
             "is_guild_member": true,
             "rating_delta": 15.667444269635553,
-            "rank": 50
+            "rank": 49
           },
           {
             "account_name": "Lozen.7623",
@@ -34507,7 +34125,7 @@ const leaderboardData = {
             "average_stat_value": 0.6000000000000001,
             "is_guild_member": true,
             "rating_delta": 50.97701949298312,
-            "rank": 51
+            "rank": 50
           },
           {
             "account_name": "Bricktus.1682",
@@ -34519,7 +34137,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 52
+            "rank": 51
           },
           {
             "account_name": "aznsleeper.5896",
@@ -34531,19 +34149,7 @@ const leaderboardData = {
             "average_stat_value": 0.525,
             "is_guild_member": true,
             "rating_delta": 23.55714271114107,
-            "rank": 53
-          },
-          {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1536.773865795268,
-            "composite_score": 1536.773865795268,
-            "games_played": 4,
-            "average_rank_percent": 4.75,
-            "average_stat_value": 0.425,
-            "is_guild_member": true,
-            "rating_delta": 6.703584804391767,
-            "rank": 54
+            "rank": 52
           },
           {
             "account_name": "phobos.5290",
@@ -34555,7 +34161,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 55
+            "rank": 53
           },
           {
             "account_name": "Johnny.5478",
@@ -34567,7 +34173,7 @@ const leaderboardData = {
             "average_stat_value": 0.5222222222222223,
             "is_guild_member": true,
             "rating_delta": -2.3344725646006736,
-            "rank": 56
+            "rank": 54
           },
           {
             "account_name": "Malek.9417",
@@ -34579,7 +34185,7 @@ const leaderboardData = {
             "average_stat_value": 0.65,
             "is_guild_member": true,
             "rating_delta": 6.721063077882718,
-            "rank": 57
+            "rank": 55
           },
           {
             "account_name": "Asper.2863",
@@ -34591,7 +34197,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 58
+            "rank": 56
           },
           {
             "account_name": "Mona.9180",
@@ -34603,7 +34209,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 59
+            "rank": 57
           },
           {
             "account_name": "Naomi.5372",
@@ -34615,7 +34221,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 60
+            "rank": 58
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -34627,7 +34233,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 61
+            "rank": 59
           },
           {
             "account_name": "harasho.4281",
@@ -34639,7 +34245,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 62
+            "rank": 60
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -34651,7 +34257,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": true,
             "rating_delta": -4.81207275680913,
-            "rank": 63
+            "rank": 61
           },
           {
             "account_name": "Muted.8591",
@@ -34663,7 +34269,7 @@ const leaderboardData = {
             "average_stat_value": 0.4571428571428572,
             "is_guild_member": true,
             "rating_delta": 1.8412764402551147,
-            "rank": 64
+            "rank": 62
           },
           {
             "account_name": "Bayushi.7914",
@@ -34675,7 +34281,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 65
+            "rank": 63
           },
           {
             "account_name": "Souza.1562",
@@ -34687,7 +34293,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 66
+            "rank": 64
           },
           {
             "account_name": "modus.7921",
@@ -34699,7 +34305,19 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 65
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1494.7048470887216,
+            "composite_score": 1494.7048470887216,
+            "games_played": 3,
+            "average_rank_percent": 5.666666666666667,
+            "average_stat_value": 0.4666666666666666,
+            "is_guild_member": true,
+            "rating_delta": 6.703584804391767,
+            "rank": 66
           },
           {
             "account_name": "Basic.9204",
@@ -34711,7 +34329,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": -26.160257254430235,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "Trail.8614",
@@ -34723,7 +34341,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "Theweemon.8459",
@@ -34735,7 +34353,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 70
+            "rank": 69
           },
           {
             "account_name": "phobos.5290",
@@ -34747,7 +34365,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 71
+            "rank": 70
           },
           {
             "account_name": "synco.8132",
@@ -34759,7 +34377,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": -21.813611478099347,
-            "rank": 72
+            "rank": 71
           },
           {
             "account_name": "zectra.6978",
@@ -34771,7 +34389,7 @@ const leaderboardData = {
             "average_stat_value": 0.3666666666666667,
             "is_guild_member": false,
             "rating_delta": 27.1748154759739,
-            "rank": 73
+            "rank": 72
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -34783,7 +34401,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 74
+            "rank": 73
           },
           {
             "account_name": "San.9704",
@@ -34795,7 +34413,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 75
+            "rank": 74
           },
           {
             "account_name": "Bother.9415",
@@ -34807,7 +34425,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 75
           },
           {
             "account_name": "acumen.1980",
@@ -34819,7 +34437,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 77
+            "rank": 76
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -34831,43 +34449,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 78
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "profession": "Berserker",
-            "glicko_rating": 1445.8743516774703,
-            "composite_score": 1445.8743516774703,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 0.2,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 79
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1445.8743516774703,
-            "composite_score": 1445.8743516774703,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 0.2,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 80
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1445.8743516774703,
-            "composite_score": 1445.8743516774703,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 0.2,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 81
+            "rank": 77
           },
           {
             "account_name": "BlueViolet.8263",
@@ -34879,7 +34461,7 @@ const leaderboardData = {
             "average_stat_value": 0.425,
             "is_guild_member": true,
             "rating_delta": -38.098649243014734,
-            "rank": 82
+            "rank": 78
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -34891,7 +34473,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 83
+            "rank": 79
           },
           {
             "account_name": "Interpretor.3091",
@@ -34903,7 +34485,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": -3.581803150882479,
-            "rank": 84
+            "rank": 80
           },
           {
             "account_name": "acumen.1980",
@@ -34915,7 +34497,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 85
+            "rank": 81
           },
           {
             "account_name": "neven.3785",
@@ -34927,7 +34509,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 86
+            "rank": 82
           },
           {
             "account_name": "Luke.9108",
@@ -34939,7 +34521,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 87
+            "rank": 83
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -34951,7 +34533,19 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": -1.1288270162392564,
-            "rank": 88
+            "rank": 84
+          },
+          {
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1432.309461559857,
+            "composite_score": 1432.309461559857,
+            "games_played": 10,
+            "average_rank_percent": 9.6,
+            "average_stat_value": 0.39,
+            "is_guild_member": true,
+            "rating_delta": -2.6241942147139525,
+            "rank": 85
           },
           {
             "account_name": "Elgar.2091",
@@ -34963,19 +34557,7 @@ const leaderboardData = {
             "average_stat_value": 0.35,
             "is_guild_member": true,
             "rating_delta": -30.844102573059217,
-            "rank": 89
-          },
-          {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1427.8799351903504,
-            "composite_score": 1427.8799351903504,
-            "games_played": 11,
-            "average_rank_percent": 9.181818181818182,
-            "average_stat_value": 0.3727272727272727,
-            "is_guild_member": true,
-            "rating_delta": -2.6241942147139525,
-            "rank": 90
+            "rank": 86
           },
           {
             "account_name": "CarlJunior.7832",
@@ -34987,7 +34569,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 87
           },
           {
             "account_name": "CarlJunior.7832",
@@ -34999,7 +34581,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 92
+            "rank": 88
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -35011,7 +34593,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 89
           },
           {
             "account_name": "Lord.7561",
@@ -35023,7 +34605,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 94
+            "rank": 90
           },
           {
             "account_name": "Nictheman.9754",
@@ -35035,7 +34617,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 95
+            "rank": 91
           },
           {
             "account_name": "Soothsayer.9206",
@@ -35047,7 +34629,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 92
           },
           {
             "account_name": "acumen.1980",
@@ -35059,7 +34641,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 93
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -35071,7 +34653,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": -44.56245904178604,
-            "rank": 98
+            "rank": 94
           },
           {
             "account_name": "phobos.5290",
@@ -35083,7 +34665,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 95
           },
           {
             "account_name": "Nero.6195",
@@ -35095,7 +34677,7 @@ const leaderboardData = {
             "average_stat_value": 0.3333333333333333,
             "is_guild_member": true,
             "rating_delta": 47.87008378443329,
-            "rank": 100
+            "rank": 96
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -35107,7 +34689,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 97
           },
           {
             "account_name": "Generic Player.4067",
@@ -35119,7 +34701,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 98
           },
           {
             "account_name": "Mini.1786",
@@ -35131,7 +34713,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 99
           },
           {
             "account_name": "bielzin.5084",
@@ -35143,7 +34725,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 104
+            "rank": 100
           },
           {
             "account_name": "Sselnoisiv.6130",
@@ -35155,7 +34737,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 105
+            "rank": 101
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -35167,7 +34749,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 102
           },
           {
             "account_name": "enKoDed.1563",
@@ -35179,7 +34761,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 103
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -35191,7 +34773,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 108
+            "rank": 104
           },
           {
             "account_name": "Jdchil.9561",
@@ -35203,7 +34785,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 105
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -35215,7 +34797,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 106
           },
           {
             "account_name": "Astro Bear.6305",
@@ -35227,7 +34809,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 107
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -35239,7 +34821,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 112
+            "rank": 108
           },
           {
             "account_name": "Nero.6195",
@@ -35251,7 +34833,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 113
+            "rank": 109
           },
           {
             "account_name": "Smile.9284",
@@ -35263,7 +34845,7 @@ const leaderboardData = {
             "average_stat_value": 0.3181818181818182,
             "is_guild_member": true,
             "rating_delta": -11.393900074058365,
-            "rank": 114
+            "rank": 110
           },
           {
             "account_name": "Malek.9417",
@@ -35275,7 +34857,7 @@ const leaderboardData = {
             "average_stat_value": 0.35,
             "is_guild_member": true,
             "rating_delta": -47.310252821329414,
-            "rank": 115
+            "rank": 111
           },
           {
             "account_name": "DareDevils.6039",
@@ -35287,7 +34869,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 116
+            "rank": 112
           },
           {
             "account_name": "Mini.1786",
@@ -35299,7 +34881,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 117
+            "rank": 113
           },
           {
             "account_name": "Mortealug.6043",
@@ -35311,7 +34893,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 118
+            "rank": 114
           },
           {
             "account_name": "acumen.1980",
@@ -35323,7 +34905,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 119
+            "rank": 115
           },
           {
             "account_name": "Hiraldo.7954",
@@ -35335,7 +34917,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 120
+            "rank": 116
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -35347,7 +34929,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 121
+            "rank": 117
           },
           {
             "account_name": "Hund.6875",
@@ -35359,7 +34941,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 118
           },
           {
             "account_name": "I R R Y.9128",
@@ -35371,7 +34953,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 119
           },
           {
             "account_name": "Syde.1863",
@@ -35383,7 +34965,19 @@ const leaderboardData = {
             "average_stat_value": 0.25,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 120
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1387.530298401582,
+            "composite_score": 1387.530298401582,
+            "games_played": 2,
+            "average_rank_percent": 13.5,
+            "average_stat_value": 0.2,
+            "is_guild_member": true,
+            "rating_delta": -18.052648719535227,
+            "rank": 121
           },
           {
             "account_name": "Nictheman.9754",
@@ -35395,7 +34989,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 122
           },
           {
             "account_name": "freecarl.1320",
@@ -35407,7 +35001,19 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 123
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1385.7507003402638,
+            "composite_score": 1385.7507003402638,
+            "games_played": 1,
+            "average_rank_percent": 14.0,
+            "average_stat_value": 0.1,
+            "is_guild_member": false,
+            "rating_delta": 0.0,
+            "rank": 124
           },
           {
             "account_name": "Malek.9417",
@@ -35419,31 +35025,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 127
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1385.3831597631633,
-            "composite_score": 1385.3831597631633,
-            "games_played": 3,
-            "average_rank_percent": 10.666666666666666,
-            "average_stat_value": 0.19999999999999998,
-            "is_guild_member": true,
-            "rating_delta": -18.052648719535227,
-            "rank": 128
-          },
-          {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1383.557611152834,
-            "composite_score": 1383.557611152834,
-            "games_played": 2,
-            "average_rank_percent": 9.5,
-            "average_stat_value": 0.15000000000000002,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "Mellis.8451",
@@ -35455,7 +35037,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": -91.79556735354936,
-            "rank": 130
+            "rank": 126
           },
           {
             "account_name": "red armadillo.4593",
@@ -35467,7 +35049,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 131
+            "rank": 127
           },
           {
             "account_name": "Huge.5891",
@@ -35479,7 +35061,7 @@ const leaderboardData = {
             "average_stat_value": 0.2333333333333333,
             "is_guild_member": true,
             "rating_delta": -12.698744283314454,
-            "rank": 132
+            "rank": 128
           },
           {
             "account_name": "Shy.3108",
@@ -35491,7 +35073,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 133
+            "rank": 129
           },
           {
             "account_name": "Chakkkka.2504",
@@ -35503,7 +35085,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 134
+            "rank": 130
           },
           {
             "account_name": "Rapscallion.3571",
@@ -35515,7 +35097,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 135
+            "rank": 131
           },
           {
             "account_name": "Wildcassandra.8463",
@@ -35527,7 +35109,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 136
+            "rank": 132
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -35539,7 +35121,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 137
+            "rank": 133
           },
           {
             "account_name": "Chakkkka.2504",
@@ -35551,7 +35133,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 138
+            "rank": 134
           },
           {
             "account_name": "Lozen.7623",
@@ -35563,7 +35145,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": -41.6723851679767,
-            "rank": 139
+            "rank": 135
           },
           {
             "account_name": "tCut.7856",
@@ -35575,7 +35157,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 140
+            "rank": 136
           },
           {
             "account_name": "Aein.1483",
@@ -35587,7 +35169,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": -24.80405717659164,
-            "rank": 141
+            "rank": 137
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -35599,7 +35181,7 @@ const leaderboardData = {
             "average_stat_value": 0.20000000000000004,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 142
+            "rank": 138
           },
           {
             "account_name": "Nictheman.9754",
@@ -35611,7 +35193,7 @@ const leaderboardData = {
             "average_stat_value": 0.20000000000000004,
             "is_guild_member": true,
             "rating_delta": -27.40793989550525,
-            "rank": 143
+            "rank": 139
           },
           {
             "account_name": "Bother.9415",
@@ -35623,19 +35205,7 @@ const leaderboardData = {
             "average_stat_value": 0.20000000000000004,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 144
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1355.852882529568,
-            "composite_score": 1355.852882529568,
-            "games_played": 3,
-            "average_rank_percent": 10.666666666666666,
-            "average_stat_value": 0.16666666666666666,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 145
+            "rank": 140
           },
           {
             "account_name": "MasterScrub.1396",
@@ -35647,19 +35217,19 @@ const leaderboardData = {
             "average_stat_value": 0.15000000000000002,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 146
+            "rank": 141
           },
           {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1350.5042336084562,
-            "composite_score": 1350.5042336084562,
-            "games_played": 1,
-            "average_rank_percent": 12.0,
-            "average_stat_value": 0.1,
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1348.7917267237233,
+            "composite_score": 1348.7917267237233,
+            "games_played": 2,
+            "average_rank_percent": 13.5,
+            "average_stat_value": 0.15000000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 147
+            "rank": 142
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -35671,7 +35241,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 148
+            "rank": 143
           },
           {
             "account_name": "adrielle.2109",
@@ -35683,7 +35253,7 @@ const leaderboardData = {
             "average_stat_value": 0.13333333333333333,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 149
+            "rank": 144
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -35695,7 +35265,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": -25.271981969548506,
-            "rank": 150
+            "rank": 145
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -35707,7 +35277,7 @@ const leaderboardData = {
             "average_stat_value": 0.21428571428571427,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 151
+            "rank": 146
           },
           {
             "account_name": "Astro Bear.6305",
@@ -35719,7 +35289,7 @@ const leaderboardData = {
             "average_stat_value": 0.21000000000000002,
             "is_guild_member": true,
             "rating_delta": 11.5799613297213,
-            "rank": 152
+            "rank": 147
           },
           {
             "account_name": "synco.8132",
@@ -35731,7 +35301,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 153
+            "rank": 148
           },
           {
             "account_name": "modus.7921",
@@ -35743,7 +35313,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": -6.470870008330394,
-            "rank": 154
+            "rank": 149
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -35755,7 +35325,7 @@ const leaderboardData = {
             "average_stat_value": 0.15714285714285717,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 150
           }
         ],
         "Might": [
@@ -35796,18 +35366,6 @@ const leaderboardData = {
             "rank": 3
           },
           {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1735.8929235685944,
-            "composite_score": 1735.8929235685944,
-            "games_played": 3,
-            "average_rank_percent": 3.0,
-            "average_stat_value": 11.633333333333333,
-            "is_guild_member": true,
-            "rating_delta": 30.384152733063956,
-            "rank": 4
-          },
-          {
             "account_name": "OPness.3215",
             "profession": "Support Spb",
             "glicko_rating": 1735.6446509688724,
@@ -35817,7 +35375,7 @@ const leaderboardData = {
             "average_stat_value": 31.5,
             "is_guild_member": true,
             "rating_delta": 5.837214033940427,
-            "rank": 5
+            "rank": 4
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -35829,7 +35387,7 @@ const leaderboardData = {
             "average_stat_value": 24.85,
             "is_guild_member": true,
             "rating_delta": 54.945123826610825,
-            "rank": 6
+            "rank": 5
           },
           {
             "account_name": "Bother.9415",
@@ -35841,6 +35399,18 @@ const leaderboardData = {
             "average_stat_value": 13.200000000000001,
             "is_guild_member": true,
             "rating_delta": 30.865415119170393,
+            "rank": 6
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1706.2271599200433,
+            "composite_score": 1706.2271599200433,
+            "games_played": 2,
+            "average_rank_percent": 3.5,
+            "average_stat_value": 13.8,
+            "is_guild_member": true,
+            "rating_delta": 30.384152733063956,
             "rank": 7
           },
           {
@@ -35988,6 +35558,18 @@ const leaderboardData = {
             "rank": 19
           },
           {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Chronomancer",
+            "glicko_rating": 1656.4503835264034,
+            "composite_score": 1656.4503835264034,
+            "games_played": 1,
+            "average_rank_percent": 2.0,
+            "average_stat_value": 13.4,
+            "is_guild_member": true,
+            "rating_delta": 40.650777137060004,
+            "rank": 20
+          },
+          {
             "account_name": "harasho.4281",
             "profession": "Spellbreaker",
             "glicko_rating": 1654.5665593086992,
@@ -35997,7 +35579,7 @@ const leaderboardData = {
             "average_stat_value": 25.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 20
+            "rank": 21
           },
           {
             "account_name": "Freelanced.6084",
@@ -36009,7 +35591,7 @@ const leaderboardData = {
             "average_stat_value": 11.9,
             "is_guild_member": true,
             "rating_delta": 90.17009948892519,
-            "rank": 21
+            "rank": 22
           },
           {
             "account_name": "synco.8132",
@@ -36021,7 +35603,7 @@ const leaderboardData = {
             "average_stat_value": 13.9,
             "is_guild_member": true,
             "rating_delta": 59.9991914496411,
-            "rank": 22
+            "rank": 23
           },
           {
             "account_name": "Smile.9284",
@@ -36033,7 +35615,7 @@ const leaderboardData = {
             "average_stat_value": 26.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 23
+            "rank": 24
           },
           {
             "account_name": "LilJoker.2658",
@@ -36045,7 +35627,7 @@ const leaderboardData = {
             "average_stat_value": 16.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 24
+            "rank": 25
           },
           {
             "account_name": "Azel.4786",
@@ -36057,7 +35639,7 @@ const leaderboardData = {
             "average_stat_value": 17.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 25
+            "rank": 26
           },
           {
             "account_name": "modus.7921",
@@ -36069,7 +35651,7 @@ const leaderboardData = {
             "average_stat_value": 12.0,
             "is_guild_member": true,
             "rating_delta": 43.47349941808102,
-            "rank": 26
+            "rank": 27
           },
           {
             "account_name": "Lasthope.7943",
@@ -36081,7 +35663,7 @@ const leaderboardData = {
             "average_stat_value": 14.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 27
+            "rank": 28
           },
           {
             "account_name": "synco.8132",
@@ -36093,7 +35675,7 @@ const leaderboardData = {
             "average_stat_value": 15.3,
             "is_guild_member": true,
             "rating_delta": 31.570214997146877,
-            "rank": 28
+            "rank": 29
           },
           {
             "account_name": "Nero.6195",
@@ -36105,7 +35687,7 @@ const leaderboardData = {
             "average_stat_value": 8.9,
             "is_guild_member": true,
             "rating_delta": 1.5614697108137534,
-            "rank": 29
+            "rank": 30
           },
           {
             "account_name": "Malek.9417",
@@ -36117,7 +35699,7 @@ const leaderboardData = {
             "average_stat_value": 12.5,
             "is_guild_member": true,
             "rating_delta": 49.92548343130147,
-            "rank": 30
+            "rank": 31
           },
           {
             "account_name": "Nero.6195",
@@ -36129,7 +35711,7 @@ const leaderboardData = {
             "average_stat_value": 10.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 31
+            "rank": 32
           },
           {
             "account_name": "Argo.2675",
@@ -36141,7 +35723,7 @@ const leaderboardData = {
             "average_stat_value": 14.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 32
+            "rank": 33
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -36153,7 +35735,7 @@ const leaderboardData = {
             "average_stat_value": 15.1,
             "is_guild_member": true,
             "rating_delta": 12.290959758335703,
-            "rank": 33
+            "rank": 34
           },
           {
             "account_name": "Huge.5891",
@@ -36165,7 +35747,7 @@ const leaderboardData = {
             "average_stat_value": 12.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 34
+            "rank": 35
           },
           {
             "account_name": "CarlJunior.7832",
@@ -36177,7 +35759,7 @@ const leaderboardData = {
             "average_stat_value": 14.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 35
+            "rank": 36
           },
           {
             "account_name": "Nictheman.9754",
@@ -36189,7 +35771,7 @@ const leaderboardData = {
             "average_stat_value": 8.825,
             "is_guild_member": true,
             "rating_delta": 2.001602822326504,
-            "rank": 36
+            "rank": 37
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -36201,7 +35783,7 @@ const leaderboardData = {
             "average_stat_value": 7.4,
             "is_guild_member": true,
             "rating_delta": 12.026799921095744,
-            "rank": 37
+            "rank": 38
           },
           {
             "account_name": "Astro Bear.6305",
@@ -36213,7 +35795,7 @@ const leaderboardData = {
             "average_stat_value": 8.25,
             "is_guild_member": true,
             "rating_delta": -4.303710767061602,
-            "rank": 38
+            "rank": 39
           },
           {
             "account_name": "Soothsayer.9206",
@@ -36225,7 +35807,7 @@ const leaderboardData = {
             "average_stat_value": 7.9,
             "is_guild_member": true,
             "rating_delta": 38.82397368727834,
-            "rank": 39
+            "rank": 40
           },
           {
             "account_name": "freecarl.1320",
@@ -36237,7 +35819,19 @@ const leaderboardData = {
             "average_stat_value": 13.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 40
+            "rank": 41
+          },
+          {
+            "account_name": "Freelanced.6084",
+            "profession": "Catalyst",
+            "glicko_rating": 1614.9675226398922,
+            "composite_score": 1614.9675226398922,
+            "games_played": 1,
+            "average_rank_percent": 5.0,
+            "average_stat_value": 10.5,
+            "is_guild_member": true,
+            "rating_delta": 31.721313492781974,
+            "rank": 42
           },
           {
             "account_name": "tCut.7856",
@@ -36249,7 +35843,7 @@ const leaderboardData = {
             "average_stat_value": 13.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 43
           },
           {
             "account_name": "Uriah.7082",
@@ -36261,7 +35855,7 @@ const leaderboardData = {
             "average_stat_value": 18.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 44
           },
           {
             "account_name": "synco.8132",
@@ -36273,7 +35867,7 @@ const leaderboardData = {
             "average_stat_value": 8.4,
             "is_guild_member": true,
             "rating_delta": -28.083068787150296,
-            "rank": 43
+            "rank": 45
           },
           {
             "account_name": "CarlJunior.7832",
@@ -36285,7 +35879,7 @@ const leaderboardData = {
             "average_stat_value": 13.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 44
+            "rank": 46
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -36297,7 +35891,7 @@ const leaderboardData = {
             "average_stat_value": 8.366666666666667,
             "is_guild_member": true,
             "rating_delta": -9.03049191119976,
-            "rank": 45
+            "rank": 47
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -36309,7 +35903,7 @@ const leaderboardData = {
             "average_stat_value": 13.0,
             "is_guild_member": true,
             "rating_delta": 25.395260887262566,
-            "rank": 46
+            "rank": 48
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -36321,7 +35915,7 @@ const leaderboardData = {
             "average_stat_value": 9.5,
             "is_guild_member": true,
             "rating_delta": -16.302184749419894,
-            "rank": 47
+            "rank": 49
           },
           {
             "account_name": "Havocus.3682",
@@ -36333,19 +35927,7 @@ const leaderboardData = {
             "average_stat_value": 12.6,
             "is_guild_member": true,
             "rating_delta": 9.85448968127389,
-            "rank": 48
-          },
-          {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1598.9955748277328,
-            "composite_score": 1598.9955748277328,
-            "games_played": 11,
-            "average_rank_percent": 8.454545454545455,
-            "average_stat_value": 9.627272727272727,
-            "is_guild_member": true,
-            "rating_delta": -1.7733545698793023,
-            "rank": 49
+            "rank": 50
           },
           {
             "account_name": "Luke.9108",
@@ -36357,7 +35939,7 @@ const leaderboardData = {
             "average_stat_value": 10.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 50
+            "rank": 51
           },
           {
             "account_name": "DareDevils.6039",
@@ -36369,7 +35951,7 @@ const leaderboardData = {
             "average_stat_value": 9.1,
             "is_guild_member": false,
             "rating_delta": 42.222825525111375,
-            "rank": 51
+            "rank": 52
           },
           {
             "account_name": "Uriah.7082",
@@ -36381,7 +35963,7 @@ const leaderboardData = {
             "average_stat_value": 14.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 52
+            "rank": 53
           },
           {
             "account_name": "DareDevils.6039",
@@ -36393,7 +35975,7 @@ const leaderboardData = {
             "average_stat_value": 10.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 53
+            "rank": 54
           },
           {
             "account_name": "Uriah.7082",
@@ -36405,18 +35987,6 @@ const leaderboardData = {
             "average_stat_value": 11.3,
             "is_guild_member": true,
             "rating_delta": 21.27314115575018,
-            "rank": 54
-          },
-          {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1582.9646008017733,
-            "composite_score": 1582.9646008017733,
-            "games_played": 2,
-            "average_rank_percent": 8.5,
-            "average_stat_value": 6.15,
-            "is_guild_member": false,
-            "rating_delta": -57.001103641477584,
             "rank": 55
           },
           {
@@ -36444,6 +36014,18 @@ const leaderboardData = {
             "rank": 57
           },
           {
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1576.3747301094386,
+            "composite_score": 1576.3747301094386,
+            "games_played": 10,
+            "average_rank_percent": 9.2,
+            "average_stat_value": 9.540000000000001,
+            "is_guild_member": true,
+            "rating_delta": -1.7733545698793023,
+            "rank": 58
+          },
+          {
             "account_name": "Chakkkka.2504",
             "profession": "Druid",
             "glicko_rating": 1574.3515693152738,
@@ -36453,7 +36035,7 @@ const leaderboardData = {
             "average_stat_value": 9.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 58
+            "rank": 59
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -36465,7 +36047,7 @@ const leaderboardData = {
             "average_stat_value": 11.35,
             "is_guild_member": true,
             "rating_delta": 65.20712203820221,
-            "rank": 59
+            "rank": 60
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -36477,7 +36059,7 @@ const leaderboardData = {
             "average_stat_value": 7.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 60
+            "rank": 61
           },
           {
             "account_name": "Freelanced.6084",
@@ -36489,7 +36071,7 @@ const leaderboardData = {
             "average_stat_value": 8.3,
             "is_guild_member": true,
             "rating_delta": -3.1916999814363862,
-            "rank": 61
+            "rank": 62
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -36501,7 +36083,7 @@ const leaderboardData = {
             "average_stat_value": 8.6,
             "is_guild_member": true,
             "rating_delta": 51.96545508812983,
-            "rank": 62
+            "rank": 63
           },
           {
             "account_name": "phobos.5290",
@@ -36513,7 +36095,7 @@ const leaderboardData = {
             "average_stat_value": 10.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 63
+            "rank": 64
           },
           {
             "account_name": "Theweemon.8459",
@@ -36525,7 +36107,7 @@ const leaderboardData = {
             "average_stat_value": 10.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 64
+            "rank": 65
           },
           {
             "account_name": "acumen.1980",
@@ -36537,7 +36119,7 @@ const leaderboardData = {
             "average_stat_value": 10.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 65
+            "rank": 66
           },
           {
             "account_name": "Elgar.2091",
@@ -36549,7 +36131,7 @@ const leaderboardData = {
             "average_stat_value": 8.899999999999999,
             "is_guild_member": true,
             "rating_delta": -36.11513933792753,
-            "rank": 66
+            "rank": 67
           },
           {
             "account_name": "San.9704",
@@ -36561,7 +36143,7 @@ const leaderboardData = {
             "average_stat_value": 7.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 68
           },
           {
             "account_name": "Havocus.3682",
@@ -36573,18 +36155,6 @@ const leaderboardData = {
             "average_stat_value": 5.7,
             "is_guild_member": true,
             "rating_delta": 18.34211983622731,
-            "rank": 68
-          },
-          {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1548.9201651667202,
-            "composite_score": 1548.9201651667202,
-            "games_played": 2,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 6.45,
-            "is_guild_member": true,
-            "rating_delta": 31.721313492781974,
             "rank": 69
           },
           {
@@ -36648,18 +36218,6 @@ const leaderboardData = {
             "rank": 74
           },
           {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Chronomancer",
-            "glicko_rating": 1536.2187035854085,
-            "composite_score": 1536.2187035854085,
-            "games_played": 2,
-            "average_rank_percent": 8.5,
-            "average_stat_value": 7.05,
-            "is_guild_member": true,
-            "rating_delta": 40.650777137060004,
-            "rank": 75
-          },
-          {
             "account_name": "Bayushi.7914",
             "profession": "Specter",
             "glicko_rating": 1535.0415282517772,
@@ -36669,7 +36227,7 @@ const leaderboardData = {
             "average_stat_value": 7.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 75
           },
           {
             "account_name": "Sselnoisiv.6130",
@@ -36681,19 +36239,7 @@ const leaderboardData = {
             "average_stat_value": 10.3,
             "is_guild_member": false,
             "rating_delta": 7.595223648183492,
-            "rank": 77
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1534.8285053997417,
-            "composite_score": 1534.8285053997417,
-            "games_played": 2,
-            "average_rank_percent": 10.0,
-            "average_stat_value": 5.25,
-            "is_guild_member": true,
-            "rating_delta": -28.109972975494884,
-            "rank": 78
+            "rank": 76
           },
           {
             "account_name": "Mellis.8451",
@@ -36705,7 +36251,7 @@ const leaderboardData = {
             "average_stat_value": 7.859999999999999,
             "is_guild_member": true,
             "rating_delta": -8.360038408194669,
-            "rank": 79
+            "rank": 77
           },
           {
             "account_name": "Muted.8591",
@@ -36717,7 +36263,7 @@ const leaderboardData = {
             "average_stat_value": 6.571428571428571,
             "is_guild_member": true,
             "rating_delta": -4.916342547115846,
-            "rank": 80
+            "rank": 78
           },
           {
             "account_name": "Generic Player.4067",
@@ -36729,7 +36275,7 @@ const leaderboardData = {
             "average_stat_value": 6.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 81
+            "rank": 79
           },
           {
             "account_name": "Chakkkka.2504",
@@ -36741,7 +36287,7 @@ const leaderboardData = {
             "average_stat_value": 6.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 82
+            "rank": 80
           },
           {
             "account_name": "Uriah.7082",
@@ -36753,7 +36299,7 @@ const leaderboardData = {
             "average_stat_value": 6.5,
             "is_guild_member": true,
             "rating_delta": -12.861852512490486,
-            "rank": 83
+            "rank": 81
           },
           {
             "account_name": "neven.3785",
@@ -36765,7 +36311,7 @@ const leaderboardData = {
             "average_stat_value": 5.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 84
+            "rank": 82
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -36777,7 +36323,7 @@ const leaderboardData = {
             "average_stat_value": 5.35,
             "is_guild_member": true,
             "rating_delta": -67.24479980580395,
-            "rank": 85
+            "rank": 83
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -36789,19 +36335,7 @@ const leaderboardData = {
             "average_stat_value": 7.633333333333333,
             "is_guild_member": true,
             "rating_delta": -6.575013481043243,
-            "rank": 86
-          },
-          {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1520.4441425640582,
-            "composite_score": 1520.4441425640582,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 3.8,
-            "is_guild_member": true,
-            "rating_delta": 10.05559265832926,
-            "rank": 87
+            "rank": 84
           },
           {
             "account_name": "Jdchil.9561",
@@ -36813,7 +36347,7 @@ const leaderboardData = {
             "average_stat_value": 6.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 88
+            "rank": 85
           },
           {
             "account_name": "Huge.5891",
@@ -36825,31 +36359,7 @@ const leaderboardData = {
             "average_stat_value": 8.3,
             "is_guild_member": true,
             "rating_delta": 20.59364685137689,
-            "rank": 89
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1515.7770314192726,
-            "composite_score": 1515.7770314192726,
-            "games_played": 1,
-            "average_rank_percent": 6.0,
-            "average_stat_value": 3.7,
-            "is_guild_member": true,
-            "rating_delta": 5.284224593509634,
-            "rank": 90
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1506.3807901331916,
-            "composite_score": 1506.3807901331916,
-            "games_played": 1,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 3.5,
-            "is_guild_member": true,
-            "rating_delta": -9.68848598599061,
-            "rank": 91
+            "rank": 86
           },
           {
             "account_name": "Mellis.8451",
@@ -36861,7 +36371,7 @@ const leaderboardData = {
             "average_stat_value": 5.9,
             "is_guild_member": true,
             "rating_delta": -14.518639542049414,
-            "rank": 92
+            "rank": 87
           },
           {
             "account_name": "Lozen.7623",
@@ -36873,7 +36383,19 @@ const leaderboardData = {
             "average_stat_value": 7.175,
             "is_guild_member": true,
             "rating_delta": -18.71265576924816,
-            "rank": 93
+            "rank": 88
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1502.5638934156284,
+            "composite_score": 1502.5638934156284,
+            "games_played": 1,
+            "average_rank_percent": 14.0,
+            "average_stat_value": 5.9,
+            "is_guild_member": false,
+            "rating_delta": -57.001103641477584,
+            "rank": 89
           },
           {
             "account_name": "modus.7921",
@@ -36885,7 +36407,7 @@ const leaderboardData = {
             "average_stat_value": 6.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 94
+            "rank": 90
           },
           {
             "account_name": "Malek.9417",
@@ -36897,7 +36419,7 @@ const leaderboardData = {
             "average_stat_value": 6.05,
             "is_guild_member": true,
             "rating_delta": -0.5826995290847208,
-            "rank": 95
+            "rank": 91
           },
           {
             "account_name": "Lasthope.7943",
@@ -36909,7 +36431,7 @@ const leaderboardData = {
             "average_stat_value": 5.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 92
           },
           {
             "account_name": "Basic.9204",
@@ -36921,7 +36443,7 @@ const leaderboardData = {
             "average_stat_value": 5.05,
             "is_guild_member": true,
             "rating_delta": -85.00821771320716,
-            "rank": 97
+            "rank": 93
           },
           {
             "account_name": "Sygyt.5190",
@@ -36933,7 +36455,7 @@ const leaderboardData = {
             "average_stat_value": 5.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 94
           },
           {
             "account_name": "Aein.1483",
@@ -36945,7 +36467,7 @@ const leaderboardData = {
             "average_stat_value": 8.483333333333334,
             "is_guild_member": true,
             "rating_delta": -19.50642897790658,
-            "rank": 99
+            "rank": 95
           },
           {
             "account_name": "Mini.1786",
@@ -36957,7 +36479,7 @@ const leaderboardData = {
             "average_stat_value": 8.9,
             "is_guild_member": false,
             "rating_delta": -62.39526115023091,
-            "rank": 100
+            "rank": 96
           },
           {
             "account_name": "Nictheman.9754",
@@ -36969,7 +36491,7 @@ const leaderboardData = {
             "average_stat_value": 4.1,
             "is_guild_member": true,
             "rating_delta": -15.243113484232481,
-            "rank": 101
+            "rank": 97
           },
           {
             "account_name": "Soothsayer.9206",
@@ -36981,7 +36503,7 @@ const leaderboardData = {
             "average_stat_value": 6.475,
             "is_guild_member": true,
             "rating_delta": -0.8063639118634001,
-            "rank": 102
+            "rank": 98
           },
           {
             "account_name": "mikerock.6187",
@@ -36993,7 +36515,7 @@ const leaderboardData = {
             "average_stat_value": 4.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 99
           },
           {
             "account_name": "Interpretor.3091",
@@ -37005,7 +36527,7 @@ const leaderboardData = {
             "average_stat_value": 5.175,
             "is_guild_member": true,
             "rating_delta": -5.746849327121936,
-            "rank": 104
+            "rank": 100
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -37017,7 +36539,7 @@ const leaderboardData = {
             "average_stat_value": 5.9,
             "is_guild_member": false,
             "rating_delta": -14.814739110139271,
-            "rank": 105
+            "rank": 101
           },
           {
             "account_name": "acumen.1980",
@@ -37029,7 +36551,7 @@ const leaderboardData = {
             "average_stat_value": 6.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 102
           },
           {
             "account_name": "Lenorellei.9815",
@@ -37041,7 +36563,7 @@ const leaderboardData = {
             "average_stat_value": 9.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 103
           },
           {
             "account_name": "Drigan.7382",
@@ -37053,7 +36575,7 @@ const leaderboardData = {
             "average_stat_value": 5.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 108
+            "rank": 104
           },
           {
             "account_name": "Trail.8614",
@@ -37065,7 +36587,7 @@ const leaderboardData = {
             "average_stat_value": 6.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 105
           },
           {
             "account_name": "Nero.6195",
@@ -37077,7 +36599,7 @@ const leaderboardData = {
             "average_stat_value": 5.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 106
           },
           {
             "account_name": "Mini.1786",
@@ -37089,7 +36611,7 @@ const leaderboardData = {
             "average_stat_value": 4.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 107
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -37101,7 +36623,7 @@ const leaderboardData = {
             "average_stat_value": 5.82,
             "is_guild_member": true,
             "rating_delta": -6.472713671423207,
-            "rank": 112
+            "rank": 108
           },
           {
             "account_name": "Smile.9284",
@@ -37113,7 +36635,7 @@ const leaderboardData = {
             "average_stat_value": 5.690909090909091,
             "is_guild_member": true,
             "rating_delta": -3.996448375367436,
-            "rank": 113
+            "rank": 109
           },
           {
             "account_name": "phobos.5290",
@@ -37125,7 +36647,7 @@ const leaderboardData = {
             "average_stat_value": 6.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 114
+            "rank": 110
           },
           {
             "account_name": "bielzin.5084",
@@ -37137,7 +36659,7 @@ const leaderboardData = {
             "average_stat_value": 4.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 115
+            "rank": 111
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -37149,7 +36671,7 @@ const leaderboardData = {
             "average_stat_value": 5.45,
             "is_guild_member": true,
             "rating_delta": 2.660616480909084,
-            "rank": 116
+            "rank": 112
           },
           {
             "account_name": "Argo.2675",
@@ -37161,7 +36683,7 @@ const leaderboardData = {
             "average_stat_value": 6.644444444444444,
             "is_guild_member": true,
             "rating_delta": 2.5679945685340044,
-            "rank": 117
+            "rank": 113
           },
           {
             "account_name": "Nictheman.9754",
@@ -37173,7 +36695,7 @@ const leaderboardData = {
             "average_stat_value": 6.45,
             "is_guild_member": true,
             "rating_delta": -27.531436988009318,
-            "rank": 118
+            "rank": 114
           },
           {
             "account_name": "adrielle.2109",
@@ -37185,7 +36707,7 @@ const leaderboardData = {
             "average_stat_value": 4.966666666666667,
             "is_guild_member": true,
             "rating_delta": -27.08211251654825,
-            "rank": 119
+            "rank": 115
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -37197,7 +36719,7 @@ const leaderboardData = {
             "average_stat_value": 5.6000000000000005,
             "is_guild_member": true,
             "rating_delta": 1.620186451345262,
-            "rank": 120
+            "rank": 116
           },
           {
             "account_name": "phobos.5290",
@@ -37209,7 +36731,7 @@ const leaderboardData = {
             "average_stat_value": 4.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 121
+            "rank": 117
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -37221,7 +36743,7 @@ const leaderboardData = {
             "average_stat_value": 4.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 118
           },
           {
             "account_name": "defeater.3186",
@@ -37233,7 +36755,7 @@ const leaderboardData = {
             "average_stat_value": 4.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 119
           },
           {
             "account_name": "Malek.9417",
@@ -37245,7 +36767,7 @@ const leaderboardData = {
             "average_stat_value": 3.4,
             "is_guild_member": true,
             "rating_delta": -28.269233113588825,
-            "rank": 124
+            "rank": 120
           },
           {
             "account_name": "Xarahait.8051",
@@ -37257,7 +36779,7 @@ const leaderboardData = {
             "average_stat_value": 4.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 121
           },
           {
             "account_name": "Hund.6875",
@@ -37269,7 +36791,7 @@ const leaderboardData = {
             "average_stat_value": 5.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 122
           },
           {
             "account_name": "Morg.3084",
@@ -37281,7 +36803,7 @@ const leaderboardData = {
             "average_stat_value": 4.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 123
           },
           {
             "account_name": "Interpretor.3091",
@@ -37293,7 +36815,7 @@ const leaderboardData = {
             "average_stat_value": 3.7,
             "is_guild_member": true,
             "rating_delta": -26.932531063768693,
-            "rank": 128
+            "rank": 124
           },
           {
             "account_name": "aureliocf.7324",
@@ -37305,7 +36827,7 @@ const leaderboardData = {
             "average_stat_value": 4.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "Nictheman.9754",
@@ -37317,7 +36839,7 @@ const leaderboardData = {
             "average_stat_value": 2.8,
             "is_guild_member": true,
             "rating_delta": -35.68156197300186,
-            "rank": 130
+            "rank": 126
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -37329,7 +36851,7 @@ const leaderboardData = {
             "average_stat_value": 5.166666666666667,
             "is_guild_member": true,
             "rating_delta": -28.53272894199813,
-            "rank": 131
+            "rank": 127
           },
           {
             "account_name": "Nictheman.9754",
@@ -37341,7 +36863,7 @@ const leaderboardData = {
             "average_stat_value": 5.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 132
+            "rank": 128
           },
           {
             "account_name": "Lasthope.7943",
@@ -37353,7 +36875,7 @@ const leaderboardData = {
             "average_stat_value": 4.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 133
+            "rank": 129
           },
           {
             "account_name": "aznsleeper.5896",
@@ -37365,7 +36887,7 @@ const leaderboardData = {
             "average_stat_value": 3.5,
             "is_guild_member": true,
             "rating_delta": -0.7549665848566747,
-            "rank": 134
+            "rank": 130
           },
           {
             "account_name": "arrsc.9046",
@@ -37377,7 +36899,7 @@ const leaderboardData = {
             "average_stat_value": 4.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 135
+            "rank": 131
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -37389,7 +36911,7 @@ const leaderboardData = {
             "average_stat_value": 4.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 136
+            "rank": 132
           },
           {
             "account_name": "asdfghjk.8241",
@@ -37401,7 +36923,7 @@ const leaderboardData = {
             "average_stat_value": 2.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 137
+            "rank": 133
           },
           {
             "account_name": "synco.8132",
@@ -37413,7 +36935,7 @@ const leaderboardData = {
             "average_stat_value": 4.75,
             "is_guild_member": true,
             "rating_delta": -13.136218544962958,
-            "rank": 138
+            "rank": 134
           },
           {
             "account_name": "Mortealug.6043",
@@ -37425,7 +36947,7 @@ const leaderboardData = {
             "average_stat_value": 4.9,
             "is_guild_member": false,
             "rating_delta": -28.14503597995008,
-            "rank": 139
+            "rank": 135
           },
           {
             "account_name": "Lord.7561",
@@ -37437,7 +36959,19 @@ const leaderboardData = {
             "average_stat_value": 5.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 140
+            "rank": 136
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1434.6243638044532,
+            "composite_score": 1434.6243638044532,
+            "games_played": 1,
+            "average_rank_percent": 17.0,
+            "average_stat_value": 4.1,
+            "is_guild_member": true,
+            "rating_delta": -28.109972975494884,
+            "rank": 137
           },
           {
             "account_name": "red armadillo.4593",
@@ -37449,7 +36983,7 @@ const leaderboardData = {
             "average_stat_value": 4.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 141
+            "rank": 138
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -37461,7 +36995,7 @@ const leaderboardData = {
             "average_stat_value": 3.75,
             "is_guild_member": true,
             "rating_delta": -15.623981377618293,
-            "rank": 142
+            "rank": 139
           },
           {
             "account_name": "Dextra.8162",
@@ -37473,7 +37007,7 @@ const leaderboardData = {
             "average_stat_value": 3.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 143
+            "rank": 140
           },
           {
             "account_name": "Luke.9108",
@@ -37485,7 +37019,7 @@ const leaderboardData = {
             "average_stat_value": 2.5,
             "is_guild_member": false,
             "rating_delta": -9.367254319071208,
-            "rank": 144
+            "rank": 141
           },
           {
             "account_name": "Lozen.7623",
@@ -37497,7 +37031,7 @@ const leaderboardData = {
             "average_stat_value": 4.5,
             "is_guild_member": true,
             "rating_delta": -50.034686064043626,
-            "rank": 145
+            "rank": 142
           },
           {
             "account_name": "Interpretor.3091",
@@ -37509,7 +37043,7 @@ const leaderboardData = {
             "average_stat_value": 4.633333333333334,
             "is_guild_member": true,
             "rating_delta": -6.71120901590848,
-            "rank": 146
+            "rank": 143
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -37521,7 +37055,7 @@ const leaderboardData = {
             "average_stat_value": 4.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 147
+            "rank": 144
           },
           {
             "account_name": "Naomi.5372",
@@ -37533,7 +37067,7 @@ const leaderboardData = {
             "average_stat_value": 1.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 148
+            "rank": 145
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -37545,7 +37079,7 @@ const leaderboardData = {
             "average_stat_value": 1.9,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 149
+            "rank": 146
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -37557,7 +37091,7 @@ const leaderboardData = {
             "average_stat_value": 2.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 150
+            "rank": 147
           },
           {
             "account_name": "dobbeh.7382",
@@ -37569,7 +37103,7 @@ const leaderboardData = {
             "average_stat_value": 2.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 151
+            "rank": 148
           },
           {
             "account_name": "CptNacho.1249",
@@ -37581,7 +37115,7 @@ const leaderboardData = {
             "average_stat_value": 3.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 152
+            "rank": 149
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -37593,7 +37127,7 @@ const leaderboardData = {
             "average_stat_value": 1.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 153
+            "rank": 150
           },
           {
             "account_name": "Astro Bear.6305",
@@ -37605,7 +37139,7 @@ const leaderboardData = {
             "average_stat_value": 4.0,
             "is_guild_member": true,
             "rating_delta": -37.70895760628832,
-            "rank": 154
+            "rank": 151
           },
           {
             "account_name": "freecarl.9214",
@@ -37617,7 +37151,7 @@ const leaderboardData = {
             "average_stat_value": 2.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 152
           },
           {
             "account_name": "zectra.6978",
@@ -37629,7 +37163,7 @@ const leaderboardData = {
             "average_stat_value": 4.9,
             "is_guild_member": false,
             "rating_delta": -24.775528863370937,
-            "rank": 156
+            "rank": 153
           },
           {
             "account_name": "Kuwat.4703",
@@ -37641,7 +37175,7 @@ const leaderboardData = {
             "average_stat_value": 3.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 157
+            "rank": 154
           },
           {
             "account_name": "Souza.1562",
@@ -37653,7 +37187,7 @@ const leaderboardData = {
             "average_stat_value": 3.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 158
+            "rank": 155
           },
           {
             "account_name": "CarlJunior.7832",
@@ -37665,7 +37199,7 @@ const leaderboardData = {
             "average_stat_value": 3.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 159
+            "rank": 156
           },
           {
             "account_name": "Syde.1863",
@@ -37677,7 +37211,7 @@ const leaderboardData = {
             "average_stat_value": 3.9,
             "is_guild_member": true,
             "rating_delta": -27.204134485378972,
-            "rank": 160
+            "rank": 157
           },
           {
             "account_name": "acumen.1980",
@@ -37689,7 +37223,7 @@ const leaderboardData = {
             "average_stat_value": 2.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 161
+            "rank": 158
           },
           {
             "account_name": "Rapscallion.3571",
@@ -37701,7 +37235,7 @@ const leaderboardData = {
             "average_stat_value": 1.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 162
+            "rank": 159
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -37713,7 +37247,7 @@ const leaderboardData = {
             "average_stat_value": 3.7,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 163
+            "rank": 160
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -37725,7 +37259,7 @@ const leaderboardData = {
             "average_stat_value": 4.45,
             "is_guild_member": true,
             "rating_delta": -14.81293458690834,
-            "rank": 164
+            "rank": 161
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -37737,7 +37271,7 @@ const leaderboardData = {
             "average_stat_value": 3.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 165
+            "rank": 162
           },
           {
             "account_name": "Astro Bear.6305",
@@ -37749,7 +37283,7 @@ const leaderboardData = {
             "average_stat_value": 1.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 166
+            "rank": 163
           },
           {
             "account_name": "Uriah.7082",
@@ -37761,19 +37295,19 @@ const leaderboardData = {
             "average_stat_value": 3.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 167
+            "rank": 164
           },
           {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1415.1515906418076,
-            "composite_score": 1415.1515906418076,
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1413.0169264611827,
+            "composite_score": 1413.0169264611827,
             "games_played": 1,
-            "average_rank_percent": 13.0,
-            "average_stat_value": 1.4,
-            "is_guild_member": false,
+            "average_rank_percent": 23.0,
+            "average_stat_value": 1.5,
+            "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 168
+            "rank": 165
           },
           {
             "account_name": "Malek.9417",
@@ -37785,7 +37319,7 @@ const leaderboardData = {
             "average_stat_value": 4.8,
             "is_guild_member": true,
             "rating_delta": -10.439855807175718,
-            "rank": 169
+            "rank": 166
           },
           {
             "account_name": "Freelanced.6084",
@@ -37797,7 +37331,7 @@ const leaderboardData = {
             "average_stat_value": 3.3000000000000003,
             "is_guild_member": true,
             "rating_delta": -9.843736474912248,
-            "rank": 170
+            "rank": 167
           },
           {
             "account_name": "Lord.7561",
@@ -37809,7 +37343,7 @@ const leaderboardData = {
             "average_stat_value": 1.7,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 171
+            "rank": 168
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -37821,7 +37355,7 @@ const leaderboardData = {
             "average_stat_value": 2.7,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 172
+            "rank": 169
           },
           {
             "account_name": "Stash.8401",
@@ -37833,7 +37367,7 @@ const leaderboardData = {
             "average_stat_value": 2.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 173
+            "rank": 170
           },
           {
             "account_name": "Nero.6195",
@@ -37845,7 +37379,7 @@ const leaderboardData = {
             "average_stat_value": 2.9,
             "is_guild_member": true,
             "rating_delta": -4.971964514196543,
-            "rank": 174
+            "rank": 171
           },
           {
             "account_name": "I R R Y.9128",
@@ -37857,7 +37391,7 @@ const leaderboardData = {
             "average_stat_value": 2.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 175
+            "rank": 172
           },
           {
             "account_name": "acumen.1980",
@@ -37869,7 +37403,7 @@ const leaderboardData = {
             "average_stat_value": 1.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 176
+            "rank": 173
           },
           {
             "account_name": "Bother.9415",
@@ -37881,7 +37415,7 @@ const leaderboardData = {
             "average_stat_value": 1.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 177
+            "rank": 174
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -37893,7 +37427,7 @@ const leaderboardData = {
             "average_stat_value": 2.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 178
+            "rank": 175
           },
           {
             "account_name": "Lord.7561",
@@ -37905,7 +37439,7 @@ const leaderboardData = {
             "average_stat_value": 2.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 179
+            "rank": 176
           },
           {
             "account_name": "Muted.8591",
@@ -37917,7 +37451,7 @@ const leaderboardData = {
             "average_stat_value": 2.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 180
+            "rank": 177
           },
           {
             "account_name": "MasterScrub.1396",
@@ -37929,7 +37463,7 @@ const leaderboardData = {
             "average_stat_value": 2.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 181
+            "rank": 178
           },
           {
             "account_name": "Naomi.5372",
@@ -37941,7 +37475,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 182
+            "rank": 179
           },
           {
             "account_name": "mikefmc.5961",
@@ -37953,7 +37487,7 @@ const leaderboardData = {
             "average_stat_value": 1.9,
             "is_guild_member": true,
             "rating_delta": 6.087615392600355,
-            "rank": 183
+            "rank": 180
           },
           {
             "account_name": "Mes.1906",
@@ -37965,7 +37499,7 @@ const leaderboardData = {
             "average_stat_value": 3.0,
             "is_guild_member": false,
             "rating_delta": -20.87916416480266,
-            "rank": 184
+            "rank": 181
           },
           {
             "account_name": "Mona.9180",
@@ -37977,7 +37511,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 185
+            "rank": 182
           },
           {
             "account_name": "acumen.1980",
@@ -37989,7 +37523,7 @@ const leaderboardData = {
             "average_stat_value": 2.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 186
+            "rank": 183
           },
           {
             "account_name": "dobbeh.7382",
@@ -38001,7 +37535,7 @@ const leaderboardData = {
             "average_stat_value": 2.55,
             "is_guild_member": true,
             "rating_delta": -21.160611760112943,
-            "rank": 187
+            "rank": 184
           },
           {
             "account_name": "Wildcassandra.8463",
@@ -38013,7 +37547,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 188
+            "rank": 185
           },
           {
             "account_name": "Bother.9415",
@@ -38025,7 +37559,7 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 189
+            "rank": 186
           },
           {
             "account_name": "Gismor.8407",
@@ -38037,7 +37571,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 190
+            "rank": 187
           },
           {
             "account_name": "Shy.3108",
@@ -38049,7 +37583,7 @@ const leaderboardData = {
             "average_stat_value": 1.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 191
+            "rank": 188
           },
           {
             "account_name": "zectra.6978",
@@ -38061,7 +37595,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 192
+            "rank": 189
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -38073,7 +37607,7 @@ const leaderboardData = {
             "average_stat_value": 1.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 193
+            "rank": 190
           },
           {
             "account_name": "Krounen.7028",
@@ -38085,7 +37619,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 194
+            "rank": 191
           },
           {
             "account_name": "Yeek.2976",
@@ -38097,7 +37631,7 @@ const leaderboardData = {
             "average_stat_value": 1.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 195
+            "rank": 192
           },
           {
             "account_name": "Pseven.4867",
@@ -38109,7 +37643,7 @@ const leaderboardData = {
             "average_stat_value": 2.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 196
+            "rank": 193
           },
           {
             "account_name": "Chakkkka.2504",
@@ -38121,7 +37655,7 @@ const leaderboardData = {
             "average_stat_value": 0.8,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 197
+            "rank": 194
           },
           {
             "account_name": "Dextra.8162",
@@ -38133,7 +37667,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 198
+            "rank": 195
           },
           {
             "account_name": "emz.3571",
@@ -38145,7 +37679,7 @@ const leaderboardData = {
             "average_stat_value": 2.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 199
+            "rank": 196
           },
           {
             "account_name": "emz.3571",
@@ -38157,19 +37691,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 200
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1388.722226332952,
-            "composite_score": 1388.722226332952,
-            "games_played": 2,
-            "average_rank_percent": 17.5,
-            "average_stat_value": 1.6,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 201
+            "rank": 197
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -38181,7 +37703,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 202
+            "rank": 198
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -38193,7 +37715,7 @@ const leaderboardData = {
             "average_stat_value": 4.242857142857143,
             "is_guild_member": true,
             "rating_delta": -8.79276245570486,
-            "rank": 203
+            "rank": 199
           },
           {
             "account_name": "Luke.9108",
@@ -38205,7 +37727,7 @@ const leaderboardData = {
             "average_stat_value": 3.2249999999999996,
             "is_guild_member": false,
             "rating_delta": -21.200311021470952,
-            "rank": 204
+            "rank": 200
           },
           {
             "account_name": "Hiraldo.7954",
@@ -38217,7 +37739,7 @@ const leaderboardData = {
             "average_stat_value": 1.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 205
+            "rank": 201
           },
           {
             "account_name": "acumen.1980",
@@ -38229,7 +37751,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 206
+            "rank": 202
           },
           {
             "account_name": "Havocus.3682",
@@ -38241,7 +37763,7 @@ const leaderboardData = {
             "average_stat_value": 3.4,
             "is_guild_member": true,
             "rating_delta": -5.180907964514063,
-            "rank": 207
+            "rank": 203
           },
           {
             "account_name": "enKoDed.1563",
@@ -38253,7 +37775,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 208
+            "rank": 204
           },
           {
             "account_name": "I R R Y.9128",
@@ -38265,7 +37787,7 @@ const leaderboardData = {
             "average_stat_value": 3.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 209
+            "rank": 205
           },
           {
             "account_name": "Uriah.7082",
@@ -38277,7 +37799,7 @@ const leaderboardData = {
             "average_stat_value": 4.228571428571429,
             "is_guild_member": true,
             "rating_delta": 0.9493818306580124,
-            "rank": 210
+            "rank": 206
           },
           {
             "account_name": "Lasthope.7943",
@@ -38289,7 +37811,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 211
+            "rank": 207
           },
           {
             "account_name": "yhanbruno.5873",
@@ -38301,7 +37823,7 @@ const leaderboardData = {
             "average_stat_value": 2.1,
             "is_guild_member": false,
             "rating_delta": -75.20525512638096,
-            "rank": 212
+            "rank": 208
           },
           {
             "account_name": "Bertozaur.4578",
@@ -38313,7 +37835,7 @@ const leaderboardData = {
             "average_stat_value": 2.45,
             "is_guild_member": true,
             "rating_delta": -55.896671127536365,
-            "rank": 213
+            "rank": 209
           },
           {
             "account_name": "Bother.9415",
@@ -38325,7 +37847,7 @@ const leaderboardData = {
             "average_stat_value": 3.8600000000000003,
             "is_guild_member": true,
             "rating_delta": -5.929926248127458,
-            "rank": 214
+            "rank": 210
           },
           {
             "account_name": "Hiraldo.7954",
@@ -38337,7 +37859,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 215
+            "rank": 211
           },
           {
             "account_name": "Lord.7561",
@@ -38349,7 +37871,7 @@ const leaderboardData = {
             "average_stat_value": 2.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 216
+            "rank": 212
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -38361,7 +37883,7 @@ const leaderboardData = {
             "average_stat_value": 3.6333333333333333,
             "is_guild_member": true,
             "rating_delta": -22.028355836275068,
-            "rank": 217
+            "rank": 213
           },
           {
             "account_name": "Beneko.8475",
@@ -38373,19 +37895,31 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 218
+            "rank": 214
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1373.90821002208,
+            "composite_score": 1373.90821002208,
+            "games_played": 2,
+            "average_rank_percent": 24.5,
+            "average_stat_value": 1.55,
+            "is_guild_member": true,
+            "rating_delta": 0.0,
+            "rank": 215
           },
           {
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
-            "glicko_rating": 1376.5667453990377,
-            "composite_score": 1376.5667453990377,
-            "games_played": 11,
-            "average_rank_percent": 19.09090909090909,
-            "average_stat_value": 3.972727272727273,
+            "glicko_rating": 1372.5823607864072,
+            "composite_score": 1372.5823607864072,
+            "games_played": 10,
+            "average_rank_percent": 20.2,
+            "average_stat_value": 4.11,
             "is_guild_member": true,
             "rating_delta": -1.716710954269729,
-            "rank": 219
+            "rank": 216
           },
           {
             "account_name": "BlueViolet.8263",
@@ -38397,7 +37931,7 @@ const leaderboardData = {
             "average_stat_value": 3.25,
             "is_guild_member": true,
             "rating_delta": -9.174796827136788,
-            "rank": 220
+            "rank": 217
           },
           {
             "account_name": "Interpretor.3091",
@@ -38409,7 +37943,7 @@ const leaderboardData = {
             "average_stat_value": 1.5,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 221
+            "rank": 218
           },
           {
             "account_name": "willtehthrill.4218",
@@ -38421,7 +37955,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 222
+            "rank": 219
           },
           {
             "account_name": "Sleepy.5367",
@@ -38433,7 +37967,7 @@ const leaderboardData = {
             "average_stat_value": 1.9,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 223
+            "rank": 220
           },
           {
             "account_name": "Lasthope.7943",
@@ -38445,7 +37979,7 @@ const leaderboardData = {
             "average_stat_value": 3.8,
             "is_guild_member": true,
             "rating_delta": -1.8020157452126568,
-            "rank": 224
+            "rank": 221
           },
           {
             "account_name": "Malek.9417",
@@ -38457,7 +37991,7 @@ const leaderboardData = {
             "average_stat_value": 1.8,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 225
+            "rank": 222
           },
           {
             "account_name": "Mellis.8451",
@@ -38469,7 +38003,7 @@ const leaderboardData = {
             "average_stat_value": 3.65,
             "is_guild_member": true,
             "rating_delta": -6.015900265618029,
-            "rank": 226
+            "rank": 223
           },
           {
             "account_name": "Aein.1483",
@@ -38481,7 +38015,7 @@ const leaderboardData = {
             "average_stat_value": 1.4000000000000001,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 227
+            "rank": 224
           },
           {
             "account_name": "aznsleeper.5896",
@@ -38493,19 +38027,7 @@ const leaderboardData = {
             "average_stat_value": 3.3,
             "is_guild_member": true,
             "rating_delta": -25.209477577189546,
-            "rank": 228
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Scourge",
-            "glicko_rating": 1360.6146042961816,
-            "composite_score": 1360.6146042961816,
-            "games_played": 4,
-            "average_rank_percent": 24.5,
-            "average_stat_value": 2.35,
-            "is_guild_member": true,
-            "rating_delta": -45.30698797795071,
-            "rank": 229
+            "rank": 225
           },
           {
             "account_name": "zectra.6978",
@@ -38517,19 +38039,31 @@ const leaderboardData = {
             "average_stat_value": 1.7333333333333334,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 230
+            "rank": 226
           },
           {
-            "account_name": "Soothsayer.9206",
+            "account_name": "ParaldaWind.4523",
             "profession": "Dragonhunter",
-            "glicko_rating": 1353.850625610011,
-            "composite_score": 1353.850625610011,
+            "glicko_rating": 1354.3347735204957,
+            "composite_score": 1354.3347735204957,
             "games_played": 3,
-            "average_rank_percent": 21.0,
-            "average_stat_value": 1.4333333333333333,
+            "average_rank_percent": 20.0,
+            "average_stat_value": 1.9333333333333333,
             "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 231
+            "rating_delta": -17.307877969521087,
+            "rank": 227
+          },
+          {
+            "account_name": "Syde.1863",
+            "profession": "Scourge",
+            "glicko_rating": 1353.3940015541089,
+            "composite_score": 1353.3940015541089,
+            "games_played": 3,
+            "average_rank_percent": 29.333333333333332,
+            "average_stat_value": 2.3666666666666667,
+            "is_guild_member": true,
+            "rating_delta": -45.30698797795071,
+            "rank": 228
           },
           {
             "account_name": "Freelanced.6084",
@@ -38541,7 +38075,7 @@ const leaderboardData = {
             "average_stat_value": 3.1399999999999997,
             "is_guild_member": true,
             "rating_delta": -17.856240256376395,
-            "rank": 232
+            "rank": 229
           },
           {
             "account_name": "MasterScrub.1396",
@@ -38553,7 +38087,7 @@ const leaderboardData = {
             "average_stat_value": 0.55,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 233
+            "rank": 230
           },
           {
             "account_name": "Nictheman.9754",
@@ -38565,7 +38099,7 @@ const leaderboardData = {
             "average_stat_value": 2.1,
             "is_guild_member": true,
             "rating_delta": -46.08994302427391,
-            "rank": 234
+            "rank": 231
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -38577,7 +38111,7 @@ const leaderboardData = {
             "average_stat_value": 3.0875,
             "is_guild_member": true,
             "rating_delta": -6.137892580062044,
-            "rank": 235
+            "rank": 232
           },
           {
             "account_name": "Lasthope.7943",
@@ -38589,7 +38123,7 @@ const leaderboardData = {
             "average_stat_value": 3.085714285714286,
             "is_guild_member": true,
             "rating_delta": 0.3736276883589653,
-            "rank": 236
+            "rank": 233
           },
           {
             "account_name": "Nictheman.9754",
@@ -38601,7 +38135,7 @@ const leaderboardData = {
             "average_stat_value": 2.25,
             "is_guild_member": true,
             "rating_delta": -28.66879985357332,
-            "rank": 237
+            "rank": 234
           },
           {
             "account_name": "Dextra.8162",
@@ -38613,19 +38147,7 @@ const leaderboardData = {
             "average_stat_value": 0.8500000000000001,
             "is_guild_member": true,
             "rating_delta": -16.459273529288566,
-            "rank": 238
-          },
-          {
-            "account_name": "Aromapaloma.3194",
-            "profession": "Tempest",
-            "glicko_rating": 1337.106575874178,
-            "composite_score": 1337.106575874178,
-            "games_played": 6,
-            "average_rank_percent": 26.5,
-            "average_stat_value": 1.8499999999999999,
-            "is_guild_member": true,
-            "rating_delta": -17.0478094341795,
-            "rank": 239
+            "rank": 235
           },
           {
             "account_name": "Hiraldo.7954",
@@ -38637,19 +38159,19 @@ const leaderboardData = {
             "average_stat_value": 2.266666666666667,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 240
+            "rank": 236
           },
           {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1332.4032181448938,
-            "composite_score": 1332.4032181448938,
-            "games_played": 4,
-            "average_rank_percent": 19.25,
-            "average_stat_value": 1.6,
+            "account_name": "Aromapaloma.3194",
+            "profession": "Tempest",
+            "glicko_rating": 1333.2211026414764,
+            "composite_score": 1333.2211026414764,
+            "games_played": 5,
+            "average_rank_percent": 29.6,
+            "average_stat_value": 1.8199999999999998,
             "is_guild_member": true,
-            "rating_delta": -17.307877969521087,
-            "rank": 241
+            "rating_delta": -17.0478094341795,
+            "rank": 237
           },
           {
             "account_name": "emz.3571",
@@ -38661,7 +38183,7 @@ const leaderboardData = {
             "average_stat_value": 0.15000000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 242
+            "rank": 238
           },
           {
             "account_name": "Basic.9204",
@@ -38673,7 +38195,7 @@ const leaderboardData = {
             "average_stat_value": 2.45,
             "is_guild_member": true,
             "rating_delta": -42.93286978754827,
-            "rank": 243
+            "rank": 239
           },
           {
             "account_name": "Huge.5891",
@@ -38685,7 +38207,7 @@ const leaderboardData = {
             "average_stat_value": 1.0333333333333334,
             "is_guild_member": true,
             "rating_delta": -39.14171959303053,
-            "rank": 244
+            "rank": 240
           },
           {
             "account_name": "Interpretor.3091",
@@ -38697,19 +38219,19 @@ const leaderboardData = {
             "average_stat_value": 2.442857142857143,
             "is_guild_member": true,
             "rating_delta": -42.56736534734637,
-            "rank": 245
+            "rank": 241
           },
           {
             "account_name": "Dextra.8162",
             "profession": "Weaver",
-            "glicko_rating": 1240.5577723242245,
-            "composite_score": 1240.5577723242245,
-            "games_played": 13,
-            "average_rank_percent": 33.84615384615385,
-            "average_stat_value": 0.6307692307692307,
+            "glicko_rating": 1241.0917815331936,
+            "composite_score": 1241.0917815331936,
+            "games_played": 12,
+            "average_rank_percent": 35.416666666666664,
+            "average_stat_value": 0.625,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 246
+            "rank": 242
           }
         ],
         "Protection": [
@@ -38738,15 +38260,15 @@ const leaderboardData = {
             "rank": 2
           },
           {
-            "account_name": "Aromapaloma.3194",
-            "profession": "Tempest",
-            "glicko_rating": 1766.3334217913848,
-            "composite_score": 1766.3334217913848,
-            "games_played": 6,
-            "average_rank_percent": 2.8333333333333335,
-            "average_stat_value": 1.883333333333333,
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1750.3982752839938,
+            "composite_score": 1750.3982752839938,
+            "games_played": 10,
+            "average_rank_percent": 3.0,
+            "average_stat_value": 1.5699999999999998,
             "is_guild_member": true,
-            "rating_delta": -44.0443315418222,
+            "rating_delta": -20.805288902798566,
             "rank": 3
           },
           {
@@ -38762,15 +38284,15 @@ const leaderboardData = {
             "rank": 4
           },
           {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1744.9948366681938,
-            "composite_score": 1744.9948366681938,
-            "games_played": 11,
-            "average_rank_percent": 2.909090909090909,
-            "average_stat_value": 1.5454545454545454,
+            "account_name": "Aromapaloma.3194",
+            "profession": "Tempest",
+            "glicko_rating": 1744.391424885666,
+            "composite_score": 1744.391424885666,
+            "games_played": 5,
+            "average_rank_percent": 3.2,
+            "average_stat_value": 1.8,
             "is_guild_member": true,
-            "rating_delta": -20.805288902798566,
+            "rating_delta": -44.0443315418222,
             "rank": 5
           },
           {
@@ -39002,6 +38524,18 @@ const leaderboardData = {
             "rank": 24
           },
           {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Chronomancer",
+            "glicko_rating": 1612.3841132376083,
+            "composite_score": 1612.3841132376083,
+            "games_played": 1,
+            "average_rank_percent": 3.0,
+            "average_stat_value": 1.1,
+            "is_guild_member": true,
+            "rating_delta": 8.489273987507431,
+            "rank": 25
+          },
+          {
             "account_name": "phobos.5290",
             "profession": "Boon Vindi",
             "glicko_rating": 1603.0257442580437,
@@ -39011,7 +38545,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 25
+            "rank": 26
           },
           {
             "account_name": "modus.7921",
@@ -39023,7 +38557,7 @@ const leaderboardData = {
             "average_stat_value": 1.0,
             "is_guild_member": true,
             "rating_delta": 13.226508154676367,
-            "rank": 26
+            "rank": 27
           },
           {
             "account_name": "Asper.2863",
@@ -39035,7 +38569,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 27
+            "rank": 28
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -39047,7 +38581,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 28
+            "rank": 29
           },
           {
             "account_name": "Lasthope.7943",
@@ -39059,7 +38593,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 29
+            "rank": 30
           },
           {
             "account_name": "Astro Bear.6305",
@@ -39071,7 +38605,7 @@ const leaderboardData = {
             "average_stat_value": 0.9,
             "is_guild_member": true,
             "rating_delta": -26.88587683561741,
-            "rank": 30
+            "rank": 31
           },
           {
             "account_name": "acumen.1980",
@@ -39083,7 +38617,7 @@ const leaderboardData = {
             "average_stat_value": 1.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 31
+            "rank": 32
           },
           {
             "account_name": "Narizinho.3052",
@@ -39095,7 +38629,7 @@ const leaderboardData = {
             "average_stat_value": 1.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 32
+            "rank": 33
           },
           {
             "account_name": "Uriah.7082",
@@ -39107,18 +38641,6 @@ const leaderboardData = {
             "average_stat_value": 0.95,
             "is_guild_member": true,
             "rating_delta": -0.3970031032076804,
-            "rank": 33
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Chronomancer",
-            "glicko_rating": 1571.0616346042318,
-            "composite_score": 1571.0616346042318,
-            "games_played": 2,
-            "average_rank_percent": 3.0,
-            "average_stat_value": 0.9,
-            "is_guild_member": true,
-            "rating_delta": 8.489273987507431,
             "rank": 34
           },
           {
@@ -39506,18 +39028,6 @@ const leaderboardData = {
             "rank": 66
           },
           {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1474.6265102782766,
-            "composite_score": 1474.6265102782766,
-            "games_played": 1,
-            "average_rank_percent": 4.0,
-            "average_stat_value": 0.6,
-            "is_guild_member": true,
-            "rating_delta": -10.378969417154622,
-            "rank": 67
-          },
-          {
             "account_name": "Huge.5891",
             "profession": "Firebrand",
             "glicko_rating": 1472.3831923038342,
@@ -39527,7 +39037,7 @@ const leaderboardData = {
             "average_stat_value": 0.6875,
             "is_guild_member": true,
             "rating_delta": -1.72416663379704,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "Chakkkka.2504",
@@ -39539,7 +39049,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "Nero.6195",
@@ -39551,7 +39061,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 70
+            "rank": 69
           },
           {
             "account_name": "acumen.1980",
@@ -39563,7 +39073,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 71
+            "rank": 70
           },
           {
             "account_name": "red armadillo.4593",
@@ -39575,7 +39085,7 @@ const leaderboardData = {
             "average_stat_value": 0.7,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 72
+            "rank": 71
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -39587,7 +39097,7 @@ const leaderboardData = {
             "average_stat_value": 0.5666666666666667,
             "is_guild_member": true,
             "rating_delta": -35.32599243421214,
-            "rank": 73
+            "rank": 72
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -39599,7 +39109,7 @@ const leaderboardData = {
             "average_stat_value": 0.55,
             "is_guild_member": true,
             "rating_delta": -2.0263623372297843,
-            "rank": 74
+            "rank": 73
           },
           {
             "account_name": "Freelanced.6084",
@@ -39611,7 +39121,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": -37.085473646128094,
-            "rank": 75
+            "rank": 74
           },
           {
             "account_name": "Morg.3084",
@@ -39623,7 +39133,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 75
           },
           {
             "account_name": "Malek.9417",
@@ -39635,7 +39145,7 @@ const leaderboardData = {
             "average_stat_value": 0.6499999999999999,
             "is_guild_member": true,
             "rating_delta": -24.39551212244146,
-            "rank": 77
+            "rank": 76
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -39647,7 +39157,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": true,
             "rating_delta": -4.800119855085768,
-            "rank": 78
+            "rank": 77
           },
           {
             "account_name": "Trail.8614",
@@ -39659,7 +39169,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 79
+            "rank": 78
           },
           {
             "account_name": "modus.7921",
@@ -39671,7 +39181,7 @@ const leaderboardData = {
             "average_stat_value": 0.6,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 80
+            "rank": 79
           },
           {
             "account_name": "Havocus.3682",
@@ -39683,7 +39193,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": true,
             "rating_delta": -34.64264846084416,
-            "rank": 81
+            "rank": 80
           },
           {
             "account_name": "Muted.8591",
@@ -39695,7 +39205,7 @@ const leaderboardData = {
             "average_stat_value": 0.5571428571428572,
             "is_guild_member": true,
             "rating_delta": 0.24008259609968263,
-            "rank": 82
+            "rank": 81
           },
           {
             "account_name": "Rapscallion.3571",
@@ -39707,7 +39217,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 83
+            "rank": 82
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -39719,7 +39229,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 84
+            "rank": 83
           },
           {
             "account_name": "synco.8132",
@@ -39731,7 +39241,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": -34.917322051914425,
-            "rank": 85
+            "rank": 84
           },
           {
             "account_name": "Azel.4786",
@@ -39743,7 +39253,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 86
+            "rank": 85
           },
           {
             "account_name": "I R R Y.9128",
@@ -39755,7 +39265,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 87
+            "rank": 86
           },
           {
             "account_name": "Mortealug.6043",
@@ -39767,7 +39277,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": -60.11456203276953,
-            "rank": 88
+            "rank": 87
           },
           {
             "account_name": "Soothsayer.9206",
@@ -39779,7 +39289,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": -49.97338900737691,
-            "rank": 89
+            "rank": 88
           },
           {
             "account_name": "Nictheman.9754",
@@ -39791,7 +39301,7 @@ const leaderboardData = {
             "average_stat_value": 0.55,
             "is_guild_member": true,
             "rating_delta": 13.400642228147717,
-            "rank": 90
+            "rank": 89
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -39803,7 +39313,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 90
           },
           {
             "account_name": "Mellis.8451",
@@ -39815,7 +39325,7 @@ const leaderboardData = {
             "average_stat_value": 0.5,
             "is_guild_member": true,
             "rating_delta": -9.155128625757015,
-            "rank": 92
+            "rank": 91
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -39827,7 +39337,7 @@ const leaderboardData = {
             "average_stat_value": 0.45,
             "is_guild_member": true,
             "rating_delta": -28.925474422785328,
-            "rank": 93
+            "rank": 92
           },
           {
             "account_name": "zectra.6978",
@@ -39839,7 +39349,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 94
+            "rank": 93
           },
           {
             "account_name": "Mona.9180",
@@ -39851,7 +39361,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 95
+            "rank": 94
           },
           {
             "account_name": "Naomi.5372",
@@ -39863,7 +39373,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 95
           },
           {
             "account_name": "Wildcassandra.8463",
@@ -39875,7 +39385,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 96
           },
           {
             "account_name": "Pseven.4867",
@@ -39887,7 +39397,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 97
           },
           {
             "account_name": "freecarl.1320",
@@ -39899,7 +39409,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 98
           },
           {
             "account_name": "Generic Player.4067",
@@ -39911,7 +39421,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 100
+            "rank": 99
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -39923,7 +39433,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": -47.303289489782856,
-            "rank": 101
+            "rank": 100
           },
           {
             "account_name": "DareDevils.6039",
@@ -39935,7 +39445,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 101
           },
           {
             "account_name": "Nero.6195",
@@ -39947,7 +39457,7 @@ const leaderboardData = {
             "average_stat_value": 0.4,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 102
           },
           {
             "account_name": "Malek.9417",
@@ -39959,7 +39469,7 @@ const leaderboardData = {
             "average_stat_value": 0.39999999999999997,
             "is_guild_member": true,
             "rating_delta": -28.029128903178616,
-            "rank": 104
+            "rank": 103
           },
           {
             "account_name": "acumen.1980",
@@ -39971,7 +39481,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 105
+            "rank": 104
           },
           {
             "account_name": "Argo.2675",
@@ -39983,7 +39493,7 @@ const leaderboardData = {
             "average_stat_value": 0.5333333333333333,
             "is_guild_member": true,
             "rating_delta": -8.383160181449966,
-            "rank": 106
+            "rank": 105
           },
           {
             "account_name": "Luke.9108",
@@ -39995,7 +39505,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 106
           },
           {
             "account_name": "Malek.9417",
@@ -40007,7 +39517,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 108
+            "rank": 107
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -40019,7 +39529,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 108
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -40031,7 +39541,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 109
           },
           {
             "account_name": "Interpretor.3091",
@@ -40043,7 +39553,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 110
           },
           {
             "account_name": "Nero.6195",
@@ -40055,7 +39565,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 112
+            "rank": 111
           },
           {
             "account_name": "Lord.7561",
@@ -40067,7 +39577,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 113
+            "rank": 112
           },
           {
             "account_name": "Sselnoisiv.6130",
@@ -40079,7 +39589,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 114
+            "rank": 113
           },
           {
             "account_name": "LilJoker.2658",
@@ -40091,7 +39601,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 115
+            "rank": 114
           },
           {
             "account_name": "Nictheman.9754",
@@ -40103,7 +39613,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 116
+            "rank": 115
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -40115,7 +39625,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 117
+            "rank": 116
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -40127,19 +39637,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 118
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1404.7765381172478,
-            "composite_score": 1404.7765381172478,
-            "games_played": 1,
-            "average_rank_percent": 6.0,
-            "average_stat_value": 0.1,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 119
+            "rank": 117
           },
           {
             "account_name": "harasho.4281",
@@ -40151,7 +39649,7 @@ const leaderboardData = {
             "average_stat_value": 0.3,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 120
+            "rank": 118
           },
           {
             "account_name": "Chakkkka.2504",
@@ -40163,7 +39661,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 121
+            "rank": 119
           },
           {
             "account_name": "Jdchil.9561",
@@ -40175,7 +39673,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 120
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -40187,7 +39685,19 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 121
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1398.0598298092284,
+            "composite_score": 1398.0598298092284,
+            "games_played": 1,
+            "average_rank_percent": 16.0,
+            "average_stat_value": 0.2,
+            "is_guild_member": false,
+            "rating_delta": 0.0,
+            "rank": 122
           },
           {
             "account_name": "Malek.9417",
@@ -40199,7 +39709,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 123
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -40211,7 +39721,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 124
           },
           {
             "account_name": "Sygyt.5190",
@@ -40223,7 +39733,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 125
           },
           {
             "account_name": "Smile.9284",
@@ -40235,7 +39745,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 126
           },
           {
             "account_name": "Astro Bear.6305",
@@ -40247,7 +39757,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 128
+            "rank": 127
           },
           {
             "account_name": "Dextra.8162",
@@ -40259,7 +39769,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 128
           },
           {
             "account_name": "defeater.3186",
@@ -40271,7 +39781,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 130
+            "rank": 129
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -40283,7 +39793,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": -54.18659309248528,
-            "rank": 131
+            "rank": 130
           },
           {
             "account_name": "CarlJunior.7832",
@@ -40295,7 +39805,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 132
+            "rank": 131
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -40307,7 +39817,7 @@ const leaderboardData = {
             "average_stat_value": 0.3666666666666667,
             "is_guild_member": true,
             "rating_delta": -33.80666694217598,
-            "rank": 133
+            "rank": 132
           },
           {
             "account_name": "Astro Bear.6305",
@@ -40319,7 +39829,7 @@ const leaderboardData = {
             "average_stat_value": 0.43,
             "is_guild_member": true,
             "rating_delta": -3.952989670294528,
-            "rank": 134
+            "rank": 133
           },
           {
             "account_name": "Dextra.8162",
@@ -40331,7 +39841,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 135
+            "rank": 134
           },
           {
             "account_name": "Basic.9204",
@@ -40343,7 +39853,7 @@ const leaderboardData = {
             "average_stat_value": 0.30000000000000004,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 136
+            "rank": 135
           },
           {
             "account_name": "Ouji.7839",
@@ -40355,7 +39865,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 137
+            "rank": 136
           },
           {
             "account_name": "Shy.3108",
@@ -40367,7 +39877,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 138
+            "rank": 137
           },
           {
             "account_name": "Huge.5891",
@@ -40379,7 +39889,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 139
+            "rank": 138
           },
           {
             "account_name": "aureliocf.7324",
@@ -40391,7 +39901,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 140
+            "rank": 139
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -40403,7 +39913,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 141
+            "rank": 140
           },
           {
             "account_name": "Theweemon.8459",
@@ -40415,7 +39925,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 142
+            "rank": 141
           },
           {
             "account_name": "Malek.9417",
@@ -40427,7 +39937,7 @@ const leaderboardData = {
             "average_stat_value": 0.15000000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 143
+            "rank": 142
           },
           {
             "account_name": "Bother.9415",
@@ -40439,6 +39949,18 @@ const leaderboardData = {
             "average_stat_value": 0.3666666666666667,
             "is_guild_member": true,
             "rating_delta": -54.49871046127146,
+            "rank": 143
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1372.7724500331801,
+            "composite_score": 1372.7724500331801,
+            "games_played": 2,
+            "average_rank_percent": 15.5,
+            "average_stat_value": 0.25,
+            "is_guild_member": true,
+            "rating_delta": -20.677149606862486,
             "rank": 144
           },
           {
@@ -40478,18 +40000,6 @@ const leaderboardData = {
             "rank": 147
           },
           {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1362.8969654120992,
-            "composite_score": 1362.8969654120992,
-            "games_played": 2,
-            "average_rank_percent": 11.0,
-            "average_stat_value": 0.15000000000000002,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 148
-          },
-          {
             "account_name": "yhanbruno.5873",
             "profession": "Catalyst",
             "glicko_rating": 1360.472423835573,
@@ -40499,7 +40009,7 @@ const leaderboardData = {
             "average_stat_value": 0.15000000000000002,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 149
+            "rank": 148
           },
           {
             "account_name": "synco.8132",
@@ -40511,19 +40021,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 150
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1357.7989218550797,
-            "composite_score": 1357.7989218550797,
-            "games_played": 3,
-            "average_rank_percent": 12.0,
-            "average_stat_value": 0.2333333333333333,
-            "is_guild_member": true,
-            "rating_delta": -20.677149606862486,
-            "rank": 151
+            "rank": 149
           },
           {
             "account_name": "zectra.6978",
@@ -40535,7 +40033,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 152
+            "rank": 150
           },
           {
             "account_name": "Lasthope.7943",
@@ -40547,7 +40045,7 @@ const leaderboardData = {
             "average_stat_value": 0.3285714285714286,
             "is_guild_member": true,
             "rating_delta": 13.7031368434466,
-            "rank": 153
+            "rank": 151
           },
           {
             "account_name": "Bother.9415",
@@ -40559,7 +40057,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 154
+            "rank": 152
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -40571,7 +40069,7 @@ const leaderboardData = {
             "average_stat_value": 0.15000000000000002,
             "is_guild_member": true,
             "rating_delta": -35.270759139559914,
-            "rank": 155
+            "rank": 153
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -40583,7 +40081,7 @@ const leaderboardData = {
             "average_stat_value": 0.2,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 156
+            "rank": 154
           },
           {
             "account_name": "Soothsayer.9206",
@@ -40595,7 +40093,7 @@ const leaderboardData = {
             "average_stat_value": 0.10000000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 157
+            "rank": 155
           },
           {
             "account_name": "modus.7921",
@@ -40607,7 +40105,7 @@ const leaderboardData = {
             "average_stat_value": 0.32727272727272727,
             "is_guild_member": true,
             "rating_delta": -1.400606089842313,
-            "rank": 158
+            "rank": 156
           },
           {
             "account_name": "Lozen.7623",
@@ -40619,7 +40117,7 @@ const leaderboardData = {
             "average_stat_value": 0.10000000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 159
+            "rank": 157
           },
           {
             "account_name": "synco.8132",
@@ -40631,7 +40129,7 @@ const leaderboardData = {
             "average_stat_value": 0.25,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 160
+            "rank": 158
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -40643,7 +40141,7 @@ const leaderboardData = {
             "average_stat_value": 0.23333333333333336,
             "is_guild_member": true,
             "rating_delta": -12.830026249658431,
-            "rank": 161
+            "rank": 159
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -40655,7 +40153,7 @@ const leaderboardData = {
             "average_stat_value": 0.10000000000000002,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 162
+            "rank": 160
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -40667,7 +40165,7 @@ const leaderboardData = {
             "average_stat_value": 0.19999999999999998,
             "is_guild_member": true,
             "rating_delta": -35.106915704951234,
-            "rank": 163
+            "rank": 161
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -40679,7 +40177,7 @@ const leaderboardData = {
             "average_stat_value": 0.1,
             "is_guild_member": true,
             "rating_delta": -42.94101785723706,
-            "rank": 164
+            "rank": 162
           }
         ],
         "Downs": [
@@ -40710,11 +40208,11 @@ const leaderboardData = {
           {
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
-            "glicko_rating": 1797.8272238371057,
-            "composite_score": 1797.8272238371057,
-            "games_played": 10,
-            "average_rank_percent": 3.9,
-            "average_stat_value": 511.8780652363956,
+            "glicko_rating": 1824.8499726863593,
+            "composite_score": 1824.8499726863593,
+            "games_played": 9,
+            "average_rank_percent": 3.3333333333333335,
+            "average_stat_value": 538.9668063315908,
             "is_guild_member": true,
             "rating_delta": 4.3088511634553015,
             "rank": 3
@@ -40746,11 +40244,11 @@ const leaderboardData = {
           {
             "account_name": "Soothsayer.9206",
             "profession": "Dragonhunter",
-            "glicko_rating": 1753.5142010428558,
-            "composite_score": 1753.5142010428558,
-            "games_played": 3,
-            "average_rank_percent": 1.6666666666666667,
-            "average_stat_value": 710.5531517721438,
+            "glicko_rating": 1738.0784979959165,
+            "composite_score": 1738.0784979959165,
+            "games_played": 2,
+            "average_rank_percent": 1.0,
+            "average_stat_value": 860.782672742361,
             "is_guild_member": true,
             "rating_delta": 24.625775998687004,
             "rank": 6
@@ -40768,18 +40266,6 @@ const leaderboardData = {
             "rank": 7
           },
           {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1733.6633595350409,
-            "composite_score": 1733.6633595350409,
-            "games_played": 2,
-            "average_rank_percent": 1.5,
-            "average_stat_value": 700.4229345002457,
-            "is_guild_member": true,
-            "rating_delta": 72.79047738590043,
-            "rank": 8
-          },
-          {
             "account_name": "Interpretor.3091",
             "profession": "Warrior",
             "glicko_rating": 1732.1351314947942,
@@ -40789,7 +40275,7 @@ const leaderboardData = {
             "average_stat_value": 441.12749494454675,
             "is_guild_member": true,
             "rating_delta": 18.849396467327097,
-            "rank": 9
+            "rank": 8
           },
           {
             "account_name": "MasterScrub.1396",
@@ -40801,7 +40287,7 @@ const leaderboardData = {
             "average_stat_value": 650.8167903629171,
             "is_guild_member": false,
             "rating_delta": 65.91909610571452,
-            "rank": 10
+            "rank": 9
           },
           {
             "account_name": "Lasthope.7943",
@@ -40813,6 +40299,18 @@ const leaderboardData = {
             "average_stat_value": 388.61037433580475,
             "is_guild_member": true,
             "rating_delta": 5.137633032087251,
+            "rank": 10
+          },
+          {
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "glicko_rating": 1709.0232243856506,
+            "composite_score": 1709.0232243856506,
+            "games_played": 2,
+            "average_rank_percent": 3.0,
+            "average_stat_value": 428.007407595205,
+            "is_guild_member": true,
+            "rating_delta": 6.75349666152465,
             "rank": 11
           },
           {
@@ -40840,6 +40338,18 @@ const leaderboardData = {
             "rank": 13
           },
           {
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "glicko_rating": 1670.7911845286246,
+            "composite_score": 1670.7911845286246,
+            "games_played": 12,
+            "average_rank_percent": 10.0,
+            "average_stat_value": 264.5472510783065,
+            "is_guild_member": true,
+            "rating_delta": -13.142093111652684,
+            "rank": 14
+          },
+          {
             "account_name": "Daasen.3719",
             "profession": "Reaper",
             "glicko_rating": 1670.2871971336058,
@@ -40849,7 +40359,19 @@ const leaderboardData = {
             "average_stat_value": 546.2644531664369,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 14
+            "rank": 15
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1669.3946181960353,
+            "composite_score": 1669.3946181960353,
+            "games_played": 1,
+            "average_rank_percent": 2.0,
+            "average_stat_value": 836.4873417721518,
+            "is_guild_member": true,
+            "rating_delta": 72.79047738590043,
+            "rank": 16
           },
           {
             "account_name": "Bother.9415",
@@ -40861,7 +40383,7 @@ const leaderboardData = {
             "average_stat_value": 240.53313167900052,
             "is_guild_member": true,
             "rating_delta": -35.598192241252264,
-            "rank": 15
+            "rank": 17
           },
           {
             "account_name": "CarlJunior.7832",
@@ -40873,30 +40395,6 @@ const leaderboardData = {
             "average_stat_value": 327.28712174524986,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 16
-          },
-          {
-            "account_name": "Dextra.8162",
-            "profession": "Weaver",
-            "glicko_rating": 1665.803456317911,
-            "composite_score": 1665.803456317911,
-            "games_played": 13,
-            "average_rank_percent": 9.846153846153847,
-            "average_stat_value": 264.83868325804116,
-            "is_guild_member": true,
-            "rating_delta": -13.142093111652684,
-            "rank": 17
-          },
-          {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1665.6442779472104,
-            "composite_score": 1665.6442779472104,
-            "games_played": 4,
-            "average_rank_percent": 4.75,
-            "average_stat_value": 609.334979382905,
-            "is_guild_member": true,
-            "rating_delta": 18.328138443481066,
             "rank": 18
           },
           {
@@ -41008,18 +40506,6 @@ const leaderboardData = {
             "rank": 27
           },
           {
-            "account_name": "Aein.1483",
-            "profession": "Vindicator",
-            "glicko_rating": 1646.9639083947786,
-            "composite_score": 1646.9639083947786,
-            "games_played": 3,
-            "average_rank_percent": 5.666666666666667,
-            "average_stat_value": 346.1236034153448,
-            "is_guild_member": true,
-            "rating_delta": 6.75349666152465,
-            "rank": 28
-          },
-          {
             "account_name": "Lasthope.7943",
             "profession": "Dragonhunter",
             "glicko_rating": 1644.425520320358,
@@ -41029,7 +40515,7 @@ const leaderboardData = {
             "average_stat_value": 259.36220751062945,
             "is_guild_member": true,
             "rating_delta": 13.346552304492889,
-            "rank": 29
+            "rank": 28
           },
           {
             "account_name": "Nictheman.9754",
@@ -41041,7 +40527,7 @@ const leaderboardData = {
             "average_stat_value": 467.7275951761646,
             "is_guild_member": true,
             "rating_delta": 103.23389917494887,
-            "rank": 30
+            "rank": 29
           },
           {
             "account_name": "willtehthrill.4218",
@@ -41053,7 +40539,7 @@ const leaderboardData = {
             "average_stat_value": 235.03341327682958,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 31
+            "rank": 30
           },
           {
             "account_name": "CptNacho.1249",
@@ -41065,19 +40551,7 @@ const leaderboardData = {
             "average_stat_value": 419.3723649324119,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 32
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1639.6893610196994,
-            "composite_score": 1639.6893610196994,
-            "games_played": 2,
-            "average_rank_percent": 6.5,
-            "average_stat_value": 333.86406173453906,
-            "is_guild_member": true,
-            "rating_delta": 5.234175302995709,
-            "rank": 33
+            "rank": 31
           },
           {
             "account_name": "Hiraldo.7954",
@@ -41089,7 +40563,7 @@ const leaderboardData = {
             "average_stat_value": 208.03864334157743,
             "is_guild_member": true,
             "rating_delta": -3.390157018028276,
-            "rank": 34
+            "rank": 32
           },
           {
             "account_name": "Lord.7561",
@@ -41101,7 +40575,7 @@ const leaderboardData = {
             "average_stat_value": 685.3582728457101,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 35
+            "rank": 33
           },
           {
             "account_name": "defeater.3186",
@@ -41113,7 +40587,7 @@ const leaderboardData = {
             "average_stat_value": 675.2472415202288,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 36
+            "rank": 34
           },
           {
             "account_name": "Interpretor.3091",
@@ -41125,7 +40599,7 @@ const leaderboardData = {
             "average_stat_value": 280.44380913231197,
             "is_guild_member": true,
             "rating_delta": 8.515239650167814,
-            "rank": 37
+            "rank": 35
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -41137,7 +40611,7 @@ const leaderboardData = {
             "average_stat_value": 207.76817042198272,
             "is_guild_member": true,
             "rating_delta": 15.27911961537643,
-            "rank": 38
+            "rank": 36
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -41149,7 +40623,19 @@ const leaderboardData = {
             "average_stat_value": 413.7599289297659,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 39
+            "rank": 37
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1627.2865880845968,
+            "composite_score": 1627.2865880845968,
+            "games_played": 3,
+            "average_rank_percent": 5.666666666666667,
+            "average_stat_value": 662.832539182345,
+            "is_guild_member": true,
+            "rating_delta": 18.328138443481066,
+            "rank": 38
           },
           {
             "account_name": "Havocus.3682",
@@ -41161,7 +40647,7 @@ const leaderboardData = {
             "average_stat_value": 202.971843559438,
             "is_guild_member": true,
             "rating_delta": -22.70296260294367,
-            "rank": 40
+            "rank": 39
           },
           {
             "account_name": "Interpretor.3091",
@@ -41173,7 +40659,7 @@ const leaderboardData = {
             "average_stat_value": 293.2057974490875,
             "is_guild_member": true,
             "rating_delta": 10.101771013827374,
-            "rank": 41
+            "rank": 40
           },
           {
             "account_name": "Lord.7561",
@@ -41185,7 +40671,7 @@ const leaderboardData = {
             "average_stat_value": 348.90634089586973,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 42
+            "rank": 41
           },
           {
             "account_name": "Freelanced.6084",
@@ -41197,7 +40683,7 @@ const leaderboardData = {
             "average_stat_value": 176.96607273614842,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 43
+            "rank": 42
           },
           {
             "account_name": "Nictheman.9754",
@@ -41209,7 +40695,7 @@ const leaderboardData = {
             "average_stat_value": 265.00399272624185,
             "is_guild_member": true,
             "rating_delta": -59.621464392210555,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "Fibbs.1623",
@@ -41221,7 +40707,7 @@ const leaderboardData = {
             "average_stat_value": 508.04086358882415,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -41233,7 +40719,7 @@ const leaderboardData = {
             "average_stat_value": 237.48123379743518,
             "is_guild_member": true,
             "rating_delta": -21.38522742330906,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "Malek.9417",
@@ -41245,7 +40731,7 @@ const leaderboardData = {
             "average_stat_value": 623.4681674115981,
             "is_guild_member": true,
             "rating_delta": 1.223707463632536,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -41257,19 +40743,7 @@ const leaderboardData = {
             "average_stat_value": 362.05732209765296,
             "is_guild_member": true,
             "rating_delta": -15.405439838073107,
-            "rank": 48
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1610.2724567978244,
-            "composite_score": 1610.2724567978244,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 372.79484425349085,
-            "is_guild_member": true,
-            "rating_delta": 46.329390000044896,
-            "rank": 49
+            "rank": 47
           },
           {
             "account_name": "acumen.1980",
@@ -41281,7 +40755,7 @@ const leaderboardData = {
             "average_stat_value": 316.99728874830544,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 50
+            "rank": 48
           },
           {
             "account_name": "Muted.8591",
@@ -41293,7 +40767,7 @@ const leaderboardData = {
             "average_stat_value": 174.3172612047563,
             "is_guild_member": true,
             "rating_delta": 14.751417891958226,
-            "rank": 51
+            "rank": 49
           },
           {
             "account_name": "emz.3571",
@@ -41305,7 +40779,7 @@ const leaderboardData = {
             "average_stat_value": 332.38126782226306,
             "is_guild_member": true,
             "rating_delta": -17.884281610105518,
-            "rank": 52
+            "rank": 50
           },
           {
             "account_name": "Naomi.5372",
@@ -41317,7 +40791,7 @@ const leaderboardData = {
             "average_stat_value": 254.8744146445296,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 53
+            "rank": 51
           },
           {
             "account_name": "emz.3571",
@@ -41329,7 +40803,7 @@ const leaderboardData = {
             "average_stat_value": 211.11667537357977,
             "is_guild_member": true,
             "rating_delta": 7.180029619516517,
-            "rank": 54
+            "rank": 52
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -41341,7 +40815,7 @@ const leaderboardData = {
             "average_stat_value": 200.3152681207734,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 55
+            "rank": 53
           },
           {
             "account_name": "Uriah.7082",
@@ -41353,7 +40827,7 @@ const leaderboardData = {
             "average_stat_value": 296.3791653186671,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 56
+            "rank": 54
           },
           {
             "account_name": "Astro Bear.6305",
@@ -41365,7 +40839,7 @@ const leaderboardData = {
             "average_stat_value": 963.8388400285239,
             "is_guild_member": true,
             "rating_delta": 30.245446960394247,
-            "rank": 57
+            "rank": 55
           },
           {
             "account_name": "dobbeh.7382",
@@ -41377,7 +40851,7 @@ const leaderboardData = {
             "average_stat_value": 279.09882612745736,
             "is_guild_member": true,
             "rating_delta": 19.61969837389256,
-            "rank": 58
+            "rank": 56
           },
           {
             "account_name": "dobbeh.7382",
@@ -41389,7 +40863,7 @@ const leaderboardData = {
             "average_stat_value": 235.37058152793614,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 59
+            "rank": 57
           },
           {
             "account_name": "Luke.9108",
@@ -41401,7 +40875,7 @@ const leaderboardData = {
             "average_stat_value": 317.9290406459559,
             "is_guild_member": false,
             "rating_delta": 11.176231335133252,
-            "rank": 60
+            "rank": 58
           },
           {
             "account_name": "emz.3571",
@@ -41413,7 +40887,19 @@ const leaderboardData = {
             "average_stat_value": 304.00161030595814,
             "is_guild_member": true,
             "rating_delta": 46.266492220854616,
-            "rank": 61
+            "rank": 59
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1588.070437792145,
+            "composite_score": 1588.070437792145,
+            "games_played": 1,
+            "average_rank_percent": 9.0,
+            "average_stat_value": 290.2429374060299,
+            "is_guild_member": true,
+            "rating_delta": 5.234175302995709,
+            "rank": 60
           },
           {
             "account_name": "Dextra.8162",
@@ -41425,7 +40911,7 @@ const leaderboardData = {
             "average_stat_value": 145.1539861176629,
             "is_guild_member": true,
             "rating_delta": 10.2317640604806,
-            "rank": 62
+            "rank": 61
           },
           {
             "account_name": "Nictheman.9754",
@@ -41437,7 +40923,7 @@ const leaderboardData = {
             "average_stat_value": 227.05490816406297,
             "is_guild_member": true,
             "rating_delta": 53.248511098629024,
-            "rank": 63
+            "rank": 62
           },
           {
             "account_name": "Sygyt.5190",
@@ -41449,7 +40935,7 @@ const leaderboardData = {
             "average_stat_value": 155.52893013100436,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 64
+            "rank": 63
           },
           {
             "account_name": "Nictheman.9754",
@@ -41461,7 +40947,7 @@ const leaderboardData = {
             "average_stat_value": 204.04909766166145,
             "is_guild_member": true,
             "rating_delta": -1.8872208416719332,
-            "rank": 65
+            "rank": 64
           },
           {
             "account_name": "zectra.6978",
@@ -41473,7 +40959,7 @@ const leaderboardData = {
             "average_stat_value": 522.6002180443968,
             "is_guild_member": false,
             "rating_delta": 36.99619475379836,
-            "rank": 66
+            "rank": 65
           },
           {
             "account_name": "dobbeh.7382",
@@ -41485,7 +40971,7 @@ const leaderboardData = {
             "average_stat_value": 141.30885650224215,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 66
           },
           {
             "account_name": "Uriah.7082",
@@ -41497,7 +40983,7 @@ const leaderboardData = {
             "average_stat_value": 190.85460533845205,
             "is_guild_member": true,
             "rating_delta": -1.3818333563913257,
-            "rank": 68
+            "rank": 67
           },
           {
             "account_name": "acumen.1980",
@@ -41509,7 +40995,7 @@ const leaderboardData = {
             "average_stat_value": 334.5100268761629,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 68
           },
           {
             "account_name": "Gismor.8407",
@@ -41521,19 +41007,7 @@ const leaderboardData = {
             "average_stat_value": 450.3200692041523,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 70
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Reaper",
-            "glicko_rating": 1575.165968208377,
-            "composite_score": 1575.165968208377,
-            "games_played": 1,
-            "average_rank_percent": 6.0,
-            "average_stat_value": 309.64939887958707,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 71
+            "rank": 69
           },
           {
             "account_name": "Beneko.8475",
@@ -41545,7 +41019,19 @@ const leaderboardData = {
             "average_stat_value": 166.32351941252463,
             "is_guild_member": false,
             "rating_delta": 18.1968554280013,
-            "rank": 72
+            "rank": 70
+          },
+          {
+            "account_name": "Freelanced.6084",
+            "profession": "Catalyst",
+            "glicko_rating": 1571.9821892174236,
+            "composite_score": 1571.9821892174236,
+            "games_played": 1,
+            "average_rank_percent": 11.0,
+            "average_stat_value": 133.717277486911,
+            "is_guild_member": true,
+            "rating_delta": 2.267808184176829,
+            "rank": 71
           },
           {
             "account_name": "Lord.7561",
@@ -41557,7 +41043,7 @@ const leaderboardData = {
             "average_stat_value": 133.16710085597322,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 73
+            "rank": 72
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -41569,7 +41055,7 @@ const leaderboardData = {
             "average_stat_value": 130.36215816703623,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 74
+            "rank": 73
           },
           {
             "account_name": "Mes.1906",
@@ -41581,7 +41067,7 @@ const leaderboardData = {
             "average_stat_value": 169.26977425219266,
             "is_guild_member": false,
             "rating_delta": 15.416103198288738,
-            "rank": 75
+            "rank": 74
           },
           {
             "account_name": "Lasthope.7943",
@@ -41593,7 +41079,7 @@ const leaderboardData = {
             "average_stat_value": 207.48335745296671,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 75
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -41605,7 +41091,7 @@ const leaderboardData = {
             "average_stat_value": 148.62867659825676,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 77
+            "rank": 76
           },
           {
             "account_name": "Bother.9415",
@@ -41617,7 +41103,7 @@ const leaderboardData = {
             "average_stat_value": 219.10860655737704,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 78
+            "rank": 77
           },
           {
             "account_name": "Mellis.8451",
@@ -41629,19 +41115,7 @@ const leaderboardData = {
             "average_stat_value": 115.25204152305926,
             "is_guild_member": true,
             "rating_delta": 23.026740909838054,
-            "rank": 79
-          },
-          {
-            "account_name": "Mellis.8451",
-            "profession": "Reaper",
-            "glicko_rating": 1552.5288128329846,
-            "composite_score": 1552.5288128329846,
-            "games_played": 1,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 276.2575787209075,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 80
+            "rank": 78
           },
           {
             "account_name": "Kuwat.4703",
@@ -41653,7 +41127,7 @@ const leaderboardData = {
             "average_stat_value": 144.18358402580554,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 81
+            "rank": 79
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -41665,7 +41139,7 @@ const leaderboardData = {
             "average_stat_value": 269.66899183837955,
             "is_guild_member": true,
             "rating_delta": 9.486016642696086,
-            "rank": 82
+            "rank": 80
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -41677,7 +41151,7 @@ const leaderboardData = {
             "average_stat_value": 248.62095531587056,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 83
+            "rank": 81
           },
           {
             "account_name": "Freelanced.6084",
@@ -41689,7 +41163,7 @@ const leaderboardData = {
             "average_stat_value": 125.59828405086563,
             "is_guild_member": true,
             "rating_delta": 15.97743847843617,
-            "rank": 84
+            "rank": 82
           },
           {
             "account_name": "Dextra.8162",
@@ -41701,7 +41175,7 @@ const leaderboardData = {
             "average_stat_value": 242.3567064300262,
             "is_guild_member": true,
             "rating_delta": -6.375429126010431,
-            "rank": 85
+            "rank": 83
           },
           {
             "account_name": "Nictheman.9754",
@@ -41713,7 +41187,7 @@ const leaderboardData = {
             "average_stat_value": 239.73724268749254,
             "is_guild_member": true,
             "rating_delta": 27.379151207113182,
-            "rank": 86
+            "rank": 84
           },
           {
             "account_name": "Huge.5891",
@@ -41725,7 +41199,7 @@ const leaderboardData = {
             "average_stat_value": 166.16944822837695,
             "is_guild_member": true,
             "rating_delta": -2.0794444469884183,
-            "rank": 87
+            "rank": 85
           },
           {
             "account_name": "Mellis.8451",
@@ -41737,7 +41211,7 @@ const leaderboardData = {
             "average_stat_value": 159.26943105148067,
             "is_guild_member": true,
             "rating_delta": 15.116476968365987,
-            "rank": 88
+            "rank": 86
           },
           {
             "account_name": "Freelanced.6084",
@@ -41749,7 +41223,7 @@ const leaderboardData = {
             "average_stat_value": 159.42522676226693,
             "is_guild_member": true,
             "rating_delta": -4.457960288095137,
-            "rank": 89
+            "rank": 87
           },
           {
             "account_name": "Lasthope.7943",
@@ -41761,19 +41235,7 @@ const leaderboardData = {
             "average_stat_value": 177.5356456669026,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 90
-          },
-          {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1531.1576267014,
-            "composite_score": 1531.1576267014,
-            "games_played": 2,
-            "average_rank_percent": 12.0,
-            "average_stat_value": 153.18084744616135,
-            "is_guild_member": true,
-            "rating_delta": 2.267808184176829,
-            "rank": 91
+            "rank": 88
           },
           {
             "account_name": "Malek.9417",
@@ -41785,7 +41247,7 @@ const leaderboardData = {
             "average_stat_value": 107.62379322440096,
             "is_guild_member": true,
             "rating_delta": -13.697326640212168,
-            "rank": 92
+            "rank": 89
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -41797,7 +41259,7 @@ const leaderboardData = {
             "average_stat_value": 168.26928875339206,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 90
           },
           {
             "account_name": "Uriah.7082",
@@ -41809,19 +41271,7 @@ const leaderboardData = {
             "average_stat_value": 167.96875,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 94
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "profession": "Berserker",
-            "glicko_rating": 1520.9444357102818,
-            "composite_score": 1520.9444357102818,
-            "games_played": 1,
-            "average_rank_percent": 10.0,
-            "average_stat_value": 234.0113682501015,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 95
+            "rank": 91
           },
           {
             "account_name": "Havocus.3682",
@@ -41833,7 +41283,7 @@ const leaderboardData = {
             "average_stat_value": 126.35933741116747,
             "is_guild_member": true,
             "rating_delta": 0.47033501026317026,
-            "rank": 96
+            "rank": 92
           },
           {
             "account_name": "yhanbruno.5873",
@@ -41845,7 +41295,7 @@ const leaderboardData = {
             "average_stat_value": 113.32628226370633,
             "is_guild_member": false,
             "rating_delta": 71.37514903493502,
-            "rank": 97
+            "rank": 93
           },
           {
             "account_name": "Astro Bear.6305",
@@ -41857,7 +41307,7 @@ const leaderboardData = {
             "average_stat_value": 217.5418522500384,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 94
           },
           {
             "account_name": "acumen.1980",
@@ -41869,7 +41319,7 @@ const leaderboardData = {
             "average_stat_value": 217.40673886883275,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 99
+            "rank": 95
           },
           {
             "account_name": "Nictheman.9754",
@@ -41881,7 +41331,7 @@ const leaderboardData = {
             "average_stat_value": 217.19372885330475,
             "is_guild_member": true,
             "rating_delta": -4.650083087267376,
-            "rank": 100
+            "rank": 96
           },
           {
             "account_name": "MasterScrub.1396",
@@ -41893,7 +41343,7 @@ const leaderboardData = {
             "average_stat_value": 600.7062665850174,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 97
           },
           {
             "account_name": "emz.3571",
@@ -41905,7 +41355,7 @@ const leaderboardData = {
             "average_stat_value": 90.19703500213139,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 98
           },
           {
             "account_name": "Uriah.7082",
@@ -41917,7 +41367,7 @@ const leaderboardData = {
             "average_stat_value": 594.9292748433304,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 99
           },
           {
             "account_name": "Muted.8591",
@@ -41929,7 +41379,7 @@ const leaderboardData = {
             "average_stat_value": 142.95944779982744,
             "is_guild_member": true,
             "rating_delta": 15.757928248975304,
-            "rank": 104
+            "rank": 100
           },
           {
             "account_name": "Lenorellei.9815",
@@ -41941,7 +41391,7 @@ const leaderboardData = {
             "average_stat_value": 145.83371931449744,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 105
+            "rank": 101
           },
           {
             "account_name": "Lord.7561",
@@ -41953,7 +41403,7 @@ const leaderboardData = {
             "average_stat_value": 568.0452287133801,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 102
           },
           {
             "account_name": "Bother.9415",
@@ -41965,7 +41415,7 @@ const leaderboardData = {
             "average_stat_value": 79.19871794871796,
             "is_guild_member": true,
             "rating_delta": -58.09614378173137,
-            "rank": 107
+            "rank": 103
           },
           {
             "account_name": "Bertozaur.4578",
@@ -41977,7 +41427,7 @@ const leaderboardData = {
             "average_stat_value": 150.4696824798104,
             "is_guild_member": true,
             "rating_delta": -12.745730082636555,
-            "rank": 108
+            "rank": 104
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -41989,7 +41439,7 @@ const leaderboardData = {
             "average_stat_value": 100.07473173168682,
             "is_guild_member": true,
             "rating_delta": 8.59449423805313,
-            "rank": 109
+            "rank": 105
           },
           {
             "account_name": "DareDevils.6039",
@@ -42001,7 +41451,7 @@ const leaderboardData = {
             "average_stat_value": 86.24391388514108,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 106
           },
           {
             "account_name": "Uriah.7082",
@@ -42013,7 +41463,7 @@ const leaderboardData = {
             "average_stat_value": 108.45823436216622,
             "is_guild_member": true,
             "rating_delta": 3.314620597199564,
-            "rank": 111
+            "rank": 107
           },
           {
             "account_name": "CarlJunior.7832",
@@ -42025,7 +41475,7 @@ const leaderboardData = {
             "average_stat_value": 67.69987699877,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 112
+            "rank": 108
           },
           {
             "account_name": "Hiraldo.7954",
@@ -42037,7 +41487,7 @@ const leaderboardData = {
             "average_stat_value": 149.7163508260447,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 113
+            "rank": 109
           },
           {
             "account_name": "Stash.8401",
@@ -42049,7 +41499,7 @@ const leaderboardData = {
             "average_stat_value": 80.90542700298798,
             "is_guild_member": false,
             "rating_delta": 4.027734632815282,
-            "rank": 114
+            "rank": 110
           },
           {
             "account_name": "Drigan.7382",
@@ -42061,7 +41511,7 @@ const leaderboardData = {
             "average_stat_value": 73.49365097201932,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 115
+            "rank": 111
           },
           {
             "account_name": "Mellis.8451",
@@ -42073,7 +41523,7 @@ const leaderboardData = {
             "average_stat_value": 138.32078809889558,
             "is_guild_member": true,
             "rating_delta": -2.018447945714115,
-            "rank": 116
+            "rank": 112
           },
           {
             "account_name": "Nero.6195",
@@ -42085,7 +41535,7 @@ const leaderboardData = {
             "average_stat_value": 114.30880105851385,
             "is_guild_member": true,
             "rating_delta": -6.897406515325201,
-            "rank": 117
+            "rank": 113
           },
           {
             "account_name": "arrsc.9046",
@@ -42097,7 +41547,7 @@ const leaderboardData = {
             "average_stat_value": 78.14112011790715,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 118
+            "rank": 114
           },
           {
             "account_name": "Huge.5891",
@@ -42109,7 +41559,7 @@ const leaderboardData = {
             "average_stat_value": 76.14944746535696,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 119
+            "rank": 115
           },
           {
             "account_name": "Lord.7561",
@@ -42121,7 +41571,7 @@ const leaderboardData = {
             "average_stat_value": 134.5582251922353,
             "is_guild_member": true,
             "rating_delta": -27.682730346304197,
-            "rank": 120
+            "rank": 116
           },
           {
             "account_name": "acumen.1980",
@@ -42133,7 +41583,7 @@ const leaderboardData = {
             "average_stat_value": 112.41328114455392,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 121
+            "rank": 117
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -42145,7 +41595,7 @@ const leaderboardData = {
             "average_stat_value": 54.54514128187457,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 118
           },
           {
             "account_name": "Nero.6195",
@@ -42157,7 +41607,7 @@ const leaderboardData = {
             "average_stat_value": 122.34529771300215,
             "is_guild_member": true,
             "rating_delta": -12.622745946276154,
-            "rank": 123
+            "rank": 119
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -42169,19 +41619,19 @@ const leaderboardData = {
             "average_stat_value": 63.86415149521093,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 120
           },
           {
             "account_name": "waschy.6093",
             "profession": "Firebrand",
-            "glicko_rating": 1464.7300744213169,
-            "composite_score": 1464.7300744213169,
-            "games_played": 11,
-            "average_rank_percent": 14.818181818181818,
-            "average_stat_value": 161.15710119349984,
+            "glicko_rating": 1465.714214940825,
+            "composite_score": 1465.714214940825,
+            "games_played": 10,
+            "average_rank_percent": 15.1,
+            "average_stat_value": 159.19553498664237,
             "is_guild_member": true,
             "rating_delta": 7.897345700609776,
-            "rank": 125
+            "rank": 121
           },
           {
             "account_name": "red armadillo.4593",
@@ -42193,7 +41643,7 @@ const leaderboardData = {
             "average_stat_value": 107.9006417655478,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 122
           },
           {
             "account_name": "Yeek.2976",
@@ -42205,7 +41655,7 @@ const leaderboardData = {
             "average_stat_value": 62.55267423014587,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 123
           },
           {
             "account_name": "mikefmc.5961",
@@ -42217,7 +41667,7 @@ const leaderboardData = {
             "average_stat_value": 110.81460291513417,
             "is_guild_member": true,
             "rating_delta": -19.85771347827722,
-            "rank": 128
+            "rank": 124
           },
           {
             "account_name": "Huge.5891",
@@ -42229,7 +41679,7 @@ const leaderboardData = {
             "average_stat_value": 124.24109362715552,
             "is_guild_member": true,
             "rating_delta": 5.0497257002718925,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "I R R Y.9128",
@@ -42241,7 +41691,19 @@ const leaderboardData = {
             "average_stat_value": 77.42506290652929,
             "is_guild_member": false,
             "rating_delta": -21.021037386298758,
-            "rank": 130
+            "rank": 126
+          },
+          {
+            "account_name": "Syde.1863",
+            "profession": "Scourge",
+            "glicko_rating": 1451.893113843199,
+            "composite_score": 1451.893113843199,
+            "games_played": 3,
+            "average_rank_percent": 20.0,
+            "average_stat_value": 86.94801614770785,
+            "is_guild_member": true,
+            "rating_delta": 3.3462368080058695,
+            "rank": 127
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -42253,7 +41715,7 @@ const leaderboardData = {
             "average_stat_value": 83.63161419959812,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 131
+            "rank": 128
           },
           {
             "account_name": "Astro Bear.6305",
@@ -42265,7 +41727,7 @@ const leaderboardData = {
             "average_stat_value": 94.65622026021735,
             "is_guild_member": true,
             "rating_delta": -15.237446652166,
-            "rank": 132
+            "rank": 129
           },
           {
             "account_name": "Sleepy.5367",
@@ -42277,7 +41739,7 @@ const leaderboardData = {
             "average_stat_value": 70.16786061891939,
             "is_guild_member": true,
             "rating_delta": -10.179275991197073,
-            "rank": 133
+            "rank": 130
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -42289,7 +41751,7 @@ const leaderboardData = {
             "average_stat_value": 72.19424875851715,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 134
+            "rank": 131
           },
           {
             "account_name": "Hund.6875",
@@ -42301,7 +41763,7 @@ const leaderboardData = {
             "average_stat_value": 35.10807736063709,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 135
+            "rank": 132
           },
           {
             "account_name": "neven.3785",
@@ -42313,7 +41775,7 @@ const leaderboardData = {
             "average_stat_value": 89.94302715705514,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 136
+            "rank": 133
           },
           {
             "account_name": "zectra.6978",
@@ -42325,7 +41787,7 @@ const leaderboardData = {
             "average_stat_value": 89.27597061909759,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 137
+            "rank": 134
           },
           {
             "account_name": "Elgar.2091",
@@ -42337,7 +41799,7 @@ const leaderboardData = {
             "average_stat_value": 92.48732770120053,
             "is_guild_member": true,
             "rating_delta": -39.335896923690825,
-            "rank": 138
+            "rank": 135
           },
           {
             "account_name": "Lord.7561",
@@ -42349,7 +41811,7 @@ const leaderboardData = {
             "average_stat_value": 122.79341111873714,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 139
+            "rank": 136
           },
           {
             "account_name": "Rapscallion.3571",
@@ -42361,7 +41823,7 @@ const leaderboardData = {
             "average_stat_value": 50.74928475717959,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 140
+            "rank": 137
           },
           {
             "account_name": "Niko.8425",
@@ -42373,7 +41835,7 @@ const leaderboardData = {
             "average_stat_value": 28.7422934648582,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 141
+            "rank": 138
           },
           {
             "account_name": "I R R Y.9128",
@@ -42385,7 +41847,7 @@ const leaderboardData = {
             "average_stat_value": 59.32349766102915,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 142
+            "rank": 139
           },
           {
             "account_name": "Nero.6195",
@@ -42397,7 +41859,7 @@ const leaderboardData = {
             "average_stat_value": 115.28392362567685,
             "is_guild_member": true,
             "rating_delta": 2.316980249947619,
-            "rank": 143
+            "rank": 140
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -42409,19 +41871,7 @@ const leaderboardData = {
             "average_stat_value": 69.8989368355222,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 144
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1431.7819857745321,
-            "composite_score": 1431.7819857745321,
-            "games_played": 1,
-            "average_rank_percent": 14.0,
-            "average_stat_value": 115.41197932502281,
-            "is_guild_member": true,
-            "rating_delta": -82.08006798473502,
-            "rank": 145
+            "rank": 141
           },
           {
             "account_name": "Malek.9417",
@@ -42433,7 +41883,7 @@ const leaderboardData = {
             "average_stat_value": 96.16451636193146,
             "is_guild_member": true,
             "rating_delta": -5.568113062912516,
-            "rank": 146
+            "rank": 142
           },
           {
             "account_name": "Mortealug.6043",
@@ -42445,7 +41895,7 @@ const leaderboardData = {
             "average_stat_value": 46.415668977105646,
             "is_guild_member": false,
             "rating_delta": -29.691161899945655,
-            "rank": 147
+            "rank": 143
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -42457,7 +41907,7 @@ const leaderboardData = {
             "average_stat_value": 52.861400894187774,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 148
+            "rank": 144
           },
           {
             "account_name": "Lozen.7623",
@@ -42469,7 +41919,7 @@ const leaderboardData = {
             "average_stat_value": 70.35465205789178,
             "is_guild_member": true,
             "rating_delta": 4.5231063806995735,
-            "rank": 149
+            "rank": 145
           },
           {
             "account_name": "aureliocf.7324",
@@ -42481,7 +41931,7 @@ const leaderboardData = {
             "average_stat_value": 27.304341908261875,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 150
+            "rank": 146
           },
           {
             "account_name": "Ouji.7839",
@@ -42493,7 +41943,7 @@ const leaderboardData = {
             "average_stat_value": 43.719804675683854,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 151
+            "rank": 147
           },
           {
             "account_name": "Havocus.3682",
@@ -42505,7 +41955,7 @@ const leaderboardData = {
             "average_stat_value": 17.010821877742032,
             "is_guild_member": true,
             "rating_delta": -30.572841397626917,
-            "rank": 152
+            "rank": 148
           },
           {
             "account_name": "modus.7921",
@@ -42517,7 +41967,7 @@ const leaderboardData = {
             "average_stat_value": 49.621639394016036,
             "is_guild_member": true,
             "rating_delta": -17.858588473497548,
-            "rank": 153
+            "rank": 149
           },
           {
             "account_name": "OPness.3215",
@@ -42529,7 +41979,7 @@ const leaderboardData = {
             "average_stat_value": 16.236313319696787,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 154
+            "rank": 150
           },
           {
             "account_name": "acumen.1980",
@@ -42541,7 +41991,7 @@ const leaderboardData = {
             "average_stat_value": 81.54859967051071,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 151
           },
           {
             "account_name": "harasho.4281",
@@ -42553,7 +42003,7 @@ const leaderboardData = {
             "average_stat_value": 44.875382597289025,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 156
+            "rank": 152
           },
           {
             "account_name": "Lasthope.7943",
@@ -42565,7 +42015,7 @@ const leaderboardData = {
             "average_stat_value": 28.95182838384609,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 157
+            "rank": 153
           },
           {
             "account_name": "tCut.7856",
@@ -42577,7 +42027,7 @@ const leaderboardData = {
             "average_stat_value": 12.691500116649816,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 158
+            "rank": 154
           },
           {
             "account_name": "Pseven.4867",
@@ -42589,7 +42039,7 @@ const leaderboardData = {
             "average_stat_value": 12.564038796319323,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 159
+            "rank": 155
           },
           {
             "account_name": "Theweemon.8459",
@@ -42601,7 +42051,7 @@ const leaderboardData = {
             "average_stat_value": 11.953738124741843,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 160
+            "rank": 156
           },
           {
             "account_name": "Uriah.7082",
@@ -42613,7 +42063,7 @@ const leaderboardData = {
             "average_stat_value": 41.592166243085664,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 161
+            "rank": 157
           },
           {
             "account_name": "aznsleeper.5896",
@@ -42625,19 +42075,19 @@ const leaderboardData = {
             "average_stat_value": 66.723044397463,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 162
+            "rank": 158
           },
           {
-            "account_name": "Syde.1863",
-            "profession": "Scourge",
-            "glicko_rating": 1415.9067882558984,
-            "composite_score": 1415.9067882558984,
-            "games_played": 4,
-            "average_rank_percent": 19.0,
-            "average_stat_value": 78.13862750296668,
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Chronomancer",
+            "glicko_rating": 1415.4383711531395,
+            "composite_score": 1415.4383711531395,
+            "games_played": 1,
+            "average_rank_percent": 21.0,
+            "average_stat_value": 31.978511030580453,
             "is_guild_member": true,
-            "rating_delta": 3.3462368080058695,
-            "rank": 163
+            "rating_delta": -6.5398081264722805,
+            "rank": 159
           },
           {
             "account_name": "synco.8132",
@@ -42649,7 +42099,7 @@ const leaderboardData = {
             "average_stat_value": 16.23208766507446,
             "is_guild_member": true,
             "rating_delta": -18.250104782689732,
-            "rank": 164
+            "rank": 160
           },
           {
             "account_name": "Smile.9284",
@@ -42661,7 +42111,7 @@ const leaderboardData = {
             "average_stat_value": 28.36425031794062,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 165
+            "rank": 161
           },
           {
             "account_name": "Asper.2863",
@@ -42673,7 +42123,7 @@ const leaderboardData = {
             "average_stat_value": 19.13284132841328,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 166
+            "rank": 162
           },
           {
             "account_name": "adrielle.2109",
@@ -42685,7 +42135,7 @@ const leaderboardData = {
             "average_stat_value": 65.58389996716599,
             "is_guild_member": true,
             "rating_delta": -1.1232861432017671,
-            "rank": 167
+            "rank": 163
           },
           {
             "account_name": "CarlJunior.7832",
@@ -42697,7 +42147,7 @@ const leaderboardData = {
             "average_stat_value": 6.938413823659726,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 168
+            "rank": 164
           },
           {
             "account_name": "Trail.8614",
@@ -42709,7 +42159,7 @@ const leaderboardData = {
             "average_stat_value": 30.086743044189852,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 169
+            "rank": 165
           },
           {
             "account_name": "Basic.9204",
@@ -42721,7 +42171,7 @@ const leaderboardData = {
             "average_stat_value": 70.25958622900009,
             "is_guild_member": true,
             "rating_delta": 0.06617933042343793,
-            "rank": 170
+            "rank": 166
           },
           {
             "account_name": "Argo.2675",
@@ -42733,7 +42183,7 @@ const leaderboardData = {
             "average_stat_value": 12.485899023249416,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 171
+            "rank": 167
           },
           {
             "account_name": "modus.7921",
@@ -42745,7 +42195,7 @@ const leaderboardData = {
             "average_stat_value": 15.18846340505188,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 172
+            "rank": 168
           },
           {
             "account_name": "Bricktus.1682",
@@ -42757,7 +42207,7 @@ const leaderboardData = {
             "average_stat_value": 12.561001712328768,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 173
+            "rank": 169
           },
           {
             "account_name": "Nero.6195",
@@ -42769,7 +42219,7 @@ const leaderboardData = {
             "average_stat_value": 11.985671514114628,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 174
+            "rank": 170
           },
           {
             "account_name": "phobos.5290",
@@ -42781,7 +42231,7 @@ const leaderboardData = {
             "average_stat_value": 3.7572344752072584,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 175
+            "rank": 171
           },
           {
             "account_name": "LilJoker.2658",
@@ -42793,7 +42243,7 @@ const leaderboardData = {
             "average_stat_value": 7.801185820613094,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 176
+            "rank": 172
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -42805,7 +42255,7 @@ const leaderboardData = {
             "average_stat_value": 12.582732022891268,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 177
+            "rank": 173
           },
           {
             "account_name": "Luke.9108",
@@ -42817,7 +42267,7 @@ const leaderboardData = {
             "average_stat_value": 12.269165247018739,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 178
+            "rank": 174
           },
           {
             "account_name": "freecarl.1320",
@@ -42829,7 +42279,7 @@ const leaderboardData = {
             "average_stat_value": 7.160317005633535,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 179
+            "rank": 175
           },
           {
             "account_name": "modus.7921",
@@ -42841,7 +42291,7 @@ const leaderboardData = {
             "average_stat_value": 9.906184850590687,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 180
+            "rank": 176
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -42853,7 +42303,7 @@ const leaderboardData = {
             "average_stat_value": 11.433355659745478,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 181
+            "rank": 177
           },
           {
             "account_name": "Malek.9417",
@@ -42865,7 +42315,7 @@ const leaderboardData = {
             "average_stat_value": 10.270763187429855,
             "is_guild_member": true,
             "rating_delta": -32.85786985149798,
-            "rank": 182
+            "rank": 178
           },
           {
             "account_name": "phobos.5290",
@@ -42877,7 +42327,7 @@ const leaderboardData = {
             "average_stat_value": 39.29933400237205,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 183
+            "rank": 179
           },
           {
             "account_name": "enKoDed.1563",
@@ -42889,7 +42339,7 @@ const leaderboardData = {
             "average_stat_value": 7.988503166120268,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 184
+            "rank": 180
           },
           {
             "account_name": "Sselnoisiv.6130",
@@ -42901,7 +42351,7 @@ const leaderboardData = {
             "average_stat_value": 15.273475789060967,
             "is_guild_member": false,
             "rating_delta": -33.88172716476333,
-            "rank": 185
+            "rank": 181
           },
           {
             "account_name": "Krounen.7028",
@@ -42913,7 +42363,7 @@ const leaderboardData = {
             "average_stat_value": 18.413310398007,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 186
+            "rank": 182
           },
           {
             "account_name": "Nictheman.9754",
@@ -42925,7 +42375,7 @@ const leaderboardData = {
             "average_stat_value": 4.18462643678161,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 187
+            "rank": 183
           },
           {
             "account_name": "bielzin.5084",
@@ -42937,7 +42387,7 @@ const leaderboardData = {
             "average_stat_value": 10.724073760784977,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 188
+            "rank": 184
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -42949,7 +42399,7 @@ const leaderboardData = {
             "average_stat_value": 69.20195162139595,
             "is_guild_member": true,
             "rating_delta": -23.27448736164183,
-            "rank": 189
+            "rank": 185
           },
           {
             "account_name": "Mini.1786",
@@ -42961,7 +42411,7 @@ const leaderboardData = {
             "average_stat_value": 14.49917470245852,
             "is_guild_member": false,
             "rating_delta": -38.19558230499615,
-            "rank": 190
+            "rank": 186
           },
           {
             "account_name": "synco.8132",
@@ -42973,7 +42423,7 @@ const leaderboardData = {
             "average_stat_value": 17.832167832167833,
             "is_guild_member": true,
             "rating_delta": -6.429278587887211,
-            "rank": 191
+            "rank": 187
           },
           {
             "account_name": "Shy.3108",
@@ -42985,7 +42435,7 @@ const leaderboardData = {
             "average_stat_value": 14.090509666080845,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 192
+            "rank": 188
           },
           {
             "account_name": "Nero.6195",
@@ -42997,7 +42447,7 @@ const leaderboardData = {
             "average_stat_value": 9.505087398904253,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 193
+            "rank": 189
           },
           {
             "account_name": "asdfghjk.8241",
@@ -43009,7 +42459,7 @@ const leaderboardData = {
             "average_stat_value": 7.213897733657989,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 194
+            "rank": 190
           },
           {
             "account_name": "Naomi.5372",
@@ -43021,7 +42471,7 @@ const leaderboardData = {
             "average_stat_value": 7.015643802647413,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 195
+            "rank": 191
           },
           {
             "account_name": "Chakkkka.2504",
@@ -43033,7 +42483,7 @@ const leaderboardData = {
             "average_stat_value": 5.761689291101056,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 196
+            "rank": 192
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -43045,7 +42495,7 @@ const leaderboardData = {
             "average_stat_value": 5.298906981931742,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 197
+            "rank": 193
           },
           {
             "account_name": "Bayushi.7914",
@@ -43057,7 +42507,7 @@ const leaderboardData = {
             "average_stat_value": 4.879692912648629,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 198
+            "rank": 194
           },
           {
             "account_name": "Souza.1562",
@@ -43069,7 +42519,7 @@ const leaderboardData = {
             "average_stat_value": 4.873802505526898,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 199
+            "rank": 195
           },
           {
             "account_name": "Morg.3084",
@@ -43081,7 +42531,7 @@ const leaderboardData = {
             "average_stat_value": 13.903217458811353,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 200
+            "rank": 196
           },
           {
             "account_name": "Azel.4786",
@@ -43093,7 +42543,7 @@ const leaderboardData = {
             "average_stat_value": 13.106244253113768,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 201
+            "rank": 197
           },
           {
             "account_name": "Naomi.5372",
@@ -43105,7 +42555,7 @@ const leaderboardData = {
             "average_stat_value": 4.718732932823594,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 202
+            "rank": 198
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -43117,7 +42567,7 @@ const leaderboardData = {
             "average_stat_value": 3.944362564480472,
             "is_guild_member": false,
             "rating_delta": -18.800067711724296,
-            "rank": 203
+            "rank": 199
           },
           {
             "account_name": "Jdchil.9561",
@@ -43129,7 +42579,7 @@ const leaderboardData = {
             "average_stat_value": 4.293672089942597,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 204
+            "rank": 200
           },
           {
             "account_name": "Narizinho.3052",
@@ -43141,7 +42591,7 @@ const leaderboardData = {
             "average_stat_value": 3.500368459837878,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 205
+            "rank": 201
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -43153,7 +42603,7 @@ const leaderboardData = {
             "average_stat_value": 3.097191323692992,
             "is_guild_member": false,
             "rating_delta": -11.136472278631345,
-            "rank": 206
+            "rank": 202
           },
           {
             "account_name": "DareDevils.6039",
@@ -43165,7 +42615,7 @@ const leaderboardData = {
             "average_stat_value": 14.457603503184714,
             "is_guild_member": false,
             "rating_delta": -44.28468090926799,
-            "rank": 207
+            "rank": 203
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -43177,7 +42627,7 @@ const leaderboardData = {
             "average_stat_value": 10.36007873104087,
             "is_guild_member": true,
             "rating_delta": -23.47011854982543,
-            "rank": 208
+            "rank": 204
           },
           {
             "account_name": "Havocus.3682",
@@ -43189,7 +42639,7 @@ const leaderboardData = {
             "average_stat_value": 13.499606036729498,
             "is_guild_member": true,
             "rating_delta": -9.952710900281772,
-            "rank": 209
+            "rank": 205
           },
           {
             "account_name": "rob.7042",
@@ -43201,7 +42651,7 @@ const leaderboardData = {
             "average_stat_value": 9.275727710291084,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 210
+            "rank": 206
           },
           {
             "account_name": "Soothsayer.9206",
@@ -43213,7 +42663,7 @@ const leaderboardData = {
             "average_stat_value": 8.693112912491223,
             "is_guild_member": true,
             "rating_delta": -35.34198406760538,
-            "rank": 211
+            "rank": 207
           },
           {
             "account_name": "Freelanced.6084",
@@ -43225,7 +42675,7 @@ const leaderboardData = {
             "average_stat_value": 19.20691837165155,
             "is_guild_member": true,
             "rating_delta": -39.209220918497294,
-            "rank": 212
+            "rank": 208
           },
           {
             "account_name": "Generic Player.4067",
@@ -43237,7 +42687,7 @@ const leaderboardData = {
             "average_stat_value": 2.948922585794094,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 213
+            "rank": 209
           },
           {
             "account_name": "acumen.1980",
@@ -43249,7 +42699,7 @@ const leaderboardData = {
             "average_stat_value": 13.755001538935058,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 214
+            "rank": 210
           },
           {
             "account_name": "Lasthope.7943",
@@ -43261,7 +42711,7 @@ const leaderboardData = {
             "average_stat_value": 11.321317588564325,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 215
+            "rank": 211
           },
           {
             "account_name": "phobos.5290",
@@ -43273,7 +42723,7 @@ const leaderboardData = {
             "average_stat_value": 5.098516259466127,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 216
+            "rank": 212
           },
           {
             "account_name": "Xarahait.8051",
@@ -43285,7 +42735,7 @@ const leaderboardData = {
             "average_stat_value": 13.105717811600165,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 217
+            "rank": 213
           },
           {
             "account_name": "Mini.1786",
@@ -43297,7 +42747,7 @@ const leaderboardData = {
             "average_stat_value": 2.5761082428342528,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 218
+            "rank": 214
           },
           {
             "account_name": "San.9704",
@@ -43309,7 +42759,7 @@ const leaderboardData = {
             "average_stat_value": 2.3579181972017005,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 219
+            "rank": 215
           },
           {
             "account_name": "acumen.1980",
@@ -43321,7 +42771,7 @@ const leaderboardData = {
             "average_stat_value": 2.961906788678442,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 220
+            "rank": 216
           },
           {
             "account_name": "Uriah.7082",
@@ -43333,7 +42783,7 @@ const leaderboardData = {
             "average_stat_value": 9.943833943833944,
             "is_guild_member": true,
             "rating_delta": -11.616544054728138,
-            "rank": 221
+            "rank": 217
           },
           {
             "account_name": "Dextra.8162",
@@ -43345,7 +42795,7 @@ const leaderboardData = {
             "average_stat_value": 2.6129827444535745,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 222
+            "rank": 218
           },
           {
             "account_name": "aznsleeper.5896",
@@ -43357,19 +42807,7 @@ const leaderboardData = {
             "average_stat_value": 44.46293163090688,
             "is_guild_member": true,
             "rating_delta": -1.3415952016757728,
-            "rank": 223
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1395.8056823758366,
-            "composite_score": 1395.8056823758366,
-            "games_played": 1,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 54.075347944328904,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 224
+            "rank": 219
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -43381,7 +42819,7 @@ const leaderboardData = {
             "average_stat_value": 8.3241979098151,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 225
+            "rank": 220
           },
           {
             "account_name": "Malek.9417",
@@ -43393,7 +42831,19 @@ const leaderboardData = {
             "average_stat_value": 6.121850372831043,
             "is_guild_member": true,
             "rating_delta": -24.754400460357147,
-            "rank": 226
+            "rank": 221
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1393.1580640385928,
+            "composite_score": 1393.1580640385928,
+            "games_played": 1,
+            "average_rank_percent": 33.0,
+            "average_stat_value": 6.1054352268083365,
+            "is_guild_member": false,
+            "rating_delta": -20.949926736961743,
+            "rank": 222
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -43405,19 +42855,7 @@ const leaderboardData = {
             "average_stat_value": 17.97730267121912,
             "is_guild_member": true,
             "rating_delta": -29.603026531946398,
-            "rank": 227
-          },
-          {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1379.9467924459955,
-            "composite_score": 1379.9467924459955,
-            "games_played": 1,
-            "average_rank_percent": 17.0,
-            "average_stat_value": 19.45773757416594,
-            "is_guild_member": true,
-            "rating_delta": -18.69194148498127,
-            "rank": 228
+            "rank": 223
           },
           {
             "account_name": "acumen.1980",
@@ -43429,7 +42867,7 @@ const leaderboardData = {
             "average_stat_value": 83.71125192669977,
             "is_guild_member": true,
             "rating_delta": -115.15606009985004,
-            "rank": 229
+            "rank": 224
           },
           {
             "account_name": "Nero.6195",
@@ -43441,7 +42879,7 @@ const leaderboardData = {
             "average_stat_value": 83.1580693315641,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 230
+            "rank": 225
           },
           {
             "account_name": "OPness.3215",
@@ -43453,7 +42891,7 @@ const leaderboardData = {
             "average_stat_value": 15.918213074266328,
             "is_guild_member": true,
             "rating_delta": -2.869377035309526,
-            "rank": 231
+            "rank": 226
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -43465,7 +42903,7 @@ const leaderboardData = {
             "average_stat_value": 11.552824652017346,
             "is_guild_member": true,
             "rating_delta": -21.134581364880887,
-            "rank": 232
+            "rank": 227
           },
           {
             "account_name": "Elgar.2091",
@@ -43477,7 +42915,7 @@ const leaderboardData = {
             "average_stat_value": 15.876267422079394,
             "is_guild_member": true,
             "rating_delta": -20.64611891788195,
-            "rank": 233
+            "rank": 228
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -43489,7 +42927,7 @@ const leaderboardData = {
             "average_stat_value": 3.9034605060103185,
             "is_guild_member": true,
             "rating_delta": -8.623614335201864,
-            "rank": 234
+            "rank": 229
           },
           {
             "account_name": "Basic.9204",
@@ -43501,7 +42939,7 @@ const leaderboardData = {
             "average_stat_value": 7.410939824170335,
             "is_guild_member": true,
             "rating_delta": -31.49359429387323,
-            "rank": 235
+            "rank": 230
           },
           {
             "account_name": "synco.8132",
@@ -43513,7 +42951,7 @@ const leaderboardData = {
             "average_stat_value": 23.466437687077136,
             "is_guild_member": true,
             "rating_delta": -21.213357555217726,
-            "rank": 236
+            "rank": 231
           },
           {
             "account_name": "Lozen.7623",
@@ -43525,7 +42963,7 @@ const leaderboardData = {
             "average_stat_value": 5.6610912155860005,
             "is_guild_member": true,
             "rating_delta": -37.24738429277886,
-            "rank": 237
+            "rank": 232
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -43537,7 +42975,7 @@ const leaderboardData = {
             "average_stat_value": 8.644791696140345,
             "is_guild_member": true,
             "rating_delta": -8.359570078575643,
-            "rank": 238
+            "rank": 233
           },
           {
             "account_name": "Aein.1483",
@@ -43549,7 +42987,7 @@ const leaderboardData = {
             "average_stat_value": 40.129156392340526,
             "is_guild_member": true,
             "rating_delta": -14.209192037291587,
-            "rank": 239
+            "rank": 234
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -43561,7 +42999,7 @@ const leaderboardData = {
             "average_stat_value": 41.17751293702998,
             "is_guild_member": true,
             "rating_delta": 3.3546384257576847,
-            "rank": 240
+            "rank": 235
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -43573,7 +43011,7 @@ const leaderboardData = {
             "average_stat_value": 15.131387915727768,
             "is_guild_member": true,
             "rating_delta": -24.74255607418172,
-            "rank": 241
+            "rank": 236
           },
           {
             "account_name": "Syde.1863",
@@ -43585,7 +43023,7 @@ const leaderboardData = {
             "average_stat_value": 13.676859202924065,
             "is_guild_member": true,
             "rating_delta": -36.72543702046414,
-            "rank": 242
+            "rank": 237
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -43597,19 +43035,7 @@ const leaderboardData = {
             "average_stat_value": 13.917915752823147,
             "is_guild_member": false,
             "rating_delta": -25.28073137030765,
-            "rank": 243
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Chronomancer",
-            "glicko_rating": 1356.488646814177,
-            "composite_score": 1356.488646814177,
-            "games_played": 2,
-            "average_rank_percent": 20.0,
-            "average_stat_value": 24.274969801004513,
-            "is_guild_member": true,
-            "rating_delta": -6.5398081264722805,
-            "rank": 244
+            "rank": 238
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -43621,7 +43047,31 @@ const leaderboardData = {
             "average_stat_value": 50.2025506759676,
             "is_guild_member": true,
             "rating_delta": -5.7749060448161345,
-            "rank": 245
+            "rank": 239
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1352.1188688863126,
+            "composite_score": 1352.1188688863126,
+            "games_played": 2,
+            "average_rank_percent": 33.0,
+            "average_stat_value": 6.824589710679077,
+            "is_guild_member": true,
+            "rating_delta": -7.993636550319707,
+            "rank": 240
+          },
+          {
+            "account_name": "Aromapaloma.3194",
+            "profession": "Tempest",
+            "glicko_rating": 1349.7251734289844,
+            "composite_score": 1349.7251734289844,
+            "games_played": 4,
+            "average_rank_percent": 23.5,
+            "average_stat_value": 24.122489298064973,
+            "is_guild_member": true,
+            "rating_delta": -0.36781943315236276,
+            "rank": 241
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -43633,7 +43083,7 @@ const leaderboardData = {
             "average_stat_value": 67.2837489384686,
             "is_guild_member": true,
             "rating_delta": -15.084980329456812,
-            "rank": 246
+            "rank": 242
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -43645,7 +43095,7 @@ const leaderboardData = {
             "average_stat_value": 43.44909010321405,
             "is_guild_member": true,
             "rating_delta": -4.07869282919296,
-            "rank": 247
+            "rank": 243
           },
           {
             "account_name": "Bother.9415",
@@ -43657,7 +43107,7 @@ const leaderboardData = {
             "average_stat_value": 6.668607384387413,
             "is_guild_member": true,
             "rating_delta": -15.812166427502916,
-            "rank": 248
+            "rank": 244
           },
           {
             "account_name": "aznsleeper.5896",
@@ -43669,7 +43119,7 @@ const leaderboardData = {
             "average_stat_value": 16.370466739673404,
             "is_guild_member": true,
             "rating_delta": -4.42572800925177,
-            "rank": 249
+            "rank": 245
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -43681,7 +43131,7 @@ const leaderboardData = {
             "average_stat_value": 6.303294530194436,
             "is_guild_member": true,
             "rating_delta": -20.423646307250692,
-            "rank": 250
+            "rank": 246
           },
           {
             "account_name": "synco.8132",
@@ -43693,19 +43143,7 @@ const leaderboardData = {
             "average_stat_value": 5.201463775826024,
             "is_guild_member": true,
             "rating_delta": -9.353869664947979,
-            "rank": 251
-          },
-          {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1336.650623685671,
-            "composite_score": 1336.650623685671,
-            "games_played": 2,
-            "average_rank_percent": 27.0,
-            "average_stat_value": 4.187427730872907,
-            "is_guild_member": false,
-            "rating_delta": -20.949926736961743,
-            "rank": 252
+            "rank": 247
           },
           {
             "account_name": "BlueViolet.8263",
@@ -43717,7 +43155,7 @@ const leaderboardData = {
             "average_stat_value": 14.628283394659402,
             "is_guild_member": true,
             "rating_delta": -13.367373066203982,
-            "rank": 253
+            "rank": 248
           },
           {
             "account_name": "Nictheman.9754",
@@ -43729,19 +43167,7 @@ const leaderboardData = {
             "average_stat_value": 10.080676212367363,
             "is_guild_member": true,
             "rating_delta": -0.8616658526946139,
-            "rank": 254
-          },
-          {
-            "account_name": "Aromapaloma.3194",
-            "profession": "Tempest",
-            "glicko_rating": 1327.6924065129874,
-            "composite_score": 1327.6924065129874,
-            "games_played": 5,
-            "average_rank_percent": 22.4,
-            "average_stat_value": 23.027064920880093,
-            "is_guild_member": true,
-            "rating_delta": -0.36781943315236276,
-            "rank": 255
+            "rank": 249
           },
           {
             "account_name": "Lozen.7623",
@@ -43753,7 +43179,7 @@ const leaderboardData = {
             "average_stat_value": 4.633881193045722,
             "is_guild_member": true,
             "rating_delta": -13.764761212680241,
-            "rank": 256
+            "rank": 250
           },
           {
             "account_name": "Mellis.8451",
@@ -43765,19 +43191,7 @@ const leaderboardData = {
             "average_stat_value": 23.94830768742049,
             "is_guild_member": true,
             "rating_delta": -12.435039149062277,
-            "rank": 257
-          },
-          {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1317.8462161809507,
-            "composite_score": 1317.8462161809507,
-            "games_played": 3,
-            "average_rank_percent": 28.666666666666668,
-            "average_stat_value": 7.029227146898276,
-            "is_guild_member": true,
-            "rating_delta": -7.993636550319707,
-            "rank": 258
+            "rank": 251
           },
           {
             "account_name": "Johnny.5478",
@@ -43789,7 +43203,7 @@ const leaderboardData = {
             "average_stat_value": 23.405546276561566,
             "is_guild_member": true,
             "rating_delta": -4.163960364295463,
-            "rank": 259
+            "rank": 252
           },
           {
             "account_name": "Muted.8591",
@@ -43801,7 +43215,7 @@ const leaderboardData = {
             "average_stat_value": 17.499395536012603,
             "is_guild_member": true,
             "rating_delta": -1.3788844559803692,
-            "rank": 260
+            "rank": 253
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -43813,7 +43227,7 @@ const leaderboardData = {
             "average_stat_value": 3.966799742142361,
             "is_guild_member": true,
             "rating_delta": -1.5889916768740022,
-            "rank": 261
+            "rank": 254
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -43825,7 +43239,7 @@ const leaderboardData = {
             "average_stat_value": 15.6226372403432,
             "is_guild_member": true,
             "rating_delta": -2.2625352797688265,
-            "rank": 262
+            "rank": 255
           },
           {
             "account_name": "Argo.2675",
@@ -43837,7 +43251,7 @@ const leaderboardData = {
             "average_stat_value": 25.8324208123323,
             "is_guild_member": true,
             "rating_delta": -1.3288966478301063,
-            "rank": 263
+            "rank": 256
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -43849,7 +43263,7 @@ const leaderboardData = {
             "average_stat_value": 4.8206700789777885,
             "is_guild_member": true,
             "rating_delta": -3.5959966823143077,
-            "rank": 264
+            "rank": 257
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -43861,7 +43275,7 @@ const leaderboardData = {
             "average_stat_value": 5.667700083820934,
             "is_guild_member": true,
             "rating_delta": -6.533626385820753,
-            "rank": 265
+            "rank": 258
           },
           {
             "account_name": "Smile.9284",
@@ -43873,7 +43287,7 @@ const leaderboardData = {
             "average_stat_value": 10.929955800424194,
             "is_guild_member": true,
             "rating_delta": -0.9656836434862726,
-            "rank": 266
+            "rank": 259
           },
           {
             "account_name": "Astro Bear.6305",
@@ -43885,7 +43299,7 @@ const leaderboardData = {
             "average_stat_value": 8.140040568256705,
             "is_guild_member": true,
             "rating_delta": -0.9219565421021798,
-            "rank": 267
+            "rank": 260
           },
           {
             "account_name": "modus.7921",
@@ -43897,7 +43311,7 @@ const leaderboardData = {
             "average_stat_value": 7.900009120143988,
             "is_guild_member": true,
             "rating_delta": -0.4250837965291794,
-            "rank": 268
+            "rank": 261
           }
         ],
         "Burst Consistency": [
@@ -43916,11 +43330,11 @@ const leaderboardData = {
           {
             "account_name": "Havocus.3682",
             "profession": "Catalyst",
-            "glicko_rating": 1789.6337833738635,
-            "composite_score": 1789.6337833738635,
-            "games_played": 11,
-            "average_rank_percent": 3.5454545454545454,
-            "average_stat_value": 61338.545454545456,
+            "glicko_rating": 1775.9591471872673,
+            "composite_score": 1775.9591471872673,
+            "games_played": 10,
+            "average_rank_percent": 3.8,
+            "average_stat_value": 60412.1,
             "is_guild_member": true,
             "rating_delta": 1.0740315570717485,
             "rank": 2
@@ -44010,18 +43424,6 @@ const leaderboardData = {
             "rank": 9
           },
           {
-            "account_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1642.2773711436364,
-            "composite_score": 1642.2773711436364,
-            "games_played": 4,
-            "average_rank_percent": 3.75,
-            "average_stat_value": 58201.75,
-            "is_guild_member": true,
-            "rating_delta": 22.13061119935969,
-            "rank": 10
-          },
-          {
             "account_name": "willtehthrill.4218",
             "profession": "Holosmith",
             "glicko_rating": 1632.3650344767548,
@@ -44031,6 +43433,18 @@ const leaderboardData = {
             "average_stat_value": 54459.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
+            "rank": 10
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1629.1140624434227,
+            "composite_score": 1629.1140624434227,
+            "games_played": 3,
+            "average_rank_percent": 3.6666666666666665,
+            "average_stat_value": 60999.333333333336,
+            "is_guild_member": true,
+            "rating_delta": 22.13061119935969,
             "rank": 11
           },
           {
@@ -44106,6 +43520,18 @@ const leaderboardData = {
             "rank": 17
           },
           {
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "glicko_rating": 1619.1778549702053,
+            "composite_score": 1619.1778549702053,
+            "games_played": 2,
+            "average_rank_percent": 5.5,
+            "average_stat_value": 37375.5,
+            "is_guild_member": true,
+            "rating_delta": 8.509532848614981,
+            "rank": 18
+          },
+          {
             "account_name": "Interpretor.3091",
             "profession": "Catalyst",
             "glicko_rating": 1616.640204862803,
@@ -44115,7 +43541,7 @@ const leaderboardData = {
             "average_stat_value": 33941.0,
             "is_guild_member": true,
             "rating_delta": 26.189340857876232,
-            "rank": 18
+            "rank": 19
           },
           {
             "account_name": "Chakkkka.2504",
@@ -44127,7 +43553,7 @@ const leaderboardData = {
             "average_stat_value": 40933.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 19
+            "rank": 20
           },
           {
             "account_name": "zectra.6978",
@@ -44139,7 +43565,7 @@ const leaderboardData = {
             "average_stat_value": 49642.0,
             "is_guild_member": false,
             "rating_delta": -17.36217000405486,
-            "rank": 20
+            "rank": 21
           },
           {
             "account_name": "Hiraldo.7954",
@@ -44151,7 +43577,7 @@ const leaderboardData = {
             "average_stat_value": 41422.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 21
+            "rank": 22
           },
           {
             "account_name": "Dextra.8162",
@@ -44163,7 +43589,7 @@ const leaderboardData = {
             "average_stat_value": 31887.0,
             "is_guild_member": true,
             "rating_delta": 57.015570346307186,
-            "rank": 22
+            "rank": 23
           },
           {
             "account_name": "Nictheman.9754",
@@ -44175,7 +43601,7 @@ const leaderboardData = {
             "average_stat_value": 48375.0,
             "is_guild_member": true,
             "rating_delta": 28.884249208584606,
-            "rank": 23
+            "rank": 24
           },
           {
             "account_name": "Chakkkka.2504",
@@ -44187,18 +43613,6 @@ const leaderboardData = {
             "average_stat_value": 40283.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 24
-          },
-          {
-            "account_name": "Dextra.8162",
-            "profession": "Weaver",
-            "glicko_rating": 1602.7743417610145,
-            "composite_score": 1602.7743417610145,
-            "games_played": 13,
-            "average_rank_percent": 6.846153846153846,
-            "average_stat_value": 36450.846153846156,
-            "is_guild_member": true,
-            "rating_delta": -9.93685594600106,
             "rank": 25
           },
           {
@@ -44226,6 +43640,18 @@ const leaderboardData = {
             "rank": 27
           },
           {
+            "account_name": "Dextra.8162",
+            "profession": "Weaver",
+            "glicko_rating": 1598.6271646703713,
+            "composite_score": 1598.6271646703713,
+            "games_played": 12,
+            "average_rank_percent": 7.0,
+            "average_stat_value": 35576.75,
+            "is_guild_member": true,
+            "rating_delta": -9.93685594600106,
+            "rank": 28
+          },
+          {
             "account_name": "mikerock.6187",
             "profession": "Catalyst",
             "glicko_rating": 1596.1170083514628,
@@ -44235,7 +43661,7 @@ const leaderboardData = {
             "average_stat_value": 37499.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 28
+            "rank": 29
           },
           {
             "account_name": "defeater.3186",
@@ -44247,7 +43673,7 @@ const leaderboardData = {
             "average_stat_value": 53083.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 29
+            "rank": 30
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -44259,7 +43685,7 @@ const leaderboardData = {
             "average_stat_value": 28438.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 30
+            "rank": 31
           },
           {
             "account_name": "freecarl.9214",
@@ -44271,7 +43697,7 @@ const leaderboardData = {
             "average_stat_value": 29557.0,
             "is_guild_member": true,
             "rating_delta": 40.31150641614431,
-            "rank": 31
+            "rank": 32
           },
           {
             "account_name": "Luke.9108",
@@ -44283,7 +43709,7 @@ const leaderboardData = {
             "average_stat_value": 35174.0,
             "is_guild_member": false,
             "rating_delta": 11.360079309047023,
-            "rank": 32
+            "rank": 33
           },
           {
             "account_name": "Sleepy.5367",
@@ -44295,7 +43721,7 @@ const leaderboardData = {
             "average_stat_value": 41541.5,
             "is_guild_member": true,
             "rating_delta": 113.6175477023155,
-            "rank": 33
+            "rank": 34
           },
           {
             "account_name": "Aein.1483",
@@ -44307,7 +43733,7 @@ const leaderboardData = {
             "average_stat_value": 42305.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 34
+            "rank": 35
           },
           {
             "account_name": "Hiraldo.7954",
@@ -44319,7 +43745,7 @@ const leaderboardData = {
             "average_stat_value": 34033.666666666664,
             "is_guild_member": true,
             "rating_delta": 43.412879681244476,
-            "rank": 35
+            "rank": 36
           },
           {
             "account_name": "Freelanced.6084",
@@ -44331,7 +43757,7 @@ const leaderboardData = {
             "average_stat_value": 25594.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 36
+            "rank": 37
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -44343,7 +43769,7 @@ const leaderboardData = {
             "average_stat_value": 33991.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 37
+            "rank": 38
           },
           {
             "account_name": "Astro Bear.6305",
@@ -44355,31 +43781,7 @@ const leaderboardData = {
             "average_stat_value": 56395.0,
             "is_guild_member": true,
             "rating_delta": 4.1613783706034155,
-            "rank": 38
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1557.1622585094474,
-            "composite_score": 1557.1622585094474,
-            "games_played": 3,
-            "average_rank_percent": 6.666666666666667,
-            "average_stat_value": 44804.666666666664,
-            "is_guild_member": true,
-            "rating_delta": 58.72413303364601,
             "rank": 39
-          },
-          {
-            "account_name": "Aein.1483",
-            "profession": "Vindicator",
-            "glicko_rating": 1556.8849303869713,
-            "composite_score": 1556.8849303869713,
-            "games_played": 3,
-            "average_rank_percent": 7.333333333333333,
-            "average_stat_value": 33683.0,
-            "is_guild_member": true,
-            "rating_delta": 8.509532848614981,
-            "rank": 40
           },
           {
             "account_name": "Lord.7561",
@@ -44391,7 +43793,7 @@ const leaderboardData = {
             "average_stat_value": 24195.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 40
           },
           {
             "account_name": "Huge.5891",
@@ -44403,7 +43805,7 @@ const leaderboardData = {
             "average_stat_value": 29512.0,
             "is_guild_member": true,
             "rating_delta": -0.6041225432356896,
-            "rank": 42
+            "rank": 41
           },
           {
             "account_name": "Nictheman.9754",
@@ -44415,7 +43817,7 @@ const leaderboardData = {
             "average_stat_value": 34233.0,
             "is_guild_member": true,
             "rating_delta": 1.103137939807766,
-            "rank": 43
+            "rank": 42
           },
           {
             "account_name": "Lord.7561",
@@ -44427,7 +43829,7 @@ const leaderboardData = {
             "average_stat_value": 54003.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "Hiraldo.7954",
@@ -44439,6 +43841,18 @@ const leaderboardData = {
             "average_stat_value": 35062.5,
             "is_guild_member": true,
             "rating_delta": 55.38935170031823,
+            "rank": 44
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1544.2587149146962,
+            "composite_score": 1544.2587149146962,
+            "games_played": 2,
+            "average_rank_percent": 7.0,
+            "average_stat_value": 45626.5,
+            "is_guild_member": true,
+            "rating_delta": 58.72413303364601,
             "rank": 45
           },
           {
@@ -44490,18 +43904,6 @@ const leaderboardData = {
             "rank": 49
           },
           {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1532.939424380751,
-            "composite_score": 1532.939424380751,
-            "games_played": 2,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 39792.0,
-            "is_guild_member": true,
-            "rating_delta": -108.18278347194473,
-            "rank": 50
-          },
-          {
             "account_name": "Sygyt.5190",
             "profession": "Catalyst",
             "glicko_rating": 1530.7677746307431,
@@ -44511,7 +43913,7 @@ const leaderboardData = {
             "average_stat_value": 34219.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 51
+            "rank": 50
           },
           {
             "account_name": "Lasthope.7943",
@@ -44523,19 +43925,19 @@ const leaderboardData = {
             "average_stat_value": 30601.285714285714,
             "is_guild_member": true,
             "rating_delta": 17.6259487483087,
-            "rank": 52
+            "rank": 51
           },
           {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1524.355865247746,
-            "composite_score": 1524.355865247746,
-            "games_played": 2,
-            "average_rank_percent": 13.5,
-            "average_stat_value": 35013.0,
+            "account_name": "Soothsayer.9206",
+            "profession": "Scourge",
+            "glicko_rating": 1530.3265683652157,
+            "composite_score": 1530.3265683652157,
+            "games_played": 1,
+            "average_rank_percent": 4.0,
+            "average_stat_value": 39135.0,
             "is_guild_member": true,
-            "rating_delta": -61.12295312412971,
-            "rank": 53
+            "rating_delta": 25.12761786912506,
+            "rank": 52
           },
           {
             "account_name": "emz.3571",
@@ -44547,7 +43949,7 @@ const leaderboardData = {
             "average_stat_value": 28016.75,
             "is_guild_member": true,
             "rating_delta": 13.934946120108634,
-            "rank": 54
+            "rank": 53
           },
           {
             "account_name": "Niko.8425",
@@ -44559,19 +43961,7 @@ const leaderboardData = {
             "average_stat_value": 21577.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 55
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1515.648023801672,
-            "composite_score": 1515.648023801672,
-            "games_played": 1,
-            "average_rank_percent": 7.0,
-            "average_stat_value": 38504.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 56
+            "rank": 54
           },
           {
             "account_name": "acumen.1980",
@@ -44583,7 +43973,7 @@ const leaderboardData = {
             "average_stat_value": 31484.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 57
+            "rank": 55
           },
           {
             "account_name": "emz.3571",
@@ -44595,7 +43985,7 @@ const leaderboardData = {
             "average_stat_value": 32071.0,
             "is_guild_member": true,
             "rating_delta": -18.18367741212137,
-            "rank": 58
+            "rank": 56
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -44607,7 +43997,7 @@ const leaderboardData = {
             "average_stat_value": 31636.5,
             "is_guild_member": true,
             "rating_delta": -88.73089042215338,
-            "rank": 59
+            "rank": 57
           },
           {
             "account_name": "Havocus.3682",
@@ -44619,7 +44009,7 @@ const leaderboardData = {
             "average_stat_value": 29996.0,
             "is_guild_member": true,
             "rating_delta": -66.82868385137544,
-            "rank": 60
+            "rank": 58
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -44631,7 +44021,7 @@ const leaderboardData = {
             "average_stat_value": 27628.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 61
+            "rank": 59
           },
           {
             "account_name": "Muted.8591",
@@ -44643,7 +44033,7 @@ const leaderboardData = {
             "average_stat_value": 20131.0,
             "is_guild_member": true,
             "rating_delta": 7.705660739440646,
-            "rank": 62
+            "rank": 60
           },
           {
             "account_name": "Interpretor.3091",
@@ -44655,7 +44045,7 @@ const leaderboardData = {
             "average_stat_value": 29762.5,
             "is_guild_member": true,
             "rating_delta": 9.644387291963312,
-            "rank": 63
+            "rank": 61
           },
           {
             "account_name": "Lord.7561",
@@ -44667,7 +44057,7 @@ const leaderboardData = {
             "average_stat_value": 26381.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 64
+            "rank": 62
           },
           {
             "account_name": "Mellis.8451",
@@ -44679,7 +44069,7 @@ const leaderboardData = {
             "average_stat_value": 26840.5,
             "is_guild_member": true,
             "rating_delta": 8.2374081439757,
-            "rank": 65
+            "rank": 63
           },
           {
             "account_name": "Astro Bear.6305",
@@ -44691,7 +44081,7 @@ const leaderboardData = {
             "average_stat_value": 27632.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 66
+            "rank": 64
           },
           {
             "account_name": "Bother.9415",
@@ -44703,7 +44093,7 @@ const leaderboardData = {
             "average_stat_value": 24761.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 67
+            "rank": 65
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -44715,7 +44105,7 @@ const leaderboardData = {
             "average_stat_value": 29674.5,
             "is_guild_member": true,
             "rating_delta": 58.72257531962805,
-            "rank": 68
+            "rank": 66
           },
           {
             "account_name": "CptNacho.1249",
@@ -44727,7 +44117,7 @@ const leaderboardData = {
             "average_stat_value": 32710.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 69
+            "rank": 67
           },
           {
             "account_name": "yhanbruno.5873",
@@ -44739,7 +44129,7 @@ const leaderboardData = {
             "average_stat_value": 21262.0,
             "is_guild_member": false,
             "rating_delta": 90.25327929360492,
-            "rank": 70
+            "rank": 68
           },
           {
             "account_name": "Interpretor.3091",
@@ -44751,19 +44141,7 @@ const leaderboardData = {
             "average_stat_value": 25513.0,
             "is_guild_member": true,
             "rating_delta": -33.89197498679209,
-            "rank": 71
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Reaper",
-            "glicko_rating": 1465.5846229971332,
-            "composite_score": 1465.5846229971332,
-            "games_played": 1,
-            "average_rank_percent": 9.0,
-            "average_stat_value": 31207.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 72
+            "rank": 69
           },
           {
             "account_name": "acumen.1980",
@@ -44775,7 +44153,7 @@ const leaderboardData = {
             "average_stat_value": 21956.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 73
+            "rank": 70
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -44787,7 +44165,7 @@ const leaderboardData = {
             "average_stat_value": 25036.0,
             "is_guild_member": true,
             "rating_delta": 22.378918166736185,
-            "rank": 74
+            "rank": 71
           },
           {
             "account_name": "Nictheman.9754",
@@ -44799,7 +44177,7 @@ const leaderboardData = {
             "average_stat_value": 22523.0,
             "is_guild_member": true,
             "rating_delta": -26.521694146700156,
-            "rank": 75
+            "rank": 72
           },
           {
             "account_name": "Fibbs.1623",
@@ -44811,7 +44189,7 @@ const leaderboardData = {
             "average_stat_value": 33702.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 76
+            "rank": 73
           },
           {
             "account_name": "Freelanced.6084",
@@ -44823,7 +44201,7 @@ const leaderboardData = {
             "average_stat_value": 24820.0,
             "is_guild_member": true,
             "rating_delta": 0.25325102646047526,
-            "rank": 77
+            "rank": 74
           },
           {
             "account_name": "Kuwat.4703",
@@ -44835,7 +44213,7 @@ const leaderboardData = {
             "average_stat_value": 19671.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 78
+            "rank": 75
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -44847,7 +44225,7 @@ const leaderboardData = {
             "average_stat_value": 23434.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 79
+            "rank": 76
           },
           {
             "account_name": "Uriah.7082",
@@ -44859,7 +44237,7 @@ const leaderboardData = {
             "average_stat_value": 24032.285714285714,
             "is_guild_member": true,
             "rating_delta": 15.677568436476122,
-            "rank": 80
+            "rank": 77
           },
           {
             "account_name": "emz.3571",
@@ -44871,7 +44249,7 @@ const leaderboardData = {
             "average_stat_value": 24204.5,
             "is_guild_member": true,
             "rating_delta": -51.7396452813889,
-            "rank": 81
+            "rank": 78
           },
           {
             "account_name": "Malek.9417",
@@ -44883,19 +44261,7 @@ const leaderboardData = {
             "average_stat_value": 35717.0,
             "is_guild_member": true,
             "rating_delta": -26.134275723901055,
-            "rank": 82
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Scourge",
-            "glicko_rating": 1449.794324412855,
-            "composite_score": 1449.794324412855,
-            "games_played": 2,
-            "average_rank_percent": 9.0,
-            "average_stat_value": 29041.5,
-            "is_guild_member": true,
-            "rating_delta": 25.12761786912506,
-            "rank": 83
+            "rank": 79
           },
           {
             "account_name": "Lasthope.7943",
@@ -44907,19 +44273,7 @@ const leaderboardData = {
             "average_stat_value": 22499.2,
             "is_guild_member": true,
             "rating_delta": 28.854594060464933,
-            "rank": 84
-          },
-          {
-            "account_name": "Mellis.8451",
-            "profession": "Reaper",
-            "glicko_rating": 1442.924371573355,
-            "composite_score": 1442.924371573355,
-            "games_played": 1,
-            "average_rank_percent": 10.0,
-            "average_stat_value": 27688.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 85
+            "rank": 80
           },
           {
             "account_name": "CarlJunior.7832",
@@ -44931,7 +44285,7 @@ const leaderboardData = {
             "average_stat_value": 14586.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 86
+            "rank": 81
           },
           {
             "account_name": "Mellis.8451",
@@ -44943,7 +44297,7 @@ const leaderboardData = {
             "average_stat_value": 18288.5,
             "is_guild_member": true,
             "rating_delta": -4.189391585735166,
-            "rank": 87
+            "rank": 82
           },
           {
             "account_name": "Nictheman.9754",
@@ -44955,7 +44309,7 @@ const leaderboardData = {
             "average_stat_value": 22147.666666666668,
             "is_guild_member": true,
             "rating_delta": -18.575169721563498,
-            "rank": 88
+            "rank": 83
           },
           {
             "account_name": "Uriah.7082",
@@ -44967,7 +44321,7 @@ const leaderboardData = {
             "average_stat_value": 21527.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 89
+            "rank": 84
           },
           {
             "account_name": "Lasthope.7943",
@@ -44979,7 +44333,7 @@ const leaderboardData = {
             "average_stat_value": 21168.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 90
+            "rank": 85
           },
           {
             "account_name": "Stash.8401",
@@ -44991,7 +44345,7 @@ const leaderboardData = {
             "average_stat_value": 17124.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 86
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -45003,7 +44357,7 @@ const leaderboardData = {
             "average_stat_value": 17043.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 92
+            "rank": 87
           },
           {
             "account_name": "acumen.1980",
@@ -45015,7 +44369,7 @@ const leaderboardData = {
             "average_stat_value": 19295.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 88
           },
           {
             "account_name": "Astro Bear.6305",
@@ -45027,19 +44381,7 @@ const leaderboardData = {
             "average_stat_value": 19016.0,
             "is_guild_member": true,
             "rating_delta": -7.428914320243393,
-            "rank": 94
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "profession": "Berserker",
-            "glicko_rating": 1425.1212926015853,
-            "composite_score": 1425.1212926015853,
-            "games_played": 1,
-            "average_rank_percent": 12.0,
-            "average_stat_value": 24684.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 95
+            "rank": 89
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -45051,7 +44393,7 @@ const leaderboardData = {
             "average_stat_value": 19639.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 96
+            "rank": 90
           },
           {
             "account_name": "dobbeh.7382",
@@ -45063,7 +44405,7 @@ const leaderboardData = {
             "average_stat_value": 14406.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 91
           },
           {
             "account_name": "dobbeh.7382",
@@ -45075,7 +44417,7 @@ const leaderboardData = {
             "average_stat_value": 8513.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 98
+            "rank": 92
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -45087,7 +44429,7 @@ const leaderboardData = {
             "average_stat_value": 20952.833333333332,
             "is_guild_member": true,
             "rating_delta": -26.703535253401242,
-            "rank": 99
+            "rank": 93
           },
           {
             "account_name": "Nictheman.9754",
@@ -45099,7 +44441,19 @@ const leaderboardData = {
             "average_stat_value": 19077.166666666668,
             "is_guild_member": true,
             "rating_delta": -30.824765074898323,
-            "rank": 100
+            "rank": 94
+          },
+          {
+            "account_name": "Pieswithattitude.2357",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1410.2351711578121,
+            "composite_score": 1410.2351711578121,
+            "games_played": 1,
+            "average_rank_percent": 12.0,
+            "average_stat_value": 15021.0,
+            "is_guild_member": true,
+            "rating_delta": -108.18278347194473,
+            "rank": 95
           },
           {
             "account_name": "Hiraldo.7954",
@@ -45111,7 +44465,7 @@ const leaderboardData = {
             "average_stat_value": 7726.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 96
           },
           {
             "account_name": "acumen.1980",
@@ -45123,7 +44477,7 @@ const leaderboardData = {
             "average_stat_value": 13592.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 102
+            "rank": 97
           },
           {
             "account_name": "DareDevils.6039",
@@ -45135,7 +44489,7 @@ const leaderboardData = {
             "average_stat_value": 13488.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 98
           },
           {
             "account_name": "Lenorellei.9815",
@@ -45147,7 +44501,7 @@ const leaderboardData = {
             "average_stat_value": 11786.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 104
+            "rank": 99
           },
           {
             "account_name": "Luke.9108",
@@ -45159,7 +44513,7 @@ const leaderboardData = {
             "average_stat_value": 15154.0,
             "is_guild_member": false,
             "rating_delta": 0.46857407172205967,
-            "rank": 105
+            "rank": 100
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -45171,7 +44525,7 @@ const leaderboardData = {
             "average_stat_value": 14608.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 101
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -45183,7 +44537,7 @@ const leaderboardData = {
             "average_stat_value": 10263.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 102
           },
           {
             "account_name": "Bother.9415",
@@ -45195,7 +44549,7 @@ const leaderboardData = {
             "average_stat_value": 6480.0,
             "is_guild_member": true,
             "rating_delta": -59.65745178922839,
-            "rank": 108
+            "rank": 103
           },
           {
             "account_name": "CarlJunior.7832",
@@ -45207,7 +44561,19 @@ const leaderboardData = {
             "average_stat_value": 10063.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 109
+            "rank": 104
+          },
+          {
+            "account_name": "Freelanced.6084",
+            "profession": "Catalyst",
+            "glicko_rating": 1399.8978071151769,
+            "composite_score": 1399.8978071151769,
+            "games_played": 1,
+            "average_rank_percent": 24.0,
+            "average_stat_value": 6197.0,
+            "is_guild_member": true,
+            "rating_delta": -61.12295312412971,
+            "rank": 105
           },
           {
             "account_name": "MasterScrub.1396",
@@ -45219,7 +44585,7 @@ const leaderboardData = {
             "average_stat_value": 24755.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 110
+            "rank": 106
           },
           {
             "account_name": "Naomi.5372",
@@ -45231,7 +44597,7 @@ const leaderboardData = {
             "average_stat_value": 11217.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 111
+            "rank": 107
           },
           {
             "account_name": "zectra.6978",
@@ -45243,7 +44609,7 @@ const leaderboardData = {
             "average_stat_value": 12273.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 112
+            "rank": 108
           },
           {
             "account_name": "aznsleeper.5896",
@@ -45255,7 +44621,7 @@ const leaderboardData = {
             "average_stat_value": 10373.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 113
+            "rank": 109
           },
           {
             "account_name": "Malek.9417",
@@ -45267,7 +44633,7 @@ const leaderboardData = {
             "average_stat_value": 8734.0,
             "is_guild_member": true,
             "rating_delta": -23.961177686976498,
-            "rank": 114
+            "rank": 110
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -45279,7 +44645,7 @@ const leaderboardData = {
             "average_stat_value": 13284.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 115
+            "rank": 111
           },
           {
             "account_name": "Uriah.7082",
@@ -45291,7 +44657,7 @@ const leaderboardData = {
             "average_stat_value": 23135.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 116
+            "rank": 112
           },
           {
             "account_name": "Hund.6875",
@@ -45303,7 +44669,7 @@ const leaderboardData = {
             "average_stat_value": 9174.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 117
+            "rank": 113
           },
           {
             "account_name": "I R R Y.9128",
@@ -45315,7 +44681,7 @@ const leaderboardData = {
             "average_stat_value": 15919.0,
             "is_guild_member": false,
             "rating_delta": -29.83232814599569,
-            "rank": 118
+            "rank": 114
           },
           {
             "account_name": "Lord.7561",
@@ -45327,7 +44693,7 @@ const leaderboardData = {
             "average_stat_value": 8362.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 119
+            "rank": 115
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -45339,7 +44705,7 @@ const leaderboardData = {
             "average_stat_value": 4327.0,
             "is_guild_member": true,
             "rating_delta": -42.89028760393944,
-            "rank": 120
+            "rank": 116
           },
           {
             "account_name": "Muted.8591",
@@ -45351,7 +44717,7 @@ const leaderboardData = {
             "average_stat_value": 12131.0,
             "is_guild_member": true,
             "rating_delta": -47.32438691784773,
-            "rank": 121
+            "rank": 117
           },
           {
             "account_name": "emz.3571",
@@ -45363,7 +44729,7 @@ const leaderboardData = {
             "average_stat_value": 9450.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 122
+            "rank": 118
           },
           {
             "account_name": "Dextra.8162",
@@ -45375,7 +44741,7 @@ const leaderboardData = {
             "average_stat_value": 5534.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 123
+            "rank": 119
           },
           {
             "account_name": "Huge.5891",
@@ -45387,7 +44753,7 @@ const leaderboardData = {
             "average_stat_value": 8384.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 124
+            "rank": 120
           },
           {
             "account_name": "ParaldaWind.4523",
@@ -45399,7 +44765,7 @@ const leaderboardData = {
             "average_stat_value": 4342.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 125
+            "rank": 121
           },
           {
             "account_name": "acumen.1980",
@@ -45411,7 +44777,7 @@ const leaderboardData = {
             "average_stat_value": 4448.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 126
+            "rank": 122
           },
           {
             "account_name": "Drigan.7382",
@@ -45423,7 +44789,7 @@ const leaderboardData = {
             "average_stat_value": 8287.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 127
+            "rank": 123
           },
           {
             "account_name": "Naomi.5372",
@@ -45435,7 +44801,7 @@ const leaderboardData = {
             "average_stat_value": 6202.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 128
+            "rank": 124
           },
           {
             "account_name": "mikefmc.5961",
@@ -45447,7 +44813,7 @@ const leaderboardData = {
             "average_stat_value": 8205.0,
             "is_guild_member": true,
             "rating_delta": -33.045430277931246,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "red armadillo.4593",
@@ -45459,7 +44825,7 @@ const leaderboardData = {
             "average_stat_value": 14540.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 130
+            "rank": 126
           },
           {
             "account_name": "Freelanced.6084",
@@ -45471,31 +44837,7 @@ const leaderboardData = {
             "average_stat_value": 5688.0,
             "is_guild_member": true,
             "rating_delta": -53.29381331184413,
-            "rank": 131
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1368.2417756647874,
-            "composite_score": 1368.2417756647874,
-            "games_played": 1,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 11422.0,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 132
-          },
-          {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1366.820325523,
-            "composite_score": 1366.820325523,
-            "games_played": 10,
-            "average_rank_percent": 12.7,
-            "average_stat_value": 19352.6,
-            "is_guild_member": true,
-            "rating_delta": -6.1457557432877365,
-            "rank": 133
+            "rank": 127
           },
           {
             "account_name": "Uriah.7082",
@@ -45507,7 +44849,7 @@ const leaderboardData = {
             "average_stat_value": 10434.0,
             "is_guild_member": true,
             "rating_delta": -53.93281256995033,
-            "rank": 134
+            "rank": 128
           },
           {
             "account_name": "dobbeh.7382",
@@ -45519,7 +44861,7 @@ const leaderboardData = {
             "average_stat_value": 19018.666666666668,
             "is_guild_member": true,
             "rating_delta": 7.347506274428724,
-            "rank": 135
+            "rank": 129
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -45531,7 +44873,19 @@ const leaderboardData = {
             "average_stat_value": 11840.0,
             "is_guild_member": true,
             "rating_delta": -8.913745728775211,
-            "rank": 136
+            "rank": 130
+          },
+          {
+            "account_name": "Syde.1863",
+            "profession": "Scourge",
+            "glicko_rating": 1361.9666180919162,
+            "composite_score": 1361.9666180919162,
+            "games_played": 2,
+            "average_rank_percent": 19.5,
+            "average_stat_value": 10303.5,
+            "is_guild_member": true,
+            "rating_delta": -9.993938491422796,
+            "rank": 131
           },
           {
             "account_name": "Mes.1906",
@@ -45543,19 +44897,19 @@ const leaderboardData = {
             "average_stat_value": 9989.0,
             "is_guild_member": false,
             "rating_delta": -8.338166662681942,
-            "rank": 137
+            "rank": 132
           },
           {
-            "account_name": "Uriah.7082",
-            "profession": "Berserker",
-            "glicko_rating": 1359.519710654475,
-            "composite_score": 1359.519710654475,
-            "games_played": 1,
-            "average_rank_percent": 16.0,
-            "average_stat_value": 8183.0,
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1360.8513933227432,
+            "composite_score": 1360.8513933227432,
+            "games_played": 9,
+            "average_rank_percent": 13.222222222222221,
+            "average_stat_value": 18012.555555555555,
             "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 138
+            "rating_delta": -6.1457557432877365,
+            "rank": 133
           },
           {
             "account_name": "Nero.6195",
@@ -45567,7 +44921,7 @@ const leaderboardData = {
             "average_stat_value": 12439.0,
             "is_guild_member": true,
             "rating_delta": -7.716430327695662,
-            "rank": 139
+            "rank": 134
           },
           {
             "account_name": "Malek.9417",
@@ -45579,19 +44933,7 @@ const leaderboardData = {
             "average_stat_value": 11011.0,
             "is_guild_member": true,
             "rating_delta": -5.7155501794266,
-            "rank": 140
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Scourge",
-            "glicko_rating": 1347.7990739134148,
-            "composite_score": 1347.7990739134148,
-            "games_played": 3,
-            "average_rank_percent": 17.333333333333332,
-            "average_stat_value": 14396.666666666666,
-            "is_guild_member": true,
-            "rating_delta": -9.993938491422796,
-            "rank": 141
+            "rank": 135
           },
           {
             "account_name": "Nero.6195",
@@ -45603,7 +44945,7 @@ const leaderboardData = {
             "average_stat_value": 13177.333333333334,
             "is_guild_member": true,
             "rating_delta": 0.3285461081518406,
-            "rank": 142
+            "rank": 136
           },
           {
             "account_name": "Bertozaur.4578",
@@ -45615,7 +44957,7 @@ const leaderboardData = {
             "average_stat_value": 10990.5,
             "is_guild_member": true,
             "rating_delta": -66.40213951920191,
-            "rank": 143
+            "rank": 137
           },
           {
             "account_name": "Havocus.3682",
@@ -45627,7 +44969,7 @@ const leaderboardData = {
             "average_stat_value": 8992.0,
             "is_guild_member": true,
             "rating_delta": -16.104544331516536,
-            "rank": 144
+            "rank": 138
           },
           {
             "account_name": "adrielle.2109",
@@ -45639,7 +44981,7 @@ const leaderboardData = {
             "average_stat_value": 8973.0,
             "is_guild_member": true,
             "rating_delta": -44.63365554117195,
-            "rank": 145
+            "rank": 139
           },
           {
             "account_name": "Basic.9204",
@@ -45651,7 +44993,7 @@ const leaderboardData = {
             "average_stat_value": 9720.666666666666,
             "is_guild_member": true,
             "rating_delta": -28.741491551525996,
-            "rank": 146
+            "rank": 140
           },
           {
             "account_name": "Huge.5891",
@@ -45663,7 +45005,7 @@ const leaderboardData = {
             "average_stat_value": 15515.833333333334,
             "is_guild_member": true,
             "rating_delta": -1.6843948541775262,
-            "rank": 147
+            "rank": 141
           },
           {
             "account_name": "Mellis.8451",
@@ -45675,7 +45017,7 @@ const leaderboardData = {
             "average_stat_value": 15215.666666666666,
             "is_guild_member": true,
             "rating_delta": 2.7492177622773397,
-            "rank": 148
+            "rank": 142
           },
           {
             "account_name": "Freelanced.6084",
@@ -45687,7 +45029,7 @@ const leaderboardData = {
             "average_stat_value": 9456.0,
             "is_guild_member": true,
             "rating_delta": -15.946305756846641,
-            "rank": 149
+            "rank": 143
           },
           {
             "account_name": "Lord.7561",
@@ -45699,7 +45041,7 @@ const leaderboardData = {
             "average_stat_value": 7953.5,
             "is_guild_member": true,
             "rating_delta": -59.25808277774172,
-            "rank": 150
+            "rank": 144
           },
           {
             "account_name": "Nero.6195",
@@ -45711,7 +45053,7 @@ const leaderboardData = {
             "average_stat_value": 13690.25,
             "is_guild_member": true,
             "rating_delta": 2.356728633864577,
-            "rank": 151
+            "rank": 145
           }
         ],
         "Distance to Tag": [
@@ -45742,11 +45084,11 @@ const leaderboardData = {
           {
             "account_name": "ParaldaWind.4523",
             "profession": "Dragonhunter",
-            "glicko_rating": 1747.7686206852638,
-            "composite_score": 1747.7686206852638,
-            "games_played": 4,
-            "average_rank_percent": 1.25,
-            "average_stat_value": 91.5,
+            "glicko_rating": 1705.951999771015,
+            "composite_score": 1705.951999771015,
+            "games_played": 3,
+            "average_rank_percent": 1.3333333333333333,
+            "average_stat_value": 122.0,
             "is_guild_member": true,
             "rating_delta": 17.070599249587985,
             "rank": 3
@@ -46040,18 +45382,6 @@ const leaderboardData = {
             "rank": 27
           },
           {
-            "account_name": "Hiraldo.7954",
-            "profession": "Druid",
-            "glicko_rating": 1589.7346147175697,
-            "composite_score": 1589.7346147175697,
-            "games_played": 3,
-            "average_rank_percent": 10.666666666666666,
-            "average_stat_value": 507.0,
-            "is_guild_member": true,
-            "rating_delta": -35.63668035147384,
-            "rank": 28
-          },
-          {
             "account_name": "modus.7921",
             "profession": "Chronomancer",
             "glicko_rating": 1588.1620661976626,
@@ -46061,7 +45391,7 @@ const leaderboardData = {
             "average_stat_value": 295.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 29
+            "rank": 28
           },
           {
             "account_name": "Bother.9415",
@@ -46073,7 +45403,7 @@ const leaderboardData = {
             "average_stat_value": 391.0,
             "is_guild_member": true,
             "rating_delta": 6.050162388813305,
-            "rank": 30
+            "rank": 29
           },
           {
             "account_name": "Hiraldo.7954",
@@ -46085,7 +45415,7 @@ const leaderboardData = {
             "average_stat_value": 355.3333333333333,
             "is_guild_member": true,
             "rating_delta": -19.598230935093625,
-            "rank": 31
+            "rank": 30
           },
           {
             "account_name": "Kuwat.4703",
@@ -46097,7 +45427,7 @@ const leaderboardData = {
             "average_stat_value": 300.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 32
+            "rank": 31
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -46109,7 +45439,7 @@ const leaderboardData = {
             "average_stat_value": 326.0,
             "is_guild_member": true,
             "rating_delta": 46.658495480511874,
-            "rank": 33
+            "rank": 32
           },
           {
             "account_name": "willtehthrill.4218",
@@ -46121,7 +45451,7 @@ const leaderboardData = {
             "average_stat_value": 366.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 34
+            "rank": 33
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -46133,7 +45463,7 @@ const leaderboardData = {
             "average_stat_value": 433.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 35
+            "rank": 34
           },
           {
             "account_name": "Hund.6875",
@@ -46145,7 +45475,7 @@ const leaderboardData = {
             "average_stat_value": 439.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 36
+            "rank": 35
           },
           {
             "account_name": "Lord.7561",
@@ -46157,7 +45487,7 @@ const leaderboardData = {
             "average_stat_value": 440.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 37
+            "rank": 36
           },
           {
             "account_name": "aznsleeper.5896",
@@ -46169,7 +45499,7 @@ const leaderboardData = {
             "average_stat_value": 425.25,
             "is_guild_member": true,
             "rating_delta": 4.884332654152331,
-            "rank": 38
+            "rank": 37
           },
           {
             "account_name": "Beneko.8475",
@@ -46181,7 +45511,7 @@ const leaderboardData = {
             "average_stat_value": 318.0,
             "is_guild_member": false,
             "rating_delta": 54.48004178515657,
-            "rank": 39
+            "rank": 38
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -46193,7 +45523,7 @@ const leaderboardData = {
             "average_stat_value": 478.5,
             "is_guild_member": true,
             "rating_delta": -39.47071131265511,
-            "rank": 40
+            "rank": 39
           },
           {
             "account_name": "Nero.6195",
@@ -46205,7 +45535,7 @@ const leaderboardData = {
             "average_stat_value": 322.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 41
+            "rank": 40
           },
           {
             "account_name": "Muted.8591",
@@ -46217,7 +45547,7 @@ const leaderboardData = {
             "average_stat_value": 457.14285714285717,
             "is_guild_member": true,
             "rating_delta": -2.7933149275008873,
-            "rank": 42
+            "rank": 41
           },
           {
             "account_name": "Rapscallion.3571",
@@ -46229,7 +45559,7 @@ const leaderboardData = {
             "average_stat_value": 343.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 43
+            "rank": 42
           },
           {
             "account_name": "Havocus.3682",
@@ -46241,7 +45571,7 @@ const leaderboardData = {
             "average_stat_value": 381.0,
             "is_guild_member": true,
             "rating_delta": 26.839092280921477,
-            "rank": 44
+            "rank": 43
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -46253,7 +45583,7 @@ const leaderboardData = {
             "average_stat_value": 326.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 45
+            "rank": 44
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -46265,7 +45595,7 @@ const leaderboardData = {
             "average_stat_value": 286.0,
             "is_guild_member": true,
             "rating_delta": 30.111549576400648,
-            "rank": 46
+            "rank": 45
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -46277,7 +45607,7 @@ const leaderboardData = {
             "average_stat_value": 431.375,
             "is_guild_member": true,
             "rating_delta": 6.010316984968085,
-            "rank": 47
+            "rank": 46
           },
           {
             "account_name": "San.9704",
@@ -46289,7 +45619,7 @@ const leaderboardData = {
             "average_stat_value": 394.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 48
+            "rank": 47
           },
           {
             "account_name": "Bother.9415",
@@ -46301,7 +45631,7 @@ const leaderboardData = {
             "average_stat_value": 467.0,
             "is_guild_member": true,
             "rating_delta": 1.342078548552763,
-            "rank": 49
+            "rank": 48
           },
           {
             "account_name": "zectra.6978",
@@ -46313,7 +45643,7 @@ const leaderboardData = {
             "average_stat_value": 421.0,
             "is_guild_member": false,
             "rating_delta": 3.7389739136367552,
-            "rank": 50
+            "rank": 49
           },
           {
             "account_name": "acumen.1980",
@@ -46325,7 +45655,7 @@ const leaderboardData = {
             "average_stat_value": 325.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 51
+            "rank": 50
           },
           {
             "account_name": "phobos.5290",
@@ -46337,7 +45667,7 @@ const leaderboardData = {
             "average_stat_value": 326.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 52
+            "rank": 51
           },
           {
             "account_name": "modus.7921",
@@ -46349,7 +45679,7 @@ const leaderboardData = {
             "average_stat_value": 478.0,
             "is_guild_member": true,
             "rating_delta": 6.666250840414705,
-            "rank": 53
+            "rank": 52
           },
           {
             "account_name": "arrsc.9046",
@@ -46361,19 +45691,7 @@ const leaderboardData = {
             "average_stat_value": 350.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 54
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1568.2516777053766,
-            "composite_score": 1568.2516777053766,
-            "games_played": 1,
-            "average_rank_percent": 4.0,
-            "average_stat_value": 506.0,
-            "is_guild_member": false,
-            "rating_delta": 0.0,
-            "rank": 55
+            "rank": 53
           },
           {
             "account_name": "Freelanced.6084",
@@ -46385,7 +45703,7 @@ const leaderboardData = {
             "average_stat_value": 406.0,
             "is_guild_member": true,
             "rating_delta": 21.60385454369498,
-            "rank": 56
+            "rank": 54
           },
           {
             "account_name": "Yeek.2976",
@@ -46397,7 +45715,7 @@ const leaderboardData = {
             "average_stat_value": 361.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 57
+            "rank": 55
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -46409,7 +45727,7 @@ const leaderboardData = {
             "average_stat_value": 436.0,
             "is_guild_member": true,
             "rating_delta": 2.872567775275911,
-            "rank": 58
+            "rank": 56
           },
           {
             "account_name": "Basic.9204",
@@ -46421,7 +45739,7 @@ const leaderboardData = {
             "average_stat_value": 510.5,
             "is_guild_member": true,
             "rating_delta": 77.687962666565,
-            "rank": 59
+            "rank": 57
           },
           {
             "account_name": "LilJoker.2658",
@@ -46433,7 +45751,7 @@ const leaderboardData = {
             "average_stat_value": 309.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 60
+            "rank": 58
           },
           {
             "account_name": "Nero.6195",
@@ -46445,7 +45763,7 @@ const leaderboardData = {
             "average_stat_value": 490.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 61
+            "rank": 59
           },
           {
             "account_name": "zectra.6978",
@@ -46457,7 +45775,7 @@ const leaderboardData = {
             "average_stat_value": 366.5,
             "is_guild_member": false,
             "rating_delta": 61.70345667512288,
-            "rank": 62
+            "rank": 60
           },
           {
             "account_name": "Bayushi.7914",
@@ -46469,7 +45787,7 @@ const leaderboardData = {
             "average_stat_value": 372.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 63
+            "rank": 61
           },
           {
             "account_name": "Drigan.7382",
@@ -46481,7 +45799,19 @@ const leaderboardData = {
             "average_stat_value": 420.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 64
+            "rank": 62
+          },
+          {
+            "account_name": "Havocus.3682",
+            "profession": "Catalyst",
+            "glicko_rating": 1558.493101740707,
+            "composite_score": 1558.493101740707,
+            "games_played": 8,
+            "average_rank_percent": 11.75,
+            "average_stat_value": 400.5,
+            "is_guild_member": true,
+            "rating_delta": 1.913445174162689,
+            "rank": 63
           },
           {
             "account_name": "Luke.9108",
@@ -46493,19 +45823,7 @@ const leaderboardData = {
             "average_stat_value": 408.3333333333333,
             "is_guild_member": false,
             "rating_delta": 19.310948526544053,
-            "rank": 65
-          },
-          {
-            "account_name": "Mellis.8451",
-            "profession": "Reaper",
-            "glicko_rating": 1557.6428627028774,
-            "composite_score": 1557.6428627028774,
-            "games_played": 1,
-            "average_rank_percent": 5.0,
-            "average_stat_value": 528.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 66
+            "rank": 64
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -46517,7 +45835,7 @@ const leaderboardData = {
             "average_stat_value": 383.0,
             "is_guild_member": true,
             "rating_delta": -0.9297475160722115,
-            "rank": 67
+            "rank": 65
           },
           {
             "account_name": "CptNacho.1249",
@@ -46529,19 +45847,7 @@ const leaderboardData = {
             "average_stat_value": 318.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 68
-          },
-          {
-            "account_name": "Havocus.3682",
-            "profession": "Catalyst",
-            "glicko_rating": 1552.976817999347,
-            "composite_score": 1552.976817999347,
-            "games_played": 9,
-            "average_rank_percent": 11.222222222222221,
-            "average_stat_value": 426.6666666666667,
-            "is_guild_member": true,
-            "rating_delta": 1.913445174162689,
-            "rank": 69
+            "rank": 66
           },
           {
             "account_name": "Lord.7561",
@@ -46553,7 +45859,7 @@ const leaderboardData = {
             "average_stat_value": 350.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 70
+            "rank": 67
           },
           {
             "account_name": "Interpretor.3091",
@@ -46565,7 +45871,7 @@ const leaderboardData = {
             "average_stat_value": 596.0,
             "is_guild_member": true,
             "rating_delta": 21.77115754168699,
-            "rank": 71
+            "rank": 68
           },
           {
             "account_name": "tCut.7856",
@@ -46577,7 +45883,7 @@ const leaderboardData = {
             "average_stat_value": 520.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 72
+            "rank": 69
           },
           {
             "account_name": "Basic.9204",
@@ -46589,7 +45895,7 @@ const leaderboardData = {
             "average_stat_value": 434.0,
             "is_guild_member": true,
             "rating_delta": 22.739254754877265,
-            "rank": 73
+            "rank": 70
           },
           {
             "account_name": "Mellis.8451",
@@ -46601,7 +45907,7 @@ const leaderboardData = {
             "average_stat_value": 430.0,
             "is_guild_member": true,
             "rating_delta": -39.65452928981267,
-            "rank": 74
+            "rank": 71
           },
           {
             "account_name": "Nero.6195",
@@ -46613,7 +45919,7 @@ const leaderboardData = {
             "average_stat_value": 358.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 75
+            "rank": 72
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -46625,7 +45931,7 @@ const leaderboardData = {
             "average_stat_value": 528.0,
             "is_guild_member": true,
             "rating_delta": 3.6046673239582105,
-            "rank": 76
+            "rank": 73
           },
           {
             "account_name": "Freelanced.6084",
@@ -46637,7 +45943,7 @@ const leaderboardData = {
             "average_stat_value": 623.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 77
+            "rank": 74
           },
           {
             "account_name": "TigerSpirit.2194",
@@ -46649,7 +45955,7 @@ const leaderboardData = {
             "average_stat_value": 530.6,
             "is_guild_member": true,
             "rating_delta": -3.321842846002255,
-            "rank": 78
+            "rank": 75
           },
           {
             "account_name": "Chakkkka.2504",
@@ -46661,7 +45967,7 @@ const leaderboardData = {
             "average_stat_value": 430.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 79
+            "rank": 76
           },
           {
             "account_name": "Fibbs.1623",
@@ -46673,7 +45979,7 @@ const leaderboardData = {
             "average_stat_value": 394.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 80
+            "rank": 77
           },
           {
             "account_name": "Bertozaur.4578",
@@ -46685,7 +45991,7 @@ const leaderboardData = {
             "average_stat_value": 494.5,
             "is_guild_member": true,
             "rating_delta": 33.022844323664,
-            "rank": 81
+            "rank": 78
           },
           {
             "account_name": "Uriah.7082",
@@ -46697,7 +46003,7 @@ const leaderboardData = {
             "average_stat_value": 628.0,
             "is_guild_member": true,
             "rating_delta": -1.140963637686582,
-            "rank": 82
+            "rank": 79
           },
           {
             "account_name": "MasterScrub.1396",
@@ -46709,19 +46015,7 @@ const leaderboardData = {
             "average_stat_value": 390.0,
             "is_guild_member": false,
             "rating_delta": -30.391347790318378,
-            "rank": 83
-          },
-          {
-            "account_name": "Foodels.7358",
-            "profession": "Druid",
-            "glicko_rating": 1538.5397518687864,
-            "composite_score": 1538.5397518687864,
-            "games_played": 2,
-            "average_rank_percent": 13.5,
-            "average_stat_value": 454.5,
-            "is_guild_member": false,
-            "rating_delta": -58.43507930898181,
-            "rank": 84
+            "rank": 80
           },
           {
             "account_name": "Malek.9417",
@@ -46733,7 +46027,7 @@ const leaderboardData = {
             "average_stat_value": 400.0,
             "is_guild_member": true,
             "rating_delta": -95.80208041142396,
-            "rank": 85
+            "rank": 81
           },
           {
             "account_name": "neven.3785",
@@ -46745,7 +46039,7 @@ const leaderboardData = {
             "average_stat_value": 535.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 86
+            "rank": 82
           },
           {
             "account_name": "Uriah.7082",
@@ -46757,7 +46051,7 @@ const leaderboardData = {
             "average_stat_value": 471.14285714285717,
             "is_guild_member": true,
             "rating_delta": -1.4016991371015592,
-            "rank": 87
+            "rank": 83
           },
           {
             "account_name": "Nictheman.9754",
@@ -46769,7 +46063,7 @@ const leaderboardData = {
             "average_stat_value": 396.75,
             "is_guild_member": true,
             "rating_delta": 16.30798293470366,
-            "rank": 88
+            "rank": 84
           },
           {
             "account_name": "FlawedDjinn.3217",
@@ -46781,7 +46075,19 @@ const leaderboardData = {
             "average_stat_value": 468.0,
             "is_guild_member": true,
             "rating_delta": -26.2383950325343,
-            "rank": 89
+            "rank": 85
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "profession": "Dragonhunter",
+            "glicko_rating": 1536.235300572916,
+            "composite_score": 1536.235300572916,
+            "games_played": 1,
+            "average_rank_percent": 15.0,
+            "average_stat_value": 406.0,
+            "is_guild_member": true,
+            "rating_delta": 7.743138923391143,
+            "rank": 86
           },
           {
             "account_name": "Coileddarknight.9528",
@@ -46793,7 +46099,7 @@ const leaderboardData = {
             "average_stat_value": 397.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 90
+            "rank": 87
           },
           {
             "account_name": "Chakkkka.2504",
@@ -46805,7 +46111,7 @@ const leaderboardData = {
             "average_stat_value": 330.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 91
+            "rank": 88
           },
           {
             "account_name": "Lord.7561",
@@ -46817,7 +46123,31 @@ const leaderboardData = {
             "average_stat_value": 412.0,
             "is_guild_member": true,
             "rating_delta": 62.89850994837025,
-            "rank": 92
+            "rank": 89
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "profession": "Druid",
+            "glicko_rating": 1534.2733731217304,
+            "composite_score": 1534.2733731217304,
+            "games_played": 2,
+            "average_rank_percent": 15.0,
+            "average_stat_value": 576.5,
+            "is_guild_member": true,
+            "rating_delta": -35.63668035147384,
+            "rank": 90
+          },
+          {
+            "account_name": "waschy.6093",
+            "profession": "Firebrand",
+            "glicko_rating": 1532.9675202563476,
+            "composite_score": 1532.9675202563476,
+            "games_played": 8,
+            "average_rank_percent": 15.625,
+            "average_stat_value": 476.625,
+            "is_guild_member": true,
+            "rating_delta": 0.4299225047266191,
+            "rank": 91
           },
           {
             "account_name": "Lasthope.7943",
@@ -46829,7 +46159,7 @@ const leaderboardData = {
             "average_stat_value": 402.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 93
+            "rank": 92
           },
           {
             "account_name": "Nictheman.9754",
@@ -46841,7 +46171,7 @@ const leaderboardData = {
             "average_stat_value": 387.0,
             "is_guild_member": true,
             "rating_delta": -35.61909514674221,
-            "rank": 94
+            "rank": 93
           },
           {
             "account_name": "acumen.1980",
@@ -46853,7 +46183,7 @@ const leaderboardData = {
             "average_stat_value": 398.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 95
+            "rank": 94
           },
           {
             "account_name": "aznsleeper.5896",
@@ -46865,7 +46195,7 @@ const leaderboardData = {
             "average_stat_value": 523.5,
             "is_guild_member": true,
             "rating_delta": 9.68648985903701,
-            "rank": 96
+            "rank": 95
           },
           {
             "account_name": "Lenorellei.9815",
@@ -46877,7 +46207,7 @@ const leaderboardData = {
             "average_stat_value": 379.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 97
+            "rank": 96
           },
           {
             "account_name": "Uriah.7082",
@@ -46889,7 +46219,7 @@ const leaderboardData = {
             "average_stat_value": 478.0,
             "is_guild_member": true,
             "rating_delta": -26.205910258928043,
-            "rank": 98
+            "rank": 97
           },
           {
             "account_name": "Havocus.3682",
@@ -46901,7 +46231,7 @@ const leaderboardData = {
             "average_stat_value": 539.3333333333334,
             "is_guild_member": true,
             "rating_delta": 11.787116549746315,
-            "rank": 99
+            "rank": 98
           },
           {
             "account_name": "Soothsayer.9206",
@@ -46913,7 +46243,7 @@ const leaderboardData = {
             "average_stat_value": 353.0,
             "is_guild_member": true,
             "rating_delta": -12.971418073235327,
-            "rank": 100
+            "rank": 99
           },
           {
             "account_name": "Smile.9284",
@@ -46925,7 +46255,7 @@ const leaderboardData = {
             "average_stat_value": 338.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 101
+            "rank": 100
           },
           {
             "account_name": "Soothsayer.9206",
@@ -46937,7 +46267,7 @@ const leaderboardData = {
             "average_stat_value": 577.0,
             "is_guild_member": true,
             "rating_delta": 35.89206003867139,
-            "rank": 102
+            "rank": 101
           },
           {
             "account_name": "Trail.8614",
@@ -46949,7 +46279,7 @@ const leaderboardData = {
             "average_stat_value": 443.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 103
+            "rank": 102
           },
           {
             "account_name": "Smile.9284",
@@ -46961,7 +46291,7 @@ const leaderboardData = {
             "average_stat_value": 482.09090909090907,
             "is_guild_member": true,
             "rating_delta": 5.137587229571409,
-            "rank": 104
+            "rank": 103
           },
           {
             "account_name": "emz.3571",
@@ -46973,7 +46303,7 @@ const leaderboardData = {
             "average_stat_value": 484.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 105
+            "rank": 104
           },
           {
             "account_name": "Huge.5891",
@@ -46985,7 +46315,7 @@ const leaderboardData = {
             "average_stat_value": 461.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 106
+            "rank": 105
           },
           {
             "account_name": "Uriah.7082",
@@ -46997,7 +46327,7 @@ const leaderboardData = {
             "average_stat_value": 447.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 107
+            "rank": 106
           },
           {
             "account_name": "Interpretor.3091",
@@ -47009,7 +46339,7 @@ const leaderboardData = {
             "average_stat_value": 401.0,
             "is_guild_member": true,
             "rating_delta": 51.30101477058429,
-            "rank": 108
+            "rank": 107
           },
           {
             "account_name": "Lasthope.7943",
@@ -47021,7 +46351,7 @@ const leaderboardData = {
             "average_stat_value": 505.4,
             "is_guild_member": true,
             "rating_delta": 5.344204302883782,
-            "rank": 109
+            "rank": 108
           },
           {
             "account_name": "Narizinho.3052",
@@ -47033,19 +46363,7 @@ const leaderboardData = {
             "average_stat_value": 470.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 110
-          },
-          {
-            "account_name": "waschy.6093",
-            "profession": "Firebrand",
-            "glicko_rating": 1518.2970831332161,
-            "composite_score": 1518.2970831332161,
-            "games_played": 9,
-            "average_rank_percent": 15.444444444444445,
-            "average_stat_value": 505.77777777777777,
-            "is_guild_member": true,
-            "rating_delta": 0.4299225047266191,
-            "rank": 111
+            "rank": 109
           },
           {
             "account_name": "Malek.9417",
@@ -47057,7 +46375,7 @@ const leaderboardData = {
             "average_stat_value": 404.0,
             "is_guild_member": true,
             "rating_delta": -12.455802185963876,
-            "rank": 112
+            "rank": 110
           },
           {
             "account_name": "aureliocf.7324",
@@ -47069,6 +46387,30 @@ const leaderboardData = {
             "average_stat_value": 477.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
+            "rank": 111
+          },
+          {
+            "account_name": "Aein.1483",
+            "profession": "Vindicator",
+            "glicko_rating": 1516.1545787260147,
+            "composite_score": 1516.1545787260147,
+            "games_played": 2,
+            "average_rank_percent": 20.0,
+            "average_stat_value": 551.0,
+            "is_guild_member": true,
+            "rating_delta": 1.5710149953586097,
+            "rank": 112
+          },
+          {
+            "account_name": "Syde.1863",
+            "profession": "Scourge",
+            "glicko_rating": 1511.706203948505,
+            "composite_score": 1511.706203948505,
+            "games_played": 3,
+            "average_rank_percent": 20.333333333333332,
+            "average_stat_value": 612.6666666666666,
+            "is_guild_member": true,
+            "rating_delta": -1.5398114943686778,
             "rank": 113
           },
           {
@@ -47144,18 +46486,6 @@ const leaderboardData = {
             "rank": 119
           },
           {
-            "account_name": "Syde.1863",
-            "profession": "Scourge",
-            "glicko_rating": 1507.3412981384756,
-            "composite_score": 1507.3412981384756,
-            "games_played": 4,
-            "average_rank_percent": 17.5,
-            "average_stat_value": 620.75,
-            "is_guild_member": true,
-            "rating_delta": -1.5398114943686778,
-            "rank": 120
-          },
-          {
             "account_name": "Pieswithattitude.2357",
             "profession": "Scourge",
             "glicko_rating": 1506.3038701810751,
@@ -47165,19 +46495,7 @@ const leaderboardData = {
             "average_stat_value": 451.5,
             "is_guild_member": true,
             "rating_delta": -4.424733631755316,
-            "rank": 121
-          },
-          {
-            "account_name": "Syde.1863",
-            "profession": "Reaper",
-            "glicko_rating": 1506.0701692952903,
-            "composite_score": 1506.0701692952903,
-            "games_played": 1,
-            "average_rank_percent": 6.0,
-            "average_stat_value": 625.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 122
+            "rank": 120
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -47189,7 +46507,7 @@ const leaderboardData = {
             "average_stat_value": 433.57142857142856,
             "is_guild_member": true,
             "rating_delta": -1.651774267301107,
-            "rank": 123
+            "rank": 121
           },
           {
             "account_name": "Lasthope.7943",
@@ -47201,7 +46519,7 @@ const leaderboardData = {
             "average_stat_value": 560.0,
             "is_guild_member": true,
             "rating_delta": -55.17773832987859,
-            "rank": 124
+            "rank": 122
           },
           {
             "account_name": "Bother.9415",
@@ -47213,19 +46531,7 @@ const leaderboardData = {
             "average_stat_value": 359.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 125
-          },
-          {
-            "account_name": "Aein.1483",
-            "profession": "Vindicator",
-            "glicko_rating": 1501.6285892949488,
-            "composite_score": 1501.6285892949488,
-            "games_played": 3,
-            "average_rank_percent": 17.0,
-            "average_stat_value": 591.6666666666666,
-            "is_guild_member": true,
-            "rating_delta": 1.5710149953586097,
-            "rank": 126
+            "rank": 123
           },
           {
             "account_name": "Lozen.7623",
@@ -47237,19 +46543,7 @@ const leaderboardData = {
             "average_stat_value": 503.5,
             "is_guild_member": true,
             "rating_delta": 73.53313110402792,
-            "rank": 127
-          },
-          {
-            "account_name": "Freelanced.6084",
-            "profession": "Catalyst",
-            "glicko_rating": 1497.74986291414,
-            "composite_score": 1497.74986291414,
-            "games_played": 1,
-            "average_rank_percent": 8.0,
-            "average_stat_value": 640.0,
-            "is_guild_member": true,
-            "rating_delta": 3.813950088622505,
-            "rank": 128
+            "rank": 124
           },
           {
             "account_name": "Hiraldo.7954",
@@ -47261,7 +46555,7 @@ const leaderboardData = {
             "average_stat_value": 642.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 129
+            "rank": 125
           },
           {
             "account_name": "Astro Bear.6305",
@@ -47273,7 +46567,7 @@ const leaderboardData = {
             "average_stat_value": 583.0,
             "is_guild_member": true,
             "rating_delta": 43.294873360589236,
-            "rank": 130
+            "rank": 126
           },
           {
             "account_name": "emz.3571",
@@ -47285,7 +46579,7 @@ const leaderboardData = {
             "average_stat_value": 438.75,
             "is_guild_member": true,
             "rating_delta": -8.295618245596415,
-            "rank": 131
+            "rank": 127
           },
           {
             "account_name": "Dextra.8162",
@@ -47297,7 +46591,7 @@ const leaderboardData = {
             "average_stat_value": 753.0,
             "is_guild_member": true,
             "rating_delta": -15.750183520795645,
-            "rank": 132
+            "rank": 128
           },
           {
             "account_name": "Interpretor.3091",
@@ -47309,19 +46603,7 @@ const leaderboardData = {
             "average_stat_value": 559.6666666666666,
             "is_guild_member": true,
             "rating_delta": -4.1830974057361345,
-            "rank": 133
-          },
-          {
-            "account_name": "Disenable.1640",
-            "profession": "Chronomancer",
-            "glicko_rating": 1489.9927273756039,
-            "composite_score": 1489.9927273756039,
-            "games_played": 1,
-            "average_rank_percent": 10.0,
-            "average_stat_value": 654.0,
-            "is_guild_member": true,
-            "rating_delta": -18.701209259710367,
-            "rank": 134
+            "rank": 129
           },
           {
             "account_name": "BlueViolet.8263",
@@ -47333,7 +46615,7 @@ const leaderboardData = {
             "average_stat_value": 459.0,
             "is_guild_member": true,
             "rating_delta": -3.7793443456532714,
-            "rank": 135
+            "rank": 130
           },
           {
             "account_name": "Shy.3108",
@@ -47345,7 +46627,7 @@ const leaderboardData = {
             "average_stat_value": 373.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 136
+            "rank": 131
           },
           {
             "account_name": "Elgar.2091",
@@ -47357,7 +46639,7 @@ const leaderboardData = {
             "average_stat_value": 561.0,
             "is_guild_member": true,
             "rating_delta": 7.857876736638445,
-            "rank": 137
+            "rank": 132
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -47369,7 +46651,7 @@ const leaderboardData = {
             "average_stat_value": 562.0,
             "is_guild_member": true,
             "rating_delta": -24.148374464447897,
-            "rank": 138
+            "rank": 133
           },
           {
             "account_name": "Stash.8401",
@@ -47381,7 +46663,7 @@ const leaderboardData = {
             "average_stat_value": 547.0,
             "is_guild_member": false,
             "rating_delta": 4.618043234340121,
-            "rank": 139
+            "rank": 134
           },
           {
             "account_name": "mikerock.6187",
@@ -47393,7 +46675,7 @@ const leaderboardData = {
             "average_stat_value": 544.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 140
+            "rank": 135
           },
           {
             "account_name": "Hiraldo.7954",
@@ -47405,7 +46687,7 @@ const leaderboardData = {
             "average_stat_value": 384.5,
             "is_guild_member": true,
             "rating_delta": -10.77932406504533,
-            "rank": 141
+            "rank": 136
           },
           {
             "account_name": "Soothsayer.9206",
@@ -47417,7 +46699,7 @@ const leaderboardData = {
             "average_stat_value": 536.875,
             "is_guild_member": true,
             "rating_delta": 1.8189421029499044,
-            "rank": 142
+            "rank": 137
           },
           {
             "account_name": "Jdchil.9561",
@@ -47429,7 +46711,7 @@ const leaderboardData = {
             "average_stat_value": 553.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 143
+            "rank": 138
           },
           {
             "account_name": "Argo.2675",
@@ -47441,7 +46723,7 @@ const leaderboardData = {
             "average_stat_value": 408.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 144
+            "rank": 139
           },
           {
             "account_name": "Morg.3084",
@@ -47453,31 +46735,7 @@ const leaderboardData = {
             "average_stat_value": 504.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 145
-          },
-          {
-            "account_name": "Pieswithattitude.2357",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1474.6271859289627,
-            "composite_score": 1474.6271859289627,
-            "games_played": 1,
-            "average_rank_percent": 12.0,
-            "average_stat_value": 682.0,
-            "is_guild_member": true,
-            "rating_delta": 115.17493023819611,
-            "rank": 146
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "profession": "Dragonhunter",
-            "glicko_rating": 1473.4988670750947,
-            "composite_score": 1473.4988670750947,
-            "games_played": 2,
-            "average_rank_percent": 15.0,
-            "average_stat_value": 593.5,
-            "is_guild_member": true,
-            "rating_delta": 7.743138923391143,
-            "rank": 147
+            "rank": 140
           },
           {
             "account_name": "freecarl.9214",
@@ -47489,7 +46747,7 @@ const leaderboardData = {
             "average_stat_value": 814.0,
             "is_guild_member": true,
             "rating_delta": 21.387591918648013,
-            "rank": 148
+            "rank": 141
           },
           {
             "account_name": "Chakkkka.2504",
@@ -47501,7 +46759,7 @@ const leaderboardData = {
             "average_stat_value": 588.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 149
+            "rank": 142
           },
           {
             "account_name": "adrielle.2109",
@@ -47513,7 +46771,7 @@ const leaderboardData = {
             "average_stat_value": 531.0,
             "is_guild_member": true,
             "rating_delta": -47.02419556972836,
-            "rank": 150
+            "rank": 143
           },
           {
             "account_name": "freecarl.1320",
@@ -47525,19 +46783,7 @@ const leaderboardData = {
             "average_stat_value": 421.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 151
-          },
-          {
-            "account_name": "Uriah.7082",
-            "profession": "Spellbreaker",
-            "glicko_rating": 1464.410662495528,
-            "composite_score": 1464.410662495528,
-            "games_played": 1,
-            "average_rank_percent": 13.0,
-            "average_stat_value": 701.0,
-            "is_guild_member": true,
-            "rating_delta": -36.675403741563514,
-            "rank": 152
+            "rank": 144
           },
           {
             "account_name": "Astro Bear.6305",
@@ -47549,7 +46795,7 @@ const leaderboardData = {
             "average_stat_value": 665.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 153
+            "rank": 145
           },
           {
             "account_name": "bielzin.5084",
@@ -47561,7 +46807,7 @@ const leaderboardData = {
             "average_stat_value": 599.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 154
+            "rank": 146
           },
           {
             "account_name": "Lord.7561",
@@ -47573,7 +46819,7 @@ const leaderboardData = {
             "average_stat_value": 528.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 155
+            "rank": 147
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -47585,7 +46831,7 @@ const leaderboardData = {
             "average_stat_value": 730.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 156
+            "rank": 148
           },
           {
             "account_name": "Aein.1483",
@@ -47597,7 +46843,7 @@ const leaderboardData = {
             "average_stat_value": 497.8333333333333,
             "is_guild_member": true,
             "rating_delta": 35.79529679189841,
-            "rank": 157
+            "rank": 149
           },
           {
             "account_name": "Krounen.7028",
@@ -47609,7 +46855,7 @@ const leaderboardData = {
             "average_stat_value": 852.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 158
+            "rank": 150
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -47621,7 +46867,19 @@ const leaderboardData = {
             "average_stat_value": 586.5,
             "is_guild_member": true,
             "rating_delta": 46.6381419617901,
-            "rank": 159
+            "rank": 151
+          },
+          {
+            "account_name": "Foodels.7358",
+            "profession": "Druid",
+            "glicko_rating": 1453.454909256644,
+            "composite_score": 1453.454909256644,
+            "games_played": 1,
+            "average_rank_percent": 24.0,
+            "average_stat_value": 488.0,
+            "is_guild_member": false,
+            "rating_delta": -58.43507930898181,
+            "rank": 152
           },
           {
             "account_name": "synco.8132",
@@ -47633,7 +46891,7 @@ const leaderboardData = {
             "average_stat_value": 536.25,
             "is_guild_member": true,
             "rating_delta": -7.77731159578434,
-            "rank": 160
+            "rank": 153
           },
           {
             "account_name": "Nictheman.9754",
@@ -47645,7 +46903,7 @@ const leaderboardData = {
             "average_stat_value": 627.0,
             "is_guild_member": true,
             "rating_delta": 21.531855526017125,
-            "rank": 161
+            "rank": 154
           },
           {
             "account_name": "Solomon Darkfury.3729",
@@ -47657,7 +46915,7 @@ const leaderboardData = {
             "average_stat_value": 507.6666666666667,
             "is_guild_member": true,
             "rating_delta": -43.9090100547744,
-            "rank": 162
+            "rank": 155
           },
           {
             "account_name": "acumen.1980",
@@ -47669,7 +46927,7 @@ const leaderboardData = {
             "average_stat_value": 547.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 163
+            "rank": 156
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -47681,7 +46939,7 @@ const leaderboardData = {
             "average_stat_value": 589.5,
             "is_guild_member": true,
             "rating_delta": -49.66165059245145,
-            "rank": 164
+            "rank": 157
           },
           {
             "account_name": "acumen.1980",
@@ -47693,7 +46951,7 @@ const leaderboardData = {
             "average_stat_value": 477.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 165
+            "rank": 158
           },
           {
             "account_name": "Mini.1786",
@@ -47705,7 +46963,7 @@ const leaderboardData = {
             "average_stat_value": 410.0,
             "is_guild_member": false,
             "rating_delta": -60.98312215481019,
-            "rank": 166
+            "rank": 159
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -47717,7 +46975,7 @@ const leaderboardData = {
             "average_stat_value": 553.3333333333334,
             "is_guild_member": true,
             "rating_delta": -17.493891391624857,
-            "rank": 167
+            "rank": 160
           },
           {
             "account_name": "Interpretor.3091",
@@ -47729,7 +46987,7 @@ const leaderboardData = {
             "average_stat_value": 502.0,
             "is_guild_member": true,
             "rating_delta": -1.2913464001987904,
-            "rank": 168
+            "rank": 161
           },
           {
             "account_name": "red armadillo.4593",
@@ -47741,7 +46999,7 @@ const leaderboardData = {
             "average_stat_value": 458.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 169
+            "rank": 162
           },
           {
             "account_name": "dobbeh.7382",
@@ -47753,7 +47011,7 @@ const leaderboardData = {
             "average_stat_value": 568.0,
             "is_guild_member": true,
             "rating_delta": 40.916784831095356,
-            "rank": 170
+            "rank": 163
           },
           {
             "account_name": "DareDevils.6039",
@@ -47765,7 +47023,7 @@ const leaderboardData = {
             "average_stat_value": 901.0,
             "is_guild_member": false,
             "rating_delta": -37.41015918686389,
-            "rank": 171
+            "rank": 164
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -47777,7 +47035,19 @@ const leaderboardData = {
             "average_stat_value": 783.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 172
+            "rank": 165
+          },
+          {
+            "account_name": "Aromapaloma.3194",
+            "profession": "Tempest",
+            "glicko_rating": 1437.5042963810617,
+            "composite_score": 1437.5042963810617,
+            "games_played": 3,
+            "average_rank_percent": 19.333333333333332,
+            "average_stat_value": 644.6666666666666,
+            "is_guild_member": true,
+            "rating_delta": -9.872779505431026,
+            "rank": 166
           },
           {
             "account_name": "Malek.9417",
@@ -47789,7 +47059,7 @@ const leaderboardData = {
             "average_stat_value": 610.0,
             "is_guild_member": true,
             "rating_delta": -4.569494455200811,
-            "rank": 173
+            "rank": 167
           },
           {
             "account_name": "Lozen.7623",
@@ -47801,7 +47071,7 @@ const leaderboardData = {
             "average_stat_value": 497.25,
             "is_guild_member": true,
             "rating_delta": -65.45692631438533,
-            "rank": 174
+            "rank": 168
           },
           {
             "account_name": "synco.8132",
@@ -47813,7 +47083,7 @@ const leaderboardData = {
             "average_stat_value": 664.0,
             "is_guild_member": true,
             "rating_delta": 77.18266132100416,
-            "rank": 175
+            "rank": 169
           },
           {
             "account_name": "Muted.8591",
@@ -47825,7 +47095,7 @@ const leaderboardData = {
             "average_stat_value": 804.0,
             "is_guild_member": true,
             "rating_delta": -36.156476485323765,
-            "rank": 176
+            "rank": 170
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -47837,7 +47107,7 @@ const leaderboardData = {
             "average_stat_value": 727.0,
             "is_guild_member": false,
             "rating_delta": -29.3209257373137,
-            "rank": 177
+            "rank": 171
           },
           {
             "account_name": "synco.8132",
@@ -47849,7 +47119,7 @@ const leaderboardData = {
             "average_stat_value": 591.6666666666666,
             "is_guild_member": true,
             "rating_delta": -24.04790514694514,
-            "rank": 178
+            "rank": 172
           },
           {
             "account_name": "Astro Bear.6305",
@@ -47861,7 +47131,7 @@ const leaderboardData = {
             "average_stat_value": 558.7,
             "is_guild_member": true,
             "rating_delta": 3.4416071040514,
-            "rank": 179
+            "rank": 173
           },
           {
             "account_name": "Lasthope.7943",
@@ -47873,7 +47143,7 @@ const leaderboardData = {
             "average_stat_value": 947.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 180
+            "rank": 174
           },
           {
             "account_name": "Muted.8591",
@@ -47885,7 +47155,7 @@ const leaderboardData = {
             "average_stat_value": 433.0,
             "is_guild_member": true,
             "rating_delta": -76.7625690861505,
-            "rank": 181
+            "rank": 175
           },
           {
             "account_name": "acumen.1980",
@@ -47897,7 +47167,7 @@ const leaderboardData = {
             "average_stat_value": 746.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 182
+            "rank": 176
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -47909,7 +47179,7 @@ const leaderboardData = {
             "average_stat_value": 720.0,
             "is_guild_member": false,
             "rating_delta": -54.481969720930465,
-            "rank": 183
+            "rank": 177
           },
           {
             "account_name": "Nictheman.9754",
@@ -47921,7 +47191,7 @@ const leaderboardData = {
             "average_stat_value": 613.2857142857143,
             "is_guild_member": true,
             "rating_delta": 14.73896347483742,
-            "rank": 184
+            "rank": 178
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -47933,7 +47203,7 @@ const leaderboardData = {
             "average_stat_value": 756.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 185
+            "rank": 179
           },
           {
             "account_name": "Huge.5891",
@@ -47945,7 +47215,7 @@ const leaderboardData = {
             "average_stat_value": 763.3333333333334,
             "is_guild_member": true,
             "rating_delta": -9.841676482995126,
-            "rank": 186
+            "rank": 180
           },
           {
             "account_name": "Lasthope.7943",
@@ -47957,19 +47227,7 @@ const leaderboardData = {
             "average_stat_value": 720.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 187
-          },
-          {
-            "account_name": "Aromapaloma.3194",
-            "profession": "Tempest",
-            "glicko_rating": 1405.8499030275075,
-            "composite_score": 1405.8499030275075,
-            "games_played": 4,
-            "average_rank_percent": 18.5,
-            "average_stat_value": 694.5,
-            "is_guild_member": true,
-            "rating_delta": -9.872779505431026,
-            "rank": 188
+            "rank": 181
           },
           {
             "account_name": "Freelanced.6084",
@@ -47981,7 +47239,7 @@ const leaderboardData = {
             "average_stat_value": 618.75,
             "is_guild_member": true,
             "rating_delta": -2.5571219540290713,
-            "rank": 189
+            "rank": 182
           },
           {
             "account_name": "Argo.2675",
@@ -47993,7 +47251,7 @@ const leaderboardData = {
             "average_stat_value": 567.8571428571429,
             "is_guild_member": true,
             "rating_delta": 0.37442570486018667,
-            "rank": 190
+            "rank": 183
           },
           {
             "account_name": "Mortealug.6043",
@@ -48005,7 +47263,7 @@ const leaderboardData = {
             "average_stat_value": 462.0,
             "is_guild_member": false,
             "rating_delta": -41.504365059487554,
-            "rank": 191
+            "rank": 184
           },
           {
             "account_name": "acumen.1980",
@@ -48017,7 +47275,7 @@ const leaderboardData = {
             "average_stat_value": 786.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 192
+            "rank": 185
           },
           {
             "account_name": "I R R Y.9128",
@@ -48029,7 +47287,7 @@ const leaderboardData = {
             "average_stat_value": 870.0,
             "is_guild_member": false,
             "rating_delta": -119.00590989358125,
-            "rank": 193
+            "rank": 186
           },
           {
             "account_name": "asdfghjk.8241",
@@ -48041,7 +47299,7 @@ const leaderboardData = {
             "average_stat_value": 750.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 194
+            "rank": 187
           },
           {
             "account_name": "enKoDed.1563",
@@ -48053,7 +47311,7 @@ const leaderboardData = {
             "average_stat_value": 784.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 195
+            "rank": 188
           },
           {
             "account_name": "Freelanced.6084",
@@ -48065,7 +47323,7 @@ const leaderboardData = {
             "average_stat_value": 739.0,
             "is_guild_member": true,
             "rating_delta": 9.409570829967606,
-            "rank": 196
+            "rank": 189
           },
           {
             "account_name": "Uriah.7082",
@@ -48077,19 +47335,7 @@ const leaderboardData = {
             "average_stat_value": 556.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 197
-          },
-          {
-            "account_name": "Coileddarknight.9528",
-            "profession": "Berserker",
-            "glicko_rating": 1393.90022720838,
-            "composite_score": 1393.90022720838,
-            "games_played": 1,
-            "average_rank_percent": 17.0,
-            "average_stat_value": 858.0,
-            "is_guild_member": true,
-            "rating_delta": 0.0,
-            "rank": 198
+            "rank": 190
           },
           {
             "account_name": "Huge.5891",
@@ -48101,7 +47347,7 @@ const leaderboardData = {
             "average_stat_value": 622.375,
             "is_guild_member": true,
             "rating_delta": 6.728802911512503,
-            "rank": 199
+            "rank": 191
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -48113,7 +47359,7 @@ const leaderboardData = {
             "average_stat_value": 650.5,
             "is_guild_member": true,
             "rating_delta": -30.371921926977166,
-            "rank": 200
+            "rank": 192
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -48125,7 +47371,7 @@ const leaderboardData = {
             "average_stat_value": 704.0,
             "is_guild_member": true,
             "rating_delta": -55.741797725284414,
-            "rank": 201
+            "rank": 193
           },
           {
             "account_name": "Luke.9108",
@@ -48137,7 +47383,7 @@ const leaderboardData = {
             "average_stat_value": 799.0,
             "is_guild_member": false,
             "rating_delta": -71.67643462485557,
-            "rank": 202
+            "rank": 194
           },
           {
             "account_name": "Syde.1863",
@@ -48149,7 +47395,7 @@ const leaderboardData = {
             "average_stat_value": 713.0,
             "is_guild_member": true,
             "rating_delta": 52.303443990041615,
-            "rank": 203
+            "rank": 195
           },
           {
             "account_name": "Nictheman.9754",
@@ -48161,7 +47407,7 @@ const leaderboardData = {
             "average_stat_value": 689.5,
             "is_guild_member": true,
             "rating_delta": 11.26724909355994,
-            "rank": 204
+            "rank": 196
           },
           {
             "account_name": "emz.3571",
@@ -48173,7 +47419,7 @@ const leaderboardData = {
             "average_stat_value": 622.0,
             "is_guild_member": true,
             "rating_delta": -57.78833193316132,
-            "rank": 205
+            "rank": 197
           },
           {
             "account_name": "Azel.4786",
@@ -48185,7 +47431,7 @@ const leaderboardData = {
             "average_stat_value": 729.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 206
+            "rank": 198
           },
           {
             "account_name": "Luke.9108",
@@ -48197,7 +47443,7 @@ const leaderboardData = {
             "average_stat_value": 974.0,
             "is_guild_member": false,
             "rating_delta": -10.238344044918222,
-            "rank": 207
+            "rank": 199
           },
           {
             "account_name": "Malek.9417",
@@ -48209,7 +47455,7 @@ const leaderboardData = {
             "average_stat_value": 828.0,
             "is_guild_member": true,
             "rating_delta": -12.515036318689454,
-            "rank": 208
+            "rank": 200
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -48221,7 +47467,7 @@ const leaderboardData = {
             "average_stat_value": 508.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 209
+            "rank": 201
           },
           {
             "account_name": "Souza.1562",
@@ -48233,7 +47479,7 @@ const leaderboardData = {
             "average_stat_value": 894.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 210
+            "rank": 202
           },
           {
             "account_name": "Pieswithattitude.2357",
@@ -48245,7 +47491,7 @@ const leaderboardData = {
             "average_stat_value": 911.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 211
+            "rank": 203
           },
           {
             "account_name": "Daasen.3719",
@@ -48257,7 +47503,7 @@ const leaderboardData = {
             "average_stat_value": 886.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 212
+            "rank": 204
           },
           {
             "account_name": "Nictheman.9754",
@@ -48269,7 +47515,7 @@ const leaderboardData = {
             "average_stat_value": 900.0,
             "is_guild_member": true,
             "rating_delta": -77.33005788762671,
-            "rank": 213
+            "rank": 205
           },
           {
             "account_name": "Malek.9417",
@@ -48281,7 +47527,7 @@ const leaderboardData = {
             "average_stat_value": 1438.0,
             "is_guild_member": true,
             "rating_delta": -7.754966528269279,
-            "rank": 214
+            "rank": 206
           },
           {
             "account_name": "emz.3571",
@@ -48293,7 +47539,7 @@ const leaderboardData = {
             "average_stat_value": 890.5,
             "is_guild_member": true,
             "rating_delta": -5.633054956438627,
-            "rank": 215
+            "rank": 207
           },
           {
             "account_name": "Serial Experiments X.2183",
@@ -48305,7 +47551,7 @@ const leaderboardData = {
             "average_stat_value": 797.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 216
+            "rank": 208
           },
           {
             "account_name": "Sygyt.5190",
@@ -48317,7 +47563,7 @@ const leaderboardData = {
             "average_stat_value": 1094.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 217
+            "rank": 209
           },
           {
             "account_name": "yhanbruno.5873",
@@ -48329,7 +47575,7 @@ const leaderboardData = {
             "average_stat_value": 1294.0,
             "is_guild_member": false,
             "rating_delta": -45.265910228372604,
-            "rank": 218
+            "rank": 210
           },
           {
             "account_name": "OPness.3215",
@@ -48341,7 +47587,7 @@ const leaderboardData = {
             "average_stat_value": 841.0,
             "is_guild_member": true,
             "rating_delta": -34.21351658996514,
-            "rank": 219
+            "rank": 211
           },
           {
             "account_name": "SpiderGasm.3182",
@@ -48353,7 +47599,7 @@ const leaderboardData = {
             "average_stat_value": 1137.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 220
+            "rank": 212
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -48365,7 +47611,7 @@ const leaderboardData = {
             "average_stat_value": 1205.0,
             "is_guild_member": true,
             "rating_delta": 0.0,
-            "rank": 221
+            "rank": 213
           },
           {
             "account_name": "DareDevils.6039",
@@ -48377,7 +47623,7 @@ const leaderboardData = {
             "average_stat_value": 1459.0,
             "is_guild_member": false,
             "rating_delta": 0.0,
-            "rank": 222
+            "rank": 214
           },
           {
             "account_name": "Sleepy.5367",
@@ -48389,7 +47635,7 @@ const leaderboardData = {
             "average_stat_value": 849.0,
             "is_guild_member": true,
             "rating_delta": -55.85466342579866,
-            "rank": 223
+            "rank": 215
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -48401,19 +47647,19 @@ const leaderboardData = {
             "average_stat_value": 1215.5,
             "is_guild_member": true,
             "rating_delta": -34.19339930410297,
-            "rank": 224
+            "rank": 216
           },
           {
             "account_name": "Dextra.8162",
             "profession": "Weaver",
-            "glicko_rating": 1163.4642254802088,
-            "composite_score": 1163.4642254802088,
-            "games_played": 13,
-            "average_rank_percent": 29.76923076923077,
-            "average_stat_value": 1074.0,
+            "glicko_rating": 1176.698640471041,
+            "composite_score": 1176.698640471041,
+            "games_played": 12,
+            "average_rank_percent": 30.75,
+            "average_stat_value": 1068.0,
             "is_guild_member": true,
             "rating_delta": -3.108082356729028,
-            "rank": 225
+            "rank": 217
           }
         ]
       },
@@ -48462,9 +47708,9 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "glicko_rating": 1676.305597571924,
               "key_stats": "Stab:8.4 Resi:1.1",
-              "apm_total": 65.0,
-              "apm_no_auto": 47.5,
-              "apm": "65.0/47.5",
+              "apm_total": 73.0,
+              "apm_no_auto": 58.5,
+              "apm": "73.0/58.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48475,9 +47721,9 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "glicko_rating": 1658.154847353051,
               "key_stats": "Stab:11.6 Resi:1.0",
-              "apm_total": 50.0,
-              "apm_no_auto": 46.0,
-              "apm": "50.0/46.0",
+              "apm_total": 33.0,
+              "apm_no_auto": 31.0,
+              "apm": "33.0/31.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48509,14 +47755,14 @@ const leaderboardData = {
             },
             {
               "account_name": "waschy.6093",
-              "composite_score": 1641.5589925927598,
-              "games_played": 11,
-              "average_rank_percent": 5.7727272727272725,
-              "glicko_rating": 1641.5589925927598,
-              "key_stats": "Stab:8.4 Resi:0.4",
-              "apm_total": 66.6,
-              "apm_no_auto": 44.8,
-              "apm": "66.6/44.8",
+              "composite_score": 1634.1007220795714,
+              "games_played": 10,
+              "average_rank_percent": 6.05,
+              "glicko_rating": 1634.1007220795714,
+              "key_stats": "Stab:8.6 Resi:0.4",
+              "apm_total": 67.2,
+              "apm_no_auto": 44.1,
+              "apm": "67.2/44.1",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48527,9 +47773,9 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "glicko_rating": 1633.8809570003643,
               "key_stats": "Stab:7.6 Resi:1.2",
-              "apm_total": 38.0,
-              "apm_no_auto": 22.0,
-              "apm": "38.0/22.0",
+              "apm_total": 58.0,
+              "apm_no_auto": 48.0,
+              "apm": "58.0/48.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48670,9 +47916,9 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "glicko_rating": 1507.8511839191945,
               "key_stats": "Stab:7.8 Resi:0.2",
-              "apm_total": 54.0,
-              "apm_no_auto": 31.0,
-              "apm": "54.0/31.0",
+              "apm_total": 51.0,
+              "apm_no_auto": 37.0,
+              "apm": "51.0/37.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -48761,9 +48007,9 @@ const leaderboardData = {
               "average_rank_percent": 18.5,
               "glicko_rating": 1434.063526761262,
               "key_stats": "Stab:3.8 Resi:0.2",
-              "apm_total": 80.0,
-              "apm_no_auto": 36.0,
-              "apm": "80.0/36.0",
+              "apm_total": 39.0,
+              "apm_no_auto": 22.0,
+              "apm": "39.0/22.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -48826,19 +48072,6 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "Pieswithattitude.2357",
-              "composite_score": 1682.6676181976575,
-              "games_played": 2,
-              "average_rank_percent": 2.25,
-              "glicko_rating": 1682.6676181976575,
-              "key_stats": "Stab:6.3 Clea:0.7 Resi:0.8",
-              "apm_total": 49.0,
-              "apm_no_auto": 35.5,
-              "apm": "49.0/35.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
               "account_name": "Muted.8591",
               "composite_score": 1662.059770582861,
               "games_played": 7,
@@ -48852,15 +48085,15 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "Disenable.1640",
-              "composite_score": 1643.1684290440555,
+              "account_name": "Pieswithattitude.2357",
+              "composite_score": 1643.8644716808199,
               "games_played": 1,
-              "average_rank_percent": 2.0,
-              "glicko_rating": 1643.1684290440555,
-              "key_stats": "Stab:6.2 Clea:0.8 Resi:0.3",
-              "apm_total": 53.5,
-              "apm_no_auto": 28.0,
-              "apm": "53.5/28.0",
+              "average_rank_percent": 2.2,
+              "glicko_rating": 1643.8644716808199,
+              "key_stats": "Stab:8.6 Clea:0.7 Resi:1.1",
+              "apm_total": 45.0,
+              "apm_no_auto": 40.0,
+              "apm": "45.0/40.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48871,9 +48104,9 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "glicko_rating": 1642.010884237803,
               "key_stats": "Stab:9.5 Clea:1.5 Resi:0.4",
-              "apm_total": 51.0,
-              "apm_no_auto": 41.0,
-              "apm": "51.0/41.0",
+              "apm_total": 51.5,
+              "apm_no_auto": 44.5,
+              "apm": "51.5/44.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48897,9 +48130,9 @@ const leaderboardData = {
               "average_rank_percent": 7.45,
               "glicko_rating": 1608.7325427944124,
               "key_stats": "Stab:6.0 Clea:0.9 Resi:0.8",
-              "apm_total": 44.8,
-              "apm_no_auto": 35.2,
-              "apm": "44.8/35.2",
+              "apm_total": 46.2,
+              "apm_no_auto": 34.2,
+              "apm": "46.2/34.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48962,9 +48195,9 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "glicko_rating": 1594.3645075124355,
               "key_stats": "Stab:7.0 Clea:1.2 Resi:0.8",
-              "apm_total": 56.0,
-              "apm_no_auto": 39.0,
-              "apm": "56.0/39.0",
+              "apm_total": 72.0,
+              "apm_no_auto": 61.0,
+              "apm": "72.0/61.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -48988,9 +48221,9 @@ const leaderboardData = {
               "average_rank_percent": 6.2,
               "glicko_rating": 1589.7165396105272,
               "key_stats": "Stab:7.9 Clea:1.3 Resi:0.4",
-              "apm_total": 52.0,
-              "apm_no_auto": 33.0,
-              "apm": "52.0/33.0",
+              "apm_total": 44.0,
+              "apm_no_auto": 36.0,
+              "apm": "44.0/36.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49092,22 +48325,9 @@ const leaderboardData = {
               "average_rank_percent": 5.083333333333333,
               "glicko_rating": 1796.2450692691855,
               "key_stats": "Stri:1.3 DPS:1879.5",
-              "apm_total": 64.8,
-              "apm_no_auto": 43.7,
-              "apm": "64.8/43.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Soothsayer.9206",
-              "composite_score": 1692.3756502717608,
-              "games_played": 2,
-              "average_rank_percent": 4.75,
-              "glicko_rating": 1692.3756502717608,
-              "key_stats": "Stri:1.2 DPS:2047.0",
-              "apm_total": 58.0,
-              "apm_no_auto": 41.5,
-              "apm": "58.0/41.5",
+              "apm_total": 65.3,
+              "apm_no_auto": 47.3,
+              "apm": "65.3/47.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49118,9 +48338,9 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "glicko_rating": 1684.1095761733395,
               "key_stats": "Stri:0.7 DPS:1304.1",
-              "apm_total": 54.0,
-              "apm_no_auto": 33.9,
-              "apm": "54.0/33.9",
+              "apm_total": 55.1,
+              "apm_no_auto": 34.0,
+              "apm": "55.1/34.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49131,9 +48351,9 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "glicko_rating": 1678.4846887630258,
               "key_stats": "Stri:0.7 DPS:832.0",
-              "apm_total": 46.3,
-              "apm_no_auto": 20.4,
-              "apm": "46.3/20.4",
+              "apm_total": 45.8,
+              "apm_no_auto": 21.2,
+              "apm": "45.8/21.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49144,9 +48364,9 @@ const leaderboardData = {
               "average_rank_percent": 9.25,
               "glicko_rating": 1659.4290979110528,
               "key_stats": "Stri:0.9 DPS:1932.0",
-              "apm_total": 50.5,
-              "apm_no_auto": 31.0,
-              "apm": "50.5/31.0",
+              "apm_total": 45.5,
+              "apm_no_auto": 29.5,
+              "apm": "45.5/29.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49165,14 +48385,27 @@ const leaderboardData = {
             },
             {
               "account_name": "Syde.1863",
-              "composite_score": 1650.0627606883595,
-              "games_played": 4,
-              "average_rank_percent": 11.375,
-              "glicko_rating": 1650.0627606883595,
-              "key_stats": "Stri:0.7 DPS:625.2",
-              "apm_total": 26.5,
-              "apm_no_auto": 23.8,
-              "apm": "26.5/23.8",
+              "composite_score": 1649.7586509544958,
+              "games_played": 3,
+              "average_rank_percent": 12.333333333333334,
+              "glicko_rating": 1649.7586509544958,
+              "key_stats": "Stri:0.7 DPS:583.7",
+              "apm_total": 27.0,
+              "apm_no_auto": 23.7,
+              "apm": "27.0/23.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Soothsayer.9206",
+              "composite_score": 1632.809287080916,
+              "games_played": 1,
+              "average_rank_percent": 5.5,
+              "glicko_rating": 1632.809287080916,
+              "key_stats": "Stri:0.9 DPS:1842.0",
+              "apm_total": 57.0,
+              "apm_no_auto": 38.0,
+              "apm": "57.0/38.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49183,9 +48416,9 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "glicko_rating": 1627.4194008178895,
               "key_stats": "Stri:0.6 DPS:1089.0",
-              "apm_total": 52.7,
-              "apm_no_auto": 32.3,
-              "apm": "52.7/32.3",
+              "apm_total": 49.3,
+              "apm_no_auto": 24.3,
+              "apm": "49.3/24.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49196,9 +48429,9 @@ const leaderboardData = {
               "average_rank_percent": 11.166666666666666,
               "glicko_rating": 1623.770250686034,
               "key_stats": "Stri:0.4 DPS:1122.7",
-              "apm_total": 60.0,
-              "apm_no_auto": 34.7,
-              "apm": "60.0/34.7",
+              "apm_total": 50.3,
+              "apm_no_auto": 23.0,
+              "apm": "50.3/23.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49235,9 +48468,9 @@ const leaderboardData = {
               "average_rank_percent": 13.5,
               "glicko_rating": 1596.5897575304566,
               "key_stats": "Stri:0.4 DPS:914.5",
-              "apm_total": 48.3,
-              "apm_no_auto": 21.0,
-              "apm": "48.3/21.0",
+              "apm_total": 46.0,
+              "apm_no_auto": 21.5,
+              "apm": "46.0/21.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49248,9 +48481,9 @@ const leaderboardData = {
               "average_rank_percent": 13.25,
               "glicko_rating": 1595.7524973097034,
               "key_stats": "Stri:0.7 DPS:828.0",
-              "apm_total": 41.0,
-              "apm_no_auto": 23.5,
-              "apm": "41.0/23.5",
+              "apm_total": 49.5,
+              "apm_no_auto": 27.5,
+              "apm": "49.5/27.5",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -49326,9 +48559,9 @@ const leaderboardData = {
               "average_rank_percent": 13.5,
               "glicko_rating": 1564.4756288125586,
               "key_stats": "Stri:0.4 DPS:969.0",
-              "apm_total": 46.7,
-              "apm_no_auto": 21.3,
-              "apm": "46.7/21.3",
+              "apm_total": 47.5,
+              "apm_no_auto": 23.5,
+              "apm": "47.5/23.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49339,9 +48572,9 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "glicko_rating": 1558.290643052959,
               "key_stats": "Stri:0.5 DPS:1418.0",
-              "apm_total": 47.0,
-              "apm_no_auto": 34.0,
-              "apm": "47.0/34.0",
+              "apm_total": 51.0,
+              "apm_no_auto": 25.0,
+              "apm": "51.0/25.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49352,9 +48585,9 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "glicko_rating": 1553.3869802295721,
               "key_stats": "Stri:0.5 DPS:897.0",
-              "apm_total": 57.0,
-              "apm_no_auto": 33.0,
-              "apm": "57.0/33.0",
+              "apm_total": 43.0,
+              "apm_no_auto": 24.0,
+              "apm": "43.0/24.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49378,9 +48611,9 @@ const leaderboardData = {
               "average_rank_percent": 14.333333333333334,
               "glicko_rating": 1549.1826868477808,
               "key_stats": "Stri:0.5 DPS:695.3",
-              "apm_total": 54.0,
-              "apm_no_auto": 35.7,
-              "apm": "54.0/35.7",
+              "apm_total": 51.7,
+              "apm_no_auto": 31.3,
+              "apm": "51.7/31.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49469,9 +48702,9 @@ const leaderboardData = {
               "average_rank_percent": 4.529411764705882,
               "glicko_rating": 1778.1293602925616,
               "key_stats": "Heal:1524.5 Clea:1.1",
-              "apm_total": 61.8,
-              "apm_no_auto": 48.4,
-              "apm": "61.8/48.4",
+              "apm_total": 67.3,
+              "apm_no_auto": 52.9,
+              "apm": "67.3/52.9",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49482,9 +48715,9 @@ const leaderboardData = {
               "average_rank_percent": 3.1666666666666665,
               "glicko_rating": 1749.259061693927,
               "key_stats": "Heal:2052.3 Clea:1.2",
-              "apm_total": 84.7,
-              "apm_no_auto": 63.0,
-              "apm": "84.7/63.0",
+              "apm_total": 75.3,
+              "apm_no_auto": 52.3,
+              "apm": "75.3/52.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49499,19 +48732,6 @@ const leaderboardData = {
               "apm_no_auto": 50.7,
               "apm": "69.0/50.7",
               "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Foodels.7358",
-              "composite_score": 1725.2905374864843,
-              "games_played": 2,
-              "average_rank_percent": 1.0,
-              "glicko_rating": 1725.2905374864843,
-              "key_stats": "Heal:1551.9 Clea:1.0",
-              "apm_total": 65.0,
-              "apm_no_auto": 46.5,
-              "apm": "65.0/46.5",
-              "is_guild_member": false,
               "rating_delta": 0.0
             },
             {
@@ -49534,23 +48754,36 @@ const leaderboardData = {
               "average_rank_percent": 7.125,
               "glicko_rating": 1703.4168956719132,
               "key_stats": "Heal:1702.6 Clea:0.6",
-              "apm_total": 63.0,
-              "apm_no_auto": 43.8,
-              "apm": "63.0/43.8",
+              "apm_total": 61.0,
+              "apm_no_auto": 44.5,
+              "apm": "61.0/44.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "Hiraldo.7954",
-              "composite_score": 1698.8233669881672,
-              "games_played": 3,
-              "average_rank_percent": 5.0,
-              "glicko_rating": 1698.8233669881672,
-              "key_stats": "Heal:1405.8 Clea:0.8",
-              "apm_total": 58.5,
-              "apm_no_auto": 39.2,
-              "apm": "58.5/39.2",
+              "composite_score": 1666.1052152095067,
+              "games_played": 2,
+              "average_rank_percent": 5.75,
+              "glicko_rating": 1666.1052152095067,
+              "key_stats": "Heal:1637.5 Clea:0.9",
+              "apm_total": 63.0,
+              "apm_no_auto": 43.0,
+              "apm": "63.0/43.0",
               "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Foodels.7358",
+              "composite_score": 1662.6605701224803,
+              "games_played": 1,
+              "average_rank_percent": 1.0,
+              "glicko_rating": 1662.6605701224803,
+              "key_stats": "Heal:1846.3 Clea:1.2",
+              "apm_total": 66.0,
+              "apm_no_auto": 45.0,
+              "apm": "66.0/45.0",
+              "is_guild_member": false,
               "rating_delta": 0.0
             },
             {
@@ -49560,9 +48793,9 @@ const leaderboardData = {
               "average_rank_percent": 1.0,
               "glicko_rating": 1659.7285273118935,
               "key_stats": "Heal:2156.9 Clea:1.6",
-              "apm_total": 100.0,
-              "apm_no_auto": 69.0,
-              "apm": "100.0/69.0",
+              "apm_total": 88.0,
+              "apm_no_auto": 70.0,
+              "apm": "88.0/70.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49742,9 +48975,9 @@ const leaderboardData = {
               "average_rank_percent": 6.5,
               "glicko_rating": 1599.6314887576095,
               "key_stats": "Heal:951.4 Clea:0.8",
-              "apm_total": 60.5,
-              "apm_no_auto": 42.5,
-              "apm": "60.5/42.5",
+              "apm_total": 57.0,
+              "apm_no_auto": 39.0,
+              "apm": "57.0/39.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49781,9 +49014,9 @@ const leaderboardData = {
               "average_rank_percent": 15.9375,
               "glicko_rating": 1560.9338555412548,
               "key_stats": "Stab:6.9 DPS:315.6",
-              "apm_total": 50.8,
-              "apm_no_auto": 28.2,
-              "apm": "50.8/28.2",
+              "apm_total": 51.1,
+              "apm_no_auto": 28.5,
+              "apm": "51.1/28.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             }
@@ -49822,9 +49055,9 @@ const leaderboardData = {
               "average_rank_percent": 9.666666666666666,
               "glicko_rating": 1560.6932282095413,
               "key_stats": "Stab:5.1 Clea:0.8 DPS:1312.0",
-              "apm_total": 77.0,
-              "apm_no_auto": 53.0,
-              "apm": "77.0/53.0",
+              "apm_total": 48.0,
+              "apm_no_auto": 18.0,
+              "apm": "48.0/18.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -49949,52 +49182,54 @@ const leaderboardData = {
         },
         "Support Spb": {
           "metrics": [
+            "Strips",
             "Might",
             "Resistance",
             "Stability",
             "Cleanses"
           ],
           "weights": [
-            0.4,
-            0.3,
-            0.2,
-            0.1
+            0.35,
+            0.26,
+            0.195,
+            0.13,
+            0.065
           ],
           "key_stats_format": "Stats: {}",
           "leaderboard": [
             {
               "account_name": "Solomon Darkfury.3729",
-              "composite_score": 1716.7149494091452,
+              "composite_score": 1723.91116866624,
               "games_played": 6,
-              "average_rank_percent": 7.75,
-              "glicko_rating": 1716.7149494091452,
-              "key_stats": "Migh:35.7 Resi:1.2 Stab:4.2",
-              "apm_total": 65.9,
-              "apm_no_auto": 33.4,
-              "apm": "65.9/33.4",
+              "average_rank_percent": 7.033333333333333,
+              "glicko_rating": 1723.91116866624,
+              "key_stats": "Stri:0.6 Migh:35.7 Resi:1.2",
+              "apm_total": 64.8,
+              "apm_no_auto": 34.0,
+              "apm": "64.8/34.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "Pieswithattitude.2357",
-              "composite_score": 1705.0197499360531,
+              "composite_score": 1694.4848181546272,
               "games_played": 2,
-              "average_rank_percent": 3.875,
-              "glicko_rating": 1705.0197499360531,
-              "key_stats": "Migh:24.9 Resi:1.4 Stab:6.8",
-              "apm_total": 90.0,
-              "apm_no_auto": 60.0,
-              "apm": "90.0/60.0",
+              "average_rank_percent": 3.7,
+              "glicko_rating": 1694.4848181546272,
+              "key_stats": "Stri:0.7 Migh:24.9 Resi:1.4",
+              "apm_total": 84.0,
+              "apm_no_auto": 60.5,
+              "apm": "84.0/60.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "ParaldaWind.4523",
-              "composite_score": 1690.34260119403,
+              "composite_score": 1689.5871974106567,
               "games_played": 5,
-              "average_rank_percent": 7.35,
-              "glicko_rating": 1690.34260119403,
-              "key_stats": "Migh:30.3 Resi:1.1 Stab:3.3",
+              "average_rank_percent": 7.12,
+              "glicko_rating": 1689.5871974106567,
+              "key_stats": "Stri:0.6 Migh:30.3 Resi:1.1",
               "apm_total": 65.4,
               "apm_no_auto": 27.0,
               "apm": "65.4/27.0",
@@ -50002,25 +49237,38 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
+              "account_name": "synco.8132",
+              "composite_score": 1609.6224002892745,
+              "games_played": 1,
+              "average_rank_percent": 7.2,
+              "glicko_rating": 1609.6224002892745,
+              "key_stats": "Stri:0.9 Migh:15.3 Resi:1.4",
+              "apm_total": 66.0,
+              "apm_no_auto": 53.0,
+              "apm": "66.0/53.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
               "account_name": "OPness.3215",
-              "composite_score": 1619.993519009424,
+              "composite_score": 1608.1127293934653,
               "games_played": 2,
-              "average_rank_percent": 8.75,
-              "glicko_rating": 1619.993519009424,
-              "key_stats": "Migh:31.5 Resi:1.0 Stab:3.0",
-              "apm_total": 53.0,
-              "apm_no_auto": 42.5,
-              "apm": "53.0/42.5",
+              "average_rank_percent": 8.7,
+              "glicko_rating": 1608.1127293934653,
+              "key_stats": "Stri:0.5 Migh:31.5 Resi:1.0",
+              "apm_total": 44.5,
+              "apm_no_auto": 35.0,
+              "apm": "44.5/35.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "LilJoker.2658",
-              "composite_score": 1606.315121191782,
+              "composite_score": 1600.4131269305196,
               "games_played": 1,
-              "average_rank_percent": 7.25,
-              "glicko_rating": 1606.315121191782,
-              "key_stats": "Migh:16.0 Resi:1.5 Stab:5.2",
+              "average_rank_percent": 7.0,
+              "glicko_rating": 1600.4131269305196,
+              "key_stats": "Stri:0.7 Migh:16.0 Resi:1.5",
               "apm_total": 73.0,
               "apm_no_auto": 44.0,
               "apm": "73.0/44.0",
@@ -50028,51 +49276,12 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "synco.8132",
-              "composite_score": 1602.913968221992,
-              "games_played": 1,
-              "average_rank_percent": 7.75,
-              "glicko_rating": 1602.913968221992,
-              "key_stats": "Migh:15.3 Resi:1.4 Stab:4.9",
-              "apm_total": 53.0,
-              "apm_no_auto": 34.0,
-              "apm": "53.0/34.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Uriah.7082",
-              "composite_score": 1591.1040200501682,
-              "games_played": 1,
-              "average_rank_percent": 6.0,
-              "glicko_rating": 1591.1040200501682,
-              "key_stats": "Migh:14.2 Resi:1.1 Stab:5.1",
-              "apm_total": 71.0,
-              "apm_no_auto": 37.0,
-              "apm": "71.0/37.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Havocus.3682",
-              "composite_score": 1585.0934742980548,
-              "games_played": 1,
-              "average_rank_percent": 9.25,
-              "glicko_rating": 1585.0934742980548,
-              "key_stats": "Migh:12.6 Resi:1.2 Stab:3.3",
-              "apm_total": 54.0,
-              "apm_no_auto": 42.0,
-              "apm": "54.0/42.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
               "account_name": "Ouji.7839",
-              "composite_score": 1580.341275419777,
+              "composite_score": 1598.7845987562514,
               "games_played": 1,
-              "average_rank_percent": 9.5,
-              "glicko_rating": 1580.341275419777,
-              "key_stats": "Migh:31.1 Resi:0.9 Stab:3.1",
+              "average_rank_percent": 8.4,
+              "glicko_rating": 1598.7845987562514,
+              "key_stats": "Stri:0.6 Migh:31.1 Resi:0.9",
               "apm_total": 58.0,
               "apm_no_auto": 27.0,
               "apm": "58.0/27.0",
@@ -50080,28 +49289,54 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "Smile.9284",
-              "composite_score": 1567.8065394607668,
+              "account_name": "Nero.6195",
+              "composite_score": 1594.5619345294808,
               "games_played": 1,
-              "average_rank_percent": 10.0,
-              "glicko_rating": 1567.8065394607668,
-              "key_stats": "Migh:26.4 Resi:0.8 Stab:2.3",
-              "apm_total": 46.0,
-              "apm_no_auto": 25.0,
-              "apm": "46.0/25.0",
+              "average_rank_percent": 3.4,
+              "glicko_rating": 1594.5619345294808,
+              "key_stats": "Stri:0.8 Migh:12.2 Resi:1.2",
+              "apm_total": 76.0,
+              "apm_no_auto": 45.0,
+              "apm": "76.0/45.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
-              "account_name": "Nero.6195",
-              "composite_score": 1559.4673986958796,
+              "account_name": "Havocus.3682",
+              "composite_score": 1588.313175432779,
               "games_played": 1,
-              "average_rank_percent": 4.0,
-              "glicko_rating": 1559.4673986958796,
-              "key_stats": "Migh:12.2 Resi:1.2 Stab:4.8",
-              "apm_total": 76.0,
-              "apm_no_auto": 45.0,
-              "apm": "76.0/45.0",
+              "average_rank_percent": 8.8,
+              "glicko_rating": 1588.313175432779,
+              "key_stats": "Stri:0.7 Migh:12.6 Resi:1.2",
+              "apm_total": 54.0,
+              "apm_no_auto": 42.0,
+              "apm": "54.0/42.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Uriah.7082",
+              "composite_score": 1587.7755325757728,
+              "games_played": 1,
+              "average_rank_percent": 6.0,
+              "glicko_rating": 1587.7755325757728,
+              "key_stats": "Stri:0.4 Migh:14.2 Resi:1.1",
+              "apm_total": 71.0,
+              "apm_no_auto": 37.0,
+              "apm": "71.0/37.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Smile.9284",
+              "composite_score": 1570.8795450407913,
+              "games_played": 1,
+              "average_rank_percent": 9.8,
+              "glicko_rating": 1570.8795450407913,
+              "key_stats": "Stri:0.4 Migh:26.4 Resi:0.8",
+              "apm_total": 46.0,
+              "apm_no_auto": 25.0,
+              "apm": "46.0/25.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             }
@@ -50138,9 +49373,9 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "glicko_rating": 1554.0782366208305,
               "key_stats": "Prot:1.3 DPS:62.0",
-              "apm_total": 67.0,
-              "apm_no_auto": 47.0,
-              "apm": "67.0/47.0",
+              "apm_total": 53.0,
+              "apm_no_auto": 44.0,
+              "apm": "53.0/44.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -50343,15 +49578,6 @@ const leaderboardData = {
           },
           {
             "rank": 18,
-            "account_name": "Havocus.3682",
-            "player_name": "Havacado",
-            "profession": "Catalyst",
-            "burst_damage": 99100,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 19,
             "account_name": "ParaldaWind.4523",
             "player_name": "Paralda",
             "profession": "Dragonhunter",
@@ -50360,7 +49586,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 19,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -50369,7 +49595,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 20,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -50378,7 +49604,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 21,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -50387,7 +49613,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 22,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -50396,7 +49622,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 24,
+            "rank": 23,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -50405,7 +49631,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
+            "rank": 24,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor",
             "profession": "Warrior",
@@ -50414,16 +49640,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 26,
-            "account_name": "Pieswithattitude.2357",
-            "player_name": "Ill Illl Il Ill",
-            "profession": "Dragonhunter",
-            "burst_damage": 83023,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 27,
+            "rank": 25,
             "account_name": "Soothsayer.9206",
             "player_name": "Soothsayer.9206",
             "profession": "Catalyst",
@@ -50432,7 +49649,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 28,
+            "rank": 26,
             "account_name": "Soothsayer.9206",
             "player_name": "Weakest D H Player",
             "profession": "Dragonhunter",
@@ -50441,7 +49658,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 29,
+            "rank": 27,
             "account_name": "defeater.3186",
             "player_name": "defeater.3186",
             "profession": "Catalyst",
@@ -50450,7 +49667,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 30,
+            "rank": 28,
             "account_name": "Bother.9415",
             "player_name": "Bother.9415",
             "profession": "Dragonhunter",
@@ -50459,7 +49676,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 29,
             "account_name": "Nictheman.9754",
             "player_name": "Nictheman.9754",
             "profession": "Scrapper",
@@ -50468,7 +49685,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 30,
             "account_name": "Dextra.8162",
             "player_name": "Dextra.8162",
             "profession": "Catalyst",
@@ -50477,7 +49694,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 31,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -50486,16 +49703,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 34,
-            "account_name": "Freelanced.6084",
-            "player_name": "Mirielnetta",
-            "profession": "Catalyst",
-            "burst_damage": 71343,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 35,
+            "rank": 32,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor E",
             "profession": "Catalyst",
@@ -50504,7 +49712,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 33,
             "account_name": "Aein.1483",
             "player_name": "Bounciness",
             "profession": "Vindicator",
@@ -50513,7 +49721,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 34,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor.3091",
             "profession": "Warrior",
@@ -50522,16 +49730,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
-            "account_name": "Soothsayer.9206",
-            "player_name": "T A R Ancalim\u00eb",
-            "profession": "Dragonhunter",
-            "burst_damage": 69579,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 39,
+            "rank": 35,
             "account_name": "Nictheman.9754",
             "player_name": "Namshrow",
             "profession": "Scrapper",
@@ -50540,7 +49739,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 36,
             "account_name": "Lord.7561",
             "player_name": "Lord.7561",
             "profession": "Dragonhunter",
@@ -50549,7 +49748,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 41,
+            "rank": 37,
             "account_name": "CptNacho.1249",
             "player_name": "CptNacho.1249",
             "profession": "Warrior",
@@ -50558,7 +49757,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 42,
+            "rank": 38,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -50567,7 +49766,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 43,
+            "rank": 39,
             "account_name": "Lasthope.7943",
             "player_name": "Lasthope.7943",
             "profession": "Dragonhunter",
@@ -50576,7 +49775,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 44,
+            "rank": 40,
             "account_name": "Sleepy.5367",
             "player_name": "Sleepy.5367",
             "profession": "Warrior",
@@ -50585,7 +49784,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 45,
+            "rank": 41,
             "account_name": "ParaldaWind.4523",
             "player_name": "Paralda",
             "profession": "Dragonhunter",
@@ -50594,7 +49793,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 46,
+            "rank": 42,
             "account_name": "Sygyt.5190",
             "player_name": "Sygyt.5190",
             "profession": "Catalyst",
@@ -50603,7 +49802,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 47,
+            "rank": 43,
             "account_name": "zectra.6978",
             "player_name": "zectra.6978",
             "profession": "Dragonhunter",
@@ -50612,7 +49811,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 48,
+            "rank": 44,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -50621,7 +49820,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 45,
             "account_name": "MasterScrub.1396",
             "player_name": "MasterScrub.1396",
             "profession": "Dragonhunter",
@@ -50630,7 +49829,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 50,
+            "rank": 46,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -50639,7 +49838,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 47,
             "account_name": "FlawedDjinn.3217",
             "player_name": "Flaudg\u00een",
             "profession": "Reaper",
@@ -50648,7 +49847,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 48,
             "account_name": "Beneko.8475",
             "player_name": "Beneko.8475",
             "profession": "Holosmith",
@@ -50657,7 +49856,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 53,
+            "rank": 49,
             "account_name": "zectra.6978",
             "player_name": "zectra.6978",
             "profession": "Dragonhunter",
@@ -50666,7 +49865,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 54,
+            "rank": 50,
             "account_name": "Dextra.8162",
             "player_name": "Dextra.8162",
             "profession": "Weaver",
@@ -50675,7 +49874,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 51,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -50684,7 +49883,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 52,
             "account_name": "Aein.1483",
             "player_name": "Bounciness",
             "profession": "Vindicator",
@@ -50693,7 +49892,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 53,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor.3091",
             "profession": "Spellbreaker",
@@ -50702,7 +49901,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 54,
             "account_name": "Nictheman.9754",
             "player_name": "Nictheman.9754",
             "profession": "Catalyst",
@@ -50711,7 +49910,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 55,
             "account_name": "zectra.6978",
             "player_name": "zectra.6978",
             "profession": "Dragonhunter",
@@ -50720,7 +49919,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 60,
+            "rank": 56,
             "account_name": "Solomon Darkfury.3729",
             "player_name": "Damage Offda Charrt",
             "profession": "Warrior",
@@ -50729,7 +49928,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 57,
             "account_name": "Lasthope.7943",
             "player_name": "Lasthope.7943",
             "profession": "Guardian",
@@ -50738,16 +49937,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
-            "account_name": "ParaldaWind.4523",
-            "player_name": "ParaldaWind.4523",
-            "profession": "Dragonhunter",
-            "burst_damage": 57474,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 63,
+            "rank": 58,
             "account_name": "Lasthope.7943",
             "player_name": "Lasthope.7943",
             "profession": "Dragonhunter",
@@ -50756,7 +49946,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 59,
             "account_name": "Astro Bear.6305",
             "player_name": "Bj\u00f6rnstorm",
             "profession": "Catalyst",
@@ -50765,7 +49955,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 60,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor",
             "profession": "Warrior",
@@ -50774,7 +49964,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 61,
             "account_name": "willtehthrill.4218",
             "player_name": "willtehthrill.4218",
             "profession": "Holosmith",
@@ -50783,7 +49973,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 67,
+            "rank": 62,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor",
             "profession": "Spellbreaker",
@@ -50792,7 +49982,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 63,
             "account_name": "Lord.7561",
             "player_name": "O F In Bio",
             "profession": "Catalyst",
@@ -50801,7 +49991,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 64,
             "account_name": "Uriah.7082",
             "player_name": "Shot Across The Bow",
             "profession": "Untamed",
@@ -50810,7 +50000,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 70,
+            "rank": 65,
             "account_name": "Chakkkka.2504",
             "player_name": "Chakkka Terror",
             "profession": "Catalyst",
@@ -50819,7 +50009,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 71,
+            "rank": 66,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pieswithattitude.2357",
             "profession": "Catalyst",
@@ -50828,7 +50018,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 67,
             "account_name": "zectra.6978",
             "player_name": "zectra.6978",
             "profession": "Catalyst",
@@ -50837,7 +50027,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 73,
+            "rank": 68,
             "account_name": "Huge.5891",
             "player_name": "Huge.5891",
             "profession": "Dragonhunter",
@@ -50846,7 +50036,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 69,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -50855,7 +50045,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 70,
             "account_name": "Malek.9417",
             "player_name": "Malek.9417",
             "profession": "Dragonhunter",
@@ -50864,7 +50054,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 71,
             "account_name": "ParaldaWind.4523",
             "player_name": "ParaldaWind.4523",
             "profession": "Dragonhunter",
@@ -50873,7 +50063,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 72,
             "account_name": "Astro Bear.6305",
             "player_name": "Chrisy Bear",
             "profession": "Dragonhunter",
@@ -50882,7 +50072,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 73,
             "account_name": "FlawedDjinn.3217",
             "player_name": "FlawedDjinn.3217",
             "profession": "Scourge",
@@ -50891,16 +50081,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
-            "account_name": "Dextra.8162",
-            "player_name": "Candy Glazed",
-            "profession": "Weaver",
-            "burst_damage": 51443,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 80,
+            "rank": 74,
             "account_name": "Nictheman.9754",
             "player_name": "Nictheman.9754",
             "profession": "Scrapper",
@@ -50909,7 +50090,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 81,
+            "rank": 75,
             "account_name": "Havocus.3682",
             "player_name": "Havocus.3682",
             "profession": "Catalyst",
@@ -50918,7 +50099,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 76,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -50927,7 +50108,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 83,
+            "rank": 77,
             "account_name": "MasterScrub.1396",
             "player_name": "MasterScrub.1396",
             "profession": "Dragonhunter",
@@ -50936,7 +50117,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 84,
+            "rank": 78,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -50945,7 +50126,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 79,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -50954,7 +50135,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 86,
+            "rank": 80,
             "account_name": "emz.3571",
             "player_name": "emz.3571",
             "profession": "Weaver",
@@ -50963,7 +50144,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 87,
+            "rank": 81,
             "account_name": "Daasen.3719",
             "player_name": "Daasen.3719",
             "profession": "Reaper",
@@ -50972,7 +50153,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 88,
+            "rank": 82,
             "account_name": "Nictheman.9754",
             "player_name": "Nictheman.9754",
             "profession": "Warrior",
@@ -50981,7 +50162,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 89,
+            "rank": 83,
             "account_name": "Nictheman.9754",
             "player_name": "Nictheman.9754",
             "profession": "Holosmith",
@@ -50990,7 +50171,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 90,
+            "rank": 84,
             "account_name": "Dextra.8162",
             "player_name": "Dextra.8162",
             "profession": "Weaver",
@@ -50999,7 +50180,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 91,
+            "rank": 85,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor.3091",
             "profession": "Spellbreaker",
@@ -51008,7 +50189,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 92,
+            "rank": 86,
             "account_name": "zectra.6978",
             "player_name": "zectra.6978",
             "profession": "Catalyst",
@@ -51017,7 +50198,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 93,
+            "rank": 87,
             "account_name": "Interpretor.3091",
             "player_name": "\u00cfnterpretor",
             "profession": "Reaper",
@@ -51026,7 +50207,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 94,
+            "rank": 88,
             "account_name": "CarlJunior.7832",
             "player_name": "CarlJunior.7832",
             "profession": "Warrior",
@@ -51035,7 +50216,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 95,
+            "rank": 89,
             "account_name": "Bother.9415",
             "player_name": "Hephyt Wolf",
             "profession": "Untamed",
@@ -51044,7 +50225,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 96,
+            "rank": 90,
             "account_name": "Solomon Darkfury.3729",
             "player_name": "Boonbr\u00e6ker",
             "profession": "Spellbreaker",
@@ -51053,7 +50234,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 97,
+            "rank": 91,
             "account_name": "Lasthope.7943",
             "player_name": "Lasthope.7943",
             "profession": "Dragonhunter",
@@ -51062,7 +50243,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 98,
+            "rank": 92,
             "account_name": "Lasthope.7943",
             "player_name": "Lastsuperman",
             "profession": "Guardian",
@@ -51071,7 +50252,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 99,
+            "rank": 93,
             "account_name": "emz.3571",
             "player_name": "Kyra Orpheus",
             "profession": "Reaper",
@@ -51080,12 +50261,66 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 100,
+            "rank": 94,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
             "burst_damage": 46500,
             "timestamp": "202508042310",
+            "is_guild_member": true
+          },
+          {
+            "rank": 95,
+            "account_name": "Dextra.8162",
+            "player_name": "Dextra.8162",
+            "profession": "Weaver",
+            "burst_damage": 45940,
+            "timestamp": "202506302308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 96,
+            "account_name": "Interpretor.3091",
+            "player_name": "Interpretor.3091",
+            "profession": "Holosmith",
+            "burst_damage": 45595,
+            "timestamp": "202508112300",
+            "is_guild_member": true
+          },
+          {
+            "rank": 97,
+            "account_name": "Nictheman.9754",
+            "player_name": "Nictheman.9754",
+            "profession": "Scrapper",
+            "burst_damage": 45503,
+            "timestamp": "202508042310",
+            "is_guild_member": true
+          },
+          {
+            "rank": 98,
+            "account_name": "Chakkkka.2504",
+            "player_name": "Chaka Deleting You",
+            "profession": "Scrapper",
+            "burst_damage": 44394,
+            "timestamp": "202507282243",
+            "is_guild_member": false
+          },
+          {
+            "rank": 99,
+            "account_name": "Pieswithattitude.2357",
+            "player_name": "Its Fool On Cool",
+            "profession": "Scrapper",
+            "burst_damage": 44261,
+            "timestamp": "202506232308",
+            "is_guild_member": true
+          },
+          {
+            "rank": 100,
+            "account_name": "Hiraldo.7954",
+            "player_name": "Hiraldo.7954",
+            "profession": "Untamed",
+            "burst_damage": 43994,
+            "timestamp": "202507142315",
             "is_guild_member": true
           }
         ],
@@ -51152,18 +50387,6 @@ const leaderboardData = {
           },
           {
             "rank": 6,
-            "account_name": "Havocus.3682",
-            "player_name": "Havacado",
-            "profession": "Catalyst",
-            "value": 24727.0,
-            "skill_name": "Burning Speed",
-            "skill_icon_url": "https://render.guildwars2.com/file/6D6650C13B0DA019E8EEA0C50E5307C567D7405E/103373.png",
-            "fight_number": 24,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 7,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51175,7 +50398,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 8,
+            "rank": 7,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51187,7 +50410,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 9,
+            "rank": 8,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51199,7 +50422,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 10,
+            "rank": 9,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51211,7 +50434,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 11,
+            "rank": 10,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51223,7 +50446,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 12,
+            "rank": 11,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51235,7 +50458,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 13,
+            "rank": 12,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51247,7 +50470,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 13,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51259,7 +50482,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 14,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51271,7 +50494,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 15,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51283,7 +50506,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 17,
+            "rank": 16,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51295,7 +50518,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 18,
+            "rank": 17,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51307,7 +50530,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 18,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51319,7 +50542,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 19,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51331,7 +50554,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 20,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51343,7 +50566,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51355,19 +50578,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
-            "account_name": "Havocus.3682",
-            "player_name": "Havacado",
-            "profession": "Catalyst",
-            "value": 22248.0,
-            "skill_name": "Fire Grab",
-            "skill_icon_url": "https://render.guildwars2.com/file/ED2422E6051855A76214FA9F292525C1359F0B59/103296.png",
-            "fight_number": 20,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 24,
+            "rank": 22,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51379,7 +50590,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
+            "rank": 23,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51391,7 +50602,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 26,
+            "rank": 24,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51403,7 +50614,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 27,
+            "rank": 25,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51415,7 +50626,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 28,
+            "rank": 26,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51427,7 +50638,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 29,
+            "rank": 27,
             "account_name": "mikerock.6187",
             "player_name": "Im About To Mist",
             "profession": "Catalyst",
@@ -51439,7 +50650,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 30,
+            "rank": 28,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51451,7 +50662,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 29,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51463,7 +50674,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 30,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51475,7 +50686,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 31,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51487,7 +50698,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 34,
+            "rank": 32,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51499,19 +50710,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 35,
-            "account_name": "Freelanced.6084",
-            "player_name": "Mirielnetta",
-            "profession": "Catalyst",
-            "value": 21162.0,
-            "skill_name": "Burning Speed",
-            "skill_icon_url": "https://render.guildwars2.com/file/6D6650C13B0DA019E8EEA0C50E5307C567D7405E/103373.png",
-            "fight_number": 26,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 36,
+            "rank": 33,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51523,7 +50722,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 34,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51535,7 +50734,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 35,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51547,7 +50746,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
+            "rank": 36,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51559,7 +50758,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 37,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51571,7 +50770,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 41,
+            "rank": 38,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51583,7 +50782,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 42,
+            "rank": 39,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51595,7 +50794,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 43,
+            "rank": 40,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51607,7 +50806,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 44,
+            "rank": 41,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51619,7 +50818,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 45,
+            "rank": 42,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51631,7 +50830,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 46,
+            "rank": 43,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51643,7 +50842,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 44,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51655,7 +50854,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 48,
+            "rank": 45,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51667,7 +50866,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 46,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51679,7 +50878,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 50,
+            "rank": 47,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51691,7 +50890,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 48,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51703,7 +50902,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 49,
             "account_name": "mikerock.6187",
             "player_name": "Im About To Mist",
             "profession": "Catalyst",
@@ -51715,7 +50914,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 53,
+            "rank": 50,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51727,7 +50926,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 54,
+            "rank": 51,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -51739,7 +50938,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 52,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51751,7 +50950,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 53,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51763,7 +50962,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 54,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51775,7 +50974,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 55,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51787,7 +50986,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 56,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51799,7 +50998,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
+            "rank": 57,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51811,7 +51010,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 58,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51823,7 +51022,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 59,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51835,7 +51034,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 60,
             "account_name": "Nictheman.9754",
             "player_name": "Persueas",
             "profession": "Spellbreaker",
@@ -51847,7 +51046,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 61,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -51859,7 +51058,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 62,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51871,7 +51070,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 63,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -51883,7 +51082,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 67,
+            "rank": 64,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor E",
             "profession": "Catalyst",
@@ -51895,19 +51094,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
-            "account_name": "Havocus.3682",
-            "player_name": "Havacado",
-            "profession": "Catalyst",
-            "value": 18347.0,
-            "skill_name": "Burning Speed",
-            "skill_icon_url": "https://render.guildwars2.com/file/6D6650C13B0DA019E8EEA0C50E5307C567D7405E/103373.png",
-            "fight_number": 16,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 69,
+            "rank": 65,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -51919,7 +51106,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 70,
+            "rank": 66,
             "account_name": "Solomon Darkfury.3729",
             "player_name": "Boonbr\u00e6ker",
             "profession": "Spellbreaker",
@@ -51931,7 +51118,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 67,
             "account_name": "Lord.7561",
             "player_name": "O F In Bio",
             "profession": "Catalyst",
@@ -51943,7 +51130,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 68,
             "account_name": "Lord.7561",
             "player_name": "O F In Bio",
             "profession": "Catalyst",
@@ -51955,7 +51142,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 69,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor",
             "profession": "Warrior",
@@ -51967,7 +51154,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 70,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51979,7 +51166,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 71,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -51991,7 +51178,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 72,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -52003,7 +51190,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 73,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -52645,18 +51832,6 @@ const leaderboardData = {
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
-            "value": 12985.0,
-            "skill_name": "Test of Faith",
-            "skill_icon_url": "https://render.guildwars2.com/file/A93131C1705E230802B951911C6A0A0D619C9A63/1012876.png",
-            "fight_number": 13,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 54,
-            "account_name": "Havocus.3682",
-            "player_name": "Havacado",
-            "profession": "Catalyst",
             "value": 12893.0,
             "skill_name": "Arc Divider",
             "skill_icon_url": "https://render.guildwars2.com/file/0CC6E97CF3DD32E5B57001980702C10F1538F97E/1058639.png",
@@ -52665,7 +51840,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 54,
             "account_name": "FlawedDjinn.3217",
             "player_name": "Flaudg\u00een",
             "profession": "Reaper",
@@ -52677,7 +51852,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 55,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -52689,7 +51864,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 56,
             "account_name": "Nictheman.9754",
             "player_name": "Nortonsine",
             "profession": "Reaper",
@@ -52701,7 +51876,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 57,
             "account_name": "Lord.7561",
             "player_name": "Full Squint",
             "profession": "Holosmith",
@@ -52713,19 +51888,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
-            "account_name": "waschy.6093",
-            "player_name": "Harg Gardfur",
-            "profession": "Firebrand",
-            "value": 12537.0,
-            "skill_name": "Mist Unleashed",
-            "skill_icon_url": "https://render.guildwars2.com/file/CB669AA4946F5402D592EF7EE4C7D66069FE0108/2491615.png",
-            "fight_number": 32,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 60,
+            "rank": 58,
             "account_name": "Nictheman.9754",
             "player_name": "Nortonsine",
             "profession": "Reaper",
@@ -52737,7 +51900,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 61,
+            "rank": 59,
             "account_name": "FlawedDjinn.3217",
             "player_name": "Flaudg\u00een",
             "profession": "Reaper",
@@ -52749,19 +51912,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
-            "account_name": "OdinNevon.7305",
-            "player_name": "Sorrow Silver",
-            "profession": "Spellbreaker",
-            "value": 12140.0,
-            "skill_name": "Owl's Flight",
-            "skill_icon_url": "https://render.guildwars2.com/file/FBA45321DB6E98FB510AF8215EF0A19EB4FB4FC6/3379177.png",
-            "fight_number": 21,
-            "timestamp": "202506200210",
-            "is_guild_member": false
-          },
-          {
-            "rank": 63,
+            "rank": 60,
             "account_name": "Chakkkka.2504",
             "player_name": "Chaka Deleting You",
             "profession": "Scrapper",
@@ -52773,7 +51924,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 64,
+            "rank": 61,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -52785,7 +51936,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
+            "rank": 62,
             "account_name": "Nictheman.9754",
             "player_name": "Nortonsine",
             "profession": "Reaper",
@@ -52797,7 +51948,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 66,
+            "rank": 63,
             "account_name": "Johnny.5478",
             "player_name": "Eve Grim",
             "profession": "Specter",
@@ -52809,19 +51960,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 67,
-            "account_name": "Mellis.8451",
-            "player_name": "Mellis N",
-            "profession": "Reaper",
-            "value": 11817.0,
-            "skill_name": "Ravager's Abandon",
-            "skill_icon_url": "https://render.guildwars2.com/file/100EF926B3F04A73719E7CD531C8ABC81938CF19/3379182.png",
-            "fight_number": 21,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 68,
+            "rank": 64,
             "account_name": "Interpretor.3091",
             "player_name": "\u00cfnterpretor",
             "profession": "Reaper",
@@ -52833,19 +51972,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
-            "account_name": "waschy.6093",
-            "player_name": "Harg Gardfur",
-            "profession": "Firebrand",
-            "value": 11666.0,
-            "skill_name": "Abyssal Raze",
-            "skill_icon_url": "https://render.guildwars2.com/file/632F757C2309C12BCFE99FCCE4BB761FA59AECEE/3379187.png",
-            "fight_number": 33,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 70,
+            "rank": 65,
             "account_name": "acumen.1980",
             "player_name": "Muca Riggs",
             "profession": "Holosmith",
@@ -52857,7 +51984,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 66,
             "account_name": "Uriah.7082",
             "player_name": "Shot Across The Bow",
             "profession": "Untamed",
@@ -52869,7 +51996,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 67,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -52881,7 +52008,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 68,
             "account_name": "Nictheman.9754",
             "player_name": "Namshrow",
             "profession": "Holosmith",
@@ -52893,7 +52020,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 69,
             "account_name": "acumen.1980",
             "player_name": "Muca Riggs",
             "profession": "Holosmith",
@@ -52905,7 +52032,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 70,
             "account_name": "Astro Bear.6305",
             "player_name": "Chrisy Bear",
             "profession": "Dragonhunter",
@@ -52917,7 +52044,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 71,
             "account_name": "Fibbs.1623",
             "player_name": "Fibbs The Dead",
             "profession": "Reaper",
@@ -52929,7 +52056,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 77,
+            "rank": 72,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -52941,7 +52068,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 73,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -52953,7 +52080,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
+            "rank": 74,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -52965,7 +52092,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 75,
             "account_name": "Fibbs.1623",
             "player_name": "Fibbs The Dead",
             "profession": "Reaper",
@@ -52977,7 +52104,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 81,
+            "rank": 76,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -52989,7 +52116,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 77,
             "account_name": "MasterScrub.1396",
             "player_name": "Dalnali",
             "profession": "Untamed",
@@ -53001,7 +52128,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 78,
             "account_name": "Lord.7561",
             "player_name": "O F In Bio",
             "profession": "Catalyst",
@@ -53013,7 +52140,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 79,
             "account_name": "Lord.7561",
             "player_name": "O F In Bio",
             "profession": "Catalyst",
@@ -53025,7 +52152,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 80,
             "account_name": "Astro Bear.6305",
             "player_name": "Bj\u00f6rnstorm",
             "profession": "Catalyst",
@@ -53172,18 +52299,6 @@ const leaderboardData = {
           },
           {
             "rank": 12,
-            "account_name": "Pieswithattitude.2357",
-            "player_name": "Ill Illl Il Ill",
-            "profession": "Dragonhunter",
-            "value": 10341.73,
-            "skill_name": null,
-            "skill_icon_url": null,
-            "fight_number": 3,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 13,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -53195,7 +52310,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 14,
+            "rank": 13,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53207,7 +52322,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 15,
+            "rank": 14,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53219,7 +52334,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 16,
+            "rank": 15,
             "account_name": "Soothsayer.9206",
             "player_name": "Weakest D H Player",
             "profession": "Dragonhunter",
@@ -53231,7 +52346,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 17,
+            "rank": 16,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53243,7 +52358,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 18,
+            "rank": 17,
             "account_name": "Nictheman.9754",
             "player_name": "Namshrow",
             "profession": "Scrapper",
@@ -53255,7 +52370,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 19,
+            "rank": 18,
             "account_name": "Lasthope.7943",
             "player_name": "Lastsuperman",
             "profession": "Guardian",
@@ -53267,7 +52382,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 20,
+            "rank": 19,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -53279,7 +52394,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 21,
+            "rank": 20,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53291,7 +52406,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 22,
+            "rank": 21,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -53303,7 +52418,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 23,
+            "rank": 22,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor",
             "profession": "Warrior",
@@ -53315,7 +52430,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 24,
+            "rank": 23,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -53327,7 +52442,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 25,
+            "rank": 24,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -53339,7 +52454,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 26,
+            "rank": 25,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53351,7 +52466,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 27,
+            "rank": 26,
             "account_name": "emz.3571",
             "player_name": "Aki Yuya",
             "profession": "Weaver",
@@ -53363,7 +52478,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 28,
+            "rank": 27,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -53375,7 +52490,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 29,
+            "rank": 28,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -53387,7 +52502,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 30,
+            "rank": 29,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -53399,7 +52514,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 31,
+            "rank": 30,
             "account_name": "Aein.1483",
             "player_name": "Bounciness",
             "profession": "Vindicator",
@@ -53411,7 +52526,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 32,
+            "rank": 31,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -53423,7 +52538,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 33,
+            "rank": 32,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -53435,7 +52550,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 34,
+            "rank": 33,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53447,7 +52562,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 35,
+            "rank": 34,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53459,7 +52574,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 36,
+            "rank": 35,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53471,7 +52586,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 37,
+            "rank": 36,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53483,7 +52598,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 38,
+            "rank": 37,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -53495,7 +52610,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 39,
+            "rank": 38,
             "account_name": "Aein.1483",
             "player_name": "Bounciness",
             "profession": "Vindicator",
@@ -53507,7 +52622,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 40,
+            "rank": 39,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -53519,7 +52634,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 41,
+            "rank": 40,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -53531,19 +52646,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 42,
-            "account_name": "Dextra.8162",
-            "player_name": "Candy Glazed",
-            "profession": "Weaver",
-            "value": 7715.77,
-            "skill_name": null,
-            "skill_icon_url": null,
-            "fight_number": 15,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 43,
+            "rank": 41,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -53555,7 +52658,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 44,
+            "rank": 42,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -53567,7 +52670,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 45,
+            "rank": 43,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53579,7 +52682,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 46,
+            "rank": 44,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -53591,7 +52694,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 47,
+            "rank": 45,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Tempest",
@@ -53603,7 +52706,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 48,
+            "rank": 46,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53615,7 +52718,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 49,
+            "rank": 47,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -53627,7 +52730,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 50,
+            "rank": 48,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53639,7 +52742,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 51,
+            "rank": 49,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -53651,7 +52754,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 52,
+            "rank": 50,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53663,7 +52766,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 53,
+            "rank": 51,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -53675,7 +52778,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 54,
+            "rank": 52,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53687,7 +52790,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 55,
+            "rank": 53,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53699,7 +52802,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 56,
+            "rank": 54,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor",
             "profession": "Spellbreaker",
@@ -53711,7 +52814,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 57,
+            "rank": 55,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53723,7 +52826,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 58,
+            "rank": 56,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -53735,7 +52838,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 59,
+            "rank": 57,
             "account_name": "ParaldaWind.4523",
             "player_name": "Paralda",
             "profession": "Dragonhunter",
@@ -53747,19 +52850,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 60,
-            "account_name": "Dextra.8162",
-            "player_name": "Candy Glazed",
-            "profession": "Weaver",
-            "value": 6976.36,
-            "skill_name": null,
-            "skill_icon_url": null,
-            "fight_number": 3,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 61,
+            "rank": 58,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53771,7 +52862,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 62,
+            "rank": 59,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -53783,7 +52874,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 63,
+            "rank": 60,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53795,7 +52886,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 64,
+            "rank": 61,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -53807,31 +52898,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 65,
-            "account_name": "Soothsayer.9206",
-            "player_name": "T A R Ancalim\u00eb",
-            "profession": "Dragonhunter",
-            "value": 6669.93,
-            "skill_name": null,
-            "skill_icon_url": null,
-            "fight_number": 23,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 66,
-            "account_name": "Uriah.7082",
-            "player_name": "Tiny Baby Bear",
-            "profession": "Berserker",
-            "value": 6642.87,
-            "skill_name": null,
-            "skill_icon_url": null,
-            "fight_number": 11,
-            "timestamp": "202506200210",
-            "is_guild_member": true
-          },
-          {
-            "rank": 67,
+            "rank": 62,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53843,7 +52910,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 68,
+            "rank": 63,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53855,7 +52922,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 69,
+            "rank": 64,
             "account_name": "Pieswithattitude.2357",
             "player_name": "Pie Ele",
             "profession": "Catalyst",
@@ -53867,7 +52934,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 70,
+            "rank": 65,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -53879,7 +52946,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 71,
+            "rank": 66,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -53891,7 +52958,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 72,
+            "rank": 67,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53903,7 +52970,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 73,
+            "rank": 68,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53915,7 +52982,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 74,
+            "rank": 69,
             "account_name": "Aein.1483",
             "player_name": "Bounciness",
             "profession": "Vindicator",
@@ -53927,7 +52994,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 75,
+            "rank": 70,
             "account_name": "Soothsayer.9206",
             "player_name": "Raw Meat Enjoyer",
             "profession": "Catalyst",
@@ -53939,7 +53006,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 76,
+            "rank": 71,
             "account_name": "Interpretor.3091",
             "player_name": "Interpretor E",
             "profession": "Catalyst",
@@ -53951,7 +53018,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 77,
+            "rank": 72,
             "account_name": "freecarl.9214",
             "player_name": "Freecar",
             "profession": "Holosmith",
@@ -53963,7 +53030,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 78,
+            "rank": 73,
             "account_name": "synco.8132",
             "player_name": "Synco E",
             "profession": "Catalyst",
@@ -53975,7 +53042,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 79,
+            "rank": 74,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -53987,7 +53054,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 80,
+            "rank": 75,
             "account_name": "Solomon Darkfury.3729",
             "player_name": "Damage Offda Charrt",
             "profession": "Warrior",
@@ -53999,7 +53066,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 81,
+            "rank": 76,
             "account_name": "Havocus.3682",
             "player_name": "Havacado",
             "profession": "Catalyst",
@@ -54011,7 +53078,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 82,
+            "rank": 77,
             "account_name": "Luke.9108",
             "player_name": "Luck Beastbane",
             "profession": "Untamed",
@@ -54023,7 +53090,7 @@ const leaderboardData = {
             "is_guild_member": false
           },
           {
-            "rank": 83,
+            "rank": 78,
             "account_name": "Dextra.8162",
             "player_name": "Candy Glazed",
             "profession": "Weaver",
@@ -54035,7 +53102,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 84,
+            "rank": 79,
             "account_name": "Interpretor.3091",
             "player_name": "Interpret\u00f6r",
             "profession": "Holosmith",
@@ -54047,7 +53114,7 @@ const leaderboardData = {
             "is_guild_member": true
           },
           {
-            "rank": 85,
+            "rank": 80,
             "account_name": "Bother.9415",
             "player_name": "Hephyt Wolf",
             "profession": "Untamed",
@@ -54075,7 +53142,7 @@ const leaderboardData = {
               },
               {
                 "profession": "Chronomancer",
-                "session_count": 5
+                "session_count": 4
               },
               {
                 "profession": "Spellbreaker",
@@ -54098,7 +53165,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "total_sessions": 27,
+            "total_sessions": 26,
             "is_guild_member": true,
             "primary_profession": "Scrapper",
             "profession_count": 8,
@@ -54113,7 +53180,7 @@ const leaderboardData = {
               },
               {
                 "profession": "Chronomancer",
-                "session_count": 5
+                "session_count": 4
               },
               {
                 "profession": "Spellbreaker",
@@ -54158,19 +53225,19 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
                 "profession": "Support Spb",
                 "session_count": 2
               },
               {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
                 "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
                 "session_count": 1
               },
               {
@@ -54182,18 +53249,14 @@ const leaderboardData = {
                 "session_count": 1
               },
               {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
                 "profession": "Scrapper",
                 "session_count": 1
               }
             ],
-            "total_sessions": 25,
+            "total_sessions": 22,
             "is_guild_member": true,
             "primary_profession": "Scourge",
-            "profession_count": 12,
+            "profession_count": 11,
             "professions_played": [
               {
                 "profession": "Scourge",
@@ -54212,19 +53275,19 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
                 "profession": "Support Spb",
                 "session_count": 2
               },
               {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
                 "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Dragonhunter",
                 "session_count": 1
               },
               {
@@ -54233,10 +53296,6 @@ const leaderboardData = {
               },
               {
                 "profession": "Holosmith",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
                 "session_count": 1
               },
               {
@@ -54258,10 +53317,6 @@ const leaderboardData = {
                 "session_count": 5
               },
               {
-                "profession": "Untamed",
-                "session_count": 3
-              },
-              {
                 "profession": "Warrior",
                 "session_count": 3
               },
@@ -54270,11 +53325,15 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
                 "profession": "Catalyst",
                 "session_count": 1
               }
             ],
-            "total_sessions": 21,
+            "total_sessions": 20,
             "is_guild_member": true,
             "primary_profession": "Holosmith",
             "profession_count": 6,
@@ -54288,10 +53347,6 @@ const leaderboardData = {
                 "session_count": 5
               },
               {
-                "profession": "Untamed",
-                "session_count": 3
-              },
-              {
                 "profession": "Warrior",
                 "session_count": 3
               },
@@ -54300,143 +53355,15 @@ const leaderboardData = {
                 "session_count": 2
               },
               {
+                "profession": "Untamed",
+                "session_count": 2
+              },
+              {
                 "profession": "Catalyst",
                 "session_count": 1
               }
             ],
             "rank": 3
-          },
-          {
-            "account_name": "Havocus.3682",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 12
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 19,
-            "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 12
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "account_name": "Dextra.8162",
-            "professions": [
-              {
-                "profession": "Weaver",
-                "session_count": 14
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Soulbeast",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 18,
-            "is_guild_member": true,
-            "primary_profession": "Weaver",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Weaver",
-                "session_count": 14
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Soulbeast",
-                "session_count": 1
-              },
-              {
-                "profession": "Tempest",
-                "session_count": 1
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "account_name": "ParaldaWind.4523",
-            "professions": [
-              {
-                "profession": "China DH",
-                "session_count": 9
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 5
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 4
-              }
-            ],
-            "total_sessions": 18,
-            "is_guild_member": true,
-            "primary_profession": "China DH",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "China DH",
-                "session_count": 9
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 5
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 4
-              }
-            ],
-            "rank": 6
           },
           {
             "account_name": "Crator of Fire.1796",
@@ -54504,271 +53431,103 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 7
+            "rank": 4
           },
           {
-            "account_name": "Mellis.8451",
+            "account_name": "Havocus.3682",
             "professions": [
               {
+                "profession": "Catalyst",
+                "session_count": 10
+              },
+              {
                 "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
+                "session_count": 3
               },
               {
                 "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
                 "session_count": 1
               }
             ],
             "total_sessions": 17,
             "is_guild_member": true,
-            "primary_profession": "Scourge",
+            "primary_profession": "Catalyst",
             "profession_count": 5,
             "professions_played": [
               {
+                "profession": "Catalyst",
+                "session_count": 10
+              },
+              {
                 "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 5
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
+                "session_count": 3
               },
               {
                 "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
                 "session_count": 1
               }
             ],
-            "rank": 8
+            "rank": 5
           },
           {
-            "account_name": "Nero.6195",
+            "account_name": "Dextra.8162",
             "professions": [
               {
-                "profession": "Firebrand",
-                "session_count": 8
+                "profession": "Weaver",
+                "session_count": 12
               },
               {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 17,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 6,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 8
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 9
-          },
-          {
-            "account_name": "Uriah.7082",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Firebrand",
+                "profession": "Catalyst",
                 "session_count": 2
               },
               {
-                "profession": "Berserker",
+                "profession": "Soulbeast",
                 "session_count": 1
               },
               {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 17,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 10,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 7
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 1
-              }
-            ],
-            "rank": 10
-          },
-          {
-            "account_name": "FlawedDjinn.3217",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 7
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Boon Vindi",
+                "profession": "Tempest",
                 "session_count": 1
               }
             ],
             "total_sessions": 16,
             "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 6,
+            "primary_profession": "Weaver",
+            "profession_count": 4,
             "professions_played": [
               {
-                "profession": "Druid",
-                "session_count": 7
+                "profession": "Weaver",
+                "session_count": 12
               },
               {
-                "profession": "Chronomancer",
+                "profession": "Catalyst",
                 "session_count": 2
               },
               {
-                "profession": "Reaper",
-                "session_count": 2
+                "profession": "Soulbeast",
+                "session_count": 1
               },
               {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Specter",
-                "session_count": 2
-              },
-              {
-                "profession": "Boon Vindi",
+                "profession": "Tempest",
                 "session_count": 1
               }
             ],
-            "rank": 11
+            "rank": 6
           },
           {
             "account_name": "Lasthope.7943",
@@ -54828,14 +53587,206 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 12
+            "rank": 7
+          },
+          {
+            "account_name": "Nero.6195",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 8
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 16,
+            "is_guild_member": true,
+            "primary_profession": "Firebrand",
+            "profession_count": 6,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 8
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "account_name": "ParaldaWind.4523",
+            "professions": [
+              {
+                "profession": "China DH",
+                "session_count": 8
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 5
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 3
+              }
+            ],
+            "total_sessions": 16,
+            "is_guild_member": true,
+            "primary_profession": "China DH",
+            "profession_count": 3,
+            "professions_played": [
+              {
+                "profession": "China DH",
+                "session_count": 8
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 5
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 3
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "account_name": "FlawedDjinn.3217",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 7
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 15,
+            "is_guild_member": true,
+            "primary_profession": "Druid",
+            "profession_count": 5,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 7
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 2
+              },
+              {
+                "profession": "Specter",
+                "session_count": 2
+              }
+            ],
+            "rank": 10
+          },
+          {
+            "account_name": "Mellis.8451",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 6
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 15,
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
+            "profession_count": 4,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 6
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 5
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
+            "rank": 11
           },
           {
             "account_name": "Astro Bear.6305",
             "professions": [
               {
                 "profession": "Druid",
-                "session_count": 11
+                "session_count": 10
               },
               {
                 "profession": "Firebrand",
@@ -54850,14 +53801,14 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "total_sessions": 15,
+            "total_sessions": 14,
             "is_guild_member": true,
             "primary_profession": "Druid",
             "profession_count": 4,
             "professions_played": [
               {
                 "profession": "Druid",
-                "session_count": 11
+                "session_count": 10
               },
               {
                 "profession": "Firebrand",
@@ -54869,98 +53820,78 @@ const leaderboardData = {
               },
               {
                 "profession": "Dragonhunter",
+                "session_count": 1
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "account_name": "Uriah.7082",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 7
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Untamed",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 14,
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
+            "profession_count": 7,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 7
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              },
+              {
+                "profession": "Untamed",
                 "session_count": 1
               }
             ],
             "rank": 13
-          },
-          {
-            "account_name": "Huge.5891",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 8
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 4
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Willbender",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 14,
-            "is_guild_member": true,
-            "primary_profession": "Firebrand",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 8
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 4
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Willbender",
-                "session_count": 1
-              }
-            ],
-            "rank": 14
-          },
-          {
-            "account_name": "Soothsayer.9206",
-            "professions": [
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 14,
-            "is_guild_member": true,
-            "primary_profession": "Catalyst",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Catalyst",
-                "session_count": 8
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 3
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 1
-              }
-            ],
-            "rank": 15
           },
           {
             "account_name": "modus.7921",
@@ -55004,95 +53935,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 16
-          },
-          {
-            "account_name": "Freelanced.6084",
-            "professions": [
-              {
-                "profession": "Holosmith",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 13,
-            "is_guild_member": true,
-            "primary_profession": "Holosmith",
-            "profession_count": 6,
-            "professions_played": [
-              {
-                "profession": "Holosmith",
-                "session_count": 5
-              },
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Scrapper",
-                "session_count": 1
-              }
-            ],
-            "rank": 17
-          },
-          {
-            "account_name": "Smile.9284",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 13,
-            "is_guild_member": true,
-            "primary_profession": "Chronomancer",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 12
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 18
+            "rank": 14
           },
           {
             "account_name": "synco.8132",
@@ -55144,7 +53987,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 19
+            "rank": 15
           },
           {
             "account_name": "Bailyen Arturius.4263",
@@ -55172,58 +54015,78 @@ const leaderboardData = {
                 "session_count": 3
               }
             ],
-            "rank": 20
+            "rank": 16
           },
           {
-            "account_name": "Solomon Darkfury.3729",
+            "account_name": "Freelanced.6084",
             "professions": [
               {
-                "profession": "Support Spb",
-                "session_count": 7
+                "profession": "Holosmith",
+                "session_count": 5
               },
               {
-                "profession": "Reaper",
+                "profession": "Scourge",
                 "session_count": 3
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Catalyst",
                 "session_count": 1
               },
               {
-                "profession": "Warrior",
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
                 "session_count": 1
               }
             ],
             "total_sessions": 12,
             "is_guild_member": true,
-            "primary_profession": "Support Spb",
-            "profession_count": 4,
+            "primary_profession": "Holosmith",
+            "profession_count": 6,
             "professions_played": [
               {
-                "profession": "Support Spb",
-                "session_count": 7
+                "profession": "Holosmith",
+                "session_count": 5
               },
               {
-                "profession": "Reaper",
+                "profession": "Scourge",
                 "session_count": 3
               },
               {
-                "profession": "Spellbreaker",
+                "profession": "Catalyst",
                 "session_count": 1
               },
               {
-                "profession": "Warrior",
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              },
+              {
+                "profession": "Scrapper",
                 "session_count": 1
               }
             ],
-            "rank": 21
+            "rank": 17
           },
           {
-            "account_name": "waschy.6093",
+            "account_name": "Huge.5891",
             "professions": [
               {
                 "profession": "Firebrand",
-                "session_count": 11
+                "session_count": 8
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 3
               },
               {
                 "profession": "Condi Firebrand",
@@ -55233,18 +54096,94 @@ const leaderboardData = {
             "total_sessions": 12,
             "is_guild_member": true,
             "primary_profession": "Firebrand",
-            "profession_count": 2,
+            "profession_count": 3,
             "professions_played": [
               {
                 "profession": "Firebrand",
-                "session_count": 11
+                "session_count": 8
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 3
               },
               {
                 "profession": "Condi Firebrand",
                 "session_count": 1
               }
             ],
-            "rank": 22
+            "rank": 18
+          },
+          {
+            "account_name": "Smile.9284",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 11
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 12,
+            "is_guild_member": true,
+            "primary_profession": "Chronomancer",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 11
+              },
+              {
+                "profession": "Support Spb",
+                "session_count": 1
+              }
+            ],
+            "rank": 19
+          },
+          {
+            "account_name": "Soothsayer.9206",
+            "professions": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 12,
+            "is_guild_member": true,
+            "primary_profession": "Catalyst",
+            "profession_count": 4,
+            "professions_played": [
+              {
+                "profession": "Catalyst",
+                "session_count": 8
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              },
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "rank": 20
           },
           {
             "account_name": "Bother.9415",
@@ -55296,87 +54235,51 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 23
+            "rank": 21
           },
           {
-            "account_name": "Hiraldo.7954",
+            "account_name": "Solomon Darkfury.3729",
             "professions": [
               {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
+                "profession": "Support Spb",
+                "session_count": 6
               },
               {
                 "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
+                "session_count": 3
               },
               {
                 "profession": "Spellbreaker",
+                "session_count": 1
+              },
+              {
+                "profession": "Warrior",
                 "session_count": 1
               }
             ],
             "total_sessions": 11,
             "is_guild_member": true,
-            "primary_profession": "Druid",
-            "profession_count": 5,
+            "primary_profession": "Support Spb",
+            "profession_count": 4,
             "professions_played": [
               {
-                "profession": "Druid",
-                "session_count": 4
-              },
-              {
-                "profession": "Untamed",
-                "session_count": 3
+                "profession": "Support Spb",
+                "session_count": 6
               },
               {
                 "profession": "Reaper",
-                "session_count": 2
-              },
-              {
-                "profession": "Catalyst",
-                "session_count": 1
+                "session_count": 3
               },
               {
                 "profession": "Spellbreaker",
                 "session_count": 1
-              }
-            ],
-            "rank": 24
-          },
-          {
-            "account_name": "Aein.1483",
-            "professions": [
-              {
-                "profession": "Boon Vindi",
-                "session_count": 6
               },
               {
-                "profession": "Vindicator",
-                "session_count": 4
+                "profession": "Warrior",
+                "session_count": 1
               }
             ],
-            "total_sessions": 10,
-            "is_guild_member": true,
-            "primary_profession": "Boon Vindi",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Boon Vindi",
-                "session_count": 6
-              },
-              {
-                "profession": "Vindicator",
-                "session_count": 4
-              }
-            ],
-            "rank": 25
+            "rank": 22
           },
           {
             "account_name": "Argo.2675",
@@ -55404,7 +54307,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 26
+            "rank": 23
           },
           {
             "account_name": "emz.3571",
@@ -55448,7 +54351,79 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 27
+            "rank": 24
+          },
+          {
+            "account_name": "waschy.6093",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 10
+              }
+            ],
+            "total_sessions": 10,
+            "is_guild_member": true,
+            "primary_profession": "Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 10
+              }
+            ],
+            "rank": 25
+          },
+          {
+            "account_name": "Hiraldo.7954",
+            "professions": [
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 9,
+            "is_guild_member": true,
+            "primary_profession": "Untamed",
+            "profession_count": 5,
+            "professions_played": [
+              {
+                "profession": "Untamed",
+                "session_count": 3
+              },
+              {
+                "profession": "Druid",
+                "session_count": 2
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 2
+              },
+              {
+                "profession": "Catalyst",
+                "session_count": 1
+              },
+              {
+                "profession": "Spellbreaker",
+                "session_count": 1
+              }
+            ],
+            "rank": 26
           },
           {
             "account_name": "Johnny.5478",
@@ -55468,59 +54443,7 @@ const leaderboardData = {
                 "session_count": 9
               }
             ],
-            "rank": 28
-          },
-          {
-            "account_name": "Malek.9417",
-            "professions": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 9,
-            "is_guild_member": true,
-            "primary_profession": "Condi Firebrand",
-            "profession_count": 5,
-            "professions_played": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Dragonhunter",
-                "session_count": 2
-              },
-              {
-                "profession": "Druid",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              }
-            ],
-            "rank": 29
+            "rank": 27
           },
           {
             "account_name": "Muted.8591",
@@ -55556,7 +54479,35 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 30
+            "rank": 28
+          },
+          {
+            "account_name": "Aein.1483",
+            "professions": [
+              {
+                "profession": "Boon Vindi",
+                "session_count": 6
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 8,
+            "is_guild_member": true,
+            "primary_profession": "Boon Vindi",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Boon Vindi",
+                "session_count": 6
+              },
+              {
+                "profession": "Vindicator",
+                "session_count": 2
+              }
+            ],
+            "rank": 29
           },
           {
             "account_name": "Lozen.7623",
@@ -55590,6 +54541,58 @@ const leaderboardData = {
               {
                 "profession": "Scrapper",
                 "session_count": 2
+              }
+            ],
+            "rank": 30
+          },
+          {
+            "account_name": "Malek.9417",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 8,
+            "is_guild_member": true,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 5,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Dragonhunter",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              },
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              },
+              {
+                "profession": "Druid",
+                "session_count": 1
               }
             ],
             "rank": 31
@@ -55731,42 +54734,6 @@ const leaderboardData = {
             "rank": 33
           },
           {
-            "account_name": "Syde.1863",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 7,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 4
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              }
-            ],
-            "rank": 34
-          },
-          {
             "account_name": "aznsleeper.5896",
             "professions": [
               {
@@ -55800,27 +54767,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 35
-          },
-          {
-            "account_name": "Aromapaloma.3194",
-            "professions": [
-              {
-                "profession": "Tempest",
-                "session_count": 6
-              }
-            ],
-            "total_sessions": 6,
-            "is_guild_member": true,
-            "primary_profession": "Tempest",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Tempest",
-                "session_count": 6
-              }
-            ],
-            "rank": 36
+            "rank": 34
           },
           {
             "account_name": "Basic.9204",
@@ -55848,7 +54795,7 @@ const leaderboardData = {
                 "session_count": 2
               }
             ],
-            "rank": 37
+            "rank": 35
           },
           {
             "account_name": "Luke.9108",
@@ -55884,7 +54831,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 38
+            "rank": 36
           },
           {
             "account_name": "dobbeh.7382",
@@ -55920,7 +54867,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 39
+            "rank": 37
           },
           {
             "account_name": "zectra.6978",
@@ -55954,6 +54901,54 @@ const leaderboardData = {
               {
                 "profession": "Tempest",
                 "session_count": 1
+              }
+            ],
+            "rank": 38
+          },
+          {
+            "account_name": "Aromapaloma.3194",
+            "professions": [
+              {
+                "profession": "Tempest",
+                "session_count": 5
+              }
+            ],
+            "total_sessions": 5,
+            "is_guild_member": true,
+            "primary_profession": "Tempest",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 5
+              }
+            ],
+            "rank": 39
+          },
+          {
+            "account_name": "Syde.1863",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
+              }
+            ],
+            "total_sessions": 5,
+            "is_guild_member": true,
+            "primary_profession": "Scourge",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Scourge",
+                "session_count": 3
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 2
               }
             ],
             "rank": 40
@@ -55999,134 +54994,6 @@ const leaderboardData = {
             "rank": 42
           },
           {
-            "account_name": "Coileddarknight.9528",
-            "professions": [
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": true,
-            "primary_profession": "Berserker",
-            "profession_count": 4,
-            "professions_played": [
-              {
-                "profession": "Berserker",
-                "session_count": 1
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Reaper",
-                "session_count": 1
-              },
-              {
-                "profession": "Support Spb",
-                "session_count": 1
-              }
-            ],
-            "rank": 43
-          },
-          {
-            "account_name": "OPness.3215",
-            "professions": [
-              {
-                "profession": "Support Spb",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": true,
-            "primary_profession": "Support Spb",
-            "profession_count": 3,
-            "professions_played": [
-              {
-                "profession": "Support Spb",
-                "session_count": 2
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              },
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 44
-          },
-          {
-            "account_name": "adrielle.2109",
-            "professions": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 4,
-            "is_guild_member": true,
-            "primary_profession": "Condi Firebrand",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 3
-              },
-              {
-                "profession": "Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 45
-          },
-          {
-            "account_name": "Bertozaur.4578",
-            "professions": [
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": true,
-            "primary_profession": "Scourge",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Scourge",
-                "session_count": 3
-              }
-            ],
-            "rank": 46
-          },
-          {
             "account_name": "CarlJunior.7832",
             "professions": [
               {
@@ -56160,7 +55027,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 47
+            "rank": 43
           },
           {
             "account_name": "Chakkkka.2504",
@@ -56196,35 +55063,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 48
-          },
-          {
-            "account_name": "DareDevils.6039",
-            "professions": [
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 3,
-            "is_guild_member": false,
-            "primary_profession": "Firebrand",
-            "profession_count": 2,
-            "professions_played": [
-              {
-                "profession": "Firebrand",
-                "session_count": 2
-              },
-              {
-                "profession": "Condi Firebrand",
-                "session_count": 1
-              }
-            ],
-            "rank": 49
+            "rank": 44
           },
           {
             "account_name": "Elgar.2091",
@@ -56252,7 +55091,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 50
+            "rank": 45
           },
           {
             "account_name": "I R R Y.9128",
@@ -56280,7 +55119,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 51
+            "rank": 46
           },
           {
             "account_name": "MasterScrub.1396",
@@ -56308,7 +55147,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 52
+            "rank": 47
           },
           {
             "account_name": "Naomi.5372",
@@ -56344,7 +55183,55 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 53
+            "rank": 48
+          },
+          {
+            "account_name": "OPness.3215",
+            "professions": [
+              {
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": true,
+            "primary_profession": "Support Spb",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Support Spb",
+                "session_count": 2
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 49
+          },
+          {
+            "account_name": "adrielle.2109",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              }
+            ],
+            "total_sessions": 3,
+            "is_guild_member": true,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 3
+              }
+            ],
+            "rank": 50
           },
           {
             "account_name": "phobos.5290",
@@ -56380,7 +55267,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 54
+            "rank": 51
           },
           {
             "account_name": "Ashtonlightstone.9145",
@@ -56400,27 +55287,83 @@ const leaderboardData = {
                 "session_count": 2
               }
             ],
-            "rank": 55
+            "rank": 52
           },
           {
-            "account_name": "Disenable.1640",
+            "account_name": "Bertozaur.4578",
             "professions": [
               {
-                "profession": "Chronomancer",
+                "profession": "Scourge",
                 "session_count": 2
               }
             ],
             "total_sessions": 2,
             "is_guild_member": true,
-            "primary_profession": "Chronomancer",
+            "primary_profession": "Scourge",
             "profession_count": 1,
             "professions_played": [
               {
-                "profession": "Chronomancer",
+                "profession": "Scourge",
                 "session_count": 2
               }
             ],
-            "rank": 56
+            "rank": 53
+          },
+          {
+            "account_name": "Coileddarknight.9528",
+            "professions": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": true,
+            "primary_profession": "Firebrand",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Reaper",
+                "session_count": 1
+              }
+            ],
+            "rank": 54
+          },
+          {
+            "account_name": "DareDevils.6039",
+            "professions": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 2,
+            "is_guild_member": false,
+            "primary_profession": "Condi Firebrand",
+            "profession_count": 2,
+            "professions_played": [
+              {
+                "profession": "Condi Firebrand",
+                "session_count": 1
+              },
+              {
+                "profession": "Firebrand",
+                "session_count": 1
+              }
+            ],
+            "rank": 55
           },
           {
             "account_name": "Drigan.7382",
@@ -56448,27 +55391,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 57
-          },
-          {
-            "account_name": "Foodels.7358",
-            "professions": [
-              {
-                "profession": "Druid",
-                "session_count": 2
-              }
-            ],
-            "total_sessions": 2,
-            "is_guild_member": false,
-            "primary_profession": "Druid",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Druid",
-                "session_count": 2
-              }
-            ],
-            "rank": 58
+            "rank": 56
           },
           {
             "account_name": "Mes.1906",
@@ -56488,7 +55411,7 @@ const leaderboardData = {
                 "session_count": 2
               }
             ],
-            "rank": 59
+            "rank": 57
           },
           {
             "account_name": "Mini.1786",
@@ -56516,7 +55439,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 60
+            "rank": 58
           },
           {
             "account_name": "RoyTheBoy.8693",
@@ -56544,7 +55467,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 61
+            "rank": 59
           },
           {
             "account_name": "Sleepy.5367",
@@ -56564,7 +55487,7 @@ const leaderboardData = {
                 "session_count": 2
               }
             ],
-            "rank": 62
+            "rank": 60
           },
           {
             "account_name": "Steampunkengineer.7146",
@@ -56584,7 +55507,7 @@ const leaderboardData = {
                 "session_count": 2
               }
             ],
-            "rank": 63
+            "rank": 61
           },
           {
             "account_name": "yhanbruno.5873",
@@ -56604,7 +55527,7 @@ const leaderboardData = {
                 "session_count": 2
               }
             ],
-            "rank": 64
+            "rank": 62
           },
           {
             "account_name": "Asper.2863",
@@ -56624,7 +55547,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 65
+            "rank": 63
           },
           {
             "account_name": "Azel.4786",
@@ -56644,7 +55567,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 66
+            "rank": 64
           },
           {
             "account_name": "Bayushi.7914",
@@ -56664,7 +55587,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 67
+            "rank": 65
           },
           {
             "account_name": "Beneko.8475",
@@ -56684,7 +55607,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 68
+            "rank": 66
           },
           {
             "account_name": "Bluewingedslayer.4573",
@@ -56704,7 +55627,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 69
+            "rank": 67
           },
           {
             "account_name": "Bricktus.1682",
@@ -56724,7 +55647,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 70
+            "rank": 68
           },
           {
             "account_name": "CallsignTundra.5963",
@@ -56744,7 +55667,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 71
+            "rank": 69
           },
           {
             "account_name": "CaptainKnightfall.4378",
@@ -56764,7 +55687,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 72
+            "rank": 70
           },
           {
             "account_name": "CptNacho.1249",
@@ -56784,7 +55707,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 73
+            "rank": 71
           },
           {
             "account_name": "Daasen.3719",
@@ -56804,7 +55727,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 74
+            "rank": 72
           },
           {
             "account_name": "Fibbs.1623",
@@ -56824,27 +55747,27 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 75
+            "rank": 73
           },
           {
-            "account_name": "General Moo.7930",
+            "account_name": "Foodels.7358",
             "professions": [
               {
-                "profession": "Reaper",
+                "profession": "Druid",
                 "session_count": 1
               }
             ],
             "total_sessions": 1,
             "is_guild_member": false,
-            "primary_profession": "Reaper",
+            "primary_profession": "Druid",
             "profession_count": 1,
             "professions_played": [
               {
-                "profession": "Reaper",
+                "profession": "Druid",
                 "session_count": 1
               }
             ],
-            "rank": 76
+            "rank": 74
           },
           {
             "account_name": "Generic Player.4067",
@@ -56864,7 +55787,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 77
+            "rank": 75
           },
           {
             "account_name": "Gismor.8407",
@@ -56884,27 +55807,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 78
-          },
-          {
-            "account_name": "Graven.4325",
-            "professions": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 1,
-            "is_guild_member": false,
-            "primary_profession": "Chronomancer",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Chronomancer",
-                "session_count": 1
-              }
-            ],
-            "rank": 79
+            "rank": 76
           },
           {
             "account_name": "HuMbErTerA.4253",
@@ -56924,27 +55827,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 80
-          },
-          {
-            "account_name": "Humblelight.9570",
-            "professions": [
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 1,
-            "is_guild_member": false,
-            "primary_profession": "Vindicator",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Vindicator",
-                "session_count": 1
-              }
-            ],
-            "rank": 81
+            "rank": 77
           },
           {
             "account_name": "Hund.6875",
@@ -56964,7 +55847,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 82
+            "rank": 78
           },
           {
             "account_name": "Jdchil.9561",
@@ -56984,7 +55867,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 83
+            "rank": 79
           },
           {
             "account_name": "Kittehcommando.7051",
@@ -57004,7 +55887,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 84
+            "rank": 80
           },
           {
             "account_name": "Krounen.7028",
@@ -57024,7 +55907,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 85
+            "rank": 81
           },
           {
             "account_name": "Kuwat.4703",
@@ -57044,7 +55927,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 86
+            "rank": 82
           },
           {
             "account_name": "Lenorellei.9815",
@@ -57064,7 +55947,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 87
+            "rank": 83
           },
           {
             "account_name": "LightspeedJack.9473",
@@ -57084,7 +55967,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 88
+            "rank": 84
           },
           {
             "account_name": "LilJoker.2658",
@@ -57104,7 +55987,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 89
+            "rank": 85
           },
           {
             "account_name": "Mona.9180",
@@ -57124,7 +56007,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 90
+            "rank": 86
           },
           {
             "account_name": "Morg.3084",
@@ -57144,7 +56027,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 91
+            "rank": 87
           },
           {
             "account_name": "Mortealug.6043",
@@ -57164,7 +56047,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 92
+            "rank": 88
           },
           {
             "account_name": "Narizinho.3052",
@@ -57184,7 +56067,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 93
+            "rank": 89
           },
           {
             "account_name": "Niko.8425",
@@ -57204,47 +56087,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 94
-          },
-          {
-            "account_name": "Noe.4360",
-            "professions": [
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 1,
-            "is_guild_member": false,
-            "primary_profession": "Holosmith",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Holosmith",
-                "session_count": 1
-              }
-            ],
-            "rank": 95
-          },
-          {
-            "account_name": "OdinNevon.7305",
-            "professions": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "total_sessions": 1,
-            "is_guild_member": false,
-            "primary_profession": "Spellbreaker",
-            "profession_count": 1,
-            "professions_played": [
-              {
-                "profession": "Spellbreaker",
-                "session_count": 1
-              }
-            ],
-            "rank": 96
+            "rank": 90
           },
           {
             "account_name": "Ouji.7839",
@@ -57264,7 +56107,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 97
+            "rank": 91
           },
           {
             "account_name": "Pseven.4867",
@@ -57284,7 +56127,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 98
+            "rank": 92
           },
           {
             "account_name": "Rapscallion.3571",
@@ -57304,7 +56147,7 @@ const leaderboardData = {
                 "session_count": 1
               }
             ],
-            "rank": 99
+            "rank": 93
           },
           {
             "account_name": "San.9704",
@@ -57321,6 +56164,126 @@ const leaderboardData = {
             "professions_played": [
               {
                 "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 94
+          },
+          {
+            "account_name": "Serial Experiments X.2183",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "rank": 95
+          },
+          {
+            "account_name": "Shy.3108",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": true,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 96
+          },
+          {
+            "account_name": "Souza.1562",
+            "professions": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Chronomancer",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Chronomancer",
+                "session_count": 1
+              }
+            ],
+            "rank": 97
+          },
+          {
+            "account_name": "SpiderGasm.3182",
+            "professions": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Tempest",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Tempest",
+                "session_count": 1
+              }
+            ],
+            "rank": 98
+          },
+          {
+            "account_name": "Sselnoisiv.6130",
+            "professions": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Druid",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Druid",
+                "session_count": 1
+              }
+            ],
+            "rank": 99
+          },
+          {
+            "account_name": "Stash.8401",
+            "professions": [
+              {
+                "profession": "Scourge",
+                "session_count": 1
+              }
+            ],
+            "total_sessions": 1,
+            "is_guild_member": false,
+            "primary_profession": "Scourge",
+            "profession_count": 1,
+            "professions_played": [
+              {
+                "profession": "Scourge",
                 "session_count": 1
               }
             ],
@@ -104020,9 +102983,9 @@ const leaderboardData = {
               "average_rank_percent": 3.25,
               "glicko_rating": 1734.7807912341068,
               "key_stats": "Stab:6.3 Resi:0.8",
-              "apm_total": 58.8,
-              "apm_no_auto": 40.7,
-              "apm": "58.8/40.7",
+              "apm_total": 63.5,
+              "apm_no_auto": 43.3,
+              "apm": "63.5/43.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104046,9 +103009,9 @@ const leaderboardData = {
               "average_rank_percent": 2.5,
               "glicko_rating": 1676.305597571924,
               "key_stats": "Stab:8.4 Resi:1.1",
-              "apm_total": 65.0,
-              "apm_no_auto": 47.5,
-              "apm": "65.0/47.5",
+              "apm_total": 73.0,
+              "apm_no_auto": 58.5,
+              "apm": "73.0/58.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104059,9 +103022,9 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "glicko_rating": 1658.154847353051,
               "key_stats": "Stab:11.6 Resi:1.0",
-              "apm_total": 50.0,
-              "apm_no_auto": 46.0,
-              "apm": "50.0/46.0",
+              "apm_total": 33.0,
+              "apm_no_auto": 31.0,
+              "apm": "33.0/31.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104072,9 +103035,9 @@ const leaderboardData = {
               "average_rank_percent": 4.75,
               "glicko_rating": 1657.843685828603,
               "key_stats": "Stab:6.2 Resi:0.8",
-              "apm_total": 39.0,
-              "apm_no_auto": 31.0,
-              "apm": "39.0/31.0",
+              "apm_total": 43.0,
+              "apm_no_auto": 27.5,
+              "apm": "43.0/27.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104124,9 +103087,9 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "glicko_rating": 1633.8809570003643,
               "key_stats": "Stab:7.6 Resi:1.2",
-              "apm_total": 38.0,
-              "apm_no_auto": 22.0,
-              "apm": "38.0/22.0",
+              "apm_total": 58.0,
+              "apm_no_auto": 48.0,
+              "apm": "58.0/48.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104137,9 +103100,9 @@ const leaderboardData = {
               "average_rank_percent": 6.25,
               "glicko_rating": 1632.0327354327937,
               "key_stats": "Stab:5.8 Resi:0.6",
-              "apm_total": 54.2,
-              "apm_no_auto": 28.5,
-              "apm": "54.2/28.5",
+              "apm_total": 57.5,
+              "apm_no_auto": 35.3,
+              "apm": "57.5/35.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104436,9 +103399,9 @@ const leaderboardData = {
               "average_rank_percent": 18.5,
               "glicko_rating": 1434.063526761262,
               "key_stats": "Stab:3.8 Resi:0.2",
-              "apm_total": 80.0,
-              "apm_no_auto": 36.0,
-              "apm": "80.0/36.0",
+              "apm_total": 39.0,
+              "apm_no_auto": 22.0,
+              "apm": "39.0/22.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -104475,9 +103438,9 @@ const leaderboardData = {
               "average_rank_percent": 21.5,
               "glicko_rating": 1396.65216526832,
               "key_stats": "Stab:1.0 Resi:0.1",
-              "apm_total": 20.0,
-              "apm_no_auto": 15.0,
-              "apm": "20.0/15.0",
+              "apm_total": 26.0,
+              "apm_no_auto": 19.0,
+              "apm": "26.0/19.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -104546,9 +103509,9 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "glicko_rating": 1730.248349646009,
               "key_stats": "Stab:6.5 Clea:0.7 Resi:0.7",
-              "apm_total": 55.5,
-              "apm_no_auto": 35.2,
-              "apm": "55.5/35.2",
+              "apm_total": 53.2,
+              "apm_no_auto": 39.2,
+              "apm": "53.2/39.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104572,9 +103535,9 @@ const leaderboardData = {
               "average_rank_percent": 7.716981132075472,
               "glicko_rating": 1660.273754422616,
               "key_stats": "Stab:6.3 Clea:0.9 Resi:0.4",
-              "apm_total": 47.8,
-              "apm_no_auto": 31.5,
-              "apm": "47.8/31.5",
+              "apm_total": 47.7,
+              "apm_no_auto": 33.2,
+              "apm": "47.7/33.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104585,9 +103548,9 @@ const leaderboardData = {
               "average_rank_percent": 5.7,
               "glicko_rating": 1643.159370067616,
               "key_stats": "Stab:6.5 Clea:0.6 Resi:0.9",
-              "apm_total": 60.5,
-              "apm_no_auto": 33.8,
-              "apm": "60.5/33.8",
+              "apm_total": 64.5,
+              "apm_no_auto": 39.2,
+              "apm": "64.5/39.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104598,9 +103561,9 @@ const leaderboardData = {
               "average_rank_percent": 7.0,
               "glicko_rating": 1642.010884237803,
               "key_stats": "Stab:9.5 Clea:1.5 Resi:0.4",
-              "apm_total": 51.0,
-              "apm_no_auto": 41.0,
-              "apm": "51.0/41.0",
+              "apm_total": 51.5,
+              "apm_no_auto": 44.5,
+              "apm": "51.5/44.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104702,9 +103665,9 @@ const leaderboardData = {
               "average_rank_percent": 6.714285714285714,
               "glicko_rating": 1594.5398704508937,
               "key_stats": "Stab:6.6 Clea:0.5 Resi:0.7",
-              "apm_total": 47.0,
-              "apm_no_auto": 28.4,
-              "apm": "47.0/28.4",
+              "apm_total": 51.0,
+              "apm_no_auto": 30.7,
+              "apm": "51.0/30.7",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104728,9 +103691,9 @@ const leaderboardData = {
               "average_rank_percent": 10.24,
               "glicko_rating": 1589.0478954778027,
               "key_stats": "Stab:5.1 Clea:0.9 Resi:0.4",
-              "apm_total": 44.8,
-              "apm_no_auto": 17.2,
-              "apm": "44.8/17.2",
+              "apm_total": 48.2,
+              "apm_no_auto": 24.0,
+              "apm": "48.2/24.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104754,9 +103717,9 @@ const leaderboardData = {
               "average_rank_percent": 9.45,
               "glicko_rating": 1571.8859112112893,
               "key_stats": "Stab:4.7 Clea:0.8 Resi:0.2",
-              "apm_total": 44.5,
-              "apm_no_auto": 23.8,
-              "apm": "44.5/23.8",
+              "apm_total": 42.5,
+              "apm_no_auto": 24.5,
+              "apm": "42.5/24.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104780,9 +103743,9 @@ const leaderboardData = {
               "average_rank_percent": 5.4,
               "glicko_rating": 1531.0169430342169,
               "key_stats": "Stab:7.7 Clea:1.0 Resi:0.8",
-              "apm_total": 36.0,
-              "apm_no_auto": 28.0,
-              "apm": "36.0/28.0",
+              "apm_total": 79.0,
+              "apm_no_auto": 67.0,
+              "apm": "79.0/67.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104949,9 +103912,9 @@ const leaderboardData = {
               "average_rank_percent": 5.083333333333333,
               "glicko_rating": 1796.2450692691855,
               "key_stats": "Stri:1.3 DPS:1879.5",
-              "apm_total": 64.8,
-              "apm_no_auto": 43.7,
-              "apm": "64.8/43.7",
+              "apm_total": 65.3,
+              "apm_no_auto": 47.3,
+              "apm": "65.3/47.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104962,9 +103925,9 @@ const leaderboardData = {
               "average_rank_percent": 5.666666666666667,
               "glicko_rating": 1724.0936049179231,
               "key_stats": "Stri:1.1 DPS:1765.3",
-              "apm_total": 56.3,
-              "apm_no_auto": 38.0,
-              "apm": "56.3/38.0",
+              "apm_total": 56.0,
+              "apm_no_auto": 37.3,
+              "apm": "56.0/37.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104975,9 +103938,9 @@ const leaderboardData = {
               "average_rank_percent": 7.166666666666667,
               "glicko_rating": 1695.8637733590353,
               "key_stats": "Stri:0.9 DPS:2064.7",
-              "apm_total": 49.3,
-              "apm_no_auto": 32.0,
-              "apm": "49.3/32.0",
+              "apm_total": 46.0,
+              "apm_no_auto": 31.0,
+              "apm": "46.0/31.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -104988,9 +103951,9 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "glicko_rating": 1690.1977380706498,
               "key_stats": "Stri:0.7 DPS:1336.3",
-              "apm_total": 60.0,
-              "apm_no_auto": 39.4,
-              "apm": "60.0/39.4",
+              "apm_total": 55.2,
+              "apm_no_auto": 34.0,
+              "apm": "55.2/34.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105066,9 +104029,9 @@ const leaderboardData = {
               "average_rank_percent": 11.428571428571429,
               "glicko_rating": 1632.1403235805185,
               "key_stats": "Stri:0.4 DPS:859.0",
-              "apm_total": 50.1,
-              "apm_no_auto": 22.4,
-              "apm": "50.1/22.4",
+              "apm_total": 48.7,
+              "apm_no_auto": 19.0,
+              "apm": "48.7/19.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105092,9 +104055,9 @@ const leaderboardData = {
               "average_rank_percent": 11.25,
               "glicko_rating": 1623.483541608555,
               "key_stats": "Stri:0.6 DPS:817.5",
-              "apm_total": 46.0,
-              "apm_no_auto": 34.5,
-              "apm": "46.0/34.5",
+              "apm_total": 33.0,
+              "apm_no_auto": 24.5,
+              "apm": "33.0/24.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105105,9 +104068,9 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "glicko_rating": 1623.0851407497187,
               "key_stats": "Stri:1.0 DPS:1249.0",
-              "apm_total": 37.0,
-              "apm_no_auto": 23.0,
-              "apm": "37.0/23.0",
+              "apm_total": 52.0,
+              "apm_no_auto": 24.0,
+              "apm": "52.0/24.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -105196,9 +104159,9 @@ const leaderboardData = {
               "average_rank_percent": 13.25,
               "glicko_rating": 1595.7524973097034,
               "key_stats": "Stri:0.7 DPS:828.0",
-              "apm_total": 41.0,
-              "apm_no_auto": 23.5,
-              "apm": "41.0/23.5",
+              "apm_total": 49.5,
+              "apm_no_auto": 27.5,
+              "apm": "49.5/27.5",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -105222,9 +104185,9 @@ const leaderboardData = {
               "average_rank_percent": 10.6,
               "glicko_rating": 1586.1047919416555,
               "key_stats": "Stri:0.4 DPS:1102.6",
-              "apm_total": 57.0,
-              "apm_no_auto": 29.0,
-              "apm": "57.0/29.0",
+              "apm_total": 51.2,
+              "apm_no_auto": 22.0,
+              "apm": "51.2/22.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105261,9 +104224,9 @@ const leaderboardData = {
               "average_rank_percent": 15.0,
               "glicko_rating": 1579.040040565097,
               "key_stats": "Stri:0.7 DPS:830.0",
-              "apm_total": 30.0,
-              "apm_no_auto": 25.0,
-              "apm": "30.0/25.0",
+              "apm_total": 29.0,
+              "apm_no_auto": 24.0,
+              "apm": "29.0/24.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -105326,9 +104289,9 @@ const leaderboardData = {
               "average_rank_percent": 16.142857142857142,
               "glicko_rating": 1562.6750114517854,
               "key_stats": "Stri:0.4 DPS:554.0",
-              "apm_total": 45.9,
-              "apm_no_auto": 25.1,
-              "apm": "45.9/25.1",
+              "apm_total": 42.9,
+              "apm_no_auto": 22.0,
+              "apm": "42.9/22.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105339,9 +104302,9 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "glicko_rating": 1558.290643052959,
               "key_stats": "Stri:0.5 DPS:1418.0",
-              "apm_total": 47.0,
-              "apm_no_auto": 34.0,
-              "apm": "47.0/34.0",
+              "apm_total": 51.0,
+              "apm_no_auto": 25.0,
+              "apm": "51.0/25.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105352,9 +104315,9 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "glicko_rating": 1553.3869802295721,
               "key_stats": "Stri:0.5 DPS:897.0",
-              "apm_total": 57.0,
-              "apm_no_auto": 33.0,
-              "apm": "57.0/33.0",
+              "apm_total": 43.0,
+              "apm_no_auto": 24.0,
+              "apm": "43.0/24.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105482,9 +104445,9 @@ const leaderboardData = {
               "average_rank_percent": 19.0,
               "glicko_rating": 1478.027724247218,
               "key_stats": "Stri:0.1 DPS:375.5",
-              "apm_total": 44.5,
-              "apm_no_auto": 24.5,
-              "apm": "44.5/24.5",
+              "apm_total": 41.5,
+              "apm_no_auto": 20.5,
+              "apm": "41.5/20.5",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -105534,9 +104497,9 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "glicko_rating": 1441.4635166996482,
               "key_stats": "Stri:0.1 DPS:314.0",
-              "apm_total": 29.0,
-              "apm_no_auto": 15.5,
-              "apm": "29.0/15.5",
+              "apm_total": 22.0,
+              "apm_no_auto": 14.0,
+              "apm": "22.0/14.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             }
@@ -105573,9 +104536,9 @@ const leaderboardData = {
               "average_rank_percent": 4.482758620689655,
               "glicko_rating": 1796.0357854129645,
               "key_stats": "Heal:1604.0 Clea:1.0",
-              "apm_total": 65.6,
-              "apm_no_auto": 52.1,
-              "apm": "65.6/52.1",
+              "apm_total": 68.1,
+              "apm_no_auto": 54.2,
+              "apm": "68.1/54.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105586,9 +104549,9 @@ const leaderboardData = {
               "average_rank_percent": 3.1666666666666665,
               "glicko_rating": 1749.259061693927,
               "key_stats": "Heal:2052.3 Clea:1.2",
-              "apm_total": 84.7,
-              "apm_no_auto": 63.0,
-              "apm": "84.7/63.0",
+              "apm_total": 75.3,
+              "apm_no_auto": 52.3,
+              "apm": "75.3/52.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105599,9 +104562,9 @@ const leaderboardData = {
               "average_rank_percent": 5.1,
               "glicko_rating": 1738.0121044495852,
               "key_stats": "Heal:1587.3 Clea:1.1",
-              "apm_total": 50.8,
-              "apm_no_auto": 40.8,
-              "apm": "50.8/40.8",
+              "apm_total": 59.4,
+              "apm_no_auto": 48.6,
+              "apm": "59.4/48.6",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105612,9 +104575,9 @@ const leaderboardData = {
               "average_rank_percent": 6.681818181818182,
               "glicko_rating": 1735.5274333520135,
               "key_stats": "Heal:1450.3 Clea:0.8",
-              "apm_total": 63.0,
-              "apm_no_auto": 48.9,
-              "apm": "63.0/48.9",
+              "apm_total": 61.3,
+              "apm_no_auto": 46.5,
+              "apm": "61.3/46.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105664,9 +104627,9 @@ const leaderboardData = {
               "average_rank_percent": 7.333333333333333,
               "glicko_rating": 1723.1301093878951,
               "key_stats": "Heal:1486.3 Clea:0.6",
-              "apm_total": 56.7,
-              "apm_no_auto": 37.8,
-              "apm": "56.7/37.8",
+              "apm_total": 58.5,
+              "apm_no_auto": 42.5,
+              "apm": "58.5/42.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105703,9 +104666,9 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "glicko_rating": 1701.8552015473635,
               "key_stats": "Heal:2156.9 Clea:1.6",
-              "apm_total": 70.3,
-              "apm_no_auto": 50.7,
-              "apm": "70.3/50.7",
+              "apm_total": 71.0,
+              "apm_no_auto": 53.3,
+              "apm": "71.0/53.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105781,9 +104744,9 @@ const leaderboardData = {
               "average_rank_percent": 3.6666666666666665,
               "glicko_rating": 1662.3534258798518,
               "key_stats": "Heal:2051.5 Clea:0.9",
-              "apm_total": 71.0,
-              "apm_no_auto": 42.5,
-              "apm": "71.0/42.5",
+              "apm_total": 79.0,
+              "apm_no_auto": 54.5,
+              "apm": "79.0/54.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105794,9 +104757,9 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "glicko_rating": 1661.6952757541617,
               "key_stats": "Heal:1408.5 Clea:0.6",
-              "apm_total": 25.0,
-              "apm_no_auto": 7.0,
-              "apm": "25.0/7.0",
+              "apm_total": 50.0,
+              "apm_no_auto": 33.0,
+              "apm": "50.0/33.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -105820,9 +104783,9 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "glicko_rating": 1655.721413305399,
               "key_stats": "Heal:2231.9 Clea:1.9",
-              "apm_total": 30.0,
-              "apm_no_auto": 25.0,
-              "apm": "30.0/25.0",
+              "apm_total": 29.0,
+              "apm_no_auto": 24.0,
+              "apm": "29.0/24.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -106132,9 +105095,9 @@ const leaderboardData = {
               "average_rank_percent": 15.1875,
               "glicko_rating": 1589.5257659442934,
               "key_stats": "Stab:6.5 DPS:290.1",
-              "apm_total": 52.2,
-              "apm_no_auto": 28.9,
-              "apm": "52.2/28.9",
+              "apm_total": 50.1,
+              "apm_no_auto": 28.2,
+              "apm": "50.1/28.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             }
@@ -106160,9 +105123,9 @@ const leaderboardData = {
               "average_rank_percent": 2.6666666666666665,
               "glicko_rating": 1634.654659947826,
               "key_stats": "Stab:8.2 Clea:0.5 DPS:1748.0",
-              "apm_total": 44.0,
-              "apm_no_auto": 22.0,
-              "apm": "44.0/22.0",
+              "apm_total": 72.0,
+              "apm_no_auto": 47.0,
+              "apm": "72.0/47.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -106251,9 +105214,9 @@ const leaderboardData = {
               "average_rank_percent": 11.333333333333334,
               "glicko_rating": 1570.1380601929188,
               "key_stats": "Stab:4.2 Clea:0.6 DPS:955.5",
-              "apm_total": 76.5,
-              "apm_no_auto": 43.0,
-              "apm": "76.5/43.0",
+              "apm_total": 62.0,
+              "apm_no_auto": 25.5,
+              "apm": "62.0/25.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -106430,26 +105393,28 @@ const leaderboardData = {
         },
         "Support Spb": {
           "metrics": [
+            "Strips",
             "Might",
             "Resistance",
             "Stability",
             "Cleanses"
           ],
           "weights": [
-            0.4,
-            0.3,
-            0.2,
-            0.1
+            0.35,
+            0.26,
+            0.195,
+            0.13,
+            0.065
           ],
           "key_stats_format": "Stats: {}",
           "leaderboard": [
             {
               "account_name": "Solomon Darkfury.3729",
-              "composite_score": 1746.340124209452,
+              "composite_score": 1747.8517786325117,
               "games_played": 8,
-              "average_rank_percent": 7.125,
-              "glicko_rating": 1746.340124209452,
-              "key_stats": "Migh:36.6 Resi:1.3 Stab:4.3",
+              "average_rank_percent": 6.425,
+              "glicko_rating": 1747.8517786325117,
+              "key_stats": "Stri:0.6 Migh:36.6 Resi:1.3",
               "apm_total": 65.8,
               "apm_no_auto": 32.5,
               "apm": "65.8/32.5",
@@ -106457,38 +105422,25 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "OPness.3215",
-              "composite_score": 1709.2120627364807,
-              "games_played": 7,
-              "average_rank_percent": 8.321428571428571,
-              "glicko_rating": 1709.2120627364807,
-              "key_stats": "Migh:34.6 Resi:0.9 Stab:2.8",
-              "apm_total": 51.3,
-              "apm_no_auto": 32.7,
-              "apm": "51.3/32.7",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
               "account_name": "Pieswithattitude.2357",
-              "composite_score": 1705.0197499360531,
+              "composite_score": 1694.4848181546272,
               "games_played": 2,
-              "average_rank_percent": 3.875,
-              "glicko_rating": 1705.0197499360531,
-              "key_stats": "Migh:24.9 Resi:1.4 Stab:6.8",
-              "apm_total": 90.0,
-              "apm_no_auto": 60.0,
-              "apm": "90.0/60.0",
+              "average_rank_percent": 3.7,
+              "glicko_rating": 1694.4848181546272,
+              "key_stats": "Stri:0.7 Migh:24.9 Resi:1.4",
+              "apm_total": 84.0,
+              "apm_no_auto": 60.5,
+              "apm": "84.0/60.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "ParaldaWind.4523",
-              "composite_score": 1690.34260119403,
+              "composite_score": 1689.5871974106567,
               "games_played": 5,
-              "average_rank_percent": 7.35,
-              "glicko_rating": 1690.34260119403,
-              "key_stats": "Migh:30.3 Resi:1.1 Stab:3.3",
+              "average_rank_percent": 7.12,
+              "glicko_rating": 1689.5871974106567,
+              "key_stats": "Stri:0.6 Migh:30.3 Resi:1.1",
               "apm_total": 65.4,
               "apm_no_auto": 27.0,
               "apm": "65.4/27.0",
@@ -106496,25 +105448,38 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
+              "account_name": "OPness.3215",
+              "composite_score": 1676.2830342373106,
+              "games_played": 7,
+              "average_rank_percent": 8.0,
+              "glicko_rating": 1676.2830342373106,
+              "key_stats": "Stri:0.3 Migh:34.6 Resi:0.9",
+              "apm_total": 48.9,
+              "apm_no_auto": 30.6,
+              "apm": "48.9/30.6",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
               "account_name": "Havocus.3682",
-              "composite_score": 1638.1691401621956,
+              "composite_score": 1628.1801255422045,
               "games_played": 2,
-              "average_rank_percent": 8.5,
-              "glicko_rating": 1638.1691401621956,
-              "key_stats": "Migh:14.0 Resi:1.2 Stab:3.1",
-              "apm_total": 44.0,
-              "apm_no_auto": 33.5,
-              "apm": "44.0/33.5",
+              "average_rank_percent": 8.9,
+              "glicko_rating": 1628.1801255422045,
+              "key_stats": "Stri:0.6 Migh:14.0 Resi:1.2",
+              "apm_total": 52.5,
+              "apm_no_auto": 37.5,
+              "apm": "52.5/37.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "Raven Paradox.1860",
-              "composite_score": 1623.9932914266722,
+              "composite_score": 1624.734010299064,
               "games_played": 1,
-              "average_rank_percent": 8.75,
-              "glicko_rating": 1623.9932914266722,
-              "key_stats": "Migh:30.7 Resi:1.3 Stab:3.5",
+              "average_rank_percent": 8.4,
+              "glicko_rating": 1624.734010299064,
+              "key_stats": "Stri:0.7 Migh:30.7 Resi:1.3",
               "apm_total": 51.0,
               "apm_no_auto": 35.0,
               "apm": "51.0/35.0",
@@ -106523,24 +105488,37 @@ const leaderboardData = {
             },
             {
               "account_name": "Asterisk.9730",
-              "composite_score": 1621.8520876264938,
+              "composite_score": 1624.3947428517845,
               "games_played": 1,
-              "average_rank_percent": 8.25,
-              "glicko_rating": 1621.8520876264938,
-              "key_stats": "Migh:36.5 Resi:1.0 Stab:4.1",
-              "apm_total": 73.0,
-              "apm_no_auto": 39.0,
-              "apm": "73.0/39.0",
+              "average_rank_percent": 7.4,
+              "glicko_rating": 1624.3947428517845,
+              "key_stats": "Stri:0.5 Migh:36.5 Resi:1.0",
+              "apm_total": 63.0,
+              "apm_no_auto": 32.0,
+              "apm": "63.0/32.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
             {
-              "account_name": "LilJoker.2658",
-              "composite_score": 1606.315121191782,
+              "account_name": "synco.8132",
+              "composite_score": 1609.6224002892745,
               "games_played": 1,
-              "average_rank_percent": 7.25,
-              "glicko_rating": 1606.315121191782,
-              "key_stats": "Migh:16.0 Resi:1.5 Stab:5.2",
+              "average_rank_percent": 7.2,
+              "glicko_rating": 1609.6224002892745,
+              "key_stats": "Stri:0.9 Migh:15.3 Resi:1.4",
+              "apm_total": 66.0,
+              "apm_no_auto": 53.0,
+              "apm": "66.0/53.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "LilJoker.2658",
+              "composite_score": 1600.4131269305196,
+              "games_played": 1,
+              "average_rank_percent": 7.0,
+              "glicko_rating": 1600.4131269305196,
+              "key_stats": "Stri:0.7 Migh:16.0 Resi:1.5",
               "apm_total": 73.0,
               "apm_no_auto": 44.0,
               "apm": "73.0/44.0",
@@ -106548,64 +105526,12 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "synco.8132",
-              "composite_score": 1602.913968221992,
-              "games_played": 1,
-              "average_rank_percent": 7.75,
-              "glicko_rating": 1602.913968221992,
-              "key_stats": "Migh:15.3 Resi:1.4 Stab:4.9",
-              "apm_total": 53.0,
-              "apm_no_auto": 34.0,
-              "apm": "53.0/34.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Argo.2675",
-              "composite_score": 1600.3817473409865,
-              "games_played": 1,
-              "average_rank_percent": 9.25,
-              "glicko_rating": 1600.3817473409865,
-              "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
-              "apm_total": 47.0,
-              "apm_no_auto": 36.0,
-              "apm": "47.0/36.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Uriah.7082",
-              "composite_score": 1591.1040200501682,
-              "games_played": 1,
-              "average_rank_percent": 6.0,
-              "glicko_rating": 1591.1040200501682,
-              "key_stats": "Migh:14.2 Resi:1.1 Stab:5.1",
-              "apm_total": 71.0,
-              "apm_no_auto": 37.0,
-              "apm": "71.0/37.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "mikefmc.5961",
-              "composite_score": 1580.575531709208,
-              "games_played": 2,
-              "average_rank_percent": 7.75,
-              "glicko_rating": 1580.575531709208,
-              "key_stats": "Migh:14.6 Resi:0.9 Stab:1.5",
-              "apm_total": 33.5,
-              "apm_no_auto": 24.5,
-              "apm": "33.5/24.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
               "account_name": "Ouji.7839",
-              "composite_score": 1580.341275419777,
+              "composite_score": 1598.7845987562514,
               "games_played": 1,
-              "average_rank_percent": 9.5,
-              "glicko_rating": 1580.341275419777,
-              "key_stats": "Migh:31.1 Resi:0.9 Stab:3.1",
+              "average_rank_percent": 8.4,
+              "glicko_rating": 1598.7845987562514,
+              "key_stats": "Stri:0.6 Migh:31.1 Resi:0.9",
               "apm_total": 58.0,
               "apm_no_auto": 27.0,
               "apm": "58.0/27.0",
@@ -106614,11 +105540,11 @@ const leaderboardData = {
             },
             {
               "account_name": "Coileddarknight.9528",
-              "composite_score": 1574.3176213472943,
+              "composite_score": 1597.3092723052707,
               "games_played": 2,
-              "average_rank_percent": 8.5,
-              "glicko_rating": 1574.3176213472943,
-              "key_stats": "Migh:9.1 Resi:1.0 Stab:3.4",
+              "average_rank_percent": 7.8,
+              "glicko_rating": 1597.3092723052707,
+              "key_stats": "Stri:0.4 Migh:9.1 Resi:1.0",
               "apm_total": 63.0,
               "apm_no_auto": 23.5,
               "apm": "63.0/23.5",
@@ -106626,25 +105552,25 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "Smile.9284",
-              "composite_score": 1567.8065394607668,
+              "account_name": "Argo.2675",
+              "composite_score": 1595.0433500277386,
               "games_played": 1,
-              "average_rank_percent": 10.0,
-              "glicko_rating": 1567.8065394607668,
-              "key_stats": "Migh:26.4 Resi:0.8 Stab:2.3",
-              "apm_total": 46.0,
-              "apm_no_auto": 25.0,
-              "apm": "46.0/25.0",
+              "average_rank_percent": 9.8,
+              "glicko_rating": 1595.0433500277386,
+              "key_stats": "Stri:0.5 Migh:15.1 Resi:1.0",
+              "apm_total": 47.0,
+              "apm_no_auto": 36.0,
+              "apm": "47.0/36.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "Nero.6195",
-              "composite_score": 1559.4673986958796,
+              "composite_score": 1594.5619345294808,
               "games_played": 1,
-              "average_rank_percent": 4.0,
-              "glicko_rating": 1559.4673986958796,
-              "key_stats": "Migh:12.2 Resi:1.2 Stab:4.8",
+              "average_rank_percent": 3.4,
+              "glicko_rating": 1594.5619345294808,
+              "key_stats": "Stri:0.8 Migh:12.2 Resi:1.2",
               "apm_total": 76.0,
               "apm_no_auto": 45.0,
               "apm": "76.0/45.0",
@@ -106652,29 +105578,68 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "TehWolfman.1794",
-              "composite_score": 1533.1345593079543,
+              "account_name": "Uriah.7082",
+              "composite_score": 1587.7755325757728,
               "games_played": 1,
-              "average_rank_percent": 12.75,
-              "glicko_rating": 1533.1345593079543,
-              "key_stats": "Migh:10.2 Resi:0.5 Stab:2.2",
-              "apm_total": 54.0,
-              "apm_no_auto": 25.0,
-              "apm": "54.0/25.0",
-              "is_guild_member": false,
+              "average_rank_percent": 6.0,
+              "glicko_rating": 1587.7755325757728,
+              "key_stats": "Stri:0.4 Migh:14.2 Resi:1.1",
+              "apm_total": 71.0,
+              "apm_no_auto": 37.0,
+              "apm": "71.0/37.0",
+              "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "Nictheman.9754",
-              "composite_score": 1526.7181395710163,
+              "composite_score": 1572.50990411964,
               "games_played": 1,
-              "average_rank_percent": 10.25,
-              "glicko_rating": 1526.7181395710163,
-              "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
-              "apm_total": 58.0,
-              "apm_no_auto": 53.0,
-              "apm": "58.0/53.0",
+              "average_rank_percent": 8.4,
+              "glicko_rating": 1572.50990411964,
+              "key_stats": "Stri:0.6 Migh:6.4 Resi:0.6",
+              "apm_total": 38.0,
+              "apm_no_auto": 36.0,
+              "apm": "38.0/36.0",
               "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Smile.9284",
+              "composite_score": 1570.8795450407913,
+              "games_played": 1,
+              "average_rank_percent": 9.8,
+              "glicko_rating": 1570.8795450407913,
+              "key_stats": "Stri:0.4 Migh:26.4 Resi:0.8",
+              "apm_total": 46.0,
+              "apm_no_auto": 25.0,
+              "apm": "46.0/25.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "mikefmc.5961",
+              "composite_score": 1544.7323718249195,
+              "games_played": 2,
+              "average_rank_percent": 7.6,
+              "glicko_rating": 1544.7323718249195,
+              "key_stats": "Stri:0.2 Migh:14.6 Resi:0.9",
+              "apm_total": 37.5,
+              "apm_no_auto": 21.0,
+              "apm": "37.5/21.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "TehWolfman.1794",
+              "composite_score": 1526.978946792179,
+              "games_played": 1,
+              "average_rank_percent": 13.2,
+              "glicko_rating": 1526.978946792179,
+              "key_stats": "Stri:0.3 Migh:10.2 Resi:0.5",
+              "apm_total": 54.0,
+              "apm_no_auto": 25.0,
+              "apm": "54.0/25.0",
+              "is_guild_member": false,
               "rating_delta": 0.0
             }
           ]
@@ -106723,9 +105688,9 @@ const leaderboardData = {
               "average_rank_percent": 20.5,
               "glicko_rating": 1554.0782366208305,
               "key_stats": "Prot:1.3 DPS:62.0",
-              "apm_total": 67.0,
-              "apm_no_auto": 47.0,
-              "apm": "67.0/47.0",
+              "apm_total": 53.0,
+              "apm_no_auto": 44.0,
+              "apm": "53.0/44.0",
               "is_guild_member": false,
               "rating_delta": 0.0
             },
@@ -165312,9 +164277,9 @@ const leaderboardData = {
               "average_rank_percent": 1.6,
               "glicko_rating": 1778.7262128530688,
               "key_stats": "Stab:8.1 Resi:1.2",
-              "apm_total": 67.2,
-              "apm_no_auto": 49.4,
-              "apm": "67.2/49.4",
+              "apm_total": 73.8,
+              "apm_no_auto": 54.8,
+              "apm": "73.8/54.8",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165338,9 +164303,9 @@ const leaderboardData = {
               "average_rank_percent": 3.5,
               "glicko_rating": 1690.2081882260795,
               "key_stats": "Stab:6.5 Resi:0.8",
-              "apm_total": 60.42857142857143,
-              "apm_no_auto": 43.285714285714285,
-              "apm": "60.4/43.3",
+              "apm_total": 64.42857142857143,
+              "apm_no_auto": 45.57142857142857,
+              "apm": "64.4/45.6",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165377,9 +164342,9 @@ const leaderboardData = {
               "average_rank_percent": 5.1,
               "glicko_rating": 1657.7672777671796,
               "key_stats": "Stab:6.8 Resi:0.8",
-              "apm_total": 44.6,
-              "apm_no_auto": 33.6,
-              "apm": "44.6/33.6",
+              "apm_total": 46.2,
+              "apm_no_auto": 32.2,
+              "apm": "46.2/32.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165390,9 +164355,9 @@ const leaderboardData = {
               "average_rank_percent": 1.5,
               "glicko_rating": 1654.2118304137002,
               "key_stats": "Stab:11.6 Resi:1.0",
-              "apm_total": 50.0,
-              "apm_no_auto": 46.0,
-              "apm": "50.0/46.0",
+              "apm_total": 33.0,
+              "apm_no_auto": 31.0,
+              "apm": "33.0/31.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165403,9 +164368,9 @@ const leaderboardData = {
               "average_rank_percent": 2.75,
               "glicko_rating": 1652.0716452331949,
               "key_stats": "Stab:8.4 Resi:1.1",
-              "apm_total": 65.0,
-              "apm_no_auto": 47.5,
-              "apm": "65.0/47.5",
+              "apm_total": 73.0,
+              "apm_no_auto": 58.5,
+              "apm": "73.0/58.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165442,9 +164407,9 @@ const leaderboardData = {
               "average_rank_percent": 5.8076923076923075,
               "glicko_rating": 1635.7864926140232,
               "key_stats": "Stab:6.9 Resi:0.7",
-              "apm_total": 67.0,
-              "apm_no_auto": 41.53846153846154,
-              "apm": "67.0/41.5",
+              "apm_total": 68.53846153846153,
+              "apm_no_auto": 44.69230769230769,
+              "apm": "68.5/44.7",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165468,9 +164433,9 @@ const leaderboardData = {
               "average_rank_percent": 3.0,
               "glicko_rating": 1624.1745886715146,
               "key_stats": "Stab:7.6 Resi:1.2",
-              "apm_total": 38.0,
-              "apm_no_auto": 22.0,
-              "apm": "38.0/22.0",
+              "apm_total": 58.0,
+              "apm_no_auto": 48.0,
+              "apm": "58.0/48.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165598,9 +164563,9 @@ const leaderboardData = {
               "average_rank_percent": 5.0,
               "glicko_rating": 1548.9137502366211,
               "key_stats": "Stab:7.1 Resi:0.7",
-              "apm_total": 45.0,
-              "apm_no_auto": 31.5,
-              "apm": "45.0/31.5",
+              "apm_total": 48.0,
+              "apm_no_auto": 35.0,
+              "apm": "48.0/35.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165637,9 +164602,9 @@ const leaderboardData = {
               "average_rank_percent": 9.5,
               "glicko_rating": 1496.5593506997764,
               "key_stats": "Stab:4.5 Resi:0.8",
-              "apm_total": 60.0,
+              "apm_total": 50.0,
               "apm_no_auto": 33.0,
-              "apm": "60.0/33.0",
+              "apm": "50.0/33.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165708,9 +164673,9 @@ const leaderboardData = {
               "average_rank_percent": 3.357142857142857,
               "glicko_rating": 1682.8276607688317,
               "key_stats": "Stab:6.5 Clea:0.7 Resi:0.7",
-              "apm_total": 55.5,
-              "apm_no_auto": 35.25,
-              "apm": "55.5/35.2",
+              "apm_total": 53.25,
+              "apm_no_auto": 39.25,
+              "apm": "53.2/39.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165721,9 +164686,9 @@ const leaderboardData = {
               "average_rank_percent": 8.214285714285714,
               "glicko_rating": 1604.376378376951,
               "key_stats": "Stab:8.3 Clea:1.3 Resi:0.4",
-              "apm_total": 47.0,
-              "apm_no_auto": 35.666666666666664,
-              "apm": "47.0/35.7",
+              "apm_total": 47.333333333333336,
+              "apm_no_auto": 38.0,
+              "apm": "47.3/38.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165747,9 +164712,9 @@ const leaderboardData = {
               "average_rank_percent": 7.386666666666667,
               "glicko_rating": 1587.3293480840923,
               "key_stats": "Stab:6.5 Clea:1.0 Resi:0.4",
-              "apm_total": 47.75,
-              "apm_no_auto": 32.3125,
-              "apm": "47.8/32.3",
+              "apm_total": 47.6875,
+              "apm_no_auto": 33.4375,
+              "apm": "47.7/33.4",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165773,9 +164738,9 @@ const leaderboardData = {
               "average_rank_percent": 6.260869565217392,
               "glicko_rating": 1571.284643313535,
               "key_stats": "Stab:6.6 Clea:0.7 Resi:0.8",
-              "apm_total": 61.0,
-              "apm_no_auto": 34.2,
-              "apm": "61.0/34.2",
+              "apm_total": 64.2,
+              "apm_no_auto": 38.6,
+              "apm": "64.2/38.6",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165799,9 +164764,9 @@ const leaderboardData = {
               "average_rank_percent": 8.793103448275861,
               "glicko_rating": 1542.54073001449,
               "key_stats": "Stab:4.9 Clea:0.9 Resi:0.4",
-              "apm_total": 46.0,
-              "apm_no_auto": 25.428571428571427,
-              "apm": "46.0/25.4",
+              "apm_total": 44.857142857142854,
+              "apm_no_auto": 25.857142857142858,
+              "apm": "44.9/25.9",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165812,9 +164777,9 @@ const leaderboardData = {
               "average_rank_percent": 6.194444444444445,
               "glicko_rating": 1539.2325366045977,
               "key_stats": "Stab:6.5 Clea:0.6 Resi:0.7",
-              "apm_total": 46.25,
-              "apm_no_auto": 27.875,
-              "apm": "46.2/27.9",
+              "apm_total": 49.75,
+              "apm_no_auto": 29.875,
+              "apm": "49.8/29.9",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165864,9 +164829,9 @@ const leaderboardData = {
               "average_rank_percent": 9.142857142857142,
               "glicko_rating": 1521.8122422979097,
               "key_stats": "Stab:5.1 Clea:0.9 Resi:0.5",
-              "apm_total": 44.833333333333336,
-              "apm_no_auto": 17.166666666666668,
-              "apm": "44.8/17.2",
+              "apm_total": 48.166666666666664,
+              "apm_no_auto": 24.0,
+              "apm": "48.2/24.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165929,9 +164894,9 @@ const leaderboardData = {
               "average_rank_percent": 8.6,
               "glicko_rating": 1465.8245492676517,
               "key_stats": "Stab:5.8 Clea:0.8 Resi:0.6",
-              "apm_total": 33.0,
-              "apm_no_auto": 26.5,
-              "apm": "33.0/26.5",
+              "apm_total": 54.5,
+              "apm_no_auto": 46.0,
+              "apm": "54.5/46.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             }
@@ -165955,9 +164920,9 @@ const leaderboardData = {
               "average_rank_percent": 5.083333333333333,
               "glicko_rating": 1770.1873315676203,
               "key_stats": "Stri:1.3 DPS:1879.5",
-              "apm_total": 64.83333333333333,
-              "apm_no_auto": 43.666666666666664,
-              "apm": "64.8/43.7",
+              "apm_total": 65.33333333333333,
+              "apm_no_auto": 47.333333333333336,
+              "apm": "65.3/47.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165968,9 +164933,9 @@ const leaderboardData = {
               "average_rank_percent": 5.8,
               "glicko_rating": 1743.8431361877952,
               "key_stats": "Stri:1.1 DPS:1682.8",
-              "apm_total": 55.2,
-              "apm_no_auto": 36.8,
-              "apm": "55.2/36.8",
+              "apm_total": 55.0,
+              "apm_no_auto": 36.4,
+              "apm": "55.0/36.4",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -165981,9 +164946,9 @@ const leaderboardData = {
               "average_rank_percent": 7.166666666666667,
               "glicko_rating": 1630.142485197937,
               "key_stats": "Stri:0.8 DPS:1412.2",
-              "apm_total": 46.166666666666664,
-              "apm_no_auto": 27.166666666666668,
-              "apm": "46.2/27.2",
+              "apm_total": 44.5,
+              "apm_no_auto": 26.666666666666668,
+              "apm": "44.5/26.7",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166046,9 +165011,9 @@ const leaderboardData = {
               "average_rank_percent": 8.8,
               "glicko_rating": 1570.3832458081783,
               "key_stats": "Stri:0.7 DPS:1269.1",
-              "apm_total": 58.2,
-              "apm_no_auto": 37.4,
-              "apm": "58.2/37.4",
+              "apm_total": 53.9,
+              "apm_no_auto": 32.5,
+              "apm": "53.9/32.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166098,9 +165063,9 @@ const leaderboardData = {
               "average_rank_percent": 9.857142857142858,
               "glicko_rating": 1557.133645984479,
               "key_stats": "Stri:0.6 DPS:1153.7",
-              "apm_total": 57.90909090909091,
-              "apm_no_auto": 30.272727272727273,
-              "apm": "57.9/30.3",
+              "apm_total": 55.27272727272727,
+              "apm_no_auto": 27.09090909090909,
+              "apm": "55.3/27.1",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166124,9 +165089,9 @@ const leaderboardData = {
               "average_rank_percent": 11.25,
               "glicko_rating": 1538.8939932389667,
               "key_stats": "Stri:0.6 DPS:817.5",
-              "apm_total": 46.0,
-              "apm_no_auto": 34.5,
-              "apm": "46.0/34.5",
+              "apm_total": 33.0,
+              "apm_no_auto": 24.5,
+              "apm": "33.0/24.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166163,9 +165128,9 @@ const leaderboardData = {
               "average_rank_percent": 12.333333333333334,
               "glicko_rating": 1528.7716068072432,
               "key_stats": "Stri:0.6 DPS:1138.0",
-              "apm_total": 41.333333333333336,
-              "apm_no_auto": 22.333333333333332,
-              "apm": "41.3/22.3",
+              "apm_total": 41.666666666666664,
+              "apm_no_auto": 23.333333333333332,
+              "apm": "41.7/23.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166189,9 +165154,9 @@ const leaderboardData = {
               "average_rank_percent": 11.0,
               "glicko_rating": 1508.7701264469442,
               "key_stats": "Stri:0.4 DPS:901.7",
-              "apm_total": 48.666666666666664,
-              "apm_no_auto": 22.333333333333332,
-              "apm": "48.7/22.3",
+              "apm_total": 46.333333333333336,
+              "apm_no_auto": 19.22222222222222,
+              "apm": "46.3/19.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166215,9 +165180,9 @@ const leaderboardData = {
               "average_rank_percent": 16.0,
               "glicko_rating": 1472.4487651212435,
               "key_stats": "Stri:0.4 DPS:554.0",
-              "apm_total": 45.857142857142854,
-              "apm_no_auto": 25.142857142857142,
-              "apm": "45.9/25.1",
+              "apm_total": 42.857142857142854,
+              "apm_no_auto": 22.0,
+              "apm": "42.9/22.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166228,9 +165193,9 @@ const leaderboardData = {
               "average_rank_percent": 12.5,
               "glicko_rating": 1463.0842733103125,
               "key_stats": "Stri:0.5 DPS:1418.0",
-              "apm_total": 47.0,
-              "apm_no_auto": 34.0,
-              "apm": "47.0/34.0",
+              "apm_total": 51.0,
+              "apm_no_auto": 25.0,
+              "apm": "51.0/25.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166267,9 +165232,9 @@ const leaderboardData = {
               "average_rank_percent": 9.0,
               "glicko_rating": 1440.6424722209927,
               "key_stats": "Stri:0.5 DPS:897.0",
-              "apm_total": 57.0,
-              "apm_no_auto": 33.0,
-              "apm": "57.0/33.0",
+              "apm_total": 43.0,
+              "apm_no_auto": 24.0,
+              "apm": "43.0/24.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166345,9 +165310,9 @@ const leaderboardData = {
               "average_rank_percent": 3.9302325581395348,
               "glicko_rating": 1755.0633184116518,
               "key_stats": "Heal:1688.4 Clea:1.1",
-              "apm_total": 63.04,
-              "apm_no_auto": 49.96,
-              "apm": "63.0/50.0",
+              "apm_total": 64.68,
+              "apm_no_auto": 51.36,
+              "apm": "64.7/51.4",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166397,9 +165362,9 @@ const leaderboardData = {
               "average_rank_percent": 2.6,
               "glicko_rating": 1705.6717670106127,
               "key_stats": "Heal:2842.1 Clea:1.4",
-              "apm_total": 80.0,
-              "apm_no_auto": 52.666666666666664,
-              "apm": "80.0/52.7",
+              "apm_total": 61.333333333333336,
+              "apm_no_auto": 43.0,
+              "apm": "61.3/43.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166423,9 +165388,9 @@ const leaderboardData = {
               "average_rank_percent": 3.1666666666666665,
               "glicko_rating": 1704.249047937862,
               "key_stats": "Heal:2052.3 Clea:1.2",
-              "apm_total": 84.66666666666667,
-              "apm_no_auto": 63.0,
-              "apm": "84.7/63.0",
+              "apm_total": 75.33333333333333,
+              "apm_no_auto": 52.333333333333336,
+              "apm": "75.3/52.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166436,9 +165401,9 @@ const leaderboardData = {
               "average_rank_percent": 2.0,
               "glicko_rating": 1691.124072058462,
               "key_stats": "Heal:2156.9 Clea:1.6",
-              "apm_total": 70.33333333333333,
-              "apm_no_auto": 50.666666666666664,
-              "apm": "70.3/50.7",
+              "apm_total": 71.0,
+              "apm_no_auto": 53.333333333333336,
+              "apm": "71.0/53.3",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166475,9 +165440,9 @@ const leaderboardData = {
               "average_rank_percent": 5.238095238095238,
               "glicko_rating": 1651.0610404440931,
               "key_stats": "Heal:1450.3 Clea:0.9",
-              "apm_total": 63.0,
-              "apm_no_auto": 48.90909090909091,
-              "apm": "63.0/48.9",
+              "apm_total": 61.27272727272727,
+              "apm_no_auto": 46.54545454545455,
+              "apm": "61.3/46.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166488,9 +165453,9 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "glicko_rating": 1643.5020875227099,
               "key_stats": "Heal:1408.5 Clea:0.6",
-              "apm_total": 25.0,
-              "apm_no_auto": 7.0,
-              "apm": "25.0/7.0",
+              "apm_total": 50.0,
+              "apm_no_auto": 33.0,
+              "apm": "50.0/33.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166514,9 +165479,9 @@ const leaderboardData = {
               "average_rank_percent": 5.1,
               "glicko_rating": 1617.3540254707777,
               "key_stats": "Heal:1587.3 Clea:1.1",
-              "apm_total": 50.8,
-              "apm_no_auto": 40.8,
-              "apm": "50.8/40.8",
+              "apm_total": 59.4,
+              "apm_no_auto": 48.6,
+              "apm": "59.4/48.6",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166527,9 +165492,9 @@ const leaderboardData = {
               "average_rank_percent": 7.333333333333333,
               "glicko_rating": 1583.512235063531,
               "key_stats": "Heal:1486.3 Clea:0.6",
-              "apm_total": 56.666666666666664,
-              "apm_no_auto": 37.833333333333336,
-              "apm": "56.7/37.8",
+              "apm_total": 58.5,
+              "apm_no_auto": 42.5,
+              "apm": "58.5/42.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166605,9 +165570,9 @@ const leaderboardData = {
               "average_rank_percent": 15.8125,
               "glicko_rating": 1548.3964484927392,
               "key_stats": "Stab:6.5 DPS:334.7",
-              "apm_total": 53.916666666666664,
-              "apm_no_auto": 30.5,
-              "apm": "53.9/30.5",
+              "apm_total": 52.458333333333336,
+              "apm_no_auto": 30.0,
+              "apm": "52.5/30.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166618,9 +165583,9 @@ const leaderboardData = {
               "average_rank_percent": 4.0,
               "glicko_rating": 1537.367696601963,
               "key_stats": "Stab:3.0 DPS:1692.0",
-              "apm_total": 35.0,
-              "apm_no_auto": 30.0,
-              "apm": "35.0/30.0",
+              "apm_total": 28.0,
+              "apm_no_auto": 24.0,
+              "apm": "28.0/24.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             }
@@ -166646,9 +165611,9 @@ const leaderboardData = {
               "average_rank_percent": 5.333333333333333,
               "glicko_rating": 1575.0964828381452,
               "key_stats": "Stab:5.9 Clea:0.3 DPS:1205.5",
-              "apm_total": 42.5,
-              "apm_no_auto": 24.5,
-              "apm": "42.5/24.5",
+              "apm_total": 56.5,
+              "apm_no_auto": 37.0,
+              "apm": "56.5/37.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166711,9 +165676,9 @@ const leaderboardData = {
               "average_rank_percent": 11.333333333333334,
               "glicko_rating": 1521.7081673043142,
               "key_stats": "Stab:4.2 Clea:0.6 DPS:955.5",
-              "apm_total": 76.5,
-              "apm_no_auto": 43.0,
-              "apm": "76.5/43.0",
+              "apm_total": 62.0,
+              "apm_no_auto": 25.5,
+              "apm": "62.0/25.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
@@ -166812,26 +165777,28 @@ const leaderboardData = {
         },
         "Support Spb": {
           "metrics": [
+            "Strips",
             "Might",
             "Resistance",
             "Stability",
             "Cleanses"
           ],
           "weights": [
-            0.4,
-            0.3,
-            0.2,
-            0.1
+            0.35,
+            0.26,
+            0.195,
+            0.13,
+            0.065
           ],
           "key_stats_format": "Stats: {}",
           "leaderboard": [
             {
               "account_name": "Solomon Darkfury.3729",
-              "composite_score": 1703.4204462789967,
+              "composite_score": 1661.246507203858,
               "games_played": 8,
-              "average_rank_percent": 6.806451612903226,
-              "glicko_rating": 1703.4204462789967,
-              "key_stats": "Migh:36.6 Resi:1.3 Stab:4.3",
+              "average_rank_percent": 6.230769230769231,
+              "glicko_rating": 1661.246507203858,
+              "key_stats": "Stri:0.6 Migh:36.6 Resi:1.3",
               "apm_total": 65.75,
               "apm_no_auto": 32.5,
               "apm": "65.8/32.5",
@@ -166840,37 +165807,37 @@ const leaderboardData = {
             },
             {
               "account_name": "Pieswithattitude.2357",
-              "composite_score": 1688.345124071856,
+              "composite_score": 1648.4693160786076,
               "games_played": 2,
-              "average_rank_percent": 4.125,
-              "glicko_rating": 1688.345124071856,
-              "key_stats": "Migh:24.9 Resi:1.4 Stab:6.8",
-              "apm_total": 90.0,
-              "apm_no_auto": 60.0,
-              "apm": "90.0/60.0",
+              "average_rank_percent": 3.9,
+              "glicko_rating": 1648.4693160786076,
+              "key_stats": "Stri:0.7 Migh:24.9 Resi:1.4",
+              "apm_total": 84.0,
+              "apm_no_auto": 60.5,
+              "apm": "84.0/60.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "OPness.3215",
-              "composite_score": 1674.3080886519465,
+              "composite_score": 1605.0142874824514,
               "games_played": 9,
-              "average_rank_percent": 9.88888888888889,
-              "glicko_rating": 1674.3080886519465,
-              "key_stats": "Migh:34.7 Resi:0.9 Stab:2.9",
-              "apm_total": 51.888888888888886,
-              "apm_no_auto": 33.888888888888886,
-              "apm": "51.9/33.9",
+              "average_rank_percent": 9.222222222222221,
+              "glicko_rating": 1605.0142874824514,
+              "key_stats": "Stri:0.4 Migh:34.7 Resi:0.9",
+              "apm_total": 50.0,
+              "apm_no_auto": 32.22222222222222,
+              "apm": "50.0/32.2",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "ParaldaWind.4523",
-              "composite_score": 1641.9592076270906,
+              "composite_score": 1589.891999521922,
               "games_played": 5,
-              "average_rank_percent": 7.2631578947368425,
-              "glicko_rating": 1641.9592076270906,
-              "key_stats": "Migh:30.3 Resi:1.1 Stab:3.3",
+              "average_rank_percent": 7.041666666666667,
+              "glicko_rating": 1589.891999521922,
+              "key_stats": "Stri:0.6 Migh:30.3 Resi:1.1",
               "apm_total": 65.4,
               "apm_no_auto": 27.0,
               "apm": "65.4/27.0",
@@ -166878,116 +165845,51 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "Havocus.3682",
-              "composite_score": 1602.0937055714783,
-              "games_played": 2,
-              "average_rank_percent": 8.5,
-              "glicko_rating": 1602.0937055714783,
-              "key_stats": "Migh:14.0 Resi:1.2 Stab:3.1",
-              "apm_total": 44.0,
-              "apm_no_auto": 33.5,
-              "apm": "44.0/33.5",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
               "account_name": "synco.8132",
-              "composite_score": 1598.2171280577643,
+              "composite_score": 1585.7132395426624,
               "games_played": 4,
-              "average_rank_percent": 7.4375,
-              "glicko_rating": 1598.2171280577643,
-              "key_stats": "Migh:13.0 Resi:0.9 Stab:3.1",
-              "apm_total": 49.5,
-              "apm_no_auto": 34.25,
-              "apm": "49.5/34.2",
+              "average_rank_percent": 7.2105263157894735,
+              "glicko_rating": 1585.7132395426624,
+              "key_stats": "Stri:0.7 Migh:13.0 Resi:0.9",
+              "apm_total": 52.0,
+              "apm_no_auto": 37.75,
+              "apm": "52.0/37.8",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "mikefmc.5961",
-              "composite_score": 1583.1222696566256,
+              "composite_score": 1570.381051876724,
               "games_played": 3,
-              "average_rank_percent": 6.9,
-              "glicko_rating": 1583.1222696566256,
-              "key_stats": "Migh:12.7 Resi:0.8 Stab:2.1",
-              "apm_total": 37.666666666666664,
-              "apm_no_auto": 24.333333333333332,
-              "apm": "37.7/24.3",
+              "average_rank_percent": 6.583333333333333,
+              "glicko_rating": 1570.381051876724,
+              "key_stats": "Stri:0.2 Migh:12.7 Resi:0.8",
+              "apm_total": 40.333333333333336,
+              "apm_no_auto": 22.0,
+              "apm": "40.3/22.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
-              "account_name": "Argo.2675",
-              "composite_score": 1574.7082212756925,
-              "games_played": 1,
-              "average_rank_percent": 9.25,
-              "glicko_rating": 1574.7082212756925,
-              "key_stats": "Migh:15.1 Resi:1.0 Stab:2.7",
-              "apm_total": 47.0,
-              "apm_no_auto": 36.0,
-              "apm": "47.0/36.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "LilJoker.2658",
-              "composite_score": 1573.413984159074,
-              "games_played": 1,
-              "average_rank_percent": 7.25,
-              "glicko_rating": 1573.413984159074,
-              "key_stats": "Migh:16.0 Resi:1.5 Stab:5.2",
-              "apm_total": 73.0,
-              "apm_no_auto": 44.0,
-              "apm": "73.0/44.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Uriah.7082",
-              "composite_score": 1560.8095990449003,
-              "games_played": 1,
-              "average_rank_percent": 6.5,
-              "glicko_rating": 1560.8095990449003,
-              "key_stats": "Migh:14.2 Resi:1.1 Stab:5.1",
-              "apm_total": 71.0,
-              "apm_no_auto": 37.0,
-              "apm": "71.0/37.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Smile.9284",
-              "composite_score": 1531.672599106478,
-              "games_played": 1,
-              "average_rank_percent": 10.0,
-              "glicko_rating": 1531.672599106478,
-              "key_stats": "Migh:26.4 Resi:0.8 Stab:2.3",
-              "apm_total": 46.0,
-              "apm_no_auto": 25.0,
-              "apm": "46.0/25.0",
-              "is_guild_member": true,
-              "rating_delta": 0.0
-            },
-            {
-              "account_name": "Coileddarknight.9528",
-              "composite_score": 1520.110175249179,
-              "games_played": 3,
-              "average_rank_percent": 10.666666666666666,
-              "glicko_rating": 1520.110175249179,
-              "key_stats": "Migh:8.4 Resi:0.9 Stab:3.4",
-              "apm_total": 63.0,
-              "apm_no_auto": 22.666666666666668,
-              "apm": "63.0/22.7",
+              "account_name": "Havocus.3682",
+              "composite_score": 1555.5959740150765,
+              "games_played": 2,
+              "average_rank_percent": 8.9,
+              "glicko_rating": 1555.5959740150765,
+              "key_stats": "Stri:0.6 Migh:14.0 Resi:1.2",
+              "apm_total": 52.5,
+              "apm_no_auto": 37.5,
+              "apm": "52.5/37.5",
               "is_guild_member": true,
               "rating_delta": 0.0
             },
             {
               "account_name": "Nero.6195",
-              "composite_score": 1514.7947964285368,
+              "composite_score": 1552.932480874827,
               "games_played": 1,
-              "average_rank_percent": 4.0,
-              "glicko_rating": 1514.7947964285368,
-              "key_stats": "Migh:12.2 Resi:1.2 Stab:4.8",
+              "average_rank_percent": 3.4,
+              "glicko_rating": 1552.932480874827,
+              "key_stats": "Stri:0.8 Migh:12.2 Resi:1.2",
               "apm_total": 76.0,
               "apm_no_auto": 45.0,
               "apm": "76.0/45.0",
@@ -166995,15 +165897,80 @@ const leaderboardData = {
               "rating_delta": 0.0
             },
             {
-              "account_name": "Nictheman.9754",
-              "composite_score": 1490.1583953434326,
+              "account_name": "LilJoker.2658",
+              "composite_score": 1546.1569444441507,
               "games_played": 1,
-              "average_rank_percent": 10.25,
-              "glicko_rating": 1490.1583953434326,
-              "key_stats": "Migh:6.4 Resi:0.6 Stab:3.0",
-              "apm_total": 58.0,
-              "apm_no_auto": 53.0,
-              "apm": "58.0/53.0",
+              "average_rank_percent": 7.0,
+              "glicko_rating": 1546.1569444441507,
+              "key_stats": "Stri:0.7 Migh:16.0 Resi:1.5",
+              "apm_total": 73.0,
+              "apm_no_auto": 44.0,
+              "apm": "73.0/44.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Nictheman.9754",
+              "composite_score": 1545.5531295632193,
+              "games_played": 1,
+              "average_rank_percent": 8.4,
+              "glicko_rating": 1545.5531295632193,
+              "key_stats": "Stri:0.6 Migh:6.4 Resi:0.6",
+              "apm_total": 38.0,
+              "apm_no_auto": 36.0,
+              "apm": "38.0/36.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Argo.2675",
+              "composite_score": 1541.1130486013517,
+              "games_played": 1,
+              "average_rank_percent": 9.8,
+              "glicko_rating": 1541.1130486013517,
+              "key_stats": "Stri:0.5 Migh:15.1 Resi:1.0",
+              "apm_total": 47.0,
+              "apm_no_auto": 36.0,
+              "apm": "47.0/36.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Uriah.7082",
+              "composite_score": 1520.390963245205,
+              "games_played": 1,
+              "average_rank_percent": 6.4,
+              "glicko_rating": 1520.390963245205,
+              "key_stats": "Stri:0.4 Migh:14.2 Resi:1.1",
+              "apm_total": 71.0,
+              "apm_no_auto": 37.0,
+              "apm": "71.0/37.0",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Coileddarknight.9528",
+              "composite_score": 1501.605360448088,
+              "games_played": 3,
+              "average_rank_percent": 10.066666666666666,
+              "glicko_rating": 1501.605360448088,
+              "key_stats": "Stri:0.4 Migh:8.4 Resi:0.9",
+              "apm_total": 63.0,
+              "apm_no_auto": 22.666666666666668,
+              "apm": "63.0/22.7",
+              "is_guild_member": true,
+              "rating_delta": 0.0
+            },
+            {
+              "account_name": "Smile.9284",
+              "composite_score": 1489.9854138998585,
+              "games_played": 1,
+              "average_rank_percent": 9.8,
+              "glicko_rating": 1489.9854138998585,
+              "key_stats": "Stri:0.4 Migh:26.4 Resi:0.8",
+              "apm_total": 46.0,
+              "apm_no_auto": 25.0,
+              "apm": "46.0/25.0",
               "is_guild_member": true,
               "rating_delta": 0.0
             }
