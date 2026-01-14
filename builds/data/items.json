@@ -3377,13 +3377,7 @@
     "restrictions": [],
     "id": 105652,
     "chat_link": "[&AgG0nAEA]",
-    "icon": "https://render.guildwars2.com/file/349EA123E7D870C4199AB268250973FAEC0ADC94/3709379.png",
-    "pvp": {
-      "description": "Healing to other allies is increased by 20% while they are below the health threshold."
-    },
-    "wvw": {
-      "description": "Healing to other allies is increased by 20% while they are below the health threshold."
-    }
+    "icon": "https://render.guildwars2.com/file/349EA123E7D870C4199AB268250973FAEC0ADC94/3709379.png"
   },
   {
     "name": "Relic of Cerus",
@@ -3723,7 +3717,10 @@
     "rarity": "Legendary",
     "vendor_value": 640,
     "game_types": [
-      "Wvw"
+      "Activity",
+      "Wvw",
+      "Dungeon",
+      "Pve"
     ],
     "flags": [
       "AccountBound",
