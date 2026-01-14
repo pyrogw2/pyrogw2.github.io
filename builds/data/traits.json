@@ -98071,7 +98071,7 @@
           "text": "Apply Buff/Condition",
           "type": "PrefixedBuff",
           "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-          "duration": 2,
+          "duration": 6,
           "status": "Quickness",
           "description": "Skills and actions are faster.",
           "apply_count": 1,
@@ -98116,36 +98116,6 @@
           "text": "Apply Buff/Condition",
           "type": "PrefixedBuff",
           "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-          "duration": 6,
-          "status": "Might",
-          "description": "Increased outgoing damage; stacks intensity.",
-          "apply_count": 3,
-          "prefix": {
-            "text": "Apply Buff/Condition",
-            "icon": "https://render.guildwars2.com/file/4CAA3750145A55B7E73D5EB9917590EC45657BE7/3680159.png",
-            "status": "Lively Lute",
-            "description": "<c=@abilitytype>Instrument.</c> Perform with your lute, sending out damaging sound waves toward an enemy and healing tones toward allies.<br>The lute will then consume all notes to continue playing in the background. The lute's duration is extended for each note consumed."
-          }
-        },
-        {
-          "text": "Apply Buff/Condition",
-          "type": "PrefixedBuff",
-          "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-          "duration": 2,
-          "status": "Quickness",
-          "description": "Skills and actions are faster.",
-          "apply_count": 1,
-          "prefix": {
-            "text": "Apply Buff/Condition",
-            "icon": "https://render.guildwars2.com/file/935C32505D1F4DB7D9739C2C4B4137D4346709A4/3680163.png",
-            "status": "Crescendo",
-            "description": "Strike up the band and unleash a wave of sonic magic. Instruments playing in the background contribute to the amplitude, increasing the strength of the wave.<br><c=@reminder>This skill's recharge cannot be reset by other mesmer skills.</c>"
-          }
-        },
-        {
-          "text": "Apply Buff/Condition",
-          "type": "PrefixedBuff",
-          "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
           "duration": 15,
           "status": "Might",
           "description": "Increased outgoing damage; stacks intensity.",
@@ -98179,51 +98149,6 @@
           "duration": 2,
           "status": "Quickness",
           "description": "Skills and actions are faster.",
-          "apply_count": 1,
-          "prefix": {
-            "text": "Apply Buff/Condition",
-            "icon": "https://render.guildwars2.com/file/935C32505D1F4DB7D9739C2C4B4137D4346709A4/3680163.png",
-            "status": "Crescendo",
-            "description": "Strike up the band and unleash a wave of sonic magic. Instruments playing in the background contribute to the amplitude, increasing the strength of the wave.<br><c=@reminder>This skill's recharge cannot be reset by other mesmer skills.</c>"
-          }
-        },
-        {
-          "text": "Apply Buff/Condition",
-          "type": "PrefixedBuff",
-          "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-          "duration": 2,
-          "status": "Quickness",
-          "description": "Skills and actions are faster.",
-          "apply_count": 1,
-          "prefix": {
-            "text": "Apply Buff/Condition",
-            "icon": "https://render.guildwars2.com/file/935C32505D1F4DB7D9739C2C4B4137D4346709A4/3680163.png",
-            "status": "Crescendo",
-            "description": "Strike up the band and unleash a wave of sonic magic. Instruments playing in the background contribute to the amplitude, increasing the strength of the wave.<br><c=@reminder>This skill's recharge cannot be reset by other mesmer skills.</c>"
-          }
-        },
-        {
-          "text": "Apply Buff/Condition",
-          "type": "PrefixedBuff",
-          "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-          "duration": 8,
-          "status": "Might",
-          "description": "Increased outgoing damage; stacks intensity.",
-          "apply_count": 5,
-          "prefix": {
-            "text": "Apply Buff/Condition",
-            "icon": "https://render.guildwars2.com/file/935C32505D1F4DB7D9739C2C4B4137D4346709A4/3680163.png",
-            "status": "Crescendo",
-            "description": "Strike up the band and unleash a wave of sonic magic. Instruments playing in the background contribute to the amplitude, increasing the strength of the wave.<br><c=@reminder>This skill's recharge cannot be reset by other mesmer skills.</c>"
-          }
-        },
-        {
-          "text": "Apply Buff/Condition",
-          "type": "PrefixedBuff",
-          "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
-          "duration": 4,
-          "status": "Fury",
-          "description": "Critical chance increased; stacks duration.",
           "apply_count": 1,
           "prefix": {
             "text": "Apply Buff/Condition",
@@ -112307,12 +112232,6 @@
     },
     "wvw": {
       "facts": [
-        {
-          "text": "Recharge Time Reduced",
-          "type": "Time",
-          "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
-          "duration": 4
-        },
         {
           "text": "Recharge Time Reduced",
           "type": "Time",
